@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>rosario-corto.bcf</file>
+      <file>rosario.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>rosario-corto.bbl</file>
+      <file>rosario.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -64,22 +64,22 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>rosario-corto</infile>
+      <infile>rosario</infile>
     </cmdline>
     <input>
-      <file>rosario-corto.bcf</file>
+      <file>rosario.bcf</file>
     </input>
     <output>
-      <file>rosario-corto.bbl</file>
+      <file>rosario.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>rosario-corto.bbl</file>
+      <file>rosario.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>rosario-corto.bcf</file>
+      <file>rosario.bcf</file>
     </requires>
     <requires type="editable">
-      <file>books.bib</file>
+      <file>../books.bib</file>
     </requires>
   </external>
 </requests>
