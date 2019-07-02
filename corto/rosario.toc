@@ -25,7 +25,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{La Natividad de Nuestro Se\IeC {\~n}or Jesucristo}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{La Presentaci\IeC {\'o}n del Ni\IeC {\~n}o Jes\IeC {\'u}s en el Templo}{5}
+\contentsline {subsection}{La Presentaci\IeC {\'o}n del Ni\IeC {\~n}o Jes\IeC {\'u}s en el Templo}{6}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{La P\IeC {\'e}rdida y Hallazgo del Ni\IeC {\~n}o Jes\IeC {\'u}s en el Templo}{6}
 \defcounter {refsection}{0}\relax 
@@ -39,20 +39,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{Jes\IeC {\'u}s con la Cruz a cuestas}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{La Crucifixi\IeC {\'o}n y Muerte del Redentor}{7}
+\contentsline {subsection}{La Crucifixi\IeC {\'o}n y Muerte del Redentor}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Miserios Gloriosos {Mi\IeC {\'e}rcoles, S\IeC {\'a}bados y Domingos}}{7}
+\contentsline {section}{Miserios Gloriosos (Mi\IeC {\'e}rcoles, S\IeC {\'a}bados y Domingos)}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{La Resurecci\IeC {\'o}n del Se\IeC {\~n}or}{7}
+\contentsline {subsection}{La Resurecci\IeC {\'o}n del Se\IeC {\~n}or}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{La Ascensi\IeC {\'o}n de Jesucristo a los cielos}{7}
+\contentsline {subsection}{La Ascensi\IeC {\'o}n de Jesucristo a los cielos}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{La Venida del Esp\IeC {\'\i }ritu Santo sobre los Ap\IeC {\'o}stoles}{7}
+\contentsline {subsection}{La Venida del Esp\IeC {\'\i }ritu Santo sobre los Ap\IeC {\'o}stoles}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{La Asunci\IeC {\'o}n de Nuestra Se\IeC {\~n}ora a los cielos}{7}
+\contentsline {subsection}{La Asunci\IeC {\'o}n de Nuestra Se\IeC {\~n}ora a los cielos}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{La Coronaci\IeC {\'o}n de la Sant\IeC {\'\i }sima Virgen Mar\IeC {\'\i }a}{7}
+\contentsline {subsection}{La Coronaci\IeC {\'o}n de la Sant\IeC {\'\i }sima Virgen Mar\IeC {\'\i }a}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Letan\IeC {\'\i }as lauretanas}{7}
+\contentsline {section}{Letan\IeC {\'\i }as lauretanas}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Novenas}{8}
+\contentsline {chapter}{Novenas}{10}
