@@ -1974,12 +1974,13 @@
     <bcf:datasource type="file" datatype="bibtex">../books.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1">frater:oraciones</bcf:citekey>
     <bcf:citekey order="2">frater:oraciones</bcf:citekey>
     <bcf:citekey order="3">frater:oraciones</bcf:citekey>
     <bcf:citekey order="4">frater:oraciones</bcf:citekey>
     <bcf:citekey order="5">frater:oraciones</bcf:citekey>
     <bcf:citekey order="6">frater:oraciones</bcf:citekey>
-    <bcf:citekey order="7">frater:oraciones</bcf:citekey>
+    <bcf:citekey order="7">bover-cantera</bcf:citekey>
     <bcf:citekey order="8">bover-cantera</bcf:citekey>
     <bcf:citekey order="9">bover-cantera</bcf:citekey>
     <bcf:citekey order="10">bover-cantera</bcf:citekey>
@@ -1991,6 +1992,12 @@
     <bcf:citekey order="16">bover-cantera</bcf:citekey>
     <bcf:citekey order="17">bover-cantera</bcf:citekey>
     <bcf:citekey order="18">bover-cantera</bcf:citekey>
+    <bcf:citekey order="19">bover-cantera</bcf:citekey>
+    <bcf:citekey order="20">bover-cantera</bcf:citekey>
+    <bcf:citekey order="21">bover-cantera</bcf:citekey>
+    <bcf:citekey order="22">bover-cantera</bcf:citekey>
+    <bcf:citekey order="23">bover-cantera</bcf:citekey>
+    <bcf:citekey order="24">bover-cantera</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

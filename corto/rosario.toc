@@ -3,7 +3,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Oraciones}{2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{La Se\IeC {\~n}al de la Cruz\cite {frater:oraciones}}{2}
+\contentsline {section}{La Se\IeC {\~n}al de la Cruz}{2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Oraci\IeC {\'o}n Dominical (Padrenuestro)}{2}
 \defcounter {refsection}{0}\relax 
@@ -45,14 +45,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{La Resurecci\IeC {\'o}n del Se\IeC {\~n}or}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{La Ascensi\IeC {\'o}n de Jesucristo a los cielos}{8}
+\contentsline {subsection}{La Ascensi\IeC {\'o}n de Jesucristo a los cielos}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{La Venida del Esp\IeC {\'\i }ritu Santo sobre los Ap\IeC {\'o}stoles}{8}
+\contentsline {subsection}{La Venida del Esp\IeC {\'\i }ritu Santo sobre los Ap\IeC {\'o}stoles}{9}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{La Asunci\IeC {\'o}n de Nuestra Se\IeC {\~n}ora a los cielos}{9}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{La Coronaci\IeC {\'o}n de la Sant\IeC {\'\i }sima Virgen Mar\IeC {\'\i }a}{9}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Letan\IeC {\'\i }as lauretanas}{9}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Novenas}{10}
