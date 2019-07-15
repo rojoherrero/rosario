@@ -53,10 +53,10 @@ y a todos los Santos, que roguéis por mi a Dios Nuestro Señor.
 R. El Señor omnipotente tenga piedad de nosotros y, perdonados nuestros pecados, nos lleve a la vida eterna. Amén.  
 V. El Señor omnipotente y misericordioso nos conceda la indulgencia, la absolución y el perdón de nuestros pecados. Amén.
 
-_Confíteor Deo omnipoténti, beátæ Maríæ Virigini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis
-Petro et Paulo, et omníbus Sanctis, quia peccávi nimis, cogitatióne et ópere, mea culpa, mea culpa, mea máxima culpa. Ideo precor
-beátam Maríam semper Virgínem, beátum Michaélem Archángelum, beátum Joánnem Bastístam, sanctis Apóstolos Petrum et Paolum, et omnes
-Sanctos, oráre pro me ad Dóminum Deum nostrum.  
+_Confíteor Deo omnipoténti, beátæ Maríæ semper Virigini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis
+Petro et Paulo, ómníbus Sanctis et tibi, pater, quia peccávi nimis, cogitatióne et ópere, mea culpa, mea culpa, mea máxima culpa. Ideo precor
+beátam Maríam semper Virgínem, beátum Michaélem Archángelum, beátum Joánnem Bastístam, sanctis Apóstolos Petrum et Paolum, omnes
+Sanctos, et te, pater, oráre pro me ad Dóminum Deum nostrum.  
 R. Misereátur nostri omnipotens Deus, et dimissis pecátis nostris, perdúcat nos ad vitam ætérnam. Amen.  
 V. Indulgéntiam, absolutiónem, et remissiónem pecatórum nostrórum, tribuat nobis omnipotens et miséricors Dóminus. Amen._
 
