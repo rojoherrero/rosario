@@ -1,12 +1,7 @@
----
-title:
-- type: main
-  text: Santo Rosario
+title: Santo Rosario
 creator:
-- role: author
-  text: Sergio Rojo Herrero
+- Sergio Rojo Herrero
 date: Julio 2019
-output:
-  html_document:
-    toc: no
-...
+pagetitle: Santo Rosario
+documentclass: report
+papersize: a4

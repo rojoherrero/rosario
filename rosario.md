@@ -1,3 +1,12 @@
+---
+title: "Santo Rosario"
+author: "Sergio Rojo Herrero"
+date: "Julio 2019"
+keywords: [Santo Rosario, Catolicismo]
+documentclass: report
+papersize: a4
+...
+
 ## La señal de la Cruz
 
 En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.
