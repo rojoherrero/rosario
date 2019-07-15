@@ -1,0 +1,12 @@
+---
+title:
+- type: main
+  text: Santo Rosario
+creator:
+- role: author
+  text: Sergio Rojo Herrero
+date: Julio 2019
+output:
+  html_document:
+    toc: no
+...
