@@ -7,3 +7,6 @@
 *.fdb_latexmk
 *.bbl
 *.blg
+
+.vscode
+*.epub
