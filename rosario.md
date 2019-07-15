@@ -5,6 +5,7 @@ date: "Julio 2019"
 keywords: [Santo Rosario, Catolicismo]
 documentclass: report
 papersize: a4
+header-includes: <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 ...
 
 ## La señal de la Cruz
@@ -269,43 +270,43 @@ ___
 
 _Paternoster_
 
-1. 
+1. Lucas 2, 22
 
 _Avemaría_
 
-2.
+2. Sal 24,7
 
 _Avemaría_
 
-3.
+3. Lc. 2, 25
 
 _Avemaría_
 
-4.
+4. Lc. 2, 26
 
 _Avemaría_
 
-5.
+5. Lc. 2, 27-28
 
 _Avemaría_
 
-6.
+6. Lc. 2, 29-32
 
 _Avemaría_
 
-7.
+7. Is 49,6
 
 _Avemaría_
 
-8.
+8. Sal 132,8
 
 _Avemaría_
 
-9.
+9. Dan 7,13
 
 _Avemaría_
 
-10.
+10. Gn 27,27
 
 _Avemaría_  
 _Gloria Patri_
@@ -327,43 +328,43 @@ ___
 
 _Paternoster_
 
-1. 
+1. Lc 2,42-43
 
 _Avemaría_
 
-2.
+2. Lc 2,46
 
 _Avemaría_
 
-3.
+3. Lc 2,48
 
 _Avemaría_
 
-4.
+4. Lc 2,49-50
 
 _Avemaría_
 
-5.
+5. Sal 27,4
 
 _Avemaría_
 
-6.
+6. 2 Mac 3,30
 
 _Avemaría_
 
-7.
+7. Dt 33,27
 
 _Avemaría_
 
-8.
+8. Sal 48,1, 3
 
 _Avemaría_
 
-9.
+9. Sal 87,1-2
 
 _Avemaría_
 
-10.
+10. Ap 21,2
 
 _Avemaría_  
 _Gloria Patri_
@@ -393,7 +394,7 @@ _Paternoster_
 
 _Avemaría_
 
-2.
+2. 
 
 _Avemaría_
 
