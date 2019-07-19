@@ -131,7 +131,7 @@ _Avemaría_
 10. Dijo María: «He aquí la esclava del Señor; hágase en mi según tu palabra». Y se retiró de ella el ángel (Lc 1,38).
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
@@ -195,7 +195,7 @@ _Avemaría_
 10. Yahveh ha desnudado su santo brazo a los ojos de todos los pueblos, y todos los confines de la tierra verán la salvación de nuestro Dios (Is 52,10).
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
@@ -252,7 +252,7 @@ _Avemaría_
 10. Y les dijo el ángel: «no temáis, pues he aquí que os traigo una buena nueva, que será de grande alegría para todo el pueblo: que os ha nacido hoy en la ciudad de David un Salvador, que es el Mesías, el Señor» (Lc 2,10-11).
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
@@ -260,9 +260,9 @@ ___
 necesitadas
 
 ### La Presentación del Niño Jesús en el Templo
-Y cuando se les cunplieron los días de la purificación según la ley de Moisés\footnote{Levítico 12, 6}, le subieron a Jerusalen para presentarle al Señor, según está escrito
-en la Ley del Señor que «todo primogénito del sexo masculino será consagrado al Señor\footnote{Éxodo 13, 2; 12, 15}», y para ofrecer como sacrificio, según lo que 
-se ordena en la Ley del Señor, «un par de tórtolas o dos palominos\footnote{Levítico 12, 8; 5, 11}». Lucas 2, 22-24.
+Y cuando se les cunplieron los días de la purificación según la ley de Moisés^[Levítico 12, 6], le subieron a Jerusalen para presentarle al Señor, según está escrito
+en la Ley del Señor que «todo primogénito del sexo masculino será consagrado al Señor^[Éxodo 13, 2; 12, 15]», y para ofrecer como sacrificio, según lo que 
+se ordena en la Ley del Señor, «un par de tórtolas o dos palominos^[Levítico 12, 8; 5, 11]». Lucas 2, 22-24.
 
 1 Paternoster, 10 Avemarías y 1 Gloria
 
@@ -309,7 +309,7 @@ _Avemaría_
 10. Gn 27,27
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
@@ -367,7 +367,7 @@ _Avemaría_
 10. Ap 21,2
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
@@ -390,52 +390,51 @@ ___
 
 _Paternoster_
 
-1. 
+1. Ec 2,1
 
 _Avemaría_
 
-2. 
+2. Sal 55,4-5
 
 _Avemaría_
 
-3.
+3. Mt. 26; 36, 37
 
 _Avemaría_
 
-4.
+4. Mt. 26, 38
 
 _Avemaría_
 
-5.
+5. Mc. 14, 35
 
 _Avemaría_
 
-6.
+6. Lc. 22, 42-44
 
 _Avemaría_
 
-7.
+7. Mt. 26, 40-41
 
 _Avemaría_
 
-8.
+8. Lc 22, 47
 
 _Avemaría_
 
-9.
+9. Lc. 22, 48
 
 _Avemaría_
 
-10.
+10. Sal 40,7-8
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
-necesitadas
+¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
 ### La flagelación de Nuestro Señor Jesucristo
 Entonces, pues, tomó Pilato a Jesús y le azotó. Juan 19, 1.
@@ -449,104 +448,103 @@ ___
 
 _Paternoster_
 
-1. 
+1. Lm 1,12
 
 _Avemaría_
 
-2.
+2. Is. 53, 4
 
 _Avemaría_
 
-3.
+3. Jn. 18, 33-35
 
 _Avemaría_
 
-4.
+4. Jn. 18, 36
 
 _Avemaría_
 
-5.
+5. Jn. 18, 37-38
 
 _Avemaría_
 
-6.
+6. Jn. 19, 1
 
 _Avemaría_
 
-7.
+7. Sal 129,3
 
 _Avemaría_
 
-8.
+8. Lm 3,1-3
 
 _Avemaría_
 
-9.
+9. Sir 2,5
 
 _Avemaría_
 
-10.
+10. Is. 53, 5
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
-necesitadas
+¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
 ### La coronación de espinas de Nuestro Señor Jesucristo
 
-Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana, y trenzando una corona de espinas, la pusieron sobre su cabeza, y una
-caña en su mano derecha; y doblando la rodilla delante de Él, le mofaban, diciendo: «Salud, Rey de los judíos». Mateo 27, 28-31.
+Entonces los soldados del gobernador, tomando a Jesús y conduciéndole al pretorio, reunieron en torno a Él toda la cohorte. Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana, y trenzando una corona de espinas, la pusieron sobre su cabeza, y una caña en su mano derecha; y doblando la rodilla delante de Él, le mofaban, diciendo: «Salud, Rey de los judíos». Y escupiendo en Él, tomaron la caña y le daban golpes en la cabeza Mateo 27, 27-30.
 
 1 Paternoster, 10 Avemarías y 1 Gloria
 
 ___
 
+
 _Paternoster_
 
-1. 
+1. Is 53,2
 
 _Avemaría_
 
-2.
+2. Is 53,3
 
 _Avemaría_
 
-3.
+3. Entonces los soldados del gobernador, tomando a Jesús y conduciéndole al pretorio, reunieron en torno a Él toda la cohorte. Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana. Mateo 27, 27-28.
 
 _Avemaría_
 
-4.
+4. y trenzando una corona de espinas, la pusieron sobre su cabeza, y una caña en su mano derecha; y doblando la rodilla delante de Él, le mofaban, diciendo: «Salud, Rey de los judíos». Y escupiendo en Él, tomaron la caña y le daban golpes en la cabeza. Mateo 27, 29-30.
 
 _Avemaría_
 
-5.
+5. Ec 3,18
 
 _Avemaría_
 
-6.
+6. Juan 19, 11
 
 _Avemaría_
 
-7.
+7. Juan 19, 112
 
 _Avemaría_
 
-8.
+8. Juan 19, 14
 
 _Avemaría_
 
-9.
+9. Juan 19, 15
 
 _Avemaría_
 
-10.
+10. Ec 2,5
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
@@ -555,9 +553,10 @@ ___
 necesitadas
 
 ### Jesús con la Cruz a cuestas
-Gritaron, pues, ellos: «Quita, quita, crucifícale». Díceles Pilato: «¿A vuestro rey voy he de crucificar?». Respondieron los pontífices: «No tenemos rey,
-sino César». Entonces, pues, se le entregó para que fuera crucificando. Se apoderaron, pues, de Jesús, y llevándo a cuestas su cruz, salió hacia el lugar
-llamado el Cráneo, que en hebreo se dice Gólgota... Juan 19, 15-17.
+
+Entonces, pues, se le entregó para que fuera crucificando. Se apoderaron, pues, de Jesús, y llevándo a cuestas su cruz, salió hacia el lugar
+llamado el Cráneo, que en hebreo se dice Gólgota... Juan 19, 16-17.\
+Lucas. 23, 26
 
 1 Paternoster, 10 Avemarías y 1 Gloria
 
@@ -565,7 +564,7 @@ ___
 
 _Paternoster_
 
-1. 
+1. Lm 4,1
 
 _Avemaría_
 
@@ -604,7 +603,7 @@ _Avemaría_
 10.
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
@@ -665,7 +664,7 @@ _Avemaría_
 10.
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
@@ -731,7 +730,7 @@ _Avemaría_
 10.
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
@@ -790,7 +789,7 @@ _Avemaría_
 10.
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
@@ -849,7 +848,7 @@ _Avemaría_
 10.
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
@@ -908,7 +907,7 @@ _Avemaría_
 10.
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
@@ -969,7 +968,7 @@ _Avemaría_
 10.
 
 _Avemaría_  
-_Gloria Patri_
+_Gloria_
 
 ___
 
