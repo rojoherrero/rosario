@@ -14,7 +14,7 @@ En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.
 
 _In Nómine Pátris, et Filii, et Spíritus Sancti. Amen._
 
-## Oración Dominical (Padrenuestro)
+## Padrenuestro (Oración Dominical)
 
 Padre Nuestro que estás en los cielos, santificado sea tu Nombre. Venga a nosotros tu Reino. Hágase tu voluntad, así en la tierra como
 en el cielo. El pan nuestro de cada día dánosle hoy. Y perdónamos nuestras deuda, así como nosotros perdonamos a nuestros deudores.
@@ -24,26 +24,13 @@ _Pater noster, qui es in cœlis, sanctifificétur nomen tuum. Advéniat regnum t
 Panem nóstrum quotidiánum da nobis hódie. Et dimite nosbis debita nostra, sicut et nos dimittimus debitóribus nostris. Et ne nos indúcas
 in tentatiónem: sed libera nos a malo. Amen._
 
-## Salutación Evangélica (Avemaría)
+## Avemaría (Salutación Evangélica)
 
 Dios de salve, María, llena eres de gracia, el Señor es contigo; dendita eres entre todas las mujeres, y bendito es el fruto de tu
 vientre, Jeeús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahora u en el hora de nuestra muerte. Amén.
 
 _Ave María, grátia plena, Dóminus tecum; benedicta tu in muliéribus, et benedictum fructus ventris tui, Jesus.
 Sancta Maria, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostræ. Amen._
-
-## Símbolo de los Apóstoles (Credo Apostólico)
-
-Creo en Dios, Padre todopoderoso. Creador del cielo y de la tierra. Y en Jesucristo, su único Hijo, Nuestro Señor, que fue concebido por
-obra y gracia del Espíritu Santo; nació de Santa María Vírgen; padeció bajo el poder de Poncio Pilato, fue crucificado, muerto y sepultado;
-descendió a los infiernos; al tercer día resucitó de entre los muertos; subió a los cielos, está sentado a la derecha de Dios Padre todopoderoso;
-desde allí ha de venir a juzgar a vivos y muertos. Creo en el Espíritu Santo, la Santa Iglesia Católica, la comunión de los Santos, el perdón
-de los pecados, la resurección de la carne y la vida eterna. Amén.
-
-_Credo in Deum, Patrem omnipoténtem. Creatórem cœli et terræ. Et in Jesum CHristum, Filium ejus únicum, Dóminum nostrum; qui concéptus
-est de Spíritu Sancto; natus ex María Virgine; passus sub Póntio Pilato, crucifíxus, mortuus et sepúltus: descéndit ad inferos; tértia die resurréxit
-a mórtuis: ascéndit ad cœlos, sedet ad dexteram Dei Patris omnipoténtis; inde ventúrus est judicáre vivos et mórtuos. Credo in Spíritum Sanctum,
-sanctam Ecclésiam cathólicam, Sanctórum communiónem, remisiónem peccatórum, carnis resurrectiónem, vitam ætérnam. Amen._
 
 ## Gloria Patri
 
@@ -70,6 +57,21 @@ Sanctos, et te, pater, oráre pro me ad Dóminum Deum nostrum.
 R. Misereátur nostri omnipotens Deus, et dimissis pecátis nostris, perdúcat nos ad vitam ætérnam. Amen.  
 V. Indulgéntiam, absolutiónem, et remissiónem pecatórum nostrórum, tribuat nobis omnipotens et miséricors Dóminus. Amen._
 
+## Credo Apostólico (Símbolo de los Apóstoles)
+
+Creo en Dios, Padre todopoderoso. Creador del cielo y de la tierra. Y en Jesucristo, su único Hijo, Nuestro Señor, que fue concebido por
+obra y gracia del Espíritu Santo; nació de Santa María Vírgen; padeció bajo el poder de Poncio Pilato, fue crucificado, muerto y sepultado;
+descendió a los infiernos; al tercer día resucitó de entre los muertos; subió a los cielos, está sentado a la derecha de Dios Padre todopoderoso;
+desde allí ha de venir a juzgar a vivos y muertos. Creo en el Espíritu Santo, la Santa Iglesia Católica, la comunión de los Santos, el perdón
+de los pecados, la resurección de la carne y la vida eterna. Amén.
+
+_Credo in Deum, Patrem omnipoténtem. Creatórem cœli et terræ. Et in Jesum CHristum, Filium ejus únicum, Dóminum nostrum; qui concéptus
+est de Spíritu Sancto; natus ex María Virgine; passus sub Póntio Pilato, crucifíxus, mortuus et sepúltus: descéndit ad inferos; tértia die resurréxit
+a mórtuis: ascéndit ad cœlos, sedet ad dexteram Dei Patris omnipoténtis; inde ventúrus est judicáre vivos et mórtuos. Credo in Spíritum Sanctum,
+sanctam Ecclésiam cathólicam, Sanctórum communiónem, remisiónem peccatórum, carnis resurrectiónem, vitam ætérnam. Amen._
+
+[Misterios Gozosos](#misterios-gozosos-lunes-y-jueves) | [Misterios Dolorosos](#misterios-dolorosos-martes-y-viernes) | [Misterios Gloriosos](#misterios-gloriosos-miércoles-sábados-y-domingos)
+
 ## Misterios Gozosos (Lunes y Jueves)
 
 ### La Anunciación de la Santísima Virgen María
@@ -78,7 +80,7 @@ y discurría que podría ser esta salucatión. Y le dijo el ángel: «No temas, 
 y darás a luz un Hijo, a quien daras por nombre Jesús. Este será grande, y será llamado Hijo del Altísimo, y le dará el Señor Dios el trono de DAvid su padre,
 y reinará sobre la casa de Jacob etérnamete, y su reinado no tendrá fin». Lucas 1, 28-33.
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías,  1 Gloria y [¡Oh Jesús mío!](#finalAnunciacion)
 
 ___
 
@@ -135,7 +137,7 @@ _Gloria_
 
 ___
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
+<a id="finalAnunciacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
 ### La Visitación de Nuestra Señora
@@ -143,7 +145,7 @@ Y aconteció que, al oir Isabel la salutación de María, dió saltos de gozo el
 clamor y dijo: «Bendita tu entre las mujeres y bendito el fruto de tu vientre. ¿Y de dónde a mí esto que venga la madre de mi Señor a mí?». 
 Lucas 1, 41-43.
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalVisitacion)
 
 ___
 
@@ -200,7 +202,7 @@ _Gloria_
 ___
 
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
+<a id="finalVisitacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
             
 ### La Natividad de Nuestro Señor Jesucristo
@@ -208,7 +210,7 @@ Y dió a luz su hijo primogénito, y le envolvió en pañales y le recostó en u
 Y les dijo el Ángel: «No tenáis, pues he aquí que os traigo una buena nueva, que será de grande alegría para todo el pueblo: que os ha nacido hoy en la ciudad de DAvid
 un Salvador, que es el Mesías, el Señor». Lucas 2, 7.10-11.
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalNatividad)
 
 ___
 
@@ -256,7 +258,7 @@ _Gloria_
 
 ___
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
+<a id="finalNatividad"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
 ### La Presentación del Niño Jesús en el Templo
@@ -264,7 +266,7 @@ Y cuando se les cunplieron los días de la purificación según la ley de Moisé
 en la Ley del Señor que «todo primogénito del sexo masculino será consagrado al Señor^[Éxodo 13, 2; 12, 15]», y para ofrecer como sacrificio, según lo que 
 se ordena en la Ley del Señor, «un par de tórtolas o dos palominos^[Levítico 12, 8; 5, 11]». Lucas 2, 22-24.
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalPresentacion)
 
 ___
 
@@ -314,7 +316,7 @@ _Gloria_
 ___
 
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
+<a id="finalPresentacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
     
 ### La Pérdida y Hallazgo del Niño Jesús en el Templo
@@ -322,7 +324,7 @@ Y no hallándole, se tornaron a Jerusalén para burcarle. Y sucedió que despué
 escuchándolos y haciéndoles preguntas; y se pasmaban todos los que le oían de su inteligencia y de sus respuestas. Y sus padres padres, al verle, quedaron
 sorprendidos; y le dijo su madre: «Hijo, ¿por qué lo niciste así con nosotros? Mira que tu padre y yo, llenos de aflicción, te andábamos buscando»
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalPerdida)
 
 ___
 
@@ -372,8 +374,9 @@ _Gloria_
 ___
 
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
-necesitadas
+<a id="finalPerdida"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
+
+[Confíteor](#confíteor)
 
 ## Misterios Dolorosos (Martes y Viernes)
 
@@ -384,7 +387,7 @@ Y venido en agonía, oraba más intensamente. Y se hizo su sudor como grumos de 
 Estando Él hablando todavía, he aquí una turba, y el que se llamaba Judas, uno de los Doce, iba delante de ellos. Y se llegó a Jesús para besarle.
 Mas Jesús le dijo: «¡Judas! ¿Con un beso entregas al Hijo del hombre?». Lucas 22, 39. 41. 44. 47-48.
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalAgonia)
 
 ___
 
@@ -434,7 +437,7 @@ _Gloria_
 ___
 
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
+<a id="finalAgonia"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
 ### La flagelación de Nuestro Señor Jesucristo
 Entonces, pues, tomó Pilato a Jesús y le azotó. Juan 19, 1.
@@ -442,7 +445,7 @@ Entonces, pues, tomó Pilato a Jesús y le azotó. Juan 19, 1.
 Fue despreciado y abandonado de los hombres, varón de dolores y familiarizado con el sufrimiento, y como uno ante el cual
 se oculta el rostro, le despreciamos y no le estimamos. Isaías 53, 5.
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalFlagelacion)
 
 ___
 
@@ -492,13 +495,13 @@ _Gloria_
 ___
 
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
+<a id="finalFlagelacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
 ### La coronación de espinas de Nuestro Señor Jesucristo
 
 Entonces los soldados del gobernador, tomando a Jesús y conduciéndole al pretorio, reunieron en torno a Él toda la cohorte. Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana, y trenzando una corona de espinas, la pusieron sobre su cabeza, y una caña en su mano derecha; y doblando la rodilla delante de Él, le mofaban, diciendo: «Salud, Rey de los judíos». Y escupiendo en Él, tomaron la caña y le daban golpes en la cabeza Mateo 27, 27-30.
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalCoronacion)
 
 ___
 
@@ -549,7 +552,7 @@ _Gloria_
 ___
 
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
+<a id="finalCoronacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
 ### Jesús con la Cruz a cuestas
@@ -558,7 +561,7 @@ Entonces, pues, se le entregó para que fuera crucificando. Se apoderaron, pues,
 llamado el Cráneo, que en hebreo se dice Gólgota... Juan 19, 16-17.\
 Lucas. 23, 26
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalCruz)
 
 ___
 
@@ -568,35 +571,35 @@ _Paternoster_
 
 _Avemaría_
 
-2.
+2. Lc. 9, 23
 
 _Avemaría_
 
-3.
+3. Jn. 19, 17
 
 _Avemaría_
 
-4.
+4. Lc. 23, 26
 
 _Avemaría_
 
-5.
+5. Mt. 11, 29
 
 _Avemaría_
 
-6.
+6. Mt. 11; 29, 30
 
 _Avemaría_
 
-7.
+7. Lc. 23, 28
 
 _Avemaría_
 
-8.
+8. Lc. 23, 28
 
 _Avemaría_
 
-9.
+9. Lc. 23, 31
 
 _Avemaría_
 
@@ -608,7 +611,7 @@ _Gloria_
 ___
 
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
+<a id="finalCruz"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
 ### La Crucifixión y Muerte del Redentor
@@ -619,58 +622,59 @@ Y era ya como la hora sexta, y se produjeron tinieblas sobre toda la tierra hast
 el velo del santuario. Y clamando con voz poderosa, Jesús dijo: «Padre, en tus manos encomiendo mi espíritu\footnote{Sal. 30, 6}». 
 Y, dicho esto, expiró. Lucas 23, 44-46.
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalCrucifixiona)
 
 ___
 
 _Paternoster_
 
-1. 
+1. Lc. 23, 33
 
 _Avemaría_
 
-2.
+2. Lc. 23, 34
 
 _Avemaría_
 
-3.
+3. Mt. 27, 44; Lc. 23; 39, 42
 
 _Avemaría_
 
-4.
+4. Lc. 23, 43
+
+_Avemaría_
+ 
+5. Jn. 19, 26
 
 _Avemaría_
 
-5.
+6. Jn. 19, 26-27
 
 _Avemaría_
 
-6.
+7. Jn. 19, 27
 
 _Avemaría_
 
-7.
+8. Lc. 23, 45
 
 _Avemaría_
 
-8.
+9. Lc. 23, 46
 
 _Avemaría_
 
-9.
-
-_Avemaría_
-
-10.
+10. Jn. 19,30
 
 _Avemaría_  
 _Gloria_
 
 ___
 
-
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
+<a id="finalCrucifixiona"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
+
+[Confíteor](#confíteor)
 
 ## Misterios Gloriosos (Miércoles, Sábados y Domingos)
 
@@ -685,49 +689,49 @@ Marcos 16, 2.4-7.
 Y eran María Magdalena, y Juana, y María la de Santiago; y las demás que iban con ellas dijeron esto mismo a los apóstoles. 
 Lucas 24, 10.
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalResureccion)
 
 ___
 
 _Paternoster_
 
-1. 
+1. Jn. 16, 20
 
 _Avemaría_
 
-2.
+2. Jn. 16, 22
 
 _Avemaría_
 
-3.
+3. Lc. 24, 1
 
 _Avemaría_
 
-4.
+4. Mt. 28, 2
 
 _Avemaría_
 
-5.
+5. Mt. 28, 5
 
 _Avemaría_
 
-6.
+6. Mt. 28, 6
 
 _Avemaría_
 
-7.
+7. Mt. 28, 7
 
 _Avemaría_
 
-8.
+8. Mt. 28, 8
 
 _Avemaría_
 
-9.
-
+9. Jn. 11, 25
+ 
 _Avemaría_
 
-10.
+10. Jn. 11,26
 
 _Avemaría_  
 _Gloria_
@@ -735,7 +739,7 @@ _Gloria_
 ___
 
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
+<a id="finalResureccion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
 ### La Ascensión de Jesucristo a los cielos
@@ -744,41 +748,41 @@ Y los sacó afuera hasta llegar junto a Betania, y alzando sus manos los bendijo
 y era llevado en alto al cielo. Y ellos, habiéndole adorado, se tornaron a Jerusalén con grande gozo, y estaban continuamente en el templo
 adorando a Dios. Lucas 24, 50-52.
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalAscension)
 
 ___
 
 _Paternoster_
 
-1. 
+1. Lc. 24,50
 
 _Avemaría_
 
-2.
+2. Mt. 28, 18
 
 _Avemaría_
 
-3.
+3. Mt. 28, 19
 
 _Avemaría_
 
-4.
+4. Mt. 28, 20
 
 _Avemaría_
 
-5.
+5. Mc. 16, 16
 
 _Avemaría_
 
-6.
+6. Mt. 82, 20
 
 _Avemaría_
 
-7.
+7. Lc. 24, 51
 
 _Avemaría_
 
-8.
+8. Mc. 16,19
 
 _Avemaría_
 
@@ -794,7 +798,7 @@ _Gloria_
 ___
 
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
+<a id="finalAscension"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
 ### La Venida del Espíritu Santo sobre los Apóstoles
@@ -803,49 +807,51 @@ Y al cumplirse el día de Pentecostés, estaban todos juntos en el mismo lugar. 
 que soplaba vehementemente, y llenó toda la casa donde se hallaban sentados. Y vieron aparecer lenguas como de fuego, que, repartiéndose, se 
 posaban sobre cada uno de ellos. Hechos 2, 1-4.
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalPentecostes)
 
 ___
 
 _Paternoster_
 
-1. 
+1. Hch. 2, 1
 
 _Avemaría_
 
-2.
+2. Hch. 2, 2
 
 _Avemaría_
 
-3.
+3. Hch. 2, 3
 
 _Avemaría_
 
-4.
+4. Hch. 2, 4
 
 _Avemaría_
 
-5.
+5. Hch. 2, 5
 
 _Avemaría_
 
-6.
+6. Hch. 2, 14
 
 _Avemaría_
 
-7.
+7. Hch. 2, 38
 
 _Avemaría_
 
-8.
+8. Hch. 2,41
 
 _Avemaría_
 
-9.
+9. Sal. 104, 30
 
 _Avemaría_
 
-10.
+10. Ven, ¡oh Espíritu Santo!, llena los corazones de
+tus fieles; y enciende en ellos el fuego de tu Amor.
+Aleluya. (Secuencia de Pentecostés)
 
 _Avemaría_  
 _Gloria_
@@ -853,7 +859,7 @@ _Gloria_
 ___
 
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
+<a id="finalPentecostes"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
 ### La Asunción de Nuestra Señora a los cielos
@@ -862,49 +868,49 @@ Antes de los siglos, desde el principio me creó y hasta la eternidad no cesaré
 He arraigado en pueblo ilustre, en la porción del Señor, heredad suya. Yo soy la madre de la hermosa dilección, y del temor, y del
 conocimiento y santa esperanza. Eclesiástico 24, 14.16.24.
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalAsuncion)
 
 ___
 
 _Paternoster_
 
-1. 
+1. Jdt. 13, 18
 
 _Avemaría_
 
-2.
+2. Jdt. 13, 19
 
 _Avemaría_
 
-3.
+3. Jdt. 13, 20
 
 _Avemaría_
 
-4.
+4. Jdt. 15, 9
 
 _Avemaría_
 
-5.
+5. Sal. 35; 11, 12
 
 _Avemaría_
 
-6.
+6. Ap. 11, 19
 
 _Avemaría_
 
-7.
+7. Ap. 12, 1
 
 _Avemaría_
 
-8.
+8. Ap. 12, 1
 
 _Avemaría_
 
-9.
+9. Sal. 45, 14
 
 _Avemaría_
 
-10.
+10. Sal. 98, 1
 
 _Avemaría_  
 _Gloria_
@@ -912,8 +918,7 @@ _Gloria_
 ___
 
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
-necesitadas
+<a id="finalAsuncion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
 ### La Coronación de la Santísima Virgen María
 
@@ -923,56 +928,58 @@ Apocalipsis 12, 1.
 Doy con todas estas cosas los bienes eternos a mis hijos y a los por Él designados. Quién me obedece no se avergonzará y los que obran por
 no pecarán. Los que me esclarecen tendrán vida eterna. Eclesiástico 24, 25.30-31.
 
-1 Paternoster, 10 Avemarías y 1 Gloria
+1 Paternoster, 10 Avemarías, 1 Gloria, [¡Oh Jesús mío!](#finalCoronacion)
 
 ___
 
 _Paternoster_
 
-1. 
+1. Cant. 6, 10
 
 _Avemaría_
 
-2.
+2. Eclo. 50,8-9
 
 _Avemaría_
 
-3.
+3. Eclo. 24, 24
 
 _Avemaría_
 
-4.
+4. Eclo. 24, 25
 
 _Avemaría_
 
-5.
+5. Eclo. 24, 26
 
 _Avemaría_
 
-6.
+6. Eclo. 24, 27
 
 _Avemaría_
 
-7.
+7. Prov. 8, 32-33
 
 _Avemaría_
 
-8.
+8. Prov. 8, 33-34
 
 _Avemaría_
 
-9.
+9. Prov. 8, 35
 
 _Avemaría_
 
-10.
+10. Salve, oh Reina de la Misericordia, líbranos del
+enemigo, y recíbenos en la hora de la muerte. (Gradual
+M. de B. V M).
 
 _Avemaría_  
 _Gloria_
 
 ___
 
+<a id="finalCoronacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
-¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
-necesitadas
+[Confíteor](#confíteor)
 
