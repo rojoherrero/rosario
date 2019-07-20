@@ -8,7 +8,7 @@
 
 .vscode
 output/
+aux/
 
 *.epub
-*.tex
 *.pdf
