@@ -5,7 +5,6 @@ date: "Julio 2019"
 keywords: [Santo Rosario, Catolicismo]
 documentclass: report
 papersize: a4
-header-includes: <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 ...
 
 ## La señal de la Cruz
@@ -75,188 +74,134 @@ sanctam Ecclésiam cathólicam, Sanctórum communiónem, remisiónem peccatórum
 ## Misterios Gozosos (Lunes y Jueves)
 
 ### La Anunciación de la Santísima Virgen María
-Y habiendo entrado a ella, dijo: «Dios te salve, llena de gracia, el Señor es contigo, bendita tu entre las mujeres». Ella, al oír estas palabras, se turbó,
-y discurría que podría ser esta salucatión. Y le dijo el ángel: «No temas, María, pues hallaste gracia a los ojos de Dios. He aquí que concebirás en tu seno
-y darás a luz un Hijo, a quien daras por nombre Jesús. Este será grande, y será llamado Hijo del Altísimo, y le dará el Señor Dios el trono de DAvid su padre,
-y reinará sobre la casa de Jacob etérnamete, y su reinado no tendrá fin». Lucas 1, 28-33.
+...fué enviado el Ángel Gabriel de parte de Dios a una ciudad de Galilea, llamada Nazaret, a una doncella desposada con un varón llamada José, 
+de la familia de David, y el nombre de la doncella era María. Y habiendo entrado a ella, dijo: «Dios te salve, llena de gracia, el Señor es contigo, 
+bendita tu entre las mujeres». Ella, al oír estas palabras, se turbó, y discurría que podría ser esta salucatión. 
+Y le dijo el ángel: «No temas, María, pues hallaste gracia a los ojos de Dios. He aquí que concebirás en tu seno y darás a luz un Hijo, a quien 
+daras por nombre Jesús. Este será grande, y será llamado Hijo del Altísimo, y le dará el Señor Dios el trono de DAvid su padre, y reinará sobre 
+la casa de Jacob etérnamete, y su reinado no tendrá fin». Lucas 1, 27-33.
 
 1 Paternoster, 10 Avemarías,  1 Gloria y [¡Oh Jesús mío!](#finalAnunciacion)
 
-___
+***
 
-_Paternoster_
+***Paternoster***
 
-1. Has acrecentado el júbilo, has hecho grande el alborozo; alégranse por ti como con la alegría del tiempo de la siega, 
-como se alboroza al repartir el botín (Is 9,2).
+1. fué enviado el Ángel Gabriel de parte de Dios a una ciudad de Galilea, llamada Nazaret, a una 
+doncella desposada con un varón llamada José, de la familia de David, y el nombre de la doncella era María. (Lc. 1,26- 27). ***Ave María***
 
-_Avemaría_
+2. Y habiendo entrado a ella, dijo: «Dios te salve, llena de gracia, el Señor es contigo, bendita tú entre las mujeres»
+y levanto la voz con gran clamor y dijo: »Bendita tú entre las mujeres y bendito el fruto de tu vientre». (Lc. 1, 28, 42). ***Ave María***
 
-2. Pues bien, el Señor mismos dará una señal: he aquí que la virgen concebirá y parirá un hijo, a quien ella denominará con el nombre de Emmanuel (Is 7,14).
+3. Ella, al oír estas palabras, se turbó, y discurría qué podía ser esta salutación. (Lc. 1, 29). ***Ave María***
 
-_Avemaría_
+4. Y le dijo el ángel: «No temas, María, pues hallaste gracia a los ojos de Dios». (Lc. 1, 30). ***Ave María***
 
-3. Su salud cercana, de aquel que le teme se halla, porque habite la gloria en nosotros. Verdad y clemencia en el se dan cita;
-la paz y justicia entre si se dan cita; la paz y justicia entre si se dan ósculo (Sal 85,10-11*).
+5. «He aquí que concebirás en tu seno y darás a luz un Hijo, a quién darás por nombre Jesús». (Lc. 1, 31). ***Ave María***
 
-_Avemaría_
+6. «Este será grande, y será llamado Hijo del Altísimo, y le dará el Señor Dios el trono de David su padre, 
+y reinará sobre la casa de Jacob etérnamente, y su reinado no tendrá fin». (Lc. 1, 32-33). ***Ave María***
 
-4. La ciudad del Señor con sus corrientes alegra un río; habitación muy santa del Altísimo; Dios habita en ella, y así no tambalea; es Dios
-su ayuda desde el rayo primero de la aurora (Sal 46,5-6).
+7. y reinará sobre la casa de Jacob etérnamente, y su reinado no tendrá fin». (Lc. 1,33). ***Ave María***
 
-_Avemaría_
+8. Dijo María al ángel: «¿Cómo será eso, pues, no conozco varón?». ***Ave María***
 
-5. Seré como el rocío para Israel, florecerá él como el lirio y echará sus raíces cual el Líbano. Sus ramas tiernas se extenderán,
-y su florecimiento será cual el del olivo, y su fragancia como la del Líbano (Os 14,6-7).
+9. Y respondiendo el ángel, le dijo: «el Espíritu Santo descenderá sobre ti, 
+y el poder del Altísimo te cobijará con su sombra; por lo cual también lo que nacerá será llamado santo, Hijo de Dios». (Lc. 1, 35). ***Ave María***
 
-_Avemaría_
+10. María dijo: «he aquí la esclava del Señor; hágase en mí según tu palabra». Y se retiró de ella el ángel. (Lc. 1, 38). ***Ave María***
 
-6. En el sexto mes fue enviado el ángel Gabriel de parte de Dios a una ciudad de Galilea, llamada Nazaret; a una doncella desposada con un varón
-llamado José, de la familia de David, y el nombre de la doncella era María (Lc 1,26-27).
+***Avemaría***
 
-_Avemaría_
+***Gloria***
 
-7. Y habiendo entrado a ella, dijo: «Dios te salve, llena de gracia, el Señor es contigo, bendita tú entre las mujeres». Ella, al oír estas
-palabras, se turbó, y discurría que podría ser esta salutación (Lc 1,28-29).
-
-_Avemaría_
-
-8. Y le dijo el ángel: «No temas, María, pues hallaste gracia a los ojos de Dios. He aquí que concebirás en tu seno y darás a luz un Hijo,
-a quien darás por nombre Jesús» (Lc 1,30-31).
-
-_Avemaría_
-
-9. Y respondiendo el ángel, le dijo: «El Espíritu Santo descenderá sobre ti, y el poder del Altísimo te cobijará con su sombra; por lo cual
-también lo que nacerá será llamado santo, Hijo de Dios» (Lc 1,35).
-
-_Avemaría_
-
-10. Dijo María: «He aquí la esclava del Señor; hágase en mi según tu palabra». Y se retiró de ella el ángel (Lc 1,38).
-
-_Avemaría_  
-_Gloria_
-
-___
+***
 
 <a id="finalAnunciacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
 ### La Visitación de Nuestra Señora
+Por aquellos días, levantándose María, se dirigió presurosa a la montaña, a un ciudad de Judá, y entró en la casa de Zacarías y saludó a Isabel.
 Y aconteció que, al oir Isabel la salutación de María, dió saltos de gozo el niño en su seno, y fue llena Isabel del Espíritu Santo, y levantó la voz con gran
 clamor y dijo: «Bendita tu entre las mujeres y bendito el fruto de tu vientre. ¿Y de dónde a mí esto que venga la madre de mi Señor a mí?». 
-Lucas 1, 41-43.
+Lucas 1, 39-43.
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalVisitacion)
 
-___
+***
 
-_Paternoster_
+***Paternoster***
 
-1. Por aquellos días, levantándose María, se dirigió presurosa a la montaña, a una ciudad de Judá, y entró en la casa de Zacarías y saludó
-a Isabel. Y aconteció que, al oír Isabel la salutación de María, dió saltos de gozo el niño en su seno, y fue llena Isabel del Espíritu Santo 
-(Lc 1,39-41).
+1. Por aquellos días, levantándose María, se dirigió presurosa a la montaña, a un ciudad de Judá, y entró en la casa
+de Zacarías y saludó a Isabel. (Lc. 1, 39-40). ***Ave María***
 
-_Avemaría_
+2. Y aconteció que, al oír Isabel la salutación de María. dió saltos de gozo el niño en su seno, y fué llena Isabel del Espíritu Santo. (Lc. 1, 41). ***Ave María***
 
-2. Y levantó la voz con gran clamor y dijo: «Bendita tú entre las mujeres y bendito el fruto de tu vientre. ¿Y de dónde a mí esto que venga
-la madre de mi Señor a mí?» (Lc 1,42-43).
+3. y levantó la voz con gran clamor y dijo: »Bendita tu entre las mujeres y bendito esl fruto de tu vientre». (Lc. 1, 42). ***Ave María***
 
-_Avemaría_
+4. Y dichosa la que creyó que tendrá cumplimiento las cosas que le han sido dichas de parte del Señor. (Lc. 1, 45). ***Ave María***
 
-3. «Porque he aquí que, sonó la voz de tu salutación en mis oídos, dió saltos de alborozo el niño en mi seno. Y dichosa la que creyó que 
-tendrán cumplimiento las cosas que le han sido dichas de parte del Señor» (Lc 1,44-45).
+5. Y dijo María: «Engrandece mi alma al Señor, y se regocijó mi espíritu en Dios, mi Salvador;
+porque puso sus ojos en la bajeza de su esclava». (Lc. 1, 46-48). ***Ave María***
 
-_Avemaría_
+6. «Pues he aquí que desde ahora me llamarán dichosa todas las generaciones; 
+porque hizo en mi favor grandes cosas el Poderoso, (Lc. 1, 48-49). ***Ave María***
 
-4. Regocíjate y alégrate, hija de ión, porque he aquí que yo estoy para llegar y habitaré en medio de ti, dice Yahveh (Zac 2,14).
+7. «y cuyo nombre es Santo; y su misericordia por generaciones y generaciones para con aquellos que le temen». (Lc. 1, 49-50). ***Ave María***
 
-_Avemaría_
+8. Hizo ostentación de poder con su brazo: desbarató a los soberbios en los proyectos de su corazón. (Lc. 1, 51). ***Ave María***
 
-5. Oigo que se grita: en el desierto despejad el camino a Yahveh, enderezad en la estepa, una calzada para nuestro Dios (Is 40,3).
+9. «derrocó de su trono a los potentados y enalteció a los humildes». (Lc. 1, 52). ***Ave María***
 
-_Avemaría_
+10. «llenó de bienes a los hambrientos y despidió vacíos a los ricos». (Lc. 1, 53) . ***Ave María***
 
-6. Y ellos vendrán y exultarán en el monte de Sión y afluirán a los bienes de Yahveh\ldots Entonces se alegrará la doncella
-en la danza en corro y a una de los jóvenes y los ancianos; y trocaré su duelo en gozo y los consolaré y los alegraré después de su tristeza
-(Jer 31,12-13).
+***Avemaría***
 
-_Avemaría_
+***Gloria***
 
-7. Súbitamente hago aproximarse mi justicia; mi salvación brotará como luz y mis brazos juzgarán a los pueblos. En mi esperarán las islas
-y en mi brazo confiarán (Is 51,5).
-
-_Avemaría_
-
-8. ¡Escucha! Tus centinelas alzan la voz, gritan a una porque ven cara a cara como Yahveh regresa a Sión (Is 52,8).
-
-_Avemaría_
-
-9. ¡Gritad de júbilo, exultad juntamente, ruinas de Jerusalén, pues Yahveh se ha compadecido de su pueblo, ha redimido a Jerusalén!(Is 52,9)
-
-_Avemaría_
-
-10. Yahveh ha desnudado su santo brazo a los ojos de todos los pueblos, y todos los confines de la tierra verán la salvación de nuestro Dios (Is 52,10).
-
-_Avemaría_  
-_Gloria_
-
-___
-
+***
 
 <a id="finalVisitacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
             
 ### La Natividad de Nuestro Señor Jesucristo
-Y dió a luz su hijo primogénito, y le envolvió en pañales y le recostó en un pesebre, pues no había para ellos lugar en el mesón.
-Y les dijo el Ángel: «No tenáis, pues he aquí que os traigo una buena nueva, que será de grande alegría para todo el pueblo: que os ha nacido hoy en la ciudad de DAvid
-un Salvador, que es el Mesías, el Señor». Lucas 2, 7.10-11.
+Y dió a luz su hijo primogénito, y le envolvió en pañales y le recostó en un pesebre, pues no había para ellos lugar en el mesón. Y había unos pastores 
+en aquella misma comarca, que pernoctaban al raso y velaban por turno para guardar su ganado, y un ángel del Señor se presentó ante ellos. Y les dijo el Ángel: 
+«No tenáis, pues he aquí que os traigo una buena nueva, que será de grande alegría para todo el pueblo: que os ha nacido hoy en la ciudad de David
+un Salvador, que es el Mesías, el Señor». Lucas 2, 7.8.10-11.
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalNatividad)
 
-___
+***
 
+1. Y sucedió que estando ellos allí se le complieron a ella los días del parto. (Lc. 2,6). ***Ave María***.
 
-1. Pues un niño nos ha nacido, un hijo se nos ha dado, sobre cuyos hombros está el principado y cuyo nombre se llamará: Consejero maravilloso, Dios Fuerte, Padre eterno, Príncipe de la paz (Is 9,5).
+2. Y dió a luz a su hijo primogénito, y le envolvió en pañales y le recostó en un pesebre, pues no había para ellos lugar en el mesón.  
+(Lc. 2, 7). ***Ave María***.
 
-_Avemaría_
+3. \ldots y le recostó en un pesebre, pues no había para ellos lugar en el mesón. (Lc. 2, 7). ***Ave María***.
 
-2. Y así fue que, mientras un quieto silencio lo envolvía todo y llegaba la noche a la mitad en su veloz carrera, tu omnipotente palabra desde los cielos, dejando el trono real, se lanzó, guerrero inexorable, en medio de aquella tierra de exterminio (Sab 18, 14-15).
+4. Y había unos pastores en aquella misma comarca, que pernoctaban al raso y velaban por turno para guardar su ganado, y un ángel
+del Señor se presentó ante ellos, y la gloria del Señor los envolvió en sus fulgores, y se atemorizaron con gran temor. (Lc. 2, 8-9). ***Ave María***.
 
-_Avemaría_
+5. Y les dijo el ángel: «no temáis, pues he aquí que os traigo una buena nueva, que será de grande alegría para todo el pueblo:» (Lc. 2, 10). ***Ave María***
 
-3. Y ella antes se retorciese parió; antes de que la sobrevinieran dolores dió a luz un varón (Is 66,7).
+6. «que os ha nacido hoy en la ciudad de David un Salvador, que es el Mesías, el Señor» (Lc. 2, 11). ***Ave María***
 
-_Avemaría_
+7. Gloria a Dios en las alturas y en la tierra a los hombres del [divino] agrado. (Lc. 2, 14). ***Ave María***
 
-4. ¡Consolad, consolad a mi pueblo! dice vuestro Dios; hablad al corazón de Jerusalén y gritadle que se ha cumplido su servicio de prestación personal, que está perdonada su culpa, que de mano de Yahveh ha alcanzado el doble por todos sus pecados (Is 40,1-2).
+8. Nacido Jesús en Belén de la Judea en los días de Herodes el rey, he aquí que unos magos venidos de las regiones orientales llegaron a Jerusalén.
+Y entrando en la casa, vieron al niño con María, su madre; (Mt. 2, 1, 11). ***Ave María***
 
-_Avemaría_
+9. y postrándose en tierra le adoraron, y abrieron sus tesoros le ofrecieron presentes, oro, incienso y mirra. (Mt. 2, 11). ***Ave María***
 
-5. Basta ya; que soy Dios tened sabido, sublime en las naciones y la tierra. Con vosotros Yahveh de los ejércitos está; el Dios de Jacob es nuestro alcázar (Sal 46,11-12).
+10. Pero María guardaba todas estas palabras confiriéndolas en su corazón. (Lc. 2, 19). ***Ave María***
 
-_Avemaría_
+***Avemaría***
 
-6. Y la santa ciudad, la nueva Jerusalén, la vi como descendía del cielo de cabe Dios, preparada como desposada que se ha engalanado para su esposo. Y oí una gran voz venida del trono, que decía: «He aquí la tienda, mansión de Dios con los hombres, y fijará su tienda entre ellos, y ellos serán pueblo suyo, y el mismo Dios estará con ellos como Dios suyo»(Ap 21,2-3)
+***Gloria***
 
-_Avemaría_
-
-7. He aquí que tiempo vendrá, declara Yahveh en que suscitaré a David un vástago justo; y reinará como rey y obrará sabiamente, y ejercitará el derecho y la justicia en la tierra (Jer 23,5).
-
-_Avemaría_
-
-8. Y sucedió que estando ellos allí se le cumplieron a ella los días del parto, y dió a luz a su hijo primogénito, y le envolvió en pañales y le recostó en un pesebre, pues no había para ellos lugar en el mesón (Lc 2,6-7).
-
-_Avemaría_
-
-9. Y había unos pastores en aquella misma comarca, que pernoctaban al raso y velaban por turno para guardar el ganado, y un ángel del Señor se presentó ante ellos, y la gloria del Señor los envolvió en sus fulgores, y se atemorizaron con gran temor.(Lc 2,8-9)
-
-_Avemaría_
-
-10. Y les dijo el ángel: «no temáis, pues he aquí que os traigo una buena nueva, que será de grande alegría para todo el pueblo: que os ha nacido hoy en la ciudad de David un Salvador, que es el Mesías, el Señor» (Lc 2,10-11).
-
-_Avemaría_  
-_Gloria_
-
-___
+***
 
 <a id="finalNatividad"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
@@ -268,53 +213,42 @@ se ordena en la Ley del Señor, «un par de tórtolas o dos palominos^[Levítico
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalPresentacion)
 
-___
+***
 
-_Paternoster_
+***Paternoster***
 
-1. Lucas 2, 22
+1. Y cuando se les cunplieron los días de la purificación según la ley de Moisés, le subieron a Jerusalen para presentarle al Señor, 
+según está escrito en la Ley del Señor que «todo primogénito del sexo masculino será consagrado al Señor», y para ofrecer como sacrificio, 
+según lo que se ordena en la Ley del Señor, «un par de tórtolas o dos palominos
+(Lc. 2, 22-24). ***Ave María***
 
-_Avemaría_
+2. y he aquí había un hombre en Jerusalén por nombre Simeón. Y era este hombre justo y temeroso de Dios que aguardaba la consolación de Israel, 
+y el Espíritu Santo estaba sobre él; (Lc. 2, 25). ***Ave María***
 
-2. Sal 24,7
+3. y le había sido revelado por el Espíritu Santo qye no vería la muerte antes de ver al Ungido del Señor. (Lc. 2, 26). ***Ave María***
 
-_Avemaría_
+4. Y vino al templo impulsado por el Espíritu Santo. Y cuando sus padres intrudujeron al niño Jesús para cumplir las prescipciones usuales
+de la ley tocantes a El, Simeón le recibió en sus brazos y bendijo a Dios diciendo: (Lc. 2, 27-28). ***Ave María***
 
-3. Lc. 2, 25
+5. Ahora dejas ir a tu siervo, Señor, según tu palabra, en paz; (Lc. 2, 29). ***Ave María***
 
-_Avemaría_
+6. pues ya vieron mis ojos tu salud, que preparaste a la faz de todos los pueblos; (Lc. 2, 30-31). ***Ave María***
 
-4. Lc. 2, 26
+7. luz para iluminación de los gentiles, y gloria de tu pueblo Israel. (Lc. 2, 32). ***Ave María***
 
-_Avemaría_
+8. Y les bendijo Simeón, y dijo a María, su madre: «He aquí que éste está puesto para caída y resurgimiento de muchos en Israel, y como
+señal a quien se contradice». (Lc. 2, 34). ***Ave María***
 
-5. Lc. 2, 27-28
+9. «y a ti misma una espada te traspasará el alma, para que salgan a la luz de muchos corazones los pensamientos». (Lc. 2, 35). ***Ave María***
 
-_Avemaría_
+10. Y así que cumplieron todas las cosas ordenadas en la ley del Señor, se volvieron a Galilea, a su ciudad de Nazaret. El niño crecía
+y se robustecía llenándose de sabiduría, y la gracia de Dios estaba en Él. (Lc. 2, 39-40). ***Ave María*** 
 
-6. Lc. 2, 29-32
+***Avemaría***
 
-_Avemaría_
+***Gloria***
 
-7. Is 49,6
-
-_Avemaría_
-
-8. Sal 132,8
-
-_Avemaría_
-
-9. Dan 7,13
-
-_Avemaría_
-
-10. Gn 27,27
-
-_Avemaría_  
-_Gloria_
-
-___
-
+***
 
 <a id="finalPresentacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
@@ -326,53 +260,38 @@ sorprendidos; y le dijo su madre: «Hijo, ¿por qué lo niciste así con nosotro
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalPerdida)
 
-___
+***
 
-_Paternoster_
+***Paternoster***
 
-1. Lc 2,42-43
+1. Y cuando fué de doce años, habiendo ellos subido, según la costumbre de la fiesta, (Lc. 2, 42). ***Ave María***
 
-_Avemaría_
+2. y acabados los días, al volverse ellos, quedóse el niño Jesús en Jerusalén, sin que lo advirtiesen sus padres. (Lc. 2, 43). ***Ave María***
 
-2. Lc 2,46
+3. y no hallándole, se tornaron a Jerusalén para buscarlo. Y sucedió que después de tres días le hallaron en el templo,
+sentado en medio de los maestros, escuchándoles y haciéndoles preguntas; (Lc. 2, 45-46). ***Ave María***
 
-_Avemaría_
+4. sentado en medio de los maestros, escuchándoles y haciéndoles preguntas; (Lc. 2, 46). ***Ave María***
 
-3. Lc 2,48
+5. y se pasmaban todos los que le oían de su inteligencia y de sus respuestas. (Lc. 2, 47). ***Ave María***
 
-_Avemaría_
+6. Y sus padres, al verle, quedaron sorprendidos; y le dijo su madre: «hijo, ¿por qué lo hiciste así con nosotros? Mira que tu padre
+y yo, llenos de aflicción, te andábamos buscando» (Lc. 2, 48). ***Ave María***
 
-4. Lc 2,49-50
+7. Díjoles Él: «¿pues por qué me buscabais? ¿No sabíais que había yo de estar en casa de mi padre?» (Lc. 2, 49). ***Ave María***
 
-_Avemaría_
+8. Y ellos no comprendieron lo que les dijo. (Lc. 2, 50). ***Ave María***
 
-5. Sal 27,4
+9. Y bajó en su compañía y se fue a Nazaret, y vivía sometido a ellos. Y su madre guardaba todas estas
+cosas en su corazón. (Lc. 2, 51). ***Ave María***
 
-_Avemaría_
+10. Y Jesús progresaba en sabiduría, en estatura y en gracia delante de Dios y de los hombres. (Lc. 2, 52). ***Ave María***
 
-6. 2 Mac 3,30
+***Avemaría***
 
-_Avemaría_
+***Gloria***
 
-7. Dt 33,27
-
-_Avemaría_
-
-8. Sal 48,1, 3
-
-_Avemaría_
-
-9. Sal 87,1-2
-
-_Avemaría_
-
-10. Ap 21,2
-
-_Avemaría_  
-_Gloria_
-
-___
-
+***
 
 <a id="finalPerdida"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
@@ -389,9 +308,9 @@ Mas Jesús le dijo: «¡Judas! ¿Con un beso entregas al Hijo del hombre?». Luc
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalAgonia)
 
-___
+***
 
-_Paternoster_
+***Paternoster***
 
 1. Ec 2,1
 
@@ -431,11 +350,11 @@ _Avemaría_
 
 10. Sal 40,7-8
 
-_Avemaría_  
-_Gloria_
+***Avemaría***
 
-___
+***Gloria***
 
+***
 
 <a id="finalAgonia"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
@@ -447,9 +366,9 @@ se oculta el rostro, le despreciamos y no le estimamos. Isaías 53, 5.
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalFlagelacion)
 
-___
+***
 
-_Paternoster_
+***Paternoster***
 
 1. Lm 1,12
 
@@ -489,11 +408,11 @@ _Avemaría_
 
 10. Is. 53, 5
 
-_Avemaría_  
-_Gloria_
+***Avemaría***
 
-___
+***Gloria***
 
+***
 
 <a id="finalFlagelacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
@@ -503,10 +422,9 @@ Entonces los soldados del gobernador, tomando a Jesús y conduciéndole al preto
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalCoronacion)
 
-___
+***
 
-
-_Paternoster_
+***Paternoster***
 
 1. Is 53,2
 
@@ -546,10 +464,11 @@ _Avemaría_
 
 10. Ec 2,5
 
-_Avemaría_  
-_Gloria_
+***Avemaría***
 
-___
+***Gloria***
+
+***
 
 
 <a id="finalCoronacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
@@ -563,9 +482,9 @@ Lucas. 23, 26
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalCruz)
 
-___
+***
 
-_Paternoster_
+***Paternoster***
 
 1. Lm 4,1
 
@@ -605,10 +524,11 @@ _Avemaría_
 
 10.
 
-_Avemaría_  
-_Gloria_
+***Avemaría***
 
-___
+***Gloria***
+
+***
 
 
 <a id="finalCruz"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
@@ -624,9 +544,9 @@ Y, dicho esto, expiró. Lucas 23, 44-46.
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalCrucifixiona)
 
-___
+***
 
-_Paternoster_
+***Paternoster***
 
 1. Lc. 23, 33
 
@@ -666,10 +586,11 @@ _Avemaría_
 
 10. Jn. 19,30
 
-_Avemaría_  
-_Gloria_
+***Avemaría***
 
-___
+***Gloria***
+
+***
 
 <a id="finalCrucifixiona"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
@@ -691,9 +612,9 @@ Lucas 24, 10.
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalResureccion)
 
-___
+***
 
-_Paternoster_
+***Paternoster***
 
 1. Jn. 16, 20
 
@@ -733,10 +654,11 @@ _Avemaría_
 
 10. Jn. 11,26
 
-_Avemaría_  
-_Gloria_
+***Avemaría***
 
-___
+***Gloria***
+
+***
 
 
 <a id="finalResureccion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
@@ -750,9 +672,9 @@ adorando a Dios. Lucas 24, 50-52.
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalAscension)
 
-___
+***
 
-_Paternoster_
+***Paternoster***
 
 1. Lc. 24,50
 
@@ -792,10 +714,11 @@ _Avemaría_
 
 10.
 
-_Avemaría_  
-_Gloria_
+***Avemaría***
 
-___
+***Gloria***
+
+***
 
 
 <a id="finalAscension"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
@@ -809,9 +732,9 @@ posaban sobre cada uno de ellos. Hechos 2, 1-4.
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalPentecostes)
 
-___
+***
 
-_Paternoster_
+***Paternoster***
 
 1. Hch. 2, 1
 
@@ -853,10 +776,11 @@ _Avemaría_
 tus fieles; y enciende en ellos el fuego de tu Amor.
 Aleluya. (Secuencia de Pentecostés)
 
-_Avemaría_  
-_Gloria_
+***Avemaría***
 
-___
+***Gloria***
+
+***
 
 
 <a id="finalPentecostes"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
@@ -870,9 +794,9 @@ conocimiento y santa esperanza. Eclesiástico 24, 14.16.24.
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalAsuncion)
 
-___
+***
 
-_Paternoster_
+***Paternoster***
 
 1. Jdt. 13, 18
 
@@ -912,10 +836,11 @@ _Avemaría_
 
 10. Sal. 98, 1
 
-_Avemaría_  
-_Gloria_
+***Avemaría***
 
-___
+***Gloria***
+
+***
 
 
 <a id="finalAsuncion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
@@ -930,9 +855,9 @@ no pecarán. Los que me esclarecen tendrán vida eterna. Eclesiástico 24, 25.30
 
 1 Paternoster, 10 Avemarías, 1 Gloria, [¡Oh Jesús mío!](#finalCoronacion)
 
-___
+***
 
-_Paternoster_
+***Paternoster***
 
 1. Cant. 6, 10
 
@@ -974,10 +899,11 @@ _Avemaría_
 enemigo, y recíbenos en la hora de la muerte. (Gradual
 M. de B. V M).
 
-_Avemaría_  
-_Gloria_
+***Avemaría***
 
-___
+***Gloria***
+
+***
 
 <a id="finalCoronacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
