@@ -1,12 +1,14 @@
 *.log
-*.pdf
 *.aux
 *.gz
-*.tex~
 *.fls
 *.fdb_latexmk
 *.bbl
 *.blg
 
 .vscode
+output/
+aux/
+
 *.epub
+*.pdf
