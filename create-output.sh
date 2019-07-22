@@ -8,5 +8,5 @@ echo Generating HTML;
 pandoc rosario.md -s -o output/${current_date_time}_rosario.html --ascii;
 echo HTML generated;
 echo Generating PDF;
-pandoc rosario.md -s -o output/${current_date_time}_rosario.pdf
+pandoc config/pdf-config.yaml rosario.md -s -o output/${current_date_time}_rosario.pdf 
 echo PDF generated;

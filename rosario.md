@@ -3,9 +3,8 @@ title: "Santo Rosario"
 author: "Sergio Rojo Herrero"
 date: "Julio 2019"
 keywords: [Santo Rosario, Catolicismo]
-documentclass: report
-papersize: a4
 ...
+
 
 ## La señal de la Cruz
 
@@ -256,7 +255,7 @@ necesitadas
 ### La Pérdida y Hallazgo del Niño Jesús en el Templo
 Y no hallándole, se tornaron a Jerusalén para burcarle. Y sucedió que después de tres días le hallaron en el templo, sentado en medio de los maestros,
 escuchándolos y haciéndoles preguntas; y se pasmaban todos los que le oían de su inteligencia y de sus respuestas. Y sus padres padres, al verle, quedaron
-sorprendidos; y le dijo su madre: «Hijo, ¿por qué lo niciste así con nosotros? Mira que tu padre y yo, llenos de aflicción, te andábamos buscando»
+sorprendidos; y le dijo su madre: «Hijo, ¿por qué lo niciste así con nosotros? Mira que tu padre y yo, llenos de aflicción, te andábamos buscando». Lucas 2, 46-48.
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalPerdida)
 
@@ -312,43 +311,26 @@ Mas Jesús le dijo: «¡Judas! ¿Con un beso entregas al Hijo del hombre?». Luc
 
 ***Paternoster***
 
-1. Ec 2,1
+1. Entonces llego Jesús con ellos a una granja llamada Getsemaní, y dice a los discípulos: «Sentaos aquí mientras voy allá para hacer oración». 
+Y llevando consigo a Pedro y a los dos hijos de Zebedeo, comenzó a ponerse triste y a sentir abatimiento. (Mt. 26, 36-37). ***Ave María***
 
-_Avemaría_
+2. Entonces les dice: «triste em gran manera está mi alma hasta la muerte; quedad aquí y velad conmigo». (Mt. 26, 38). ***Ave María***
 
-2. Sal 55,4-5
+3. Y adelantándose un poco, caía sobre la tierra, y rogaba que, a ser posible, pasase de Él aquella hora. (Mc. 14, 35). ***Ave María***
 
-_Avemaría_
+4. diciendo: «Padre, si quieres, traspasa de mi este cáliz; mas no se haga mi voluntad, sino la tuya». (Lc. 22, 42). ***Ave María***
 
-3. Mt. 26; 36, 37
+5. Y se le apareció un ángel venido del cielo, que le confortaba. (Lc. 22, 43). ***Ave María***
 
-_Avemaría_
+6. Y venido en agonía, oraba más intensamente. (Lc. 22, 44). ***Ave María***
 
-4. Mt. 26, 38
+7. Y se hizo su sudor como grumos de sangre, que caían hasta el suerlo. (Lc. 22, 44). ***Ave María***
 
-_Avemaría_
+8. Y viene a los discípulos y los halla durmiendo, y dice a Pedro: «¿así no pudísteis velar una hora conmigo?». (Mt. 26, 40). ***Ave María***
 
-5. Mc. 14, 35
+9. «Velad y orad, para que no entréis en tentación;». (Mt. 26, 41). ***Ave María***
 
-_Avemaría_
-
-6. Lc. 22, 42-44
-
-_Avemaría_
-
-7. Mt. 26, 40-41
-
-_Avemaría_
-
-8. Lc 22, 47
-
-_Avemaría_
-
-9. Lc. 22, 48
-
-_Avemaría_
-
-10. Sal 40,7-8
+10. «el espíritu sí, está animoso, más la carne es flaca». (Mt. 26, 41). ***Ave María***
 
 ***Avemaría***
 
@@ -370,43 +352,31 @@ se oculta el rostro, le despreciamos y no le estimamos. Isaías 53, 5.
 
 ***Paternoster***
 
-1. Lm 1,12
+1. Y luego al amanecer, después de celebrar consejo, los sumos sacerdotes con los ancianos y los escribas, es decir, todo el sanhedrín, atando a Jesús,
+le llevaron de allí y le entregaron a Pilato. Y le interrogó Pilato: «¿Tú eres el Rey de los judíos?». El le respondió: «Tú lo dices». 
+(Mc. 15, 1-2). ***Ave María***
 
-_Avemaría_
+2. Respondió: «Mi reino no es de este mundo. Si de este mundo fuera mi reino, mis ministros lucharían para que yo no fuera entregado a los judíos
+Más ahora mi reino no es de aquí». (Jn. 18, 36). ***Ave María***
 
-2. Is. 53, 4
+3. Díjole, pues, Pilato: «¿luego, rey eres tu?». Respondión Jesús : «Tú dices que yo soy rey. Yo para eso he nacido y para esto he venido
+al mundo: para dar testimonio a favor de la verdad. Todo el que es de la verdad, oye mi voz». (Jn. 18, 37). ***Ave María***
 
-_Avemaría_
+4. Pilato dijo a los sumos sacerdotes y a los turbas: «ningún delito hallo en este hombre. 
+Le castigaré, pues, y le soltaré». (Lc. 23, 4, 16). ***Ave María***
 
-3. Jn. 18, 33-35
+5. Entonces, pues, tomó Pilato a Jesús y le azotó. (Jn. 19, 1). ***Ave María***
 
-_Avemaría_
+6. De opresión u juicio fué tomado, y a sus contemporáneos, ¿quién tendrá en cuenta?. Fué despreciado y abandonado de los hombres,
+varón de dolores y familiarizado de los hombres. (Is. 53, 8, 3). ***Ave María***
 
-4. Jn. 18, 36
+7. Mas nuestros sufrimientos él los ha llevado, nuestros dolores él los cargó sobre sí, (Is. 53, 4). ***Ave María***
 
-_Avemaría_
+8. Fué traspasado por causa de nuestros pecados, molido por causa de nuestras iniquidades; (Is. 53, 5). ***Ave María***
 
-5. Jn. 18, 37-38
+8. mientras nosotros le tuvimos por azotado, por herido de Dios y abatido. (Is. 53, 4). ***Ave María***
 
-_Avemaría_
-
-6. Jn. 19, 1
-
-_Avemaría_
-
-7. Sal 129,3
-
-_Avemaría_
-
-8. Lm 3,1-3
-
-_Avemaría_
-
-9. Sir 2,5
-
-_Avemaría_
-
-10. Is. 53, 5
+10. el castigo de nuestra paz cayó sobre Él y por sus verdugones se nos curó. (Is. 53, 5). ***Ave María***
 
 ***Avemaría***
 
@@ -426,43 +396,35 @@ Entonces los soldados del gobernador, tomando a Jesús y conduciéndole al preto
 
 ***Paternoster***
 
-1. Is 53,2
+1. Los soldados se lo llevaron dentro del palacio, que es el pretorio, y convocan a toda la cohorte (Mc. 15, 16).
+Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana (Mt. 27, 28). ***Ave María***
 
-_Avemaría_
+2. y trenzando una corna de espinas, la pusieron sobre la cabeza, y una caña en la mano derecha; (Mt. 27, 29). 
+***Ave María***
 
-2. Is 53,3
+3. y doblando la rodilla delante de Él, le mofaban, diciendo: «Salud, Rey de los judíos». (Mt. 27, 29). 
+***Ave María***
 
-_Avemaría_
+4. Y escupiendo en Él, tomaron la caña y le daba golpes en la cabeza. (Mt 27, 30). 
+***Ave María***
 
-3. Entonces los soldados del gobernador, tomando a Jesús y conduciéndole al pretorio, reunieron en torno a Él toda la cohorte. Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana. Mateo 27, 27-28.
+5. Salió Pilato otra vez fuera, y les dice: «Ved, os le traigo para que conozcáis que no hallo en Él delito alguno». (Jn. 19, 4). 
+***Ave María***
 
-_Avemaría_
+6. Salió, pues, Jesús afuera, llevando la corona de espinas y el manto de púrpura. Y les dice: «ved aquí el hombre». (Jn. 19, 5). 
+***Ave María***
 
-4. y trenzando una corona de espinas, la pusieron sobre su cabeza, y una caña en su mano derecha; y doblando la rodilla delante de Él, le mofaban, diciendo: «Salud, Rey de los judíos». Y escupiendo en Él, tomaron la caña y le daban golpes en la cabeza. Mateo 27, 29-30.
+7. Y les dice: «ved aquí el hombre». Gritaron, pues, ellos: «quita, quita; crucifícale». (Jn. 19, 5, 15). 
+***Ave María***
 
-_Avemaría_
+8. Pilato, queriendo dar satisfacción a la turba les soltó a Barrabás. Y entregó a Jesús, después de azotarle, para que fuese crucificado. (Mc. 15, 14). 
+***Ave María***
 
-5. Ec 3,18
+9. Díceles Pilato: «¿A vuestro rey he de crucificar?». Respondieron los pontífices: «no tenemos rey, sino César». (Jn. 19, 15). 
+***Ave María***
 
-_Avemaría_
-
-6. Juan 19, 11
-
-_Avemaría_
-
-7. Juan 19, 112
-
-_Avemaría_
-
-8. Juan 19, 14
-
-_Avemaría_
-
-9. Juan 19, 15
-
-_Avemaría_
-
-10. Ec 2,5
+10. Entonces, pués, se le entregó para que fuera crucificado. Se apoderaron, pues, de Jesús. (Jn. 19, 16). 
+***Ave María***
 
 ***Avemaría***
 
@@ -486,43 +448,32 @@ Lucas. 23, 26
 
 ***Paternoster***
 
-1. Lm 4,1
+1. Gritaron, pues, ellos: «Quita, quita, crucifícale». Díceles Pilato: «¿A vuestro rey voy he de crucificar?». Respondieron los pontífices: «No tenemos rey,
+sino César». Entonces, pues, se le entregó para que fuera crucificando. Se apoderaron, pues, de Jesús. (Jn. 19, 15-16). ***Ave María***
 
-_Avemaría_
+2. Me han rodeado de un vallado y no puedo salir, me han aherrojado con pesadas cadena. Aunque grito y pido auxilio, ha cerrado el paso
+a mi plegaria. Ha obstruido mis caminos con piedras sillares, mis senderos han hecho instransitables. Lm 3,7-9. ***Ave María***
 
-2. Lc. 9, 23
+3. Vagaron vacilantes como ciegos por las calles, manchados de sangre, sin que nadie pudiera tocar sus vestiduras. «¡Apartaos!¡Un impuro!,
+les gritaban. ¡Apartaos, apartaos!¡No toquéis!» Cuando huyieron y vagaron vacilantes, decíase entre las naciones: «¡no pueden quedarse [aquí]!» 
+(Lm 4,14-15). ***Ave María***
 
-_Avemaría_
+4. Si alguno quiere venir en pos de Mí, niégese a sí mismo y tome a cuestas su cruz cada día y sígame. (Lc. 9, 23). ***Ave María***
 
-3. Jn. 19, 17
+5. y, llevando a cuestas su cruz, salió hacia el lugar llamado el Cráneo, que en hebreo se dice Gólgota. (Jn. 19, 17). ***Ave María***
 
-_Avemaría_
+6. Y como le hubieron sacado, echaron mano de un tal Simón de Cirene que venía del campo, le pusieron en hombros la cruz para que la llevase
+detrás de Jesús. (Lc. 23, 26). ***Ave María***
 
-4. Lc. 23, 26
+7. Tomad mi yugo sobre vuestros, y aprended de mi, pues soy manso y humilde de Corazón, y hallaréis reposo para vuestras almas.
+Porque mi yugo es suave, y mi carga, ligera. (Mt. 11, 29-30). ***Ave María***
 
-_Avemaría_
+8. Seguíanle gran mucheduncbre de pueblo y de mujeres, las cuales le plañían y lamentaban. (Lc. 23, 27). ***Ave María***
 
-5. Mt. 11, 29
+9. Volviéndose Jesús a ellas, les dijo: «Hijas de Jerusalén: no lloréis sobre mi, sino llorad má bien sobre vosotras mismas y sobre
+vuestros hijos». (Lc. 23, 28). ***Ave María***
 
-_Avemaría_
-
-6. Mt. 11; 29, 30
-
-_Avemaría_
-
-7. Lc. 23, 28
-
-_Avemaría_
-
-8. Lc. 23, 28
-
-_Avemaría_
-
-9. Lc. 23, 31
-
-_Avemaría_
-
-10.
+10. «Porque si en el leño verde esto hacen, ¿en el seco qué se hará?». (Lc. 23, 31). ***Ave María*** 
 
 ***Avemaría***
 
@@ -548,43 +499,28 @@ Y, dicho esto, expiró. Lucas 23, 44-46.
 
 ***Paternoster***
 
-1. Lc. 23, 33
+  1. Y cuando hubieron llegado al lugar llamado «Cráneo», allí crucificaron a Él y a los malhechores, uno a la derecha y el otro a la izquierda. 
+  (Lc. 23, 33). ***Ave María***
 
-_Avemaría_
+  2. Y Jesús decía: «Padre, perdónalos, porque no saben lo que hacen». (Lc. 23, 34). ***Ave María***
 
-2. Lc. 23, 34
+  3. Uno de los malhechores que estaba colgado decía a Jesús: «acuérdate de mi cuando vinieres en la gloria de tu realeza». 
+  (Lc. 23, 39, 42). ***Ave María***
 
-_Avemaría_
+  4. Díjole: «en verdad te digo que hoy estarás conmigo en el paraíso». (Lc. 23, 43). ***Ave María***
 
-3. Mt. 27, 44; Lc. 23; 39, 42
+  5. Jesús, pues, viendo a la Madre, y junto a ella al discípulo a quien amaba, (Jn. 19, 26). ***Ave María***
 
-_Avemaría_
+  6. dice a tu Madre: «mujer, he ahí a tu hijo». Luego dice al discípulo: «He aquí a tu Madre». (Jn. 19, 26-27). ***Ave María***
 
-4. Lc. 23, 43
+  7. Y desde aquella hora la tomó el discípulo en su compañía. (Jn. 19, 27). ***Ave María***
 
-_Avemaría_
- 
-5. Jn. 19, 26
+  8. Y era ya como la hora sexta, y se produjeron tinieblas sobre toda la tierra hasta la hora nona, 
+  habiendo faltado el sol; y se rasgó por medio el velo del santuario. (Lc. 23, 44-45). ***Ave María***
 
-_Avemaría_
+  9. Y clamando con voz poderosa, Jesús dijo: «Padre, en tus manos encomiendo mis espíritu». (Lc. 23, 46 ). ***Ave María***
 
-6. Jn. 19, 26-27
-
-_Avemaría_
-
-7. Jn. 19, 27
-
-_Avemaría_
-
-8. Lc. 23, 45
-
-_Avemaría_
-
-9. Lc. 23, 46
-
-_Avemaría_
-
-10. Jn. 19,30
+  10. Jesús dijo: «Consumado está». E inclinando la cabeza entregó el espíritu. (Jn. 19, 30). ***Ave María***
 
 ***Avemaría***
 
@@ -616,43 +552,32 @@ Lucas 24, 10.
 
 ***Paternoster***
 
-1. Jn. 16, 20
+1. «En verdad, en verdad os digo que vosotros lloraréis y os lamentaréis, y el mundo se rogocijará;
+vosotros os afligiréis, pero vuestra aflicción está de parto». (Jn. 16, 20). ***Ave María***
 
-_Avemaría_
+2. «Pues así también vosotros, ahora cierto tenéis congoja; mas otra vez os veré, y se gozará vuestro corazon,
+y vuestro gozo nadie os lo quita». (Jn. 16, 22). ***Ave María***
 
-2. Jn. 16, 22
+3. Más el primer día de la semana, apenas rayó el alba, se vinieron al monumento llevando consigo los aromas
+que habían preparado. (Lc. 24, 1). ***Ave María***
 
-_Avemaría_
+4. De pronto se produjo un gran temblor de tierra, pues un ángel del Señor, bajado de cielo y acercándose, hizo rodar
+de su sitio la losa, y se sentó sobre ella. (Mt. 28, 2). ***Ave María***
 
-3. Lc. 24, 1
+5. Tomando la palabra el ángel, dijo a las mujeres: «no tengáis miedo vosotras, que ya sé que buscáis a Jesús el crucificado». 
+(Mt. 28, 5). ***Ave María***
 
-_Avemaría_
+6. «no está aquí; resucitó, como dijo. Venid, ved el lugar dode estuvo puesto». (Mt. 28, 6)
 
-4. Mt. 28, 2
+7. «Y marchando a toda prisa, decid a sus discípulos que resucitó de entre los muertos, y he aquí que se os adelanta en ir a Galilea:
+allí le veréis. Conque os lo tengo dicho». (Mt. 28, 7). ***Ave María***
 
-_Avemaría_
+8. Y partiendo a toda prisa del monumento, con temor y grande gozo corrieron a dar la nueva a sus discípulos. 
+(Mt. 28, 8). ***Ave María***
 
-5. Mt. 28, 5
+9. «Yo soy la resurección y la vida; quien cree en mi, aun cuando muera, vivirá». (Jn. 11, 25). ***Ave María***
 
-_Avemaría_
-
-6. Mt. 28, 6
-
-_Avemaría_
-
-7. Mt. 28, 7
-
-_Avemaría_
-
-8. Mt. 28, 8
-
-_Avemaría_
-
-9. Jn. 11, 25
- 
-_Avemaría_
-
-10. Jn. 11,26
+10. «y todo el que vive y cree en mi, no morirá para siempre. ¿Crees esto?». (Jn. 11,26). ***Ave María***
 
 ***Avemaría***
 
@@ -676,43 +601,25 @@ adorando a Dios. Lucas 24, 50-52.
 
 ***Paternoster***
 
-1. Lc. 24,50
+1. Y los sacó afuera hasta llegar junto a Betania, y alzando sus manos los bendijo. (Lc. 24, 50). ***Ave María***
 
-_Avemaría_
+2. Y acercándose Jesús, les habló diciendo: «Me fué dada toda potestad en el cielo y sobre la tierra». (Mt. 28, 18). ***Ave María***
 
-2. Mt. 28, 18
+3. «Id, pues, amaestrad a todas las gentes». (Mt. 28, 19). ***Ave María***
 
-_Avemaría_
+4. «bautizándoles en el nombre del Padre y del Hijo y del Espíritu Santo». (Mt. 28, 19). ***Ave María***
 
-3. Mt. 28, 19
+5. «enseñándoles a guardar todas cuantas cosas os ordené». (Mt. 28, 20). ***Ave María***
 
-_Avemaría_
+6. El que creyere y fuere bautizado, se salvará; (Mc. 16, 16). ***Ave María***
 
-4. Mt. 28, 20
+7. mas el que no creyere, será condenado. (Mc. 16, 16). ***Ave María***
 
-_Avemaría_
+8. «Y sabed que estoy con vosotros todos los días hasta la consumación de los siglos» (Mt. 28, 20). ***Ave María***
 
-5. Mc. 16, 16
+9. Y aconteció que, mientras los bendecía, se desprendió de ellos, y era llevado en alto al cielo. (Lc. 24, 51). ***Ave María***
 
-_Avemaría_
-
-6. Mt. 82, 20
-
-_Avemaría_
-
-7. Lc. 24, 51
-
-_Avemaría_
-
-8. Mc. 16,19
-
-_Avemaría_
-
-9.
-
-_Avemaría_
-
-10.
+10. Con esto el Señor Jesús, despues de hablarles, fue elevado al cielo y se sentó a la diestra de Dios. (Mc. 16, 19). ***Ave María***
 
 ***Avemaría***
 
@@ -736,41 +643,30 @@ posaban sobre cada uno de ellos. Hechos 2, 1-4.
 
 ***Paternoster***
 
-1. Hch. 2, 1
+1. Y al cumplirse el día de Pentecostés, estaban todos juntos en el mismo lugar. (Hch. 2, 1). ***Ave María***
 
-_Avemaría_
+2. Y se produjo de súbito desde el cielo un estruendo como de viento que soplaba vehemente, u llenó toda la casa
+donde se hallaban sentados. (Hch. 2, 2). ***Ave María***
 
-2. Hch. 2, 2
+3. Y vieron aparecer lenguas como de fuego, que, repartiéndose, se posaban sobre cada uno de ellos. (Hch. 2, 3). ***Ave María***
 
-_Avemaría_
+4. Y se llenaron todos del Espíritu Santo, y comenzaron a hablar en lenguas diferentes, según que el Espíritu Santo les movía
+a expresarse. (Hch. 2, 4). ***Ave María***
 
-3. Hch. 2, 3
+5. Hallábanse en Jerusalén judíos allí domiciliados, hombres religiosos de toda nación de las que están debajo del cielo. (Hch. 2, 5). ***Ave María***
 
-_Avemaría_
+6. Puesto de pie Pedro, acompañado de los Once, alzó en voz y les habló en estos términos. (Hch. 2, 14). ***Ave María***
 
-4. Hch. 2, 4
+7. «Arrepentíos, dice, y bautícese cada uno de vosotros en el nombre del Jesu-Cristo para remisión de vuestros pecados, y recibiréis el don
+del Espíritu Santo». (Hch. 2, 38). ***Ave María***
 
-_Avemaría_
+8. Ellos, pues, acogieron su palabra, fueron bautizados; y fueron agragados en aqueñ día como unas tres mil almas. (Hch. 2,41). ***Ave María***
 
-5. Hch. 2, 5
+9. SI tu Espíritu envías, son creados, y la faz de la tierra así renuevas. (Sal. 104, 30). ***Ave María***
 
-_Avemaría_
+10. ¡Ven, Espíritu Santo, y desde el Cielo envía rayos de tu virtud!¡!Ven, Padre de los pobres!¡Ven, Dador de tus Dones!¡Ven, de almas luz!. ***Ave María***
 
-6. Hch. 2, 14
-
-_Avemaría_
-
-7. Hch. 2, 38
-
-_Avemaría_
-
-8. Hch. 2,41
-
-_Avemaría_
-
-9. Sal. 104, 30
-
-_Avemaría_
+***Ave María***
 
 10. Ven, ¡oh Espíritu Santo!, llena los corazones de
 tus fieles; y enciende en ellos el fuego de tu Amor.
@@ -798,43 +694,28 @@ conocimiento y santa esperanza. Eclesiástico 24, 14.16.24.
 
 ***Paternoster***
 
-1. Jdt. 13, 18
+1. Bendita tú, hija, ante el Dios Altísimo sobre todas las mujeres de la tierra\ldots (Jdt. 13, 18). ***Ave María***
 
-_Avemaría_
+2. Pues no se apartará etérnamente tu esperanza del corazón de los hombre\ldots (Jdt. 13, 19). ***Ave María***
 
-2. Jdt. 13, 19
+3. Y esto haga contigo Dios para eterno encubrimiento, que te visite con sus bienes; por cuanto no perdonate
+a tu vida, lastimada por la humillación de nuestro linaje\ldots (Jdt. 13, 20). ***Ave María***
 
-_Avemaría_
+4. {\ldots}Tú eres enaltecimiento de Jerusalén, tú gloria grande de Israel, tú grande honor de nuestro linaje. (Jdt. 15, 9). ***Ave María***
 
-3. Jdt. 13, 20
+5. Oye, hija, mira; tu oído aplica; tu pueblo olvida y la mansión paterna; deja que tu hermosura
+el rey codicie, que es tu señor. A él le doblega. (Sal. 45; 11-12). ***Ave María***
 
-_Avemaría_
+6. Y se abrió el templo de Dios, que está en el cielo, y fué vista el arca de la alianza en el templo,
+y se produjeron relámpagos, y voces, y truenos, y temblor de tierra, y fuerte granizada. (Ap. 11, 19). ***Ave María***
 
-4. Jdt. 15, 9
+7. Y una gran señal fué vista en el cielo: una Mujer vestida del sol\ldots (Ap. 12, 1). ***Ave María***
 
-_Avemaría_
+8. {\ldots}y la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas. (Ap. 12, 1). ***Ave María***
 
-5. Sal. 35; 11, 12
+9. Del rey la hija toda hermosa entra; vestidos áureos se adorno son. (Sal. 45, 14). ***Ave María***
 
-_Avemaría_
-
-6. Ap. 11, 19
-
-_Avemaría_
-
-7. Ap. 12, 1
-
-_Avemaría_
-
-8. Ap. 12, 1
-
-_Avemaría_
-
-9. Sal. 45, 14
-
-_Avemaría_
-
-10. Sal. 98, 1
+10. Entonad a Yahveh cántico nuevo, que portentos ha obrado. Su diestra le ha traído la victoria y aquel su brazo santo. (Sal. 98, 1). ***Ave María***
 
 ***Avemaría***
 
@@ -859,41 +740,38 @@ no pecarán. Los que me esclarecen tendrán vida eterna. Eclesiástico 24, 25.30
 
 ***Paternoster***
 
-1. Cant. 6, 10
+1. ¿Quién es esa que aparece resplandeciente como la aurora, hermosa cual luna, deslumbradora como el sol, imponente como batallones? 
+(Cant. 6, 10). ***Ave María***
 
-_Avemaría_
+2. Como el arco iris, que se aparece en las nubes; como flor entre el ramaje en días primaverales, como azucena junto
+a la corriente de las aguas, como las flores del Líbano en días de verano; como el incienso que arde sobre la ofrenda,
+como el vaso de oro fínamente trabajado. (Eclo. 50, 8-9). ***Ave María***
 
-2. Eclo. 50,8-9
+3. Yo soy la madre del amor, del temor, de la ciencia y de la santa esperanza. 
+(Eclo. 24, 24). ***Ave María***
 
-_Avemaría_
+4. EN mi está toda la gracia del camino y de la verdad, en mi toda esperanza de la vida y de la virtud. 
+(Eclo. 24, 25). ***Ave María***
 
-3. Eclo. 24, 24
+5. Venid a mí cuantos me deseáis y saciaos de mis frutos. 
+(Eclo. 24, 26). ***Ave María***
 
-_Avemaría_
+6. Porque recordarme es más dulce que la miel, y poseerme más rico que el panal de miel. 
+(Eclo. 24, 27). ***Ave María***
 
-4. Eclo. 24, 25
+7. Ahora, pues, hijos míos, oídme; y felices quienes guardan mis caminos. Escochad la corrección y sed sabios, 
+(Prov. 8, 32-33). ***Ave María***
 
-_Avemaría_
+8. y no la rechacéis. Feliz el hombre que me escucha, velando a mis puertas cada día, guardando las jambas de mis entradas. 
+(Prov. 8, 33-34). ***Ave María***
 
-5. Eclo. 24, 26
+9. Pues quien me halla, ha hallado la vida y alcanza el favor de Yahveh. Más quien peca contra mi, se perjudica a si mismo,
+y cuantos me odian aman la muerte. (Prov. 8, 35). ***Ave María***
 
-_Avemaría_
+10. Tiene Él escrito en su vestido y en su manto Rey de reyes y Señor de los que dominan (Ap. 18, 16).
+Está la Reina a su derecha, adornada con oro finísimo (Sal. 44, 10). ***Ave María***
 
-6. Eclo. 24, 27
-
-_Avemaría_
-
-7. Prov. 8, 32-33
-
-_Avemaría_
-
-8. Prov. 8, 33-34
-
-_Avemaría_
-
-9. Prov. 8, 35
-
-_Avemaría_
+***Ave María***
 
 10. Salve, oh Reina de la Misericordia, líbranos del
 enemigo, y recíbenos en la hora de la muerte. (Gradual

@@ -1,0 +1,5 @@
+---
+documentclass: report
+papersize: a4
+output: pdf_document
+...
