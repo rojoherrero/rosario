@@ -1,6 +1,6 @@
 ---
 title: "Santo Rosario"
-author: "Sergio Rojo Herrero"
+author: "Sergio"
 date: "Julio 2019"
 keywords: [Santo Rosario, Catolicismo]
 ...
@@ -709,9 +709,11 @@ el rey codicie, que es tu señor. A él le doblega. (Sal. 45; 11-12). ***Ave Mar
 6. Y se abrió el templo de Dios, que está en el cielo, y fué vista el arca de la alianza en el templo,
 y se produjeron relámpagos, y voces, y truenos, y temblor de tierra, y fuerte granizada. (Ap. 11, 19). ***Ave María***
 
-7. Y una gran señal fué vista en el cielo: una Mujer vestida del sol\ldots (Ap. 12, 1). ***Ave María***
+7. Antes de los siglos, desde el principio me creó y hasta la eternidad no cesaré. He arraigado en pueblo ilustre, en la porción del Señor, heredad suya.
+(Eclo 24, 14.16). ***Ave María***
 
-8. {\ldots}y la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas. (Ap. 12, 1). ***Ave María***
+8. Yo soy la madre de la hermosa dilección, y del temor, y del conocimiento y santa esperanza. Doy con todas estas cosas los bienes eternos a mis hijos
+y a los por Él designados. (Eclo 24, 24-25). ***Ave María***
 
 9. Del rey la hija toda hermosa entra; vestidos áureos se adorno son. (Sal. 45, 14). ***Ave María***
 
@@ -722,7 +724,6 @@ y se produjeron relámpagos, y voces, y truenos, y temblor de tierra, y fuerte g
 ***Gloria***
 
 ***
-
 
 <a id="finalAsuncion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
@@ -743,39 +744,34 @@ no pecarán. Los que me esclarecen tendrán vida eterna. Eclesiástico 24, 25.30
 1. ¿Quién es esa que aparece resplandeciente como la aurora, hermosa cual luna, deslumbradora como el sol, imponente como batallones? 
 (Cant. 6, 10). ***Ave María***
 
-2. Como el arco iris, que se aparece en las nubes; como flor entre el ramaje en días primaverales, como azucena junto
+2. Yo soy la madre del amor, del temor, de la ciencia y de la santa esperanza. En mi está toda la gracia del camino y de la verdad, 
+en mi toda esperanza de la vida y de la virtud. (Eclo. 24, 24-25). ***Ave María***
+
+3. Venid a mí cuantos me deseáis y saciaos de mis frutos. Porque recordarme es más dulce que la miel, y poseerme más rico que el panal de miel. 
+(Eclo. 24, 26-27). ***Ave María***
+
+4. ¿Quién es esa que aparece resplandeciente como la aurora, hermosa cual luna, deslumbradora como el sol, imponente como batallones?
+(Cnt 6,10). ***Ave María***
+
+5. Quién me obedece no se avergonzará y los que obran por no pecarán. Los que me esclarecen tendrán vida eterna.
+(Eclo. 24, 30-31). ***Ave María***
+
+6. Como el arco iris, que se aparece en las nubes; como flor entre el ramaje en días primaverales, como azucena junto
 a la corriente de las aguas, como las flores del Líbano en días de verano; como el incienso que arde sobre la ofrenda,
 como el vaso de oro fínamente trabajado. (Eclo. 50, 8-9). ***Ave María***
 
-3. Yo soy la madre del amor, del temor, de la ciencia y de la santa esperanza. 
-(Eclo. 24, 24). ***Ave María***
-
-4. EN mi está toda la gracia del camino y de la verdad, en mi toda esperanza de la vida y de la virtud. 
-(Eclo. 24, 25). ***Ave María***
-
-5. Venid a mí cuantos me deseáis y saciaos de mis frutos. 
-(Eclo. 24, 26). ***Ave María***
-
-6. Porque recordarme es más dulce que la miel, y poseerme más rico que el panal de miel. 
-(Eclo. 24, 27). ***Ave María***
-
-7. Ahora, pues, hijos míos, oídme; y felices quienes guardan mis caminos. Escochad la corrección y sed sabios, 
+7. Ahora, pues, hijos míos, oídme; y felices quienes guardan mis caminos. Escochad la corrección y sed sabios, y no la rechacéis.
 (Prov. 8, 32-33). ***Ave María***
 
-8. y no la rechacéis. Feliz el hombre que me escucha, velando a mis puertas cada día, guardando las jambas de mis entradas. 
-(Prov. 8, 33-34). ***Ave María***
+8. Feliz el hombre que me escucha, velando a mis puertas cada día, guardando las jambas de mis entradas. Pues quien me halla, ha hallado la vida y alcanza
+el favor de Yahveh. Mas quién peca contra mi, se perjudica a si mismo, y cuantos me odian aman la muerte
+(Prov. 8, 34-35). ***Ave María***
 
-9. Pues quien me halla, ha hallado la vida y alcanza el favor de Yahveh. Más quien peca contra mi, se perjudica a si mismo,
-y cuantos me odian aman la muerte. (Prov. 8, 35). ***Ave María***
+9. Y una gran señal fué vista en el cielo: una Mujer vestida del sol, y la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas.
+(Ap 12, 1). ***Ave María***
 
-10. Tiene Él escrito en su vestido y en su manto Rey de reyes y Señor de los que dominan (Ap. 18, 16).
-Está la Reina a su derecha, adornada con oro finísimo (Sal. 44, 10). ***Ave María***
-
-***Ave María***
-
-10. Salve, oh Reina de la Misericordia, líbranos del
-enemigo, y recíbenos en la hora de la muerte. (Gradual
-M. de B. V M).
+10. Tiene Él escrito en su vestido y en su manto Rey de reyes y Señor de los que dominan. Está la Reina a su derecha, adornada con oro finísimo.
+(Ap. 18, 16|Sal. 44, 10). ***Ave María***
 
 ***Avemaría***
 
