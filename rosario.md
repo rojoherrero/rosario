@@ -76,6 +76,7 @@ sanctam Ecclésiam cathólicam, Sanctórum communiónem, remisiónem peccatórum
 ## Misterios Gozosos (Lunes y Jueves)
 
 ### La Anunciación de la Santísima Virgen María
+
 ...fué enviado el Ángel Gabriel de parte de Dios a una ciudad de Galilea, llamada Nazaret, a una doncella desposada con un varón llamada José, 
 de la familia de David, y el nombre de la doncella era María. Y habiendo entrado a ella, dijo: «Dios te salve, llena de gracia, el Señor es contigo, 
 bendita tu entre las mujeres». Ella, al oír estas palabras, se turbó, y discurría que podría ser esta salucatión. 
@@ -123,6 +124,7 @@ y el poder del Altísimo te cobijará con su sombra; por lo cual también lo que
 necesitadas
 
 ### La Visitación de Nuestra Señora
+
 Por aquellos días, levantándose María, se dirigió presurosa a la montaña, a un ciudad de Judá, y entró en la casa de Zacarías y saludó a Isabel.
 Y aconteció que, al oir Isabel la salutación de María, dió saltos de gozo el niño en su seno, y fue llena Isabel del Espíritu Santo, y levantó la voz con gran
 clamor y dijo: «Bendita tu entre las mujeres y bendito el fruto de tu vientre. ¿Y de dónde a mí esto que venga la madre de mi Señor a mí?». 
@@ -166,6 +168,7 @@ porque hizo en mi favor grandes cosas el Poderoso, (Lc. 1, 48-49) ***Ave María*
 necesitadas
             
 ### La Natividad de Nuestro Señor Jesucristo
+
 Y dió a luz su hijo primogénito, y le envolvió en pañales y le recostó en un pesebre, pues no había para ellos lugar en el mesón. Y había unos pastores 
 en aquella misma comarca, que pernoctaban al raso y velaban por turno para guardar su ganado, y un ángel del Señor se presentó ante ellos. Y les dijo el Ángel: 
 «No tenáis, pues he aquí que os traigo una buena nueva, que será de grande alegría para todo el pueblo: que os ha nacido hoy en la ciudad de David
@@ -208,6 +211,7 @@ Y entrando en la casa, vieron al niño con María, su madre; (Mt. 2, 1, 11) ***A
 necesitadas
 
 ### La Presentación del Niño Jesús en el Templo
+
 Y cuando se les cunplieron los días de la purificación según la ley de Moisés^[Levítico 12, 6], le subieron a Jerusalen para presentarle al Señor, según está escrito
 en la Ley del Señor que «todo primogénito del sexo masculino será consagrado al Señor^[Éxodo 13, 2; 12, 15]», y para ofrecer como sacrificio, según lo que 
 se ordena en la Ley del Señor, «un par de tórtolas o dos palominos^[Levítico 12, 8; 5, 11]». 
@@ -255,6 +259,7 @@ y se robustecía llenándose de sabiduría, y la gracia de Dios estaba en Él. (
 necesitadas
     
 ### La Pérdida y Hallazgo del Niño Jesús en el Templo
+
 Y no hallándole, se tornaron a Jerusalén para burcarle. Y sucedió que después de tres días le hallaron en el templo, sentado en medio de los maestros,
 escuchándolos y haciéndoles preguntas; y se pasmaban todos los que le oían de su inteligencia y de sus respuestas. Y sus padres padres, al verle, quedaron
 sorprendidos; y le dijo su madre: «Hijo, ¿por qué lo niciste así con nosotros? Mira que tu padre y yo, llenos de aflicción, te andábamos buscando». 
@@ -301,13 +306,9 @@ cosas en su corazón. (Lc. 2, 51) ***Ave María***
 ## Misterios Dolorosos (Martes y Viernes)
 
 ### La Agonía de Nuestro Señor en el Huerto de los Olivos
-Y saliendo de allí, se dirigió, según costrumbre, al monte de los Olivos; y le siguieron también los discípulos.
-Y Él, arrancándose de ellos, se apartó a la distancia como de un tiro de piedra, y puesto de rodillas oraba. 
-Y venido en agonía, oraba más intensamente. Y se hizo su sudor como grumos de sangre, que caían hasta el suelo
-Estando Él hablando todavía, he aquí una turba, y el que se llamaba Judas, uno de los Doce, iba delante de ellos. Y se llegó a Jesús para besarle.
-Mas Jesús le dijo: «¡Judas! ¿Con un beso entregas al Hijo del hombre?». 
+Y llegan a una granja, cuyo nombre es Getsemaní, y dice a sus discípulos: «sentaos aquí mientras hago oración». Y lleva consigo a Pedro y a Santiagoy a Juan, y comenzó a sentir espanto y abatimiento; y le dice: «triste en gran manera está mi corazón hasta la muerte; quedad aquí y velad». Y apartándose un poco, caía sobre tierra, y rogaba que, a ser posible, pasase el Él aquella hora, y decía: «Abba, Padre, todas las cosas te son posibles: traspasa de mi este cáliz; más no se haga lo que yo quiero, sino lo que tú». Y viene, y los halla durmiendo, y dice a Pedro: «¡Simón!¿Duermes?¿No pudiste velar una hora? Velad y orad para que no entréis en tentación; el espíritu, sí, está pronto, más la carne es flaca». Y luego, estando Él hablando todavía, se presenta Judas, uno de los Doce, y con él una turba con espadas y bastones, de parte de los escribas y los ancianos. Y así que llegó, luego acercándose dijo: «Rabí». Y le dió un fuerte beso. Ellos le echaron las manos y le sujetaron.Y abandonándole, huyeron todos
 
-<p style="text-align: right">Lucas 22, 39.41.44.47-48.</p>
+<p style="text-align: right">Mc. 14,32-38.43.45-46.50 </p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalAgonia)
 
@@ -315,26 +316,29 @@ Mas Jesús le dijo: «¡Judas! ¿Con un beso entregas al Hijo del hombre?».
 
 ***Paternoster***
 
-1. Entonces llego Jesús con ellos a una granja llamada Getsemaní, y dice a los discípulos: «Sentaos aquí mientras voy allá para hacer oración». 
-Y llevando consigo a Pedro y a los dos hijos de Zebedeo, comenzó a ponerse triste y a sentir abatimiento. (Mt. 26, 36-37) ***Ave María***
 
-2. Entonces les dice: «triste em gran manera está mi alma hasta la muerte; quedad aquí y velad conmigo». (Mt. 26, 38) ***Ave María***
 
-3. Y adelantándose un poco, caía sobre la tierra, y rogaba que, a ser posible, pasase de Él aquella hora. (Mc. 14, 35) ***Ave María***
+1. Túrbanme voces contrarias y del malo el clamoreo. Descenturas me acumulan; me acometen con despecho; mi corazón se retuerce y parvor de muerte siento. 
+(Sal 55,4-5 ***Ave María***
 
-4. diciendo: «Padre, si quieres, traspasa de mi este cáliz; mas no se haga mi voluntad, sino la tuya». (Lc. 22, 42) ***Ave María***
+2. Y llegan a una granja, cuyo nombre es Getsemaní, y dice a sus discípulos: «sentaos aquí mientras hago oración». (Mc. 14,32) 
 
-5. Y se le apareció un ángel venido del cielo, que le confortaba. (Lc. 22, 43) ***Ave María***
+3. Y lleva consigo a Pedro y a Santiago y a Juan, y comenzó a sentir espanto y abatimiento; y le dice: «triste en gran manera está mi corazón hasta la muerte; quedad aquí y velad». (Mc. 14,33-34) ***Ave María***
 
-6. Y venido en agonía, oraba más intensamente. (Lc. 22, 44) ***Ave María***
+4. Y apartándose un poco, caía sobre tierra, y rogaba que, a ser posible, pasase el Él aquella hora, y decía: «Abba, Padre, todas las cosas te son posibles: traspasa de mi este cáliz; más no se haga lo que yo quiero, sino lo que tú». (Mc. 14,35-36) ***Ave María***
 
-7. Y se hizo su sudor como grumos de sangre, que caían hasta el suerlo. (Lc. 22, 44) ***Ave María***
+5. Y viene, y los halla durmiendo, y dice a Pedro: «¡Simón!¿Duermes?¿No pudiste velar una hora? Velad y orad para que no entréis en tentación; el espíritu , sí, está pronto, más la carne es flaca». (Mc. 14,37-38) ***Ave María***
 
-8. Y viene a los discípulos y los halla durmiendo, y dice a Pedro: «¿así no pudísteis velar una hora conmigo?». (Mt. 26, 40) ***Ave María***
+6. Y de nuevo habiéndse retirado se puso a orar, repitiendo las mismas palabras. Y volviendo los halló otra vez durmiendo, porque estaban sus ojos cargados, y no qué responderle 
+(Mc. 14,39-40) ***Ave María***
 
-9. «Velad y orad, para que no entréis en tentación;». (Mt. 26, 41) ***Ave María***
+7. Y viene tercera vez y les dice: «Ya por mi, dormid y descansad... Ya está: llegó la hora; he aquí que es entregado el Hijo del hombre en las manos de los pecadores. Levantaos, vamos; mirad, el que me entrega está aquí cerca» (Mc. 14,41-42) ***Ave María***
 
-10. «el espíritu sí, está animoso, más la carne es flaca». (Mt. 26, 41) ***Ave María***
+8. Y luego, estando Él hablando todavía, se presenta Judas, uno de los Doce, y con él una turba con espadas y bastones, de parte de los escribas y los ancianos. Y así que llegó, luego acercándose dijo: «Rabí». Y le dió un fuerte beso. Ellos le echaron las manos y le sujetaron. (Mc. 14,43.45-46) ***Ave María*** 
+
+9. En aquella hora dijo Jesús a las turbas: «¡cómo contra un salteador habéis salido con espadas y bastones a prenderme! Cada día en el templo me sentaba para enseñar, y no me predisteis». (Mt. 26, 55) ***Ave María***
+
+10. «Mas todo esto ha pasado para que se cumplan las Escrituras de los profetas». Entonces los discípulo todos, abandonándole, huyeron. (Mt. 26, 56) ***Ave María***
 
 ***Gloria***
 
@@ -343,12 +347,13 @@ Y llevando consigo a Pedro y a los dos hijos de Zebedeo, comenzó a ponerse tris
 <a id="finalAgonia"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
 ### La flagelación de Nuestro Señor Jesucristo
+
 Entonces, pues, tomó Pilato a Jesús y le azotó.
 
 Fue despreciado y abandonado de los hombres, varón de dolores y familiarizado con el sufrimiento, y como uno ante el cual
 se oculta el rostro, le despreciamos y no le estimamos.
 
-<p style="text-align: right">Juan 19, 1 | Isaías 53, 5.</p>
+<p style="text-align: right">Juan 19, 1 <br /> Isaías 53, 5.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalFlagelacion)
 
@@ -392,11 +397,11 @@ varón de dolores y familiarizado de los hombres. (Is. 53, 8, 3) ***Ave María**
 
 Entonces los soldados del gobernador, tomando a Jesús y conduciéndole al pretorio, reunieron en torno a Él toda la cohorte. Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana, y trenzando una corona de espinas, la pusieron sobre su cabeza, y una caña en su mano derecha; y doblando la rodilla delante de Él, le mofaban, diciendo: «Salud, Rey de los judíos». Y escupiendo en Él, tomaron la caña y le daban golpes en la cabeza.
 
-<p style="text-align: right">Isaías 53, 5.Mateo 27, 27-30.</p>
+<p style="text-align: right">Mateo 27, 27-30.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalCoronacion)
 
-***
+---
 
 ***Paternoster***
 
@@ -582,7 +587,7 @@ necesitadas
 
 Y los sacó afuera hasta llegar junto a Betania, y alzando sus manos los bendijo. Y aconteció que, mientras los bendecía, se desprendió de ellos,
 y era llevado en alto al cielo. Y ellos, habiéndole adorado, se tornaron a Jerusalén con grande gozo, y estaban continuamente en el templo
-adorando a Dios. 
+adorando a Dios.
 
 <p style="text-align: right">Lucas 24, 50-52.</p>
 
@@ -721,7 +726,7 @@ Y una gran señal fué vista en el cielo: una Mujer vestida del sol, y la luna d
 Doy con todas estas cosas los bienes eternos a mis hijos y a los por Él designados. Quién me obedece no se avergonzará y los que obran por
 no pecarán. Los que me esclarecen tendrán vida eterna. 
 
-<p style="text-align: right">Apocalipsis 12, 1 | Eclesiástico 24, 25.30-31.</p>
+<p style="text-align: right">Apocalipsis 12, 1 <br /> Eclesiástico 24, 25.30-31.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria, [¡Oh Jesús mío!](#finalCoronacion)
 

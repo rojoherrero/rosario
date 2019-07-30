@@ -7,9 +7,11 @@ echo ODT generated
 echo Generating HTML;
 pandoc rosario.md -s -o output/${current_date_time}_rosario.html --ascii;
 echo HTML generated;
-echo Generating EPUB
-pandoc rosario.md -s -o output/${current_date_time}_rosario.epub;
-echo EPUG generated
+echo Generating MOBI
+pandoc rosario.md -s -o output/temp_rosario.epub;
+ebook-convert output/temp_rosario.epub output/${current_date_time}_rosario.mobi;
+echo MOBI generated
 echo Generating PDF;
-ebook-convert output/${current_date_time}_rosario.epub output/${current_date_time}_rosario.pdf;
+ebook-convert output/temp_rosario.epub output/${current_date_time}_rosario.pdf;
 echo PDF generated;
+rm output/temp_rosario.epub;
