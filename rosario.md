@@ -69,7 +69,7 @@ sanctam Ecclésiam cathólicam, Sanctórum communiónem, remisiónem peccatórum
 
 <div class="centered">
 [Misterios Gozosos (Lunes y Jueves)](#gozo) | [Misterios Dolorosos (Martes y Viernes)](#dolor) 
-[Misterios Gloriosos (Miércoles, Sábados y Domingos)](#alegria)
+[Misterios Gloriosos (Miércoles, Sábados y Domingos)](#gloria)
 </div>
 
 ## Misterios Gozosos (Lunes y Jueves) {#gozo}
@@ -272,7 +272,7 @@ sorprendidos; y le dijo su madre: «Hijo, ¿por qué lo niciste así con nosotro
 ## Misterios Dolorosos (Martes y Viernes) {#dolor}
 
 ### La Agonía de Nuestro Señor en el Huerto de los Olivos
-Y llegan a una granja, cuyo nombre es Getsemaní, y dice a sus discípulos: «sentaos aquí mientras hago oración». Y lleva consigo a Pedro y a Santiagoy a Juan, y comenzó a sentir espanto y abatimiento; y le dice: «triste en gran manera está mi corazón hasta la muerte; quedad aquí y velad». Y apartándose un poco, caía sobre tierra, y rogaba que, a ser posible, pasase el Él aquella hora, y decía: «Abba, Padre, todas las cosas te son posibles: traspasa de mi este cáliz; más no se haga lo que yo quiero, sino lo que tú». Y viene, y los halla durmiendo, y dice a Pedro: «¡Simón!¿Duermes?¿No pudiste velar una hora? Velad y orad para que no entréis en tentación; el espíritu, sí, está pronto, más la carne es flaca». Y luego, estando Él hablando todavía, se presenta Judas, uno de los Doce, y con él una turba con espadas y bastones, de parte de los escribas y los ancianos. Y así que llegó, luego acercándose dijo: «Rabí». Y le dió un fuerte beso. Ellos le echaron las manos y le sujetaron.Y abandonándole, huyeron todos
+Y llegan a una granja, cuyo nombre es Getsemaní, y dice a sus discípulos: «sentaos aquí mientras hago oración». Y lleva consigo a Pedro y a Santiago y a Juan, y comenzó a sentir espanto y abatimiento; y le dice: «triste en gran manera está mi corazón hasta la muerte; quedad aquí y velad». Y apartándose un poco, caía sobre tierra, y rogaba que, a ser posible, pasase el Él aquella hora, y decía: «Abba, Padre, todas las cosas te son posibles: traspasa de mi este cáliz; más no se haga lo que yo quiero, sino lo que tú». Y viene, y los halla durmiendo, y dice a Pedro: «¡Simón!¿Duermes?¿No pudiste velar una hora? Velad y orad para que no entréis en tentación; el espíritu, sí, está pronto, más la carne es flaca». Y luego, estando Él hablando todavía, se presenta Judas, uno de los Doce, y con él una turba con espadas y bastones, de parte de los escribas y los ancianos. Y así que llegó, luego acercándose dijo: «Rabí». Y le dió un fuerte beso. Ellos le echaron las manos y le sujetaron.Y abandonándole, huyeron todos
 
 <p style="text-align: right">Mc. 14,32-38.43.45-46.50 </p>
 
@@ -280,26 +280,26 @@ Y llegan a una granja, cuyo nombre es Getsemaní, y dice a sus discípulos: «se
 
 ***
 
-1. ***Paternoster*** | Túrbanme voces contrarias y del malo el clamoreo. Descenturas me acumulan; me acometen con despecho; mi corazón se retuerce y parvor de muerte siento. (Sal 55,4-5) | ***Ave María***
+1. ***Paternoster*** | Hijo, si te acercares a servir al Señor Dios, prepara tu alma a la tentación Gobierna tu corazón y muéstrate firme y no te apresures en tiempo de evasión. (Ece 2,1-2) | ***Ave María***
 
-2. Y llegan a una granja, cuyo nombre es Getsemaní, y dice a sus discípulos: «sentaos aquí mientras hago oración». (Mc. 14,32) 
+2. Y llegan a una granja, cuyo nombre es Getsemaní, y dice a sus discípulos: «sentaos aquí mientras hago oración». Y lleva consigo a Pedro y a Santiago y a Juan, y comenzó a sentir espanto y abatimiento; y le dice: «triste en gran manera está mi corazón hasta la muerte; quedad aquí y velad» (Mc. 14,32-34) | ***Ave María***
 
-3. Y lleva consigo a Pedro y a Santiago y a Juan, y comenzó a sentir espanto y abatimiento; y le dice: «triste en gran manera está mi corazón hasta la muerte; quedad aquí y velad». (Mc. 14,33-34) | ***Ave María***
+3. Y apartándose un poco, caía sobre tierra, y rogaba que, a ser posible, pasase el Él aquella hora, y decía: «Abba, Padre, todas las cosas te son posibles: traspasa de mi este cáliz; más no se haga lo que yo quiero, sino lo que tú». (Mc. 14,35-36) | ***Ave María***
 
-4. Y apartándose un poco, caía sobre tierra, y rogaba que, a ser posible, pasase el Él aquella hora, y decía: «Abba, Padre, todas las cosas te son posibles: traspasa de mi este cáliz; más no se haga lo que yo quiero, sino lo que tú». (Mc. 14,35-36) | ***Ave María***
+4. Y viene, y los halla durmiendo, y dice a Pedro: «¡Simón!¿Duermes?¿No pudiste velar una hora? Velad y orad para que no entréis en tentación; el espíritu , sí, está pronto, más la carne es flaca». (Mc. 14,37-38) | ***Ave María***
 
-5. Y viene, y los halla durmiendo, y dice a Pedro: «¡Simón!¿Duermes?¿No pudiste velar una hora? Velad y orad para que no entréis en tentación; el espíritu , sí, está pronto, más la carne es flaca». (Mc. 14,37-38) | ***Ave María***
-
-6. Y de nuevo habiéndse retirado se puso a orar, repitiendo las mismas palabras. Y volviendo los halló otra vez durmiendo, porque estaban sus ojos cargados, y no qué responderle 
+5. Y de nuevo habiéndse retirado se puso a orar, repitiendo las mismas palabras. Y volviendo los halló otra vez durmiendo, porque estaban sus ojos cargados, y no qué responderle 
 (Mc. 14,39-40) | ***Ave María***
 
-7. Y viene tercera vez y les dice: «Ya por mi, dormid y descansad... Ya está: llegó la hora; he aquí que es entregado el Hijo del hombre en las manos de los pecadores. Levantaos, vamos; mirad, el que me entrega está aquí cerca» (Mc. 14,41-42) | ***Ave María***
+6. Y viene tercera vez y les dice: «Ya por mi, dormid y descansad... Ya está: llegó la hora; he aquí que es entregado el Hijo del hombre en las manos de los pecadores. Levantaos, vamos; mirad, el que me entrega está aquí cerca» (Mc. 14,41-42) | ***Ave María***
 
-8. Y luego, estando Él hablando todavía, se presenta Judas, uno de los Doce, y con él una turba con espadas y bastones, de parte de los escribas y los ancianos. Y así que llegó, luego acercándose dijo: «Rabí». Y le dió un fuerte beso. Ellos le echaron las manos y le sujetaron. (Mc. 14,43.45-46) | ***Ave María*** 
+7. Y luego, estando Él hablando todavía, se presenta Judas, uno de los Doce, y con él una turba con espadas y bastones, de parte de los escribas y los ancianos. Y así que llegó, luego acercándose dijo: «Rabí». Y le dió un fuerte beso. Ellos le echaron las manos y le sujetaron. (Mc. 14,43.45-46) | ***Ave María*** 
 
-9. En aquella hora dijo Jesús a las turbas: «¡cómo contra un salteador habéis salido con espadas y bastones a prenderme! Cada día en el templo me sentaba para enseñar, y no me predisteis». (Mt. 26, 55) | ***Ave María***
+8. En aquella hora dijo Jesús a las turbas: «¡cómo contra un salteador habéis salido con espadas y bastones a prenderme! Cada día en el templo me sentaba para enseñar, y no me predisteis. Mas todo esto ha pasado para que se cumplan las Escrituras de los profetas». Entonces los discípulo todos, abandonándole, huyeron». (Mt. 26, 55-56)
 
-10. «Mas todo esto ha pasado para que se cumplan las Escrituras de los profetas». Entonces los discípulo todos, abandonándole, huyeron. (Mt. 26, 56) | ***Ave María*** y ***Gloria***
+9. No volverá atrás la colerá de Yahveh hasta que ejecute y lleve a efecto los dedignios de su corazón; al fin de los tiempos adquiriréis de ello inteligencia (Jer 23,20) | ***Ave María***
+
+10. [Y Samuel exclamó:] «¿Acaso se complace Yahveh tanto en holocaustos y sacrificios cuanto en que se obedezca su voz? He aquí que la obediencia vale más que el sacrificio y la docilidad más que la grosura de carneros» (1 Sam 15,22) | ***Ave María*** y ***Gloria***
 
 ***
 
@@ -307,12 +307,11 @@ Y llegan a una granja, cuyo nombre es Getsemaní, y dice a sus discípulos: «se
 
 ### La flagelación de Nuestro Señor Jesucristo
 
-Entonces, pues, tomó Pilato a Jesús y le azotó.
+«Yo no hallo en Él delito alguno. Es costumbre vuestra que yo os suelte un preso por la Pascua: ¿queréis, pues, que os suelte al rey de los Judíos?». Gritaron, pues, de nuevo, diciendo: «No, a ése, sino a Barrabás». Era este Barrabás un salteador. Entonces, pues, tomó Pilato a Jesús y le azotó.
 
-Fue despreciado y abandonado de los hombres, varón de dolores y familiarizado con el sufrimiento, y como uno ante el cual
-se oculta el rostro, le despreciamos y no le estimamos.
+Fué traspasado por causa de nuestros pecados, molido por causa de nuestra iniquidades; el castigo [precio] de nuestra paz cayó sobre Él y por sus verdugones se nos curó.
 
-<p style="text-align: right">Juan 19, 1 <br /> Isaías 53, 5.</p>
+<p style="text-align: right">Juan 18,38-40;19, 1 <br /> Isaías 53, 5.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalFlagelacion)
 
@@ -322,27 +321,26 @@ se oculta el rostro, le despreciamos y no le estimamos.
 le llevaron de allí y le entregaron a Pilato. Y le interrogó Pilato: «¿Tú eres el Rey de los judíos?». El le respondió: «Tú lo dices». 
 (Mc. 15, 1-2) | ***Ave María***
 
-2. Respondió: «Mi reino no es de este mundo. Si de este mundo fuera mi reino, mis ministros lucharían para que yo no fuera entregado a los judíos
+2. Respondió Jesús: «Mi reino no es de este mundo. Si de este mundo fuera mi reino, mis ministros lucharían para que yo no fuera entregado a los judíos
 Más ahora mi reino no es de aquí». (Jn. 18, 36) | ***Ave María***
 
-3. Díjole, pues, Pilato: «¿luego, rey eres tu?». Respondión Jesús : «Tú dices que yo soy rey. Yo para eso he nacido y para esto he venido
+3. Díjole, pues, Pilato: «¿luego, rey eres tu?». Respondió Jesús: «Tú dices que yo soy rey. Yo para eso he nacido y para esto he venido
 al mundo: para dar testimonio a favor de la verdad. Todo el que es de la verdad, oye mi voz». (Jn. 18, 37) | ***Ave María***
 
-4. Pilato dijo a los sumos sacerdotes y a los turbas: «ningún delito hallo en este hombre. 
-Le castigaré, pues, y le soltaré». (Lc. 23, 4, 16) | ***Ave María***
+4. Dícele Pilato: «¿Qué es verdad?». Dicho esto, de nuevo, salió a los judíos y les dice: «Yo no hallo en Él delito alguno. Es costumbre vuestra que yo os suelte un preso por la Pascua: ¿queréis, pues, que os suelte al rey de los Judíos?». Gritaron, pues, de nuevo, diciendo: «No, a ése, sino a Barrabás». Era este Barrabás un salteador. (Jn. 18, 38-40) | ***Ave María***
 
 5. Entonces, pues, tomó Pilato a Jesús y le azotó. (Jn. 19, 1) | ***Ave María***
 
 6. De opresión u juicio fué tomado, y a sus contemporáneos, ¿quién tendrá en cuenta?. Fué despreciado y abandonado de los hombres,
 varón de dolores y familiarizado de los hombres. (Is. 53, 8, 3) | ***Ave María***
 
-7. Mas nuestros sufrimientos él los ha llevado, nuestros dolores él los cargó sobre sí, (Is. 53, 4) | ***Ave María***
+7. (Sab 2,14-15) | ***Ave María***
 
-8. Fué traspasado por causa de nuestros pecados, molido por causa de nuestras iniquidades; (Is. 53, 5) | ***Ave María***
+8. Fué traspasado por causa de nuestros pecados, molido por causa de nuestra iniquidades; el castigo [precio] de nuestra paz cayó sobre Él y por sus verdugones se nos curó; (Is. 53, 5) | ***Ave María***
 
-8. mientras nosotros le tuvimos por azotado, por herido de Dios y abatido. (Is. 53, 4) | ***Ave María***
+8. (Lm 1,12) | ***Ave María***
 
-10. el castigo de nuestra paz cayó sobre Él y por sus verdugones se nos curó. (Is. 53, 5) | ***Ave María*** y ***Gloria***
+10. (Lm 1,13) | ***Ave María*** y ***Gloria***
 
 ***
 
@@ -470,9 +468,9 @@ necesitadas
 
 [Confíteor](#confíteor)
 
-## Misterios Gloriosos (Miércoles, Sábados y Domingos)
+## Misterios Gloriosos (Miércoles, Sábados y Domingos) {#gloria}
 
-### La Resurección del Señor {#alegria}
+### La Resurección del Señor
 
 Pasado el sábado, cuando alboreaba, el primer día de la semana, vino María Magdalena y la otra María a ver el sepulcro. De pronto se produjo un gran temblor de tierra, pues un ángel del Señor, bajado de cielo y acercándose, hizo rodar de su sitio la losa, y se sentó sobre ella. Era su aspecto como 
 relámpago, y su vestidura blanca como la nieve. Tomando la palabra el ángel, dijo a las mujeres: «no tengáis miedo vosotras, que ya sé que buscáis a Jesús el crucificado; no está aquí; resucitó, como dijo. Venid, ved el lugar donde estuvo puesto Y marchando a toda prisa, decid a sus discípulos que resucitó de entre los muertos, y he aquí que se os adelanta en ir a Galilea: allí le veréis. Conque os lo tengo dicho». Y partiendo a toda prisa del monumento, con temor y grande gozo corrieron a dar la nueva a sus discípulos.
