@@ -11,7 +11,7 @@ En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.
 
 _In Nómine Pátris, et Filii, et Spíritus Sancti. Amen._
 
-## Padrenuestro (Oración Dominical)
+## Padrenuestro (Oración Dominical) {#padrenuestro}
 
 Padre Nuestro que estás en los cielos, santificado sea tu Nombre. Venga a nosotros tu Reino. Hágase tu voluntad, así en la tierra como
 en el cielo. El pan nuestro de cada día dánosle hoy. Y perdónamos nuestras deuda, así como nosotros perdonamos a nuestros deudores.
@@ -21,7 +21,7 @@ _Pater noster, qui es in cœlis, sanctifificétur nomen tuum. Advéniat regnum t
 Panem nóstrum quotidiánum da nobis hódie. Et dimite nosbis debita nostra, sicut et nos dimittimus debitóribus nostris. Et ne nos indúcas
 in tentatiónem: sed libera nos a malo. Amen._
 
-## Avemaría (Salutación Evangélica)
+## Avemaría (Salutación Evangélica) {#avemaria}
 
 Dios de salve, María, llena eres de gracia, el Señor es contigo; dendita eres entre todas las mujeres, y bendito es el fruto de tu
 vientre, Jeeús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahora u en el hora de nuestra muerte. Amén.
@@ -29,7 +29,7 @@ vientre, Jeeús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahor
 _Ave María, grátia plena, Dóminus tecum; benedicta tu in muliéribus, et benedictum fructus ventris tui, Jesus.
 Sancta Maria, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostræ. Amen._
 
-## Gloria Patri
+## Gloria Patri {#gloria}
 
 V. Gloria al Padre, al Hijo, y al Espíritu Santo.  
 R. Como era en el principio, ahora, y siempre, y por los siglos de los siglos. Amén.
@@ -37,7 +37,7 @@ R. Como era en el principio, ahora, y siempre, y por los siglos de los siglos. A
 _V. Gloria Patri, et Filio, et Spíritui Sancto._  
 _R. Sicut erat in pcincípio et nunc, et semper et in sæcula sæculórum, Amen._
 
-## Confíteor
+## Confíteor {#confiteor}
 
 Yo pecador me confieso a Dios todopoderoso, a la bienaventurada siempre Virgen María, al bienaventurado San Miguel Arcángel,
 al bienaventurado San Juan Bautista, a los Santos Apóstoles Pedro y Pablo, y a todos los Santos, porque pequé gravemente de 
@@ -54,7 +54,7 @@ Sanctos, et te, pater, oráre pro me ad Dóminum Deum nostrum.
 R. Misereátur nostri omnipotens Deus, et dimissis pecátis nostris, perdúcat nos ad vitam ætérnam. Amen.  
 V. Indulgéntiam, absolutiónem, et remissiónem pecatórum nostrórum, tribuat nobis omnipotens et miséricors Dóminus. Amen._
 
-## Credo Apostólico (Símbolo de los Apóstoles)
+## Credo Apostólico (Símbolo de los Apóstoles) {#credo}
 
 Creo en Dios, Padre todopoderoso. Creador del cielo y de la tierra. Y en Jesucristo, su único Hijo, Nuestro Señor, que fue concebido por
 obra y gracia del Espíritu Santo; nació de Santa María Vírgen; padeció bajo el poder de Poncio Pilato, fue crucificado, muerto y sepultado;
@@ -68,13 +68,13 @@ a mórtuis: ascéndit ad cœlos, sedet ad dexteram Dei Patris omnipoténtis; ind
 sanctam Ecclésiam cathólicam, Sanctórum communiónem, remisiónem peccatórum, carnis resurrectiónem, vitam ætérnam. Amen._
 
 <div class="centered">
-[Misterios Gozosos (Lunes y Jueves)](#gozo) | [Misterios Dolorosos (Martes y Viernes)](#dolor) 
-[Misterios Gloriosos (Miércoles, Sábados y Domingos)](#gloria)
+[Misterios Gozosos (Lunes y Jueves)](#gozosos) | [Misterios Dolorosos (Martes y Viernes)](#dolorosos) 
+[Misterios Gloriosos (Miércoles, Sábados y Domingos)](#gloriosos)
 </div>
 
-## Misterios Gozosos (Lunes y Jueves) {#gozo}
+## Misterios Gozosos (Lunes y Jueves) {#gozosos}
 
-### La Anunciación de la Santísima Virgen María
+### La Anunciación de la Santísima Virgen María {#anunciacion}
 
 [En el sexo mes] fué enviado el Ángel Gabriel de parte de Dios a una ciudad de Galilea, llamada Nazaret, a una doncella desposada con un varón llamada José, 
 de la familia de David, y el nombre de la doncella era María. Y habiendo entrado a ella, dijo: «Dios te salve, llena de gracia, el Señor es contigo, 
@@ -83,7 +83,7 @@ Y le dijo el ángel: «No temas, María, pues hallaste gracia a los ojos de Dios
 daras por nombre Jesús. Este será grande, y será llamado Hijo del Altísimo, y le dará el Señor Dios el trono de DAvid su padre, y reinará sobre 
 la casa de Jacob etérnamete, y su reinado no tendrá fin». 
 
-<p style="text-align: right">Lucas 1, 27-33.</p>
+<p class="right">Lucas 1, 27-33.</p>
 
 1 Paternoster, 10 Avemarías,  1 Gloria y [¡Oh Jesús mío!](#finalAnunciacion)
 
@@ -114,12 +114,12 @@ la casa de Jacob etérnamete, y su reinado no tendrá fin».
 <a id="finalAnunciacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
-### La Visitación de Nuestra Señora
+### La Visitación de Nuestra Señora {#visitacion}
 
 Por aquellos días, levantándose María, se dirigió presurosa a la montaña, a un ciudad de Judá, y entró en la casa de Zacarías y saludó a Isabel.
 Y aconteció que, al oir Isabel la salutación de María, dió saltos de gozo el niño en su seno, y fue llena Isabel del Espíritu Santo, y levantó la voz con gran clamor y dijo: «Bendita tu entre las mujeres y bendito el fruto de tu vientre. ¿Y de dónde a mí esto que venga la madre de mi Señor a mí? Porque he aquí que. como sonó la voz de tu salutación en mi oídos, dió saltos de alborozo el niño en mi seno. Y dichosa la que creyó que tendrá cumplimiento las cosas que le han sido dichas de parte del Señor.
 
-<p style="text-align: right">Lucas 1, 39-45.</p>
+<p class="right">Lucas 1, 39-45.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalVisitacion)
 
@@ -150,14 +150,14 @@ de Zacarías y saludó a Isabel. (Lc. 1, 39-40) | ***Ave María***
 
 <a id="finalVisitacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
             
-### La Natividad de Nuestro Señor Jesucristo
+### La Natividad de Nuestro Señor Jesucristo {#natividad}
 
 Y dió a luz su hijo primogénito, y le envolvió en pañales y le recostó en un pesebre, pues no había para ellos lugar en el mesón. Y había unos pastores 
 en aquella misma comarca, que pernoctaban al raso y velaban por turno para guardar su ganado, y un ángel del Señor se presentó ante ellos. Y les dijo el Ángel: 
 «No tenáis, pues he aquí que os traigo una buena nueva, que será de grande alegría para todo el pueblo: que os ha nacido hoy en la ciudad de David
 un Salvador, que es el Mesías, el Señor». 
 
-<p style="text-align: right">Lucas 2, 7.8.10-11.</p>
+<p class="right">Lucas 2, 7.8.10-11.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalNatividad)
 
@@ -189,19 +189,19 @@ un Salvador, que es el Mesías, el Señor».
 <a id="finalNatividad"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
-### La Presentación del Niño Jesús en el Templo
+### La Presentación del Niño Jesús en el Templo {#presentacion}
 
 Y cuando se les cunplieron los días de la purificación según la ley de Moisés^[Levítico 12, 6], le subieron a Jerusalen para presentarle al Señor, según está escrito
 en la Ley del Señor que «todo primogénito del sexo masculino será consagrado al Señor^[Éxodo 13, 2; 12, 15]», y para ofrecer como sacrificio, según lo que 
 se ordena en la Ley del Señor, «un par de tórtolas o dos palominos^[Levítico 12, 8; 5, 11]». 
 
-<p style="text-align: right">Lucas 2, 22-24.</p>
+<p class="right">Lucas 2, 22-24.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalPresentacion)
 
 ***
 
-1. ***Paternoster*** | (Sal 132,8)  | ***Ave María***
+1. ***Paternoster*** | ¡Alzaos, oh vosotras las puertas eternales, para que el Rey de la gloria entre!¿Y quién es este Rey de la gloria? El Señor fuerte, Señor [fuerte] y potente, poderoso en la liza(Sal 24,7-8)  | ***Ave María***
 
 2. Habló después Yahveh a Moises diciendo: «Conságradme todo primogénito; todo primer nacido entre los hijos de Israel, tanto en hombres como en animales es mío»(Ex. 13,1-2) | ***Ave María***
 
@@ -211,10 +211,9 @@ se ordena en la Ley del Señor, «un par de tórtolas o dos palominos^[Levítico
 según está escrito en la Ley del Señor que «todo primogénito del sexo masculino será consagrado al Señor», y para ofrecer como sacrificio, 
 según lo que se ordena en la Ley del Señor, «un par de tórtolas o dos palominos (Lc. 2, 22-24) | ***Ave María***
 
-5. Proseguí viendo en la visión nocturna, y he aquí que en las nubes del cielo venía como un hombre, y llegó hasta el anciano y fué llevado aste Él. (Dan 7,13) | ***Ave María***
+5. Proseguí viendo en la visión nocturna, y he aquí que en las nubes del cielo venía como un hombre, y llegó hasta el anciano y fué llevado hasta Él. (Dan 7,13) | ***Ave María***
 
-6. y he aquí había un hombre en Jerusalén por nombre Simeón. Y era este hombre justo y temeroso de Dios que aguardaba la consolación de Israel, 
-y el Espíritu Santo estaba sobre él; (Lc. 2, 25) | ***Ave María***
+6. y he aquí había un hombre en Jerusalén por nombre Simeón. Y era este hombre justo y temeroso de Dios que aguardaba la consolación de Israel, y el Espíritu Santo estaba sobre él; (Lc. 2, 25) | ***Ave María***
 
 7. y le había sido revelado por el Espíritu Santo que no vería la muerte antes de ver al Ungido del Señor. (Lc. 2, 26) | ***Ave María***
 
@@ -231,13 +230,13 @@ y se robustecía llenándose de sabiduría, y la gracia de Dios estaba en Él. (
 <a id="finalPresentacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
     
-### La Pérdida y Hallazgo del Niño Jesús en el Templo
+### La Pérdida y Hallazgo del Niño Jesús en el Templo {#perdida}
 
 Y no hallándole, se tornaron a Jerusalén para burcarle. Y sucedió que después de tres días le hallaron en el templo, sentado en medio de los maestros,
 escuchándolos y haciéndoles preguntas; y se pasmaban todos los que le oían de su inteligencia y de sus respuestas. Y sus padres padres, al verle, quedaron
 sorprendidos; y le dijo su madre: «Hijo, ¿por qué lo niciste así con nosotros? Mira que tu padre y yo, llenos de aflicción, te andábamos buscando». 
 
-<p style="text-align: right">Lucas 2, 46-48.</p>
+<p class="right">Lucas 2, 46-48.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalPerdida)
 
@@ -269,12 +268,13 @@ sorprendidos; y le dijo su madre: «Hijo, ¿por qué lo niciste así con nosotro
 
 [Confíteor](#confíteor)
 
-## Misterios Dolorosos (Martes y Viernes) {#dolor}
+## Misterios Dolorosos (Martes y Viernes) {#dolorosos}
 
-### La Agonía de Nuestro Señor en el Huerto de los Olivos
+### La Agonía de Nuestro Señor en el Huerto de los Olivos {#huerto}
+
 Y llegan a una granja, cuyo nombre es Getsemaní, y dice a sus discípulos: «sentaos aquí mientras hago oración». Y lleva consigo a Pedro y a Santiago y a Juan, y comenzó a sentir espanto y abatimiento; y le dice: «triste en gran manera está mi corazón hasta la muerte; quedad aquí y velad». Y apartándose un poco, caía sobre tierra, y rogaba que, a ser posible, pasase el Él aquella hora, y decía: «Abba, Padre, todas las cosas te son posibles: traspasa de mi este cáliz; más no se haga lo que yo quiero, sino lo que tú». Y viene, y los halla durmiendo, y dice a Pedro: «¡Simón!¿Duermes?¿No pudiste velar una hora? Velad y orad para que no entréis en tentación; el espíritu, sí, está pronto, más la carne es flaca». Y luego, estando Él hablando todavía, se presenta Judas, uno de los Doce, y con él una turba con espadas y bastones, de parte de los escribas y los ancianos. Y así que llegó, luego acercándose dijo: «Rabí». Y le dió un fuerte beso. Ellos le echaron las manos y le sujetaron.Y abandonándole, huyeron todos
 
-<p style="text-align: right">Mc. 14,32-38.43.45-46.50 </p>
+<p class="right">Mc. 14,32-38.43.45-46.50 </p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalAgonia)
 
@@ -305,20 +305,19 @@ Y llegan a una granja, cuyo nombre es Getsemaní, y dice a sus discípulos: «se
 
 <a id="finalAgonia"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
-### La flagelación de Nuestro Señor Jesucristo
+### La flagelación de Nuestro Señor Jesucristo {#flagelacion}
+
+Y luego al amanecer, después de celebrar consejo, los sumos sacerdotes con los ancianos y los escribas, es decir, todo el sanhedrín, atando a Jesús, le llevaron de allí y le entregaron a Pilato. Y le interrogó Pilato: «¿Tú eres el Rey de los judíos?». El le respondió: «Tú lo dices».
 
 «Yo no hallo en Él delito alguno. Es costumbre vuestra que yo os suelte un preso por la Pascua: ¿queréis, pues, que os suelte al rey de los Judíos?». Gritaron, pues, de nuevo, diciendo: «No, a ése, sino a Barrabás». Era este Barrabás un salteador. Entonces, pues, tomó Pilato a Jesús y le azotó.
 
-Fué traspasado por causa de nuestros pecados, molido por causa de nuestra iniquidades; el castigo [precio] de nuestra paz cayó sobre Él y por sus verdugones se nos curó.
-
-<p style="text-align: right">Juan 18,38-40;19, 1 <br /> Isaías 53, 5.</p>
+<p class="right">Mc. 15, 1-2<br />Juan 18,38-40;19,1</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalFlagelacion)
 
 ***
 
-1. ***Paternoster*** | Y luego al amanecer, después de celebrar consejo, los sumos sacerdotes con los ancianos y los escribas, es decir, todo el sanhedrín, atando a Jesús,
-le llevaron de allí y le entregaron a Pilato. Y le interrogó Pilato: «¿Tú eres el Rey de los judíos?». El le respondió: «Tú lo dices». 
+1. ***Paternoster*** | Y luego al amanecer, después de celebrar consejo, los sumos sacerdotes con los ancianos y los escribas, es decir, todo el sanhedrín, atando a Jesús, le llevaron de allí y le entregaron a Pilato. Y le interrogó Pilato: «¿Tú eres el Rey de los judíos?». El le respondió: «Tú lo dices».
 (Mc. 15, 1-2) | ***Ave María***
 
 2. Respondió Jesús: «Mi reino no es de este mundo. Si de este mundo fuera mi reino, mis ministros lucharían para que yo no fuera entregado a los judíos
@@ -334,132 +333,117 @@ al mundo: para dar testimonio a favor de la verdad. Todo el que es de la verdad,
 6. De opresión u juicio fué tomado, y a sus contemporáneos, ¿quién tendrá en cuenta?. Fué despreciado y abandonado de los hombres,
 varón de dolores y familiarizado de los hombres. (Is. 53, 8, 3) | ***Ave María***
 
-7. (Sab 2,14-15) | ***Ave María***
+7. Hízose para nosotros censura de nuestros criterios: pesado es para nosotros aun el verlo; pues discordante de los otros es su vida, y muy otros sus caminos. (Sab 2,14-15) | ***Ave María***
 
 8. Fué traspasado por causa de nuestros pecados, molido por causa de nuestra iniquidades; el castigo [precio] de nuestra paz cayó sobre Él y por sus verdugones se nos curó; (Is. 53, 5) | ***Ave María***
 
-8. (Lm 1,12) | ***Ave María***
+8. ¡Oh vosotros kis que pasáis por el camino, mirad y ved si hay dolor semejante al dolor que me hiere, pues me ha afligido Yahveh en el día del ardor de su cólera. !(Lm 1,12) | ***Ave María***
 
-10. (Lm 1,13) | ***Ave María*** y ***Gloria***
+10. Yo soy el varón que ha visto la aflicción bajo el látigo de su cólera. Me ha guiado y conducido en tiniebla, sin luz; sólo contra mi vuelve y revuelve su mano todo el día. (Lm 3,1-3) | ***Ave María*** y ***Gloria***
 
 ***
 
 <a id="finalFlagelacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
-### La coronación de espinas de Nuestro Señor Jesucristo
+### La coronación de espinas de Nuestro Señor Jesucristo {#coronacion}
 
 Entonces los soldados del gobernador, tomando a Jesús y conduciéndole al pretorio, reunieron en torno a Él toda la cohorte. Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana, y trenzando una corona de espinas, la pusieron sobre su cabeza, y una caña en su mano derecha; y doblando la rodilla delante de Él, le mofaban, diciendo: «Salud, Rey de los judíos». Y escupiendo en Él, tomaron la caña y le daban golpes en la cabeza.
 
-<p style="text-align: right">Mateo 27, 27-30.</p>
+<p class="right">Mateo 27, 27-30.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalCoronacion)
 
 ***
 
-1. ***Paternoster*** | Los soldados se lo llevaron dentro del palacio, que es el pretorio, y convocan a toda la cohorte (Mc. 15, 16)
-Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana (Mt. 27, 28) | ***Ave María***
+1. ***Paternoster*** | Del vestido miserable no te burles, ni te mofes de quien se halla en día aciago; porque maravillosas son las obras de Yahveh, y sus acciones son desconocidas de los hombres. (Eci 11,4) | ***Ave María***
 
-2. y trenzando una corna de espinas, la pusieron sobre la cabeza, y una caña en la mano derecha; (Mt. 27, 29) | ***Ave María***
+2. Entonces los soldados del gobernador, tomando a Jesús y conduciéndole al pretorio, reunieron en torno a Él toda la cohorte. Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana (Mt. 27, 28) | ***Ave María***
 
-3. y doblando la rodilla delante de Él, le mofaban, diciendo: «Salud, Rey de los judíos». (Mt. 27, 29) | ***Ave María***
+3. y trenzando una corna de espinas, la pusieron sobre la cabeza, y una caña en la mano derecha; (Mt. 27, 29) | ***Ave María***
 
-4. Y escupiendo en Él, tomaron la caña y le daba golpes en la cabeza. (Mt 27, 30) | ***Ave María***
+4. y doblando la rodilla delante de Él, le mofaban, diciendo: «Salud, Rey de los judíos». (Mt. 27, 29) | ***Ave María***
 
-5. Salió Pilato otra vez fuera, y les dice: «Ved, os le traigo para que conozcáis que no hallo en Él delito alguno». (Jn. 19, 4) | ***Ave María***
+5. Y escupiendo en Él, tomaron la caña y le daba golpes en la cabeza. (Mt 27, 30) | ***Ave María***
 
-6. Salió, pues, Jesús afuera, llevando la corona de espinas y el manto de púrpura. Y les dice: «ved aquí el hombre». (Jn. 19, 5) | ***Ave María***
+6. Hazte más pequeño cuanto más grande eres, y ante Dios hallarás gracia (Eci 3,18) | ***Ave María***
 
-7. Y les dice: «ved aquí el hombre». Gritaron, pues, ellos: «quita, quita; crucifícale». (Jn. 19, 5, 15) | ***Ave María***
+7. ¡Cuántos se horrorizarán ante él, pues desfiguración sin aspeto humano ofrece su aspecto y su figura no es como la de los hiujos de los hombres! (Is 52,14) | ***Ave María***
 
-8. Pilato, queriendo dar satisfacción a la turba les soltó a Barrabás. Y entregó a Jesús, después de azotarle, para que fuese crucificado. (Mc. 15, 14) | ***Ave María***
+8. Creció como un pimpollo delante de él, como raíz de tierra seca; no tiene apariencia ni belleza para que nos fijemos en él, ni aspecto para que en él nos complazcamos (Is 53,2) | ***Ave María***
 
-9. Díceles Pilato: «¿A vuestro rey he de crucificar?». Respondieron los pontífices: «no tenemos rey, sino César». (Jn. 19, 15) | ***Ave María***
+9. Fué despreciado y abandonado de los hombres, varón de dolores y familiarizado con el sufrimiento, y como una ante el cual se oculta el rostro, les despreciamos y no le estimamos. (Is 53,3) | ***Ave María***
 
-10. Entonces, pués, se le entregó para que fuera crucificado. Se apoderaron, pues, de Jesús. (Jn. 19, 16) | ***Ave María*** y ***Gloria***
+10. Mas nuestros sufrimientos él los ha llevado, nuestros dolores él los cargo sobre sí, mientras nosotros le tuvimos por azotado, por herido de Dios y abatido. (Is 53,4) | ***Ave María*** y ***Gloria***
 
 ***
 
 <a id="finalCoronacion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
-### Jesús con la Cruz a cuestas
+### Jesús con la Cruz a cuestas {#cruz}
 
 Entonces, pues, se le entregó para que fuera crucificando. Se apoderaron, pues, de Jesús, y llevándo a cuestas su cruz, salió hacia el lugar
-llamado el Cráneo, que en hebreo se dice Gólgota... 
+llamado el Cráneo, que en hebreo se dice Gólgota.
 
-<p style="text-align: right">Juan 19, 16-17.</p>
+<p class="right">Juan 19, 16-17.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalCruz)
 
 ***
 
-1. ***Paternoster*** | Gritaron, pues, ellos: «Quita, quita, crucifícale». Díceles Pilato: «¿A vuestro rey voy he de crucificar?». Respondieron los pontífices: «No tenemos rey,
-sino César». Entonces, pues, se le entregó para que fuera crucificando. Se apoderaron, pues, de Jesús. (Jn. 19, 15-16) | ***Ave María***
+1. ***Paternoster*** | Fue maltratado, mas el se doblegó y no abre la boca; como cordero llevado al matadero y cual oveja ante sus esquiladores enmudecida, y no abre la boca. (Is 53,7) | ***Ave María***
 
-2. Me han rodeado de un vallado y no puedo salir, me han aherrojado con pesadas cadena. Aunque grito y pido auxilio, ha cerrado el paso
-a mi plegaria. Ha obstruido mis caminos con piedras sillares, mis senderos han hecho instransitables. Lm 3,7-9. | ***Ave María***
+2. Me han rodeado de un vallado y no puedo salir, me han aherrojado con pesadas cadena. Aunque grito y pido auxilio, ha cerrado el paso a mi plegaria. Ha obstruido mis caminos con piedras sillares, mis senderos han hecho instransitables. (Lm 3,7-9) | ***Ave María***
 
-3. Vagaron vacilantes como ciegos por las calles, manchados de sangre, sin que nadie pudiera tocar sus vestiduras. «¡Apartaos!¡Un impuro!,
-les gritaban. ¡Apartaos, apartaos!¡No toquéis!» Cuando huyieron y vagaron vacilantes, decíase entre las naciones: «¡no pueden quedarse [aquí]!» 
-(Lm 4,14-15) | ***Ave María***
+3. Al cuello tenemos los acosadores, estamos fatigados, no tenemos reposo. Los jovenes han tenido que arrastrar muela, y los muchachos han vacilado y caído, cargados de leña. (Lm 5,5.13) | ***Ave María***
 
-4. Si alguno quiere venir en pos de Mí, niégese a sí mismo y tome a cuestas su cruz cada día y sígame. (Lc. 9, 23) | ***Ave María***
+4. Vagaron vacilantes como ciegos por las calles, manchados de sangre, sin que nadie pudiera tocar sus vestiduras. «¡Apartaos!¡Un impuro!, les gritaban. ¡Apartaos, apartaos!¡No toquéis!» Cuando huyieron y vagaron vacilantes, decíase entre las naciones: «¡no pueden quedarse [aquí]!». (Lm 4,14-15) | ***Ave María***
 
-5. y, llevando a cuestas su cruz, salió hacia el lugar llamado el Cráneo, que en hebreo se dice Gólgota. (Jn. 19, 17) | ***Ave María***
+5. Si alguno quiere venir en pos de Mí, niégese a sí mismo y tome a cuestas su cruz cada día y sígame. (Lc. 9, 23) | ***Ave María***
 
-6. Y como le hubieron sacado, echaron mano de un tal Simón de Cirene que venía del campo, le pusieron en hombros la cruz para que la llevase
-detrás de Jesús. (Lc. 23, 26) | ***Ave María***
+6. Gritaron, pues, ellos: «Quita, quita, crucifícale». Díceles Pilato: «¿A vuestro rey voy he de crucificar?». Respondieron los pontífices: «No tenemos rey, sino César». Entonces, pues, se le entregó para que fuera crucificando. Se apoderaron, pues, de Jesús. (Jn. 19, 15-16) | ***Ave María***
 
-7. Tomad mi yugo sobre vuestros, y aprended de mi, pues soy manso y humilde de Corazón, y hallaréis reposo para vuestras almas.
-Porque mi yugo es suave, y mi carga, ligera. (Mt. 11, 29-30) | ***Ave María***
+7. Y, llevando a cuestas su cruz, salió hacia el lugar llamado el Cráneo, que en hebreo se dice Gólgota. (Jn. 19, 17) | ***Ave María***
 
-8. Seguíanle gran mucheduncbre de pueblo y de mujeres, las cuales le plañían y lamentaban. (Lc. 23, 27) | ***Ave María***
+8. Y como le hubieron sacado, echaron mano de un tal Simón de Cirene que venía del campo, le pusieron en hombros la cruz para que la llevase detrás de Jesús. (Lc. 23, 26) | ***Ave María***
 
-9. Volviéndose Jesús a ellas, les dijo: «Hijas de Jerusalén: no lloréis sobre mi, sino llorad má bien sobre vosotras mismas y sobre
-vuestros hijos». (Lc. 23, 28) | ***Ave María***
+9. Tomad mi yugo sobre vuestros, y aprended de mi, pues soy manso y humilde de Corazón, y hallaréis reposo para vuestras almas. (Mt. 11, 29) | ***Ave María***
 
-10. «Porque si en el leño verde esto hacen, ¿en el seco qué se hará?». (Lc. 23, 31) | ***Ave María*** y ***Gloria***
+10. Porque mi yugo es suave, y mi carga, ligera. (Mt. 11, 30)  | ***Ave María*** y ***Gloria***
 
 ***
 
 <a id="finalCruz"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
-### La Crucifixión y Muerte del Redentor
+### La Crucifixión y Muerte del Redentor {#muerte}
 
-...en donde le crucificaron, y con Él otros dos, a una mano y a otra, y en medio Jesús.
-
-Y era ya como la hora sexta, y se produjeron tinieblas sobre toda la tierra hasta la hora nona, habiendo faltado el sol; y se rasgó por medio 
-el velo del santuario. Y clamando con voz poderosa, Jesús dijo: «Padre, en tus manos encomiendo mi espíritu\footnote{Sal. 30, 6}». 
-Y, dicho esto, expiró. 
-
-<p style="text-align: right">Juan 19, 18-19 | Lucas 23, 44-46.</p>
+Y cuando hubieron llegado al lugar llamado «Cráneo», allí crucificaron a Él y a los malhechores, uno a la derecha y otro a la izquierda. Y Jesús decía: «Padre, perdónales porque no saben lo que hacen». Y al repartir sus vestidos, echaron suertes. Había también por encima de Él una inscripción escrita en letras griegas, latinas y hebreas: ESTE ES EL REY DE LOS JUDIOS. Y clamando con voz poderosa, Jesús dijo: «Padre, en tus manos encomiendo mi espíritu». Y dicho esto, expiró.
+<p class="right">Lucas 23, 33-34.38.46</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalCrucifixiona)
 
 ***
 
-1. ***Paternoster*** | Y cuando hubieron llegado al lugar llamado «Cráneo», allí crucificaron a Él y a los malhechores, uno a la derecha y el otro a la izquierda. (Lc. 23, 33) | ***Ave María***
+1. ***Paternoster*** | Y respondió Abraham: «Dios proveerá de cordero para el holocausto, hijo mío» (Gn. 22, 8) | ***Ave María***
 
-2. Y Jesús decía: «Padre, perdónalos, porque no saben lo que hacen». (Lc. 23, 34) | ***Ave María***
+2. Y cuando hubieron llegado al lugar llamado «Cráneo», allí crucificaron a Él y a los malhechores, uno a la derecha y el otro a la izquierda. Y Jesús decía: «Padre, perdónalos, porque no saben lo que hacen». Y al repartir sus vestidos, echaron suertes. (Lc. 23, 33-34) | ***Ave María***
 
-3. Uno de los malhechores que estaba colgado decía a Jesús: «acuérdate de mi cuando vinieres en la gloria de tu realeza». 
-(Lc. 23, 39, 42) | ***Ave María***
+3. Había también por encima de Él una inscripción escrita en letras griegas, latinas y hebreas: ESTE ES EL REY DE LOS JUDIOS. (Lc. 23, 38) | ***Ave María***
 
-4. Díjole: «en verdad te digo que hoy estarás conmigo en el paraíso». (Lc. 23, 43) | ***Ave María***
+4. Uno de los malhechores que estaba colgado decía a Jesús: «acuérdate de mi cuando vinieres en la gloria de tu realeza». Díjole: «en verdad te digo que hoy estarás conmigo en el paraíso». (Lc. 23, 39, 42-43) | ***Ave María***
 
-5. Jesús, pues, viendo a la Madre, y junto a ella al discípulo a quien amaba, (Jn. 19, 26) | ***Ave María***
+5. Jesús, pues, viendo a la Madre, y junto a ella al discípulo a quien amaba, dice a tu Madre: «Mujer, he ahí a tu hijo». Luego dice al discípulo: «He aquí a tu Madre». Y desde aquella hora la tomó el discípulo en su compañía.  (Jn. 19, 26-27) | ***Ave María***
 
-6. dice a tu Madre: «mujer, he ahí a tu hijo». Luego dice al discípulo: «He aquí a tu Madre». (Jn. 19, 26-27) | ***Ave María***
+6. Y era ya como la hora sexta, y se produjeron tinieblas sobre toda la tierra hasta la hora nona, habiendo faltado el sol; y se rasgó por medio el velo del santuario. (Lc. 23, 44-45) | ***Ave María***
 
-7. Y desde aquella hora la tomó el discípulo en su compañía. (Jn. 19, 27) | ***Ave María***
+7. Y clamando con voz poderosa, Jesús dijo: «Padre, en tus manos encomiendo mis espíritu». (Lc. 23, 46) [Jesús dijo:] «Consumado está». E inclinando la cabeza entregó el espíritu. (Jn. 19, 30) | ***Ave María***
 
-8. Y era ya como la hora sexta, y se produjeron tinieblas sobre toda la tierra hasta la hora nona, 
-habiendo faltado el sol; y se rasgó por medio el velo del santuario. (Lc. 23, 44-45) | ***Ave María***
+8. Y vi en medio delante del trono y de los cuatro vivientes, y en medio de los ancianos, un Cordero de pié, como degollado, [que tenía siete cuernos y siete ojos, que son los siete Espíritus de Dios, enviados por toda la tierra] (Ap 5,6) | ***Ave María***
 
-9. Y clamando con voz poderosa, Jesús dijo: «Padre, en tus manos encomiendo mis espíritu». (Lc. 23, 46 ) | ***Ave María***
+9. Mas viendo a Jesús, cuando vinieron, como le vieron ya muerto, no le quebrantaron las piernas, sino que uno de los soldados con una lanza le traspasó el costado, y salió al punto sangre y agua. (Jn 19,33-34) | ***Ave María***
 
-10. Jesús dijo: «Consumado está». E inclinando la cabeza entregó el espíritu. (Jn. 19, 30) | ***Ave María*** y ***Gloria***
+10. Y me mostró um río de agua de vida, luciente como cristal, que salía del Trono de Dios y del Cordero. (Ap 22,1) | ***Ave María*** y ***Gloria***
 
 ***
 
@@ -468,14 +452,14 @@ necesitadas
 
 [Confíteor](#confíteor)
 
-## Misterios Gloriosos (Miércoles, Sábados y Domingos) {#gloria}
+## Misterios Gloriosos (Miércoles, Sábados y Domingos) {#gloriosos}
 
-### La Resurección del Señor
+### La Resurección del Señor {#resurreccion}
 
 Pasado el sábado, cuando alboreaba, el primer día de la semana, vino María Magdalena y la otra María a ver el sepulcro. De pronto se produjo un gran temblor de tierra, pues un ángel del Señor, bajado de cielo y acercándose, hizo rodar de su sitio la losa, y se sentó sobre ella. Era su aspecto como 
 relámpago, y su vestidura blanca como la nieve. Tomando la palabra el ángel, dijo a las mujeres: «no tengáis miedo vosotras, que ya sé que buscáis a Jesús el crucificado; no está aquí; resucitó, como dijo. Venid, ved el lugar donde estuvo puesto Y marchando a toda prisa, decid a sus discípulos que resucitó de entre los muertos, y he aquí que se os adelanta en ir a Galilea: allí le veréis. Conque os lo tengo dicho». Y partiendo a toda prisa del monumento, con temor y grande gozo corrieron a dar la nueva a sus discípulos.
 
-<p style="text-align: right">Mateo 28,1-3.5-8</p>
+<p class="right">Mateo 28,1-3.5-8</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalResureccion)
 
@@ -511,13 +495,13 @@ los discípulos, vino Jesús y se presentó en medio de ellos y les dice: «la p
 <a id="finalResureccion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
-### La Ascensión de Jesucristo a los cielos
+### La Ascensión de Jesucristo a los cielos {#acension}
 
 Y los sacó afuera hasta llegar junto a Betania, y alzando sus manos los bendijo. Y aconteció que, mientras los bendecía, se desprendió de ellos,
 y era llevado en alto al cielo. Y ellos, habiéndole adorado, se tornaron a Jerusalén con grande gozo, y estaban continuamente en el templo
 adorando a Dios.
 
-<p style="text-align: right">Lucas 24, 50-52.</p>
+<p class="right">Lucas 24, 50-52.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalAscension)
 
@@ -551,13 +535,13 @@ se salvará, mas el que no creyere, será condenado».». (Mc. 16, 15-16) | ***A
 <a id="finalAscension"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más 
 necesitadas
 
-### La Venida del Espíritu Santo sobre los Apóstoles
+### La Venida del Espíritu Santo sobre los Apóstoles {#pentecostes}
 
 Y al cumplirse el día de Pentecostés, estaban todos juntos en el mismo lugar. Y se produjo de súbito desde el cielo un estruendo como de viento
 que soplaba vehementemente, y llenó toda la casa donde se hallaban sentados. Y vieron aparecer lenguas como de fuego, que, repartiéndose, se 
 posaban sobre cada uno de ellos. 
 
-<p style="text-align: right">Hechos 2, 1-4.</p>
+<p class="right">Hechos 2, 1-4.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalPentecostes)
 
@@ -590,13 +574,13 @@ del Espíritu Santo». (Hch. 2, 38) | ***Ave María***
 
 <a id="finalPentecostes"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
-### La Asunción de Nuestra Señora a los cielos
+### La Asunción de Nuestra Señora a los cielos {#asuncion}
 
 Antes de los siglos, desde el principio me creó y hasta la eternidad no cesaré. En la tienda santa, ante Él he ejercido ministerio
 He arraigado en pueblo ilustre, en la porción del Señor, heredad suya. Yo soy la madre de la hermosa dilección, y del temor, y del
 conocimiento y santa esperanza. 
 
-<p style="text-align: right">Eclesiástico 24, 14.16.24.</p>
+<p class="right">Eclesiástico 24, 14.16.24.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria y [¡Oh Jesús mío!](#finalAsuncion)
 
@@ -634,14 +618,14 @@ tiempo sin fin». (Jdt 15,10) | ***Ave María***
 
 <a id="finalAsuncion"></a>¡Oh Jesús mío! Perdonadnos. Libradnos del fuego enterno del infierno. Llevad al Cielo a todas las almas, y socorred especialmente a las más necesitadas
 
-### La Coronación de la Santísima Virgen María
+### La Coronación de la Santísima Virgen María {#coronacion}
 
 Y una gran señal fué vista en el cielo: una Mujer vestida del sol, y la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas.
 
 Doy con todas estas cosas los bienes eternos a mis hijos y a los por Él designados. Quién me obedece no se avergonzará y los que obran por
 no pecarán. Los que me esclarecen tendrán vida eterna. 
 
-<p style="text-align: right">Apocalipsis 12, 1 <br /> Eclesiástico 24, 25.30-31.</p>
+<p class="right">Apocalipsis 12, 1 <br /> Eclesiástico 24, 25.30-31.</p>
 
 1 Paternoster, 10 Avemarías, 1 Gloria, [¡Oh Jesús mío!](#finalCoronacion)
 
