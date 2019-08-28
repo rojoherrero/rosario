@@ -1,0 +1,11 @@
+== Rosario Meditado
+
+<<gozosos, Misterios Gozosos (Lunes y Jueves)>>
+<<dolorosos, Misterios Dolorosos (Martes y Viernes)>>
+<<gloriosos, Misterios Gloriosos (Miércoles, Sábados y Domingos)>>
+//<<luminosos, Misterios Luminosos (Jueves)>>
+
+include::./rosario/gozosos.adoc[]
+include::./rosario/dolorosos.adoc[]
+include::./rosario/gloriosos.adoc[]
+//include::./rosario/luminosos.adoc[]
