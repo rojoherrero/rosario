@@ -1,8 +1,8 @@
 [[luminosos]]
-== Misterios Luminosos
+=== Misterios Luminosos
 
 [[bautismo]]
-=== El Bautismo de Nuestro Señor Jesucristo en el Jordán
+==== El Bautismo de Nuestro Señor Jesucristo en el Jordán
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalbautismo, ¡Oh Jesús mío!>>
 
@@ -34,7 +34,7 @@
 include::ohjesus.adoc[]
 
 [[cana]]
-=== Las Bodas de Caná
+==== Las Bodas de Caná
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalcana, ¡Oh Jesús mío!>>
 
@@ -66,7 +66,7 @@ include::ohjesus.adoc[]
 include::ohjesus.adoc[]
 
 [[reino]]
-=== La Proclamación del Reino de Dios
+==== La Proclamación del Reino de Dios
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalreino, ¡Oh Jesús mío!>>
 
@@ -98,7 +98,7 @@ include::ohjesus.adoc[]
 include::ohjesus.adoc[]
 
 [[transfiguracion]]
-=== La Transfiguración
+==== La Transfiguración
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finaltransfiguracion, ¡Oh Jesús mío!>>
 
@@ -130,7 +130,7 @@ include::ohjesus.adoc[]
 include::ohjesus.adoc[]
 
 [[eucaristia]]
-=== La Institución de la Eucaristía
+==== La Institución de la Eucaristía
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finaleucaristia, ¡Oh Jesús mío!>>
 

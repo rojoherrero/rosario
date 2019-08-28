@@ -1,8 +1,8 @@
 [[dolorosos]]
-== Misterios Dolorosos (Martes y Viernes)
+=== Misterios Dolorosos (Martes y Viernes)
 
 [[huerto]]
-=== La Agonía de Nuestro Señor en el Huerto de los Olivos
+==== La Agonía de Nuestro Señor en el Huerto de los Olivos
 
 Y llegan a una granja, cuyo nombre es Getsemaní, y dice a sus discípulos: «sentaos aquí mientras hago oración». Y lleva consigo a Pedro y a Santiago y a Juan, y comenzó a sentir espanto y abatimiento; y le dice: «triste en gran manera está mi corazón hasta la muerte; quedad aquí y velad». Y apartándose un poco, caía sobre tierra, y rogaba que, a ser posible, pasase el Él aquella hora, y decía: «Abba, Padre, todas las cosas te son posibles: traspasa de mi este cáliz; más no se haga lo que yo quiero, sino lo que tú». Y viene, y los halla durmiendo, y dice a Pedro: «¡Simón!¿Duermes?¿No pudiste velar una hora? Velad y orad para que no entréis en tentación; el espíritu, sí, está pronto, más la carne es flaca». Y luego, estando Él hablando todavía, se presenta Judas, uno de los Doce, y con él una turba con espadas y bastones, de parte de los escribas y los ancianos. Y así que llegó, luego acercándose dijo: «Rabí». Y le dió un fuerte beso. Ellos le echaron las manos y le sujetaron.Y abandonándole, huyeron todos. _Marcos 14,32-38.43.45-46.50_
 
@@ -36,7 +36,7 @@ Y llegan a una granja, cuyo nombre es Getsemaní, y dice a sus discípulos: «se
 include::ohjesus.adoc[]
 
 [[flagelacion]]
-=== La flagelación de Nuestro Señor Jesucristo
+==== La flagelación de Nuestro Señor Jesucristo
 
 Y luego al amanecer, después de celebrar consejo, los sumos sacerdotes con los ancianos y los escribas, es decir, todo el sanhedrín, atando a Jesús, le llevaron de allí y le entregaron a Pilato. Y le interrogó Pilato: «¿Tú eres el Rey de los judíos?». El le respondió: «Tú lo dices». _Marcos 15, 1-2_
 
@@ -71,7 +71,7 @@ Y luego al amanecer, después de celebrar consejo, los sumos sacerdotes con los 
 [[finalFlagelacion]]
 include::ohjesus.adoc[]
 
-=== La coronación de espinas de Nuestro Señor Jesucristo {#espinas}
+==== La coronación de espinas de Nuestro Señor Jesucristo {#espinas}
 
 Entonces los soldados del gobernador, tomando a Jesús y conduciéndole al pretorio, reunieron en torno a Él toda la cohorte. Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana, y trenzando una corona de espinas, la pusieron sobre su cabeza, y una caña en su mano derecha; y doblando la rodilla delante de Él, le mofaban, diciendo: «Salud, Rey de los judíos». Y escupiendo en Él, tomaron la caña y le daban golpes en la cabeza. _Mateo 27, 27-30_
 
@@ -105,7 +105,7 @@ Entonces los soldados del gobernador, tomando a Jesús y conduciéndole al preto
 include::ohjesus.adoc[]
 
 [[cruz]]
-=== Jesús con la Cruz a cuestas
+==== Jesús con la Cruz a cuestas
 
 Entonces, pues, se le entregó para que fuera crucificando. Se apoderaron, pues, de Jesús, y llevándo a cuestas su cruz, salió hacia el lugar llamado el Cráneo, que en hebreo se dice Gólgota. _Juan 19, 16-17_
 
@@ -139,7 +139,7 @@ Entonces, pues, se le entregó para que fuera crucificando. Se apoderaron, pues,
 include::ohjesus.adoc[]
 
 [[muerte]]
-=== La Crucifixión y Muerte del Redentor
+==== La Crucifixión y Muerte del Redentor
 
 Y cuando hubieron llegado al lugar llamado «Cráneo», allí crucificaron a Él y a los malhechores, uno a la derecha y otro a la izquierda. Y Jesús decía: «Padre, perdónales porque no saben lo que hacen». Y al repartir sus vestidos, echaron suertes. Había también por encima de Él una inscripción escrita en letras griegas, latinas y hebreas: ESTE ES EL REY DE LOS JUDIOS. Y clamando con voz poderosa, Jesús dijo: «Padre, en tus manos encomiendo mi espíritu». Y dicho esto, expiró. _Lucas 23, 33-34.38.46_
 
