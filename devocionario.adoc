@@ -1,0 +1,5 @@
+= Devocionario
+
+include::oraciones.adoc[]
+include::rosario.adoc[]
+include::angelus.adoc[]

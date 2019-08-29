@@ -1,12 +1,11 @@
 #!/bin/bash
 rm -r output/*;
-current_date_time="`date +%Y%m%d%H%M%S`";
-pandoc rosario.md --self-contained --standalone --ascii --table-of-contents --css style.css -o output/${current_date_time}_rosario.html;
-echo Generating EBOOKS
-#pandoc rosario.md --self-contained --standalone -o output/${current_date_time}_rosario.epub;
-ebook-convert output/${current_date_time}_rosario.html output/${current_date_time}_rosario.epub;
-ebook-convert output/${current_date_time}_rosario.html output/${current_date_time}_rosario.mobi;
-echo EBOOKS generated
+current_date_time="`date +%Y%m%d`";
+asciidoctor -o output/${current_date_time}_devocionario.html devocionario.adoc;
+echo Generating EBOOKS;
+ebook-convert output/${current_date_time}_devocionario.html output/${current_date_time}_devocionario.epub;
+ebook-convert output/${current_date_time}_devocionario.html output/${current_date_time}_devocionario.mobi;
+echo EBOOKS generated;
 echo Generating PDF;
-ebook-convert output/${current_date_time}_rosario.html output/${current_date_time}_rosario.pdf;
+asciidoctor -r asciidoctor-pdf -b pdf -o output/${current_date_time}_devocionario.pdf devocionario.adoc;
 echo PDF generated;

@@ -1,0 +1,23 @@
+[[rosario]]
+== Rosario Meditado
+
+Por la señal de la santa Cruz. +
+V/ Ave María, grátia plena. Dóminus tecum. +
+R/ _Benedicta tu in muliéribus et benedictus fructus ventris tui, Jesus._ +
+V/ Dómine, lábia mea apéries. +
+R/ _Et os meum annuntiábit laudem tuam._ +
+V/ Deus, in adjutórium meum inténde. +
+R/ _Dómine, ad adjuvándum me festina._ +
+V/ Glória Patri et Filio et Spiritui Sancto +
+R/ _Sicut erat in principio et nunc et semper, et in sǽcula sæculórum. Amen. Allelúia._
+
+<<gozosos, Misterios Gozosos (Lunes y Jueves)>>
+<<dolorosos, Misterios Dolorosos (Martes y Viernes)>>
+<<gloriosos, Misterios Gloriosos (Miércoles, Sábados y Domingos)>>
+//<<luminosos, Misterios Luminosos (Jueves)>>
+
+include::./rosario/gozosos.adoc[]
+include::./rosario/dolorosos.adoc[]
+include::./rosario/gloriosos.adoc[]
+//include::./rosario/luminosos.adoc[]
+include::./rosario/letanias.adoc[]
