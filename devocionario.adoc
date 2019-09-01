@@ -1,5 +1,7 @@
 = Devocionario
+:toc:
 
 include::oraciones.adoc[]
 include::rosario.adoc[]
 include::angelus.adoc[]
+include::novenas.adoc[]
