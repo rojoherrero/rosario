@@ -1,0 +1,4 @@
+[[novenas]]
+== Novenas
+
+include::./novenas/natividad_virgen.adoc[]
