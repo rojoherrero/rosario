@@ -1,3 +1,7 @@
-En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.
+[cols="<,<", grid="none", frame="none"]
+|===
 
-_In Nómine Pátris, et Filii, et Spíritus Sancti. Amen._
+| En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.
+| In Nómine Pátris, et Filii, et Spíritus Sancti. Amen.
+
+|=== 

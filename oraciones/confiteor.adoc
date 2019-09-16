@@ -1,9 +1,13 @@
-Yo pecador me confieso a Dios todopoderoso, a la bienaventurada siempre Virgen María, al bienaventurado San Miguel Arcángel, al bienaventurado San Juan Bautista, a los Santos Apóstoles Pedro y Pablo, a todos los Santos y a vos, Padre, que pequé mucho de pensamiento, palabra y obra: por mi culpa, por mi culpa, por mi grandísima culpa. +
-Por tanto, ruego a la bienaventurada siempre Virgen María, al bienaventurado San Miguel Arcángel, al bienaventurado San Juan Bautista, a los Santos Apóstoles Pedro y Pablo, a todos los Santos, y a vos, Padre, que roguéis por mi a Dios Nuestro Señor. +
-R/ El Señor omnipotente tenga piedad de nosotros y, perdonados nuestros pecados, nos lleve a la vida eterna. Amén. +
-V/ El Señor omnipotente y misericordioso nos conceda la indulgencia, la absolución y el perdón de nuestros pecados. Amén.
+[cols="<,<", grid="none", frame="none"]
+|===
 
-_Confíteor Deo omnipoténti, beátæ Maríæ semper Virigini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, ómníbus Sanctis et tibi, pater, quia peccávi nimis, cogitatióne, verbo et ópere, mea culpa, mea culpa, mea máxima culpa. +
+| Yo pecador me confieso a Dios todopoderoso, a la bienaventurada siempre Virgen María, al bienaventurado San Miguel Arcángel, al bienaventurado San Juan Bautista, a los Santos Apóstoles Pedro y Pablo, a todos los Santos y a vos, Padre, que pequé mucho de pensamiento, palabra y obra: por mi culpa, por mi culpa, por mi grandísima culpa. +
+Por tanto, ruego a la bienaventurada siempre Virgen María, al bienaventurado San Miguel Arcángel, al bienaventurado San Juan Bautista, a los Santos Apóstoles Pedro y Pablo, a todos los Santos, y a vos, Padre, que roguéis por mi a Dios Nuestro Señor. +
+*El Señor omnipotente tenga piedad de nosotros y, perdonados nuestros pecados, nos lleve a la vida eterna. Amén*. +
+_El Señor omnipotente y misericordioso nos conceda la indulgencia, la absolución y el perdón de nuestros pecados._ Amén.
+| Confíteor Deo omnipoténti, beátæ Maríæ semper Virigini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, ómníbus Sanctis et tibi, pater, quia peccávi nimis, cogitatióne, verbo et ópere, mea culpa, mea culpa, mea máxima culpa. +
 Ideo precor beátam Maríam semper Virgínem, beátum Michaélem Archángelum, beátum Joánnem Bastístam, sanctis Apóstolos Petrum et Paolum, omnes Sanctos, et te, pater, oráre pro me ad Dóminum Deum nostrum. +
-R/ Misereátur nostri omnipotens Deus, et dimissis pecátis nostris, perdúcat nos ad vitam ætérnam. Amen. +
-V/ Indulgéntiam, absolutiónem, et remissiónem pecatórum nostrórum, tribuat nobis omnipotens et miséricors Dóminus. Amen._
+*Misereátur nostri omnipotens Deus, et dimissis pecátis nostris, perdúcat nos ad vitam ætérnam. Amen.* +
+_Indulgéntiam, absolutiónem, et remissiónem pecatórum nostrórum, tribuat nobis omnipotens et miséricors Dóminus._ Amen.
+
+|=== 

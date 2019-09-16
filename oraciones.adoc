@@ -35,3 +35,8 @@ include::./oraciones/acto-contricion.adoc[]
 === Credo Apostólico (Símbolo de los Apóstoles)
 
 include::./oraciones/creo-apostoles.adoc[]
+
+[[salveRegina]]
+=== Salve, Regina
+
+include::./oraciones/salve-regina.adoc[attributes]
