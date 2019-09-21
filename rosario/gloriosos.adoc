@@ -8,11 +8,11 @@ include::./gloriosos/01-resurreccion-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalResureccion, ¡Oh Jesús mío!>>
 
-***
+'''
 
 include::./gloriosos/01-resurreccion-larga.adoc[]
 
-***
+'''
 
 [[finalResureccion]]
 include::ohjesus.adoc[]
@@ -24,11 +24,11 @@ include::./gloriosos/02-ascension-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalAscension, ¡Oh Jesús mío!>>
 
-***
+'''
 
 include::./gloriosos/02-ascension-larga.adoc[]
 
-***
+'''
 
 [[finalAscension]]
 include::ohjesus.adoc[]
@@ -40,11 +40,11 @@ include::./gloriosos/03-pentecostes-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalPentecostes, ¡Oh Jesús mío!>>
 
-***
+'''
 
 include::./gloriosos/03-pentecostes-larga.adoc[]
 
-***
+'''
 
 [[finalPentecostes]]
 include::ohjesus.adoc[]
@@ -56,11 +56,11 @@ include::./gloriosos/04-asuncion-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalAsuncion, ¡Oh Jesús mío!>>
 
-***
+'''
 
 include::./gloriosos/04-asuncion-larga.adoc[]
 
-***
+'''
 
 [[finalAsuncion]]
 include::ohjesus.adoc[]
@@ -72,11 +72,11 @@ include::./gloriosos/05-coronacion-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria, <<finalCoronacion, ¡Oh Jesús mío!>>
 
-***
+'''
 
 include::./gloriosos/05-coronacion-larga.adoc[]
 
-***
+'''
 
 [[finalCoronacion]]
 include::ohjesus.adoc[]

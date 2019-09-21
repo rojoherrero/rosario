@@ -8,11 +8,11 @@ include::./dolorosos/01-agonia-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalAgonia, ¡Oh Jesús mío!>>
 
-***
+'''
 
 include::./dolorosos/01-agonia-larga.adoc[]
 
-***
+'''
 
 [[finalAgonia]]
 include::ohjesus.adoc[]
@@ -24,26 +24,26 @@ include::./dolorosos/02-flajelacion-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalFlagelacion, ¡Oh Jesús mío!>>
 
-***
+'''
 
 include::./dolorosos/02-flajelacion-larga.adoc[]
 
-***
+'''
 
 [[finalFlagelacion]]
 include::ohjesus.adoc[]
 
-==== La coronación de espinas de Nuestro Señor Jesucristo {#espinas}
+==== La coronación de espinas de Nuestro Señor Jesucristo
 
 include::./dolorosos/03-espinas-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalEspinas, ¡Oh Jesús mío!>>
 
-***
+'''
 
 include::./dolorosos/03-espinas-larga.adoc[]
 
-***
+'''
 
 [[finalEspinas]]
 include::ohjesus.adoc[]
@@ -55,11 +55,11 @@ include::./dolorosos/04-cruz-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalCruz, ¡Oh Jesús mío!>>
 
-***
+'''
 
 include::./dolorosos/04-cruz-larga.adoc[]
 
-***
+'''
 
 [[finalCruz]]
 include::ohjesus.adoc[]
@@ -71,11 +71,11 @@ include::./dolorosos/05-muerte-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalCrucifixion, ¡Oh Jesús mío!>>
 
-***
+'''
 
 include::./dolorosos/05-muerte-larga.adoc[]
 
-***
+'''
 
 [[finalCrucifixion]]
 include::ohjesus.adoc[]
