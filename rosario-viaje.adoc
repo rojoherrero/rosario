@@ -1,0 +1,117 @@
+=== Confíteor
+
+include::./oraciones/confiteor.adoc[]
+
+=== Acto de contrición
+
+include::./oraciones/acto-contricion.adoc[]
+
+=== Credo Apostólico (Símbolo de los Apóstoles)
+
+include::./oraciones/creo-apostoles.adoc[]
+
+=== Salve, Regina
+
+include::./oraciones/salve-regina.adoc[]
+
+=== ¡Oh Jesús mío!
+
+include::./rosario/ohjesus.adoc[attributes]
+
+== Santo Rosario
+
+=== Misterios Gozosos (Lunes y Jueves)
+
+==== La Anunciación de la Santísima Virgen María
+
+include::./rosario/gozosos/01-anunciacion-corta.adoc[attributes]
+
+1 Paternoster, 10 Avemarías,  1 Gloria y ¡Oh Jesús mío!
+
+==== La Visitación de Nuestra Señora 
+
+include::./rosario/gozosos/02-visitacion-corta.adoc[attributes]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y ¡Oh Jesús mío!
+
+==== La Natividad de Nuestro Señor Jesucristo
+
+include::./rosario/gozosos/03-natividad-corta.adoc[attributes]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y ¡Oh Jesús mío!
+
+==== La Presentación del Niño Jesús en el Templo
+
+include::./rosario/gozosos/04-presentacion-corta.adoc[attributes]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y ¡Oh Jesús mío!
+
+==== La Pérdida y Hallazgo del Niño Jesús en el Templo 
+
+include::./rosario/gozosos/05-perdida-corta.adoc[attributes]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y ¡Oh Jesús mío!
+
+=== Misterios Dolorosos (Martes y Viernes)
+
+==== La Agonía de Nuestro Señor en el Huerto de los Olivos
+
+include::./rosario/dolorosos/01-agonia-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y ¡Oh Jesús mío!
+
+==== La flagelación de Nuestro Señor Jesucristo
+
+include::./rosario/dolorosos/02-flajelacion-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y ¡Oh Jesús mío!
+
+==== La coronación de espinas de Nuestro Señor Jesucristo {#espinas}
+
+include::./rosario/dolorosos/03-espinas-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y ¡Oh Jesús mío!
+
+==== Jesús con la Cruz a cuestas
+
+include::./rosario/dolorosos/04-cruz-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y ¡Oh Jesús mío!
+
+==== La Crucifixión y Muerte del Redentor
+
+include::./rosario/dolorosos/05-muerte-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y ¡Oh Jesús mío!
+
+=== Misterios Gloriosos (Miércoles, Sábados y Domingos)
+
+==== La Resurección del Señor
+
+include::./rosario/gloriosos/01-resurreccion-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y ¡Oh Jesús mío!
+
+==== La Ascensión de Jesucristo a los cielos
+
+include::./rosario/gloriosos/02-ascension-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y ¡Oh Jesús mío!
+
+==== La Venida del Espíritu Santo sobre los Apóstoles
+
+include::./rosario/gloriosos/03-pentecostes-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y ¡Oh Jesús mío!
+
+==== La Asunción de Nuestra Señora a los cielos
+
+include::./rosario/gloriosos/04-asuncion-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y ¡Oh Jesús mío!
+
+==== La Coronación de la Santísima Virgen María
+
+include::./rosario/gloriosos/05-coronacion-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria, ¡Oh Jesús mío!

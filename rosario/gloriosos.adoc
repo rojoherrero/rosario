@@ -4,33 +4,15 @@
 [[resurreccion]]
 ==== La Resurección del Señor
 
-Pasado el sábado, cuando alboreaba, el primer día de la semana, vino María Magdalena y la otra María a ver el sepulcro. De pronto se produjo un gran temblor de tierra, pues un ángel del Señor, bajado de cielo y acercándose, hizo rodar de su sitio la losa, y se sentó sobre ella. Era su aspecto como relámpago, y su vestidura blanca como la nieve. Tomando la palabra el ángel, dijo a las mujeres: «no tengáis miedo vosotras, que ya sé que buscáis a Jesús el crucificado; no está aquí; resucitó, como dijo. Venid, ved el lugar donde estuvo puesto Y marchando a toda prisa, decid a sus discípulos que resucitó de entre los muertos, y he aquí que se os adelanta en ir a Galilea: allí le veréis. Conque os lo tengo dicho». Y partiendo a toda prisa del monumento, con temor y grande gozo corrieron a dar la nueva a sus discípulos. _Mateo 28,1-3.5-8_
+include::./gloriosos/01-resurreccion-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalResureccion, ¡Oh Jesús mío!>>
 
-***
+'''
 
-1. *_Paternoster_* | Alzase Dios, y al presentarse ante ellos desbándese sus enemigos, y huyen aquellos que le odiaron. _Sal 68,2_ | *_Ave María_*
+include::./gloriosos/01-resurreccion-larga.adoc[]
 
-2. Bienaventurados los que están afligidos, porque ellos serán consolados. _Mt 5,5_ | *_Ave María_*
-
-3. «Pues así también vosotros, ahora cierto tenéis congoja; mas otra vez os veré, y se gozará vuestro corazon, y vuestro gozo nadie os lo quita». _Jn. 16, 22_ | *_Ave María_*
-
-4. De pronto se produjo un gran temblor de tierra, pues un ángel del Señor, bajado de cielo y acercándose, hizo rodar de su sitio la losa, y se sentó sobre ella. Era su aspecto como relámpago, y su vestidura blanca como la nieve. _Mt. 28, 2_ | *_Ave María_*
-
-5. Tomando la palabra el ángel, dijo a las mujeres: «no tengáis miedo vosotras, que ya sé que buscáis a Jesús el crucificado; no está aquí; resucitó, como dijo. Venid, ved el lugar donde estuvo puesto». _Mt. 28, 5-6_ | *_Ave María_*
-
-6. «Y marchando a toda prisa, decid a sus discípulos que resucitó de entre los muertos, y he aquí que se os adelanta en ir a Galilea: allí le veréis. Conque os lo tengo dicho». Y partiendo a toda prisa del monumento, con temor y grande gozo corrieron a dar la nueva a sus discípulos. _Mt. 28, 7-8_ | *_Ave María_*
-
-7. Pues así tambíén vosotros, ahora cierto tenéis congoja; mas otra vez os veré, y se gozará vuestro corazón, y vuestro gozo nadie os lo quitará. _Jn. 16,22_ | *_Ave María_*
-
-8. Fuése María Magdalena a dar la nueva a los discípulos: «he visto al Señor, y me ha dicho esto y esto». _Jn. 20,18_ | *_Ave María_*
-
-9. Siendo, pues, tarde aquel día, primero de la semana, y estando cerradas, por miedo a los judíos, las puertas de la casa donde estaban los discípulos, vino Jesús y se presentó en medio de ellos y les dice: «la paz sea con vosotros». _Jn. 20,19_ | *_Ave María_*
-
-10. Y en diciendo esto, les mostró las manos y el costado. Se gozaron, pues, los discípulos al ver al Señor. _Jn. 20,20_ | *_Ave María_* y *_Gloria_*
-
-***
+'''
 
 [[finalResureccion]]
 include::ohjesus.adoc[]
@@ -38,33 +20,15 @@ include::ohjesus.adoc[]
 [[acension]]
 ==== La Ascensión de Jesucristo a los cielos
 
-[Y les dijo:] «id al mundo entero y predicad el Evangelio a toda la creación. El que creyere y fuere bautizado, se salvará, mas el que no creyere, será condenado. Y a los que hubieren creído les acompañarán estas señales: en mi nombre lanzarán demonios, hablarán lenguas nuevas, en sus manos tomarán serpientes, y si bebieren ponzoña mortífera, no les dañará; pondrán sus manos sobre los enfermos, y se hallarán bien». Con esto el Señor Jesús, despues de hablarles, fue elevado al cielo y se sentó a la diestra de Dios. Y ellos, partiéndose de allí, predicaron por todas partes, cooperando el Señor y confirmando la palabra con las señales que la acompañaban. _Marcos 16, 15-20_
+include::./gloriosos/02-ascension-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalAscension, ¡Oh Jesús mío!>>
 
-***
+'''
 
-1. *_Paternoster_* | Subió Dios entre voces de jubilo: el Señor a son de trompetas. El Señor está en Siná, en el santuario; subiendo a lo alto, llevó cautivo al cautiverio. _Sal. 46,6;67,18-19_ | *_Ave María_*
+include::./gloriosos/02-ascension-larga.adoc[]
 
-2. Y acercándose Jesús, les habló diciendo: «Me fué dada toda potestad en el cielo y sobre la tierra». _Mt. 28,18_ | *_Ave María_*
-
-3. [Y les dijo:] «id al mundo entero y predicad el Evangelio a toda la creación. El que creyere y fuere bautizado, se salvará, mas el que no creyere, será condenado». _Mc. 16, 15-16_ | *_Ave María_*
-
-4. «Y a los que hubieren creído les acompañarán estas señales: en mi nombre lanzarán demonios, hablarán lenguas nuevas, en sus manos tomarán serpientes, y si bebieren ponzoña mortífera, no les dañará; pondrán sus manos sobre los enfermos, y se hallarán bien». _Mc. 16, 17_ | *_Ave María_*
-
-5. «Enseñándoles a guardar todas cuantas cosas os ordené. Y sabed que estoy con vosotros todos los días hasta la consumación de los siglos». _Mt. 28,20_ | *_Ave María_*
-
-6. Con esto el Señor Jesús, despues de hablarles, fue elevado al cielo y se sentó a la diestra de Dios. _Mc. 16, 19_ | *_Ave María_*
-
-7. «Varones galileos, ¿qué hacéis ahí plantados mirando fíjamente al cielo?; Este mismo Jesucristo, que ha sido quitado de entre vosotros para ser elevado al cielo, así vendrá, de la misma manera que le habéis contemplado irse al cielo». _Hch. 1, 11_ | *_Ave María_*
-
-8. Y ellos, partiéndose de allí, predicaron por todas partes, cooperando el Señor y confirmando la palabra con las señales que la acompañaban. _Mc. 16,20_ | *_Ave María_*
-
-9. Teniendo, pues, un Potífice grande, que ha penetrado los cielos, Jesús, el Hijo de Dios, mantengamos firme la fe que profesamos. _Heb 4,14_ | *_Ave María_*
-
-10. Lleguémonos, pues, con segura confianza al trono de la gracia, para que alcancemos misericordia y hallemos gracia en orden a ser socorridos en el tiempo oportuno. _Heb 4,16_ | *_Ave María_* y *_Gloria_*
-
-***
+'''
 
 [[finalAscension]]
 include::ohjesus.adoc[]
@@ -72,33 +36,15 @@ include::ohjesus.adoc[]
 [[pentecostes]]
 ==== La Venida del Espíritu Santo sobre los Apóstoles
 
-Y al cumplirse el día de Pentecostés, estaban todos juntos en el mismo lugar. Y se produjo de súbito desde el cielo un estruendo como de viento que soplaba vehementemente, y llenó toda la casa donde se hallaban sentados. Y vieron aparecer lenguas como de fuego, que, repartiéndose, se posaban sobre cada uno de ellos. _Hechos 2, 1-4_
+include::./gloriosos/03-pentecostes-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalPentecostes, ¡Oh Jesús mío!>>
 
-***
+'''
 
-1. *_Paternoster_* | Y al cumplirse el día de Pentecostés, estaban todos juntos en el mismo lugar. Y se produjo de súbito desde el cielo un estruendo como de viento que soplaba vehemente, u llenó toda la casa donde se hallaban sentados. _Hch. 2, 1-2_ | *_Ave María_*
+include::./gloriosos/03-pentecostes-larga.adoc[]
 
-2. Y vieron aparecer lenguas como de fuego, que, repartiéndose, se posaban sobre cada uno de ellos. Y se llenaron todos del Espíritu Santo, y comenzaron a hablar en lenguas diferentes, según que el Espíritu Santo les movía a expresarse. _Hch. 2, 3-4_ | *_Ave María_*
-
-3. Hallábanse en Jerusalén judíos allí domiciliados, hombres religiosos de toda nación de las que están debajo del cielo. _Hch. 2, 5_ | *_Ave María_*
-
-4. Puesto de pie Pedro, acompañado de los Once, alzó en voz y les habló en estos términos: «Arrepentíos, dice, y bautícese cada uno de vosotros en el nombre del JesuCristo para remisión de vuestros pecados, y recibiréis el don del Espíritu Santo». _Hch. 2, 14.38_ | *_Ave María_*
-
-5. Ellos, pues, acogieron su palabra, fueron bautizados; y fueron agragados en aquel día como unas tres mil almas. _Hch. 2,41_ | *_Ave María_*
-
-6. Mas la fructificación del Espíritu es: caridad, gozo, paz, longanimidad, benignidad, bondad, fe, mansedumbre, continencia; frente a tales cosas no tiene objeto la ley. _Gál. 5,22-23_ | *_Ave María_*
-
-7. Mas la sabiduría que viene de arriba primeramente es casta, luego pacífica, condescendiente, que se allana a razones, llena de misericordia y de frutos buenos, no amiga de criticar, no solapada. _Sant. 3,17_ | *_Ave María_*
-
-8. Porque no recibisteis espíritu de esclavitud para reincidir de nuevo en el temor; antes recibisteis Espíritu de filiación adoptiva, con el cual clamamos: ¡Abba!¡Padre! El Espíritu mismo testifica a una que somos hijos de Dios. _Rom 8,15-16_ | *_Ave María_*
-
-9. Y, asimismo, también el Espíritu acude en socorro de nuestras flaquezas. Pues qué hemos de orar, según conviene, no lo sabemos; mas el Espíritu mismo interviene a favor nuestro con gemidos inefables. _Rom. 8,26_ | *_Ave María_*
-
-10. Mas el Paráclito, el Espiritu Santo, que enviará el Padre en mi nombre, Él os enseñará todas las cosas y os recordará todas las cosas que os dije yo. _Jn. 14,26_ | *_Ave María_* y *_Gloria_*
-
-***
+'''
 
 [[finalPentecostes]]
 include::ohjesus.adoc[]
@@ -106,34 +52,15 @@ include::ohjesus.adoc[]
 [[asuncion]]
 ==== La Asunción de Nuestra Señora a los cielos
 
-Bendita tú, hija, ante el Dios Altísimo sobre todas las mujeres de la tierra, y bendito el señor Dios, que crió los cielos y la tierra, que enderezó tus pasos para quebrantar la cabeza del jefe de nuestros enemigos. Pues no se apartará eternamente tu esperanza del corazón de los hombres; que recordarán la fortaleza de Dios. Y esto haga contigo Dios para eterno encumbramiento, que te visite con sus bienes; por cuanto no perdonaste a tu vida, lastimada por la humillación de nuestro linaje, antes acudiste en socorro de nuestro abatimiento, caminando derechamente en el acatamiento de Dios. Hiciste todo esto por tu mano, acarreaste bienes a Israel, y se agradó Dios en ellos. Bendita seas en el acatamoiento del Señor omnipotente para tiempo sin fin. _Judit 13, 18-20;15,10_
+include::./gloriosos/04-asuncion-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalAsuncion, ¡Oh Jesús mío!>>
 
-***
+'''
 
-1. *_Paternoster_* | Bendita tú, hija, ante el Dios Altísimo sobre todas las mujeres de la tierra, que enderezó tus pasos para quebrantar. Pues no se apartará etérnamente tu esperanza del corazón de los hombres, que recordarán la fortaleza de Dios. _Jdt. 13, 18-19_ | *_Ave María_*
+include::./gloriosos/04-asuncion-larga.adoc[]
 
-2. Y esto haga contigo Dios para eterno encubrimiento, que te visite con sus bienes; por cuanto no perdonate a tu vida, lastimada por la humillación de nuestro linaje, antes acudiste en socorro de nuestro abatimiento, caminando derechamente en el acatamiento de Dios. _Jdt. 13, 20_ | *_Ave María_*
-
-3. ¿Qué es eso que sube del desierto como columna de humo sahumado de mirra e incienso y de toda clase de aromas del mercader? He aquí la litera de Salomón. _Cant 3,6-7a_ | *_Ave María_*
-
-4. Y se abrió el templo de Dios, que está en el cielo, y fué vista el arca de la alianza en el templo, y se produjeron relámpagos, y voces, y truenos, y temblor de tierra, y fuerte granizada. _Ap. 11, 19_ | *_Ave María_*
-
-5. Y entrando a ella, bendijéronla todos a una voz y la dijeron: tú eres enaltecimiento de Jerusalén, tú gloria grande de Isarel, tú grande honor de nuestro linaje. _Jdt 15,9_ | *_Ave María_*
-
-6. Hiciste todo esto por tu mano, acarreaste bienes a Israel, y se agradó Dios en ellos. Bendita seas en el acatamiento del Señor omnipotente para tiempo sin fin. _Jdt 15,10_ | *_Ave María_*
-
-7. Del rey la hija toda hermosa entra; vestidos áureos su adorno son. Entre alborozos y gritos de júbilo van penetrando en la real mansión. _Sal 45,14.16_ | *_Ave María_*
-
-8. Antes de los siglos, desde el principio me creó y hasta la eternidad no cesaré. He arraigado en pueblo ilustre, en la porción del Señor, heredad suya. _Eci 24, 14.16_ | *_Ave María_*
-
-9. Yo soy la madre de la hermosa dilección, y del temor, y del conocimiento y santa esperanza. _Eci 24, 24_ | *_Ave María_*
-
-10. Entonad a Yahveh cántico nuevo, que portentos ha obrado. Su diestra le ha traído la victoria y aquel su brazo santo. _Sal. 98, 1_ | *_Ave María_* y 
-*_Gloria_*
-
-***
+'''
 
 [[finalAsuncion]]
 include::ohjesus.adoc[]
@@ -141,37 +68,15 @@ include::ohjesus.adoc[]
 [[coronacion]]
 ==== La Coronación de la Santísima Virgen María
 
-Y una gran señal fué vista en el cielo: una Mujer vestida del sol, y la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas. (Apocalipsis 12, 1)
-
-Yo he salido de la boca del Altísimo. En las alturas he armado mi tienda y mi trono está en columna de nube. El círculo celeste he rodeado sola y en lo profundo del abismo me he paseado; y en la tierra toda, y en todo pueblo y nación he imperado. En mi está toda la gracia del camino y de la verdad, en mi toda esperanza de la vida y de la virtud. Venid a mí cuantos me deseáis y saciaos de mis frutos. Porque recordarme es más dulce que la miel, y poseerme más rico que el panal de miel. Quién me obedece no se avergonzará y los que obran por mí no pecarán. Los que me esclarecen tendrán vida eterna. _Eclesiástico 24, 5-11.26-27.30-31_
+include::./gloriosos/05-coronacion-corta.adoc[]
 
 1 Paternoster, 10 Avemarías, 1 Gloria, <<finalCoronacion, ¡Oh Jesús mío!>>
 
-***
+'''
 
-1. *_Paternoster_* | Una es mi paloma, mi pura; única es ella de su madre, la preferida de la que la dió a luz. Viéronla las doncellas, y la felicitaron; las reinas y las concubinas, y exclamaron loándola. _Cant. 6, 9_ | *_Ave María_*
+include::./gloriosos/05-coronacion-larga.adoc[]
 
-2. Yo he salido de la boca del Altísimo. En las alturas he armado mi tienda y mi trono está en columna de nube. El círculo celeste he rodeado sola y en lo profundo del abismo me he paseado; y en la tierra toda, y en todo pueblo y nación he imperado. _Eci. 24, 5-11_ | *_Ave María_*
-
-3. En mi está toda la gracia del camino y de la verdad, en mi toda esperanza de la vida y de la virtud. Venid a mí cuantos me deseáis y saciaos de mis frutos. Porque recordarme es más dulce que la miel, y poseerme más rico que el panal de miel. _Eci. 24, 26-27_ | *_Ave María_*
-
-4. ¿Quién es esa que aparece resplandeciente como la aurora, hermosa cual luna, deslumbradora como el sol, imponente como batallones? _Cant 6,10_ | *_Ave María_*
-
-5. Y una gran señal fué vista en el cielo: una Mujer vestida del sol, y la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas. _Ap 12, 1_ | *_Ave María_*
-
-6. Quién me obedece no se avergonzará y los que obran por no pecarán. Los que me esclarecen tendrán vida eterna. _Eci. 24, 30-31_ | *_Ave María_*
-
-7. Como el arco iris, que se aparece en las nubes; como flor entre el ramaje en días primaverales, como azucena juntoa la corriente de las aguas, como las flores del Líbano en días de verano; como el incienso que arde sobre la ofrenda, como el vaso de oro fínamente trabajado. _Eci. 50, 8-9_ | *_Ave María_*
-
-8. Ahora, pues, hijos míos, oídme; y felices quienes guardan mis caminos. Escuchad la corrección y sed sabios, y no la rechacéis. _Prv. 8, 32-33_ | *_Ave María_*
-
-9. Feliz el hombre que me escucha, velando a mis puertas cada día, guardando las jambas de mis entradas. Pues quien me halla, ha hallado la vida y alcanza el favor de Yahveh. Mas quién peca contra mi, se perjudica a si mismo, y cuantos me odian aman la muerte.  _Prv. 8, 34-35_ | *_Ave María_*
-
-10. Tiene Él escrito en su vestido y en su manto Rey de reyes y Señor de los que dominan. Está la Reina a su derecha, adornada con oro finísimo. _Ap. 18, 16 | Sal. 44, 10_ | *_Ave María_* y *_Gloria_*
-
-***
+'''
 
 [[finalCoronacion]]
 include::ohjesus.adoc[]
-
-<<confiteor, Confíteor>>

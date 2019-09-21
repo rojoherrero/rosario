@@ -1,215 +1,213 @@
 [[letanias]]
 ==== Letanías lauretanas
 
-Señor, ten piedad. +
-_Kýrie, eléison._
+[cols="<,<", grid="none", frame="none"]
+|===
 
-Señor, ten piedad. +
-_Kýrie, eléison._
+| Señor, tened piedad de nosptros.
+| Kýrie, eléison.
 
-Cristo, ten piedad. +
-_Christe, eléison._
+| Cristo, tened piedad de nosptros.
+| hriste, eléison.
 
-Cristo, ten piedad. +
-_Christe, eléison._
+| Señor, tened piedad de nosptros.
+| Kýrie, eléison.
 
-Señor, ten piedad. +
-_Kýrie, eléison._
+| Cristo, oídnos
+| Christe, audi nos.
 
-Señor, ten piedad. +
-_Kýrie, eléison._
+| Cristo, escuchadnos
+| Christe, exáudi nos.
 
-Cristo, óyenos. +
-_Christe, audi nos._
+| Dios, Padre celestial, _tened misericordia de nosotros._
+| Pater de cælis, Deus, _miserére nobis._
 
-Cristo, óyenos. +
-_Christe, audi nos._
+| Dios Hijo, Redentor del mundo.
+| Fili, Redémptor mundi, Deus.
 
-Cristo, escúchanos. +
-_Christe, exáudi nos._
+| Dios Espíritu Santo.
+| Spíritus Sancte, Deus.
 
-Cristo, escúchanos. +
-_Christe, exáudi nos._
+| Trinidad Santa, un solo Dios
+| Sancta Trínitas, unus Deus
 
-Dios, Padre celestial, | tened misericordia de nosotros. +
-_Pater de cælis, Deus, | miserére nobis._
+| Santa María, _rogad por nosotros._
+| Sancta Maria, _ora pro nobis._
 
-Dios Hijo, Redentor del mundo, | tened misericordia de nosotros. +
-_Fili, Redémptor mundi, Deus, | miserére nobis._
+| Santa Madre de Dios
+| Sancta Dei Génetrix
 
-Dios Espíritu Santo, | tened misericordia de nosotros. +
-_Spíritus Sancte, Deus, | miserére nobis._
+| Santa Virgen de las vírgenes
+| Sancta Virgo vírginum
 
-Trinidad Santa, un solo Dios, | tened misericordia de nosotros. +
-_Sancta Trínitas, unus Deus, | miserére nobis._
+| Madre de Cristo.
+| Mater Christi.
 
-Santa María, | rogad por nosotros. +
-_Sancta Maria, | ora pro nobis._
+| Madre de la Iglesia
+| Mater Ecclésiæ
 
-Santa Madre de Dios, | rogad por nosotros. +
-_Sancta Dei Génetrix, | ora pro nobis._
+| Madre de la divina gracia
+| Mater divínæ gratiæ
 
-Santa Virgen de las vírgenes, | rogad por nosotros. +
-_Sancta Virgo vírginum, | ora pro nobis._
+| Madre purísima
+| Mater puríssima
 
-Madre de Cristo, | rogad por nosotros. +
-_Mater Christi, | ora pro nobis._
+| Madre castísima
+| Mater castíssima
 
-Madre de la Iglesia, | rogad por nosotros. +
-_Mater Ecclésiæ, | ora pro nobis._
+| Madre virginal
+| Mater invioláta
 
-Madre de la divina gracia, | rogad por nosotros. +
-_Mater divínæ gratiæ, | ora pro nobis._
+| Madre sin corrupción
+| Mater intemeráta
 
-Madre purísima, | rogad por nosotros. +
-_Mater puríssima, | ora pro nobis._
+| Madre inmaculada
+| Mater immaculáta
 
-Madre castísima, | rogad por nosotros. +
-_Mater castíssima, | ora pro nobis._
+| Madre amable
+| Mater amábilis
 
-Madre virginal, | rogad por nosotros. +
-_Mater invioláta, | ora pro nobis._
+| Madre admirable
+| Mater admirábilis
 
-Madre sin corrupción, | rogad por nosotros. +
-_Mater intemeráta, | ora pro nobis._
+| Madre del Buen Consejo
+| Mater boni Consílii
 
-Madre inmaculada, | rogad por nosotros. +
-_Mater immaculáta, | ora pro nobis._
+| Madre del Creador
+| Mater Creatóris
 
-Madre amable, | rogad por nosotros. +
-_Mater amábilis, | ora pro nobis._
+| Madre del Salvador
+| Mater Salvatóris
 
-Madre admirable, | rogad por nosotros. +
-_Mater admirábilis, | ora pro nobis._
+| Virgen pru­den­tísima
+| Virgo pru­den­tíssima
 
-Madre del Buen Consejo, | rogad por nosotros. +
-_Mater boni Consílii, | ora pro nobis._
+| Virgen digna de veneración
+| Virgo veneránda
 
-Madre del Creador, | rogad por nosotros. +
-_Mater Creatóris, | ora pro nobis._
+| Virgen digna de alabanza
+| Virgo prædicánda
 
-Madre del Salvador, | rogad por nosotros. +
-_Mater Salvatóris, | ora pro nobis._
+| Virgen poderosa
+| Virgo potens
 
-Virgen pru­den­tísima, | rogad por nosotros. +
-_Virgo pru­den­tíssima, | ora pro nobis._
+| Virgen clemente
+| Virgo clemens
 
-Virgen digna de veneración, | rogad por nosotros. +
-_Virgo veneránda, | ora pro nobis._
+| Virgen fiel
+| Virgo fidélis
 
-Virgen digna de alabanza, | rogad por nosotros. +
-_Virgo prædicánda, | ora pro nobis._
+| Espejo de justicia
+| Spéculum iustítiæ
 
-Virgen poderosa, | rogad por nosotros. +
-_Virgo potens, | ora pro nobis._
+| Trono de sabiduría
+| Sedes Sapiéntiæ
 
-Virgen clemente, | rogad por nosotros. +
-_Virgo clemens, | ora pro nobis._
+| Causa de nuestra alegría
+| Causa nostræ lætítiæ
 
-Virgen fiel, | rogad por nosotros. +
-_Virgo fidélis, | ora pro nobis._
+| Vaso espiritual
+| Vas spirituále
 
-Espejo de justicia, | rogad por nosotros. +
-_Spéculum iustítiæ, | ora pro nobis._
+| Vaso digno de honor
+| Vas honorábile
 
-Trono de sabiduría, | rogad por nosotros. +
-_Sedes Sapiéntiæ, | ora pro nobis._
+| Vaso insigne de devoción
+| Vas insigne devotiónis
 
-Causa de nuestra alegría, | rogad por nosotros. +
-_Causa nostræ lætítiæ, | ora pro nobis._
+| Rosa mística
+| Rosa mýstica
 
-Vaso espiritual, | rogad por nosotros. +
-_Vas spirituále, | ora pro nobis._
+| Torre de David
+| Turris Davídica
 
-Vaso digno de honor, | rogad por nosotros. +
-_Vas honorábile, | ora pro nobis._
+| Torre de marfil
+| Turris ebúrnea
 
-Vaso insigne de devoción, | rogad por nosotros. +
-_Vas insigne devotiónis, | ora pro nobis._
+| Casa de oro. 
+| Domus áurea.
 
-Rosa mística, | rogad por nosotros. +
-_Rosa mýstica, | ora pro nobis._
+| Arca de la alianza.
+| Fœderis arca.
 
-Torre de David, | rogad por nosotros. +
-_Turris Davídica, | ora pro nobis._
+| Puerta del cielo.
+| Iánua cæli.
 
-Torre de marfil, | rogad por nosotros. +
-_Turris ebúrnea, | ora pro nobis._
+| Estrella de la mañana.
+| Stella matutina.
 
-Casa de oro, | rogad por nosotros. +
-_Domus áurea, | ora pro nobis._
+| Salud de los enfermos.
+| Salus infirmórum,.
 
-Arca de la alianza, | rogad por nosotros. +
-_Fœderis arca, | ora pro nobis._
+| Refugio de los pecadores.
+| Refugium peccatórum.
 
-Puerta del cielo, | rogad por nosotros. +
-_Iánua cæli, | ora pro nobis._
+| Consuelo de los afligidos.
+| Consolátrix af­flic­tórum.
 
-Estrella de la mañana, | rogad por nosotros. +
-_Stella matutina, | ora pro nobis._
+| Auxilio de los cristianos.
+| Auxílium chris­tia­nórum.
 
-Salud de los enfermos, | rogad por nosotros. +
-_Salus infirmórum, | ora pro nobis._
+| Reina de los Ángeles.
+| Regina Angelórum.
 
-Refugio de los pecadores, | rogad por nosotros. +
-_Refugium peccatórum, | ora pro nobis._
+| Reina de los Patriarcas.
+| Regina Pa­triar­chárum.
 
-Consuelo de los afligidos, | rogad por nosotros. +
-_Consolátrix af­flic­tórum, | ora pro nobis._
+| Reina de los Profetas.
+| Regina Pro­phe­tárum.
 
-Auxilio de los cristianos, | rogad por nosotros. +
-_Auxílium chris­tia­nórum, | ora pro nobis._
+| Reina de los Apóstoles.
+| Regina Apos­to­lórum.
 
-Reina de los Ángeles, | rogad por nosotros. +
-_Regina Angelórum, | ora pro nobis._
+| Reina de los Mártires.
+| Regina Mártyrum.
 
-Reina de los Patriarcas, | rogad por nosotros. +
-_Regina Pa­triar­chárum, | ora pro nobis._
+| Reina de los Confesores.
+| Regina Con­fe­ssórum.
 
-Reina de los Profetas, | rogad por nosotros. +
-_Regina Pro­phe­tárum, | ora pro nobis._
+| Reina de las Vírgenes.
+| Regina Vírginum.
 
-Reina de los Apóstoles, | rogad por nosotros. +
-_Regina Apos­to­lórum, | ora pro nobis._
+| Reina de todos los Santos.
+| Regina Sanctórum ómnium.
 
-Reina de los Mártires, | rogad por nosotros. +
-_Regina Mártyrum, | ora pro nobis._
+| Reina concebida sin pecado original.
+| Regina sine labe originali concépta.
 
-Reina de los Confesores, | rogad por nosotros. +
-_Regina Con­fe­ssórum, | ora pro nobis._
+| Reina elevada al cielo.
+| Regina in cælum assumpta.
 
-Reina de las Vírgenes, | rogad por nosotros. +
-_Regina Vírginum, | ora pro nobis._
+| Reina del Santísimo Rosario.
+| Regina sa­cra­tíssimi Rosárii.
 
-Reina de todos los Santos, | rogad por nosotros. +
-_Regina Sanctórum ómnium, | ora pro nobis._
+| Reina de la familia.
+| Regina famíliæ.
 
-Reina concebida sin pecado original, | rogad por nosotros. +
-_Regina sine labe originali concépta, | ora pro nobis._
+| Reina de la paz.
+| Regina pacis.
 
-Reina elevada al cielo, | rogad por nosotros. +
-_Regina in cælum assumpta, | ora pro nobis._
+| *Cordero de Dios, que quitas los pecados del mundo*, +
+_perdonadnos, Señor._
+| *Agnus Dei, qui tollis peccáta mundi*, +
+_parce nobis, Dómine._
 
-Reina del Santísimo Rosario, | rogad por nosotros. +
-_Regina sa­cra­tíssimi Rosárii, | ora pro nobis._
+| *Cordero de Dios, que quitas los pecados del mundo*, +
+_escuchadnos, Señor._
+| *Agnus Dei, qui tollis peccáta mundi*, +
+_exáudi nos, Dómine._
 
-Reina de la familia, | rogad por nosotros. +
-_Regina famíliæ, | ora pro nobis._
+| *Cordero de Dios, que quitas los pecados del mundo*, +
+_tened piedad de nosotros+_
+| *Agnus Dei, qui tollis peccáta mundi*, +
+_miserére nobis._
 
-Reina de la paz, | rogad por nosotros. +
-_Regina pacis, | ora pro nobis._
+| Bajo tu amparo nos acogemos, Santa Madre de Dios: no desprecies las súplicas que te dirigimos en nuestras necesidades, antes bien, líbranos siempre de todos los peligros, Virgen gloriosa y bendita.
+| Sub tuum præsídium confúgimus, Sancta Dei Génetrix, nostras de­pre­ca­tiónes ne despícias in ne­ces­si­tátibus; sed a perículis cunctis líbera nos semper, Virgo gloriósa et benedícta.
 
-Cordero de Dios, que quitas los pecados del mundo, | perdonadnos, Señor. +
-_Agnus Dei, qui tollis peccáta mundi,_ | _parce nobis, Dómine._
+| *Ruega por nosotros, Santa Madre de Dios*. +
+_Para que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo._
+| *Ora pro nobis, Sancta Dei Génetrix*. +
+_Ut digni efficiámur pro­mi­ssiónibus Christi._
 
-Cordero de Dios, que quitas los pecados del mundo, | escuchadnos, Señor. +
-_Agnus Dei, qui tollis peccáta mundi,_ | _exáudi nos, Dómine._
-
-Cordero de Dios, que quitas los pecados del mundo, | tened piedad de nosotros+
-_Agnus Dei, qui tollis peccáta mundi, | miserére nobis._
-
-Bajo tu amparo nos acogemos, Santa Madre de Dios: no desprecies las súplicas que te dirigimos en nuestras necesidades, antes bien, líbranos siempre de todos los peligros, Virgen gloriosa y bendita. +
-_Sub tuum præsídium confúgimus, Sancta Dei Génetrix, nostras de­pre­ca­tiónes ne despícias in ne­ces­si­tátibus; sed a perículis cunctis líbera nos semper, Virgo gloriósa et benedícta._
-
-Ruega por nosotros, Santa Madre de Dios. | Para que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo. +
-_Ora pro nobis, Sancta Dei Génetrix. | Ut digni efficiámur pro­mi­ssiónibus Christi._
+|=== 

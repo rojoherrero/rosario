@@ -4,33 +4,15 @@
 [[anunciacion]]
 ==== La Anunciación de la Santísima Virgen María
 
-[En el sexto mes] fué enviado el Ángel Gabriel de parte de Dios a una ciudad de Galilea, llamada Nazaret, a una doncella desposada con un varón llamada José, de la familia de David, y el nombre de la doncella era María. Y habiendo entrado a ella, dijo: «Dios te salve, llena de gracia, el Señor es contigo, bendita tu entre las mujeres». Ella, al oír estas palabras, se turbó, y discurría que podría ser esta salucatión. Y le dijo el ángel: «No temas, María, pues hallaste gracia a los ojos de Dios. He aquí que concebirás en tu seno y darás a luz un Hijo, a quien daras por nombre Jesús. Este será grande, y será llamado Hijo del Altísimo, y le dará el Señor Dios el trono de DAvid su padre, y reinará sobre la casa de Jacob etérnamete, y su reinado no tendrá fin». _Lucas 1, 27-33_
+include::./gozosos/01-anunciacion-corta.adoc[attributes]
 
 1 Paternoster, 10 Avemarías,  1 Gloria y <<finalAnunciacion, ¡Oh Jesús mío!>>
 
-***
+'''
 
-1. *_Paternoster_* | Pues bien, el Señor mismo os dará una señal: He aquí que la virgen concebirá y parirá un hijo, a quien ella denominará con el nombre de Emmanuel. _Is. 7,14_ | *_Ave María_*
+include::./gozosos/01-anunciacion-larga.adoc[attributes]
 
-2. Seré como el rocio para Israel, florecerá él como el lirio y echará sus raíces cuel el Líbano. Sus ramas tiernas se extenderán, y su florecimiento será cual el del olivo, y su fragancia cual el Líbano. _Os 14,6-7_ | *_Ave María_*
-
-3. [En el sexto mes] fué enviado el Ángel Gabriel de parte de Dios a una ciudad de Galilea, llamada Nazaret, a una doncella desposada con un varón llamada José, de la familia de David, y el nombre de la doncella era María. _Lc. 1,26- 27_ | *_Ave María_*
-_
-4. Y habiendo entrado a ella, dijo: «Dios te salve, llena de gracia, el Señor es contigo, bendita tú entre las mujeres» y levanto la voz con gran clamor y dijo: «Bendita tú entre las mujeres y bendito el fruto de tu vientre». _Lc. 1, 28, 42_ | *_Ave María_*
-
-5. Ella, al oír estas palabras, se turbó, y discurría qué podía ser esta salutación. _Lc. 1, 29_ | *_Ave María_*
-
-6. Y le dijo el ángel: «No temas, María, pues hallaste gracia a los ojos de Dios. He aquí que concebirás en tu seno y darás a luz un Hijo, a quién darás por nombre Jesús». _Lc. 1, 30-31_ | *_Ave María_*
-
-7. «Este será grande, y será llamado Hijo del Altísimo, y le dará el Señor Dios el trono de David su padre, y reinará sobre la casa de Jacob etérnamente, y su reinado no tendrá fin». _Lc. 1, 32-33_ | *_Ave María_*
-
-8. Dijo María al ángel: «¿Cómo será eso, pues, no conozco varón?». _Lc. 1, 34_  | *_Ave María_*
-
-9. Y respondiendo el ángel, le dijo: «el Espíritu Santo descenderá sobre ti, y el poder del Altísimo te cobijará con su sombra; por lo cual también lo que nacerá será llamado santo, Hijo de Dios». _Lc. 1, 35_ | *_Ave María_*
-
-10. María dijo: «he aquí la esclava del Señor; hágase en mí según tu palabra». Y se retiró de ella el ángel. _Lc. 1, 38_ | *_Ave María_* y *_Gloria_*
-
-***
+'''
 
 [[finalAnunciacion]]
 include::ohjesus.adoc[]
@@ -38,33 +20,15 @@ include::ohjesus.adoc[]
 [[visitacion]]
 ==== La Visitación de Nuestra Señora 
 
-Por aquellos días, levantándose María, se dirigió presurosa a la montaña, a un ciudad de Judá, y entró en la casa de Zacarías y saludó a Isabel. Y aconteció que, al oir Isabel la salutación de María, dió saltos de gozo el niño en su seno, y fue llena Isabel del Espíritu Santo, y levantó la voz con gran clamor y dijo: «Bendita tu entre las mujeres y bendito el fruto de tu vientre. ¿Y de dónde a mí esto que venga la madre de mi Señor a mí? Porque he aquí que. como sonó la voz de tu salutación en mi oídos, dió saltos de alborozo el niño en mi seno. Y dichosa la que creyó que tendrá cumplimiento las cosas que le han sido dichas de parte del Señor. _Lucas 1, 39-45_
+include::./gozosos/02-visitacion-corta.adoc[attributes]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalVisitacion, ¡Oh Jesús mío!>>
 
-***
+'''
 
-1. *_Paternoster_* | Por aquellos días, levantándose María, se dirigió presurosa a la montaña, a un ciudad de Judá, y entró en la casa de Zacarías y saludó a Isabel. _Lc. 1, 39-40_ | *_Ave María_*
+include::./gozosos/02-visitacion-larga.adoc[attributes]
 
-2. Y aconteció que, al oír Isabel la salutación de María. dió saltos de gozo el niño en su seno, y fué llena Isabel del Espíritu Santo. _Lc. 1, 41_ | *_Ave María_*
-
-3. y levantó la voz con gran clamor y dijo: «Bendita tu entre las mujeres y bendito esl fruto de tu vientre». _Lc. 1, 42_ | *_Ave María_*
-
-4. ¿Y de dónde a mí esto que venga la madre de mi Señor a mí?». _Lc. 1, 43_ | *_Ave María_*
-
-5. Porque he aquí que. como sonó la voz de tu salutación en mi oídos, dió saltos de alborozo el niño en mi seno. _Lc. 1, 44_ | *_Ave María_*
-
-6. Y dichosa la que creyó que tendrá cumplimiento las cosas que le han sido dichas de parte del Señor. _Lc. 1, 45_ | *_Ave María_*
-
-7. Regocíjat y alégrate, hija de Sión, porque he aquí que yo estoy para llegar y habitaré en medio de ti, dice Yahveh. _Zac. 2,14_ | *_Ave María_*
-
-8. Oigo que se grita: En el desierto depejad el camino a Yahveh, enderezad en la estepa una calzada para nuestro Dios _Is. 40,3_| *_Ave María_*
-
-9. ¡Gritad de júbilo, exultad juntamente, ruinas de Jerusalén, pues Yahveh se ha compadecido de su pueblo, ha redimido a Jerusalén! _Is. 52,9_ | *_Ave María_*
-
-10. Súbitamente hago aproximarse mi justicia; mi salvación brotará como luz y mis brazos juzgarán a los pueblos. En mi esperarán las islas y en mi brazo confiarán _Is. 51,5_ | *_Ave María_*
-
-***
+'''
 
 [[finalVisitacion]]
 include::ohjesus.adoc[]
@@ -72,33 +36,15 @@ include::ohjesus.adoc[]
 [[natividad]]
 ==== La Natividad de Nuestro Señor Jesucristo
 
-Y dió a luz su hijo primogénito, y le envolvió en pañales y le recostó en un pesebre, pues no había para ellos lugar en el mesón. Y había unos pastores en aquella misma comarca, que pernoctaban al raso y velaban por turno para guardar su ganado, y un ángel del Señor se presentó ante ellos. Y les dijo el Ángel: «No tenáis, pues he aquí que os traigo una buena nueva, que será de grande alegría para todo el pueblo: que os ha nacido hoy en la ciudad de David un Salvador, que es el Mesías, el Señor». _Lucas 2, 7.8.10-11_
+include::./gozosos/03-natividad-corta.adoc[attributes]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalNatividad, ¡Oh Jesús mío!>>
 
-***
+'''
 
-1. *_Paternoster_* | El pueblo que camina en las tinieblas vió una gran luz; una luz ha resplandecido sobre los que habitaban en la tierra de sombras de muerte. _Is. 9, 2_ | *_Ave María_*
+include::./gozosos/03-natividad-larga.adoc[attributes]
 
-2. Pues un niño nos ha nacido, un hijo se nos ha dado, sobre cuyo hombro está el principado y cuyo nombre se llamará Consejero maravilloso, Dios fuerte, Padre eterno, Principe de la Paz. _Is. 9, 5_ | *_Ave María_*
-
-3. Y fué así que, mientras un quieto silencio lo envolvió todo y llegaba la noche a la mitad en su veloz carrera, tu omnipotente palabra desde los cielos, dejando el trono real, se lanzó, guerrero inexorable, en medio de aquella tierra de exterminio. _Sab 18, 14-15_ | *_Ave María_*
-
-4. Basta ya; que soy Dios tened sabido, sublime en las naciones de la tierra. Con nosotros Yahveh de los ejércitos está; el Dios de Jacob es nuestro alcázar _Sal 46,11-12_ | *_Ave María_*
-
-5. Y la santa ciudad, la nueva Jerusalén, la vi cómo descendía del cielo de cade Dios, preparada como desposada que se ha engalanado para su esposo. _Ap 21,2_ | *_Ave María_*
-
-6. Y oí una gran voz venida del trono, que decía: «He aquí la tienda, mansión de Dios con los hombres, y fijará su tienda entre ellos, y ellos serán pueblo suyo, y el mismo Dios estará con ellos como Dios». _Ap 21,3_ | *_Ave María_*
-
-7. Y sucedió que estando ellos allí se le complieron a ella los días del parto. Y dió a luz a su hijo primogénito, y le envolvió en pañales y le recostó en un pesebre, pues no había para ellos lugar en el mesón y le recostó en un pesebre, pues no había para ellos lugar en el mesón. _Lc. 2, 6-7_ | *_Ave María_*
-
-8. Y EL VERBO SE HIZO CARNE, y habitó entre nosotros; y contemplamos su gloria, gloria cual del Unigénito procedente del Padre: lleno de gracia y de verdad _Jn. 1,14_ | *_Ave María_*
-
-9. Y había unos pastores en aquella misma comarca, que pernoctaban al raso y velaban por turno para guardar su ganado, y un ángel del Señor se presentó ante ellos, y la gloria del Señor los envolvió en sus fulgores, y se atemorizaron con gran temor. _Lc. 2, 8-9_ | *_Ave María_*
-
-10. Y les dijo el ángel: «no temáis, pues he aquí que os traigo una buena nueva, que será de grande alegría para todo el pueblo: que os ha nacido hoy en la ciudad de David un Salvador, que es el Mesías, el Señor» _Lc. 2, 10-11_ | *_Ave María_* y *_Gloria_*
-
-***
+'''
 
 [[finalNatividad]]
 include::ohjesus.adoc[]
@@ -106,33 +52,15 @@ include::ohjesus.adoc[]
 [[presentacion]]
 ==== La Presentación del Niño Jesús en el Templo
 
-Y cuando se les cunplieron los días de la purificación según la ley de Moisés (Levítico 12, 6), le subieron a Jerusalen para presentarle al Señor, según está escrito en la Ley del Señor que «todo primogénito del sexo masculino será consagrado al Señor (Éxodo 13, 2; 12, 15)», y para ofrecer como sacrificio, según lo que se ordena en la Ley del Señor, «un par de tórtolas o dos palominos (Levítico 12, 8; 5, 11)». _Lucas 2, 22-24_
+include::./gozosos/04-presentacion-corta.adoc[attributes]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalPresentacion, ¡Oh Jesús mío!>>
 
-***
+'''
 
-1. *_Paternoster_* | ¡Alzaos, oh vosotras las puertas eternales, para que el Rey de la gloria entre!¿Y quién es este Rey de la gloria? El Señor fuerte, Señor [fuerte] y potente, poderoso en la liza. _Sal 24,7-8_  | *_Ave María_*
+include::./gozosos/04-presentacion-larga.adoc[attributes]
 
-2. Habló después Yahveh a Moises diciendo: «Conságradme todo primogénito; todo primer nacido entre los hijos de Israel, tanto en hombres como en animales es mío». _Ex. 13,1-2_ | *_Ave María_*
-
-3. Cuando se hayan cumplido los días de su purificación; por hijo o po hija, llevará al sacerdote, a la entrada de la tienda de reunión, un cordero añal para holocausto y un pichón o una tórtola en sacrificio por el pecado. _Lev. 12, 6_ | *_Ave María_*
-
-4. Y cuando se les cunplieron los días de la purificación según la ley de Moisés, le subieron a Jerusalen para presentarle al Señor, según está escrito en la Ley del Señor que «todo primogénito del sexo masculino será consagrado al Señor», y para ofrecer como sacrificio, según lo que se ordena en la Ley del Señor, «un par de tórtolas o dos palominos _Lc. 2, 22-24_ | *_Ave María_*
-
-5. Proseguí viendo en la visión nocturna, y he aquí que en las nubes del cielo venía como un hombre, y llegó hasta el anciano y fué llevado hasta Él. _Dan 7,13_ | *_Ave María_*
-
-6. y he aquí había un hombre en Jerusalén por nombre Simeón. Y era este hombre justo y temeroso de Dios que aguardaba la consolación de Israel, y el Espíritu Santo estaba sobre él; _Lc. 2, 25_ | *_Ave María_*
-
-7. y le había sido revelado por el Espíritu Santo que no vería la muerte antes de ver al Ungido del Señor. _Lc. 2, 26_ | *_Ave María_*
-
-8. Y vino al templo impulsado por el Espíritu Santo. Y cuando sus padres intrudujeron al niño Jesús para cumplir las prescipciones usuales de la ley tocantes a El, Simeón le recibió en sus brazos y bendijo a Dios diciendo. _Lc. 2, 27-28_ | *_Ave María_*
-
-9. Ahora dejas ir a tu siervo, Señor, según tu palabra, en paz; pues ya vieron mis ojos tu salud, que preparaste a la faz de todos los pueblos; luz para iluminación de los gentiles, y gloria de tu pueblo Israel. _Lc. 2, 29-32_ | *_Ave María_*
-
-10. Y así que cumplieron todas las cosas ordenadas en la ley del Señor, se volvieron a Galilea, a su ciudad de Nazaret. El niño crecía y se robustecía llenándose de sabiduría, y la gracia de Dios estaba en Él. _Lc. 2, 39-40_ | *_Ave María_* y *_Gloria_*
-
-***
+'''
 
 [[finalPresentacion]]
 include::ohjesus.adoc[]
@@ -140,36 +68,15 @@ include::ohjesus.adoc[]
 [[perdida]]
 ==== La Pérdida y Hallazgo del Niño Jesús en el Templo 
 
-Y no hallándole, se tornaron a Jerusalén para burcarle. Y sucedió que después de tres días le hallaron en el templo, sentado en medio de los maestros,
-escuchándolos y haciéndoles preguntas; y se pasmaban todos los que le oían de su inteligencia y de sus respuestas. Y sus padres padres, al verle, quedaron sorprendidos; y le dijo su madre: «Hijo, ¿por qué lo niciste así con nosotros? Mira que tu padre y yo, llenos de aflicción, te andábamos buscando». _Lucas 2, 46-48_
+include::./gozosos/05-perdida-corta.adoc[attributes]
 
 1 Paternoster, 10 Avemarías, 1 Gloria y <<finalPerdida, ¡Oh Jesús mío!>>
 
-***
+'''
 
-1. *_Paternoster_* | Iban sus padres cada año a Jerusalén por la fiesta de la Pascua. Y cuando fué de doce años, habiendo ellos subido, según la costumbre de la fiesta, _Lc. 2, 41-42_ | *_Ave María_*
+include::./gozosos/05-perdida-larga.adoc[attributes]
 
-2. Y acabados los días, al volverse ellos, quedóse el niño Jesús en Jerusalén, sin que lo advirtiesen sus padres. Y creyendo ellos que Él andaría en la comitiva, caminaron una jornada; y le buscaban entre los parientes y conocidos. _Lc. 2, 43-44_ | *_Ave María_*
-
-3. Y no hallándole, se tornaron a Jerusalén para buscarlo. Y sucedió que después de tres días le hallaron en el templo, sentado en medio de los maestros, escuchándoles y haciéndoles preguntas; y se pasmaban todos los que le oían de su inteligencia y de sus respuestas. _Lc. 2, 45-47_ | *_Ave María_*
-
-4. Y sus padres, al verle, quedaron sorprendidos; y le dijo su madre: «hijo, ¿por qué lo hiciste así con nosotros? Mira que tu padre y yo, llenos de aflicción, te andábamos buscando». _Lc. 2, 48_ | *_Ave María_*
-
-5. Díjoles Él: «¿pues por qué me buscabais? ¿No sabíais que había yo de estar en casa de mi padre?» Y ellos no comprendieron lo que les dijo. _Lc. 2, 49-50_ | *_Ave María_*
-
-6. Y bajó en su compañía y se fue a Nazaret, y vivía sometido a ellos. Y su madre guardaba todas estas cosas en su corazón. Y Jesús progresaba en sabiduría, en estatura y en gracia delante de Dios y de los hombres. _Lc. 2, 51-52_ | *_Ave María_*
-
-7. Una cosa [tan sólo] a Yahveh pido, esto ansío obtener: que en su casa los días de mi vida pueda morar con Él. _Sal 27,4_ | *_Ave María_*
-
-8. Los judíos, por su parte, bendencían al Señor, que había glorificado su lugar santo; y el templo, momentos antes lleno de terror y de turbación, robosaba ahora gozo y alegría, gracias a la manifestación del Señor omnipotente. _2 Mac 3,30_ | *_Ave María_*
-
-9. Grande es Yahveh, laudable por extremo en la ciudad de nuestro [padre] Dios. Su monte santo, altura encantadora, del mundo entero  es la fruición. Monte Dión, remate boreal es la ciudad morada de un gran Rey. _Sal 48,2-3_ | *_Ave María_*
-
-10. Y la ciudad no tiene necesidad de sol ni de luna, para que alumbren en ella; porque la gloria de Dios la ilumina y su antorcha es el Cordero. _Ap 21,23_ | *_Ave María_* y *_Gloria_*
-
-***
+'''
 
 [[finalPerdida]]
 include::ohjesus.adoc[]
-
-<<confiteor, Confíteor>>
