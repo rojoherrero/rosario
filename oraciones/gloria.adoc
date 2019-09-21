@@ -1,9 +1,0 @@
-[cols="<,<", grid="none", frame="none"]
-|===
-
-| V/ Gloria al Padre, al Hijo, y al Espíritu Santo. +
-R/ Como era en el principio, ahora, y siempre, y por los siglos de los siglos. Amén.
-| V/ Gloria Patri, et Filio, et Spíritui Sancto. +
-R/ Sicut erat in pcincípio et nunc, et semper et in sæcula sæculórum, Amen.
-
-|=== 

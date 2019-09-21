@@ -1,0 +1,33 @@
+\documentclass[11pt,a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{multicol}
+\usepackage{subfiles}
+\usepackage{comment}
+
+\setlength\parindent{0pt}
+
+\title{Devocionario}
+\author{Sergio}
+\date{Septiembre 2019}
+
+\begin{document}
+
+\maketitle
+
+\section*{Oraciones}
+\subfile{oraciones.tex}
+
+\section*{Rosario}
+\subsection*{Misterios Gozosos (Lunes y Jueves)}
+\subfile{gozosos.tex}
+\subsection*{Misterios Dolorosos (Martes y Viernes)}
+\subfile{dolorosos.tex}
+\subsection*{Misterios Gloriosos (Domingos. Miércoles y Sábados)}
+\subfile{gloriosos.tex}
+
+\section*{Ángelus y Regina Cœli}
+\subfile{angelus.tex}
+
+\end{document}
