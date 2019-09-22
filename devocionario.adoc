@@ -56,34 +56,38 @@ include::./oraciones/salve-regina.adoc[attributes]
 [.text-center]
 <<acto-contricion, Acto de contrición>>
 
-[cols="<,>", grid="none", frame="none"]
-|===
+'''
 
-| *Dios te salve, María, llena eres de gracia, el Señor es contigo*
-| *Ave María, grátia plena, Dóminus tecum*
+V/ Dios te salve, María, llena eres de gracia, el Señor es contigo +
+R/ Bendita eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús
 
-| _Bendita eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús_
-| _Benedicta tu in muliéribus, et benedictum fructus ventris tui, Iesus_
+V/ Abre, Señor, mis labios +
+R/ Y mi boca cantará tus alabanzas
 
-| *Abre, Señor, mis labios*
-| *Dómine, lábia mea apéries*
+V/ Apresútare, Señor, a socorrerme +
+R/ Ven, oh Dios, em mi ayuda
 
-| _Y mi boca cantará tus alabanzas_
-| _Et os meum annuntiábit laudem tuam_
+V/ Gloria al Padre... +
+R/ Como era...
 
-| *Apresútare, Señor, a socorrerme*
-| *Deum, in adjutórium meum inténde*
+'''
 
-| _Ven, oh Dios, em mi ayuda_
-| _Dómine, ad adjuvándum me festina_
+_V/ Ave María, grátia plena, Dóminus tecum_ +
+_R/ Benedicta tu in muliéribus, et benedictum fructus ventris tui, Iesus_
 
-| *Gloria al Padre...*
-| *Gloria Patri,,,*
 
-| _Como era..._
-| _Sicut erat..._
+_V/ Dómine, lábia mea apéries_ +
+_R/ Et os meum annuntiábit laudem tuam_
 
-|=== 
+
+_V/ Deum, in adjutórium meum inténde_ +
+_R/ Dómine, ad adjuvándum me festina_
+
+
+_V/ Gloria Patri,,,_ +
+_R/ Sicut erat..._
+
+'''
 
 [.text-center]
 María, Madre de gracia, Madre de Misericordia. Defiendenos del enemigo y amparanos en la hora de nuestra muerte. Amén.
@@ -91,7 +95,7 @@ María, Madre de gracia, Madre de Misericordia. Defiendenos del enemigo y ampara
 1 Paternoster, 3 Avemarías y Gloria.
 
 [[gozosos]]
-=== Misterios Gozosos (Lunes y Jueves)
+=== Misterios Gozosos (Lunes y [Jueves])
 
 [[anunciacion]]
 ==== La Anunciación de la Santísima Virgen María
@@ -348,7 +352,7 @@ include::./rosario/ohjesus.adoc[]
 include::./rosario/oraciones-final.adoc[]
 
 [[luminosos]]
-=== Misterios Luminosos
+=== Misterios Luminosos (Jueves)
 
 [[bautismo]]
 ==== El Bautismo de Nuestro Señor Jesucristo en el Jordán
@@ -364,7 +368,7 @@ include::./rosario/luminosos/01-bautismo-larga.adoc[]
 '''
 
 [[ph-jesus-nautismo]]
-include::ohjesus.adoc[]
+include::./rosario/ohjesus.adoc[]
 
 [[cana]]
 ==== Las Bodas de Caná
@@ -380,7 +384,7 @@ include::./rosario/luminosos/02-boda-larga.adoc[]
 '''
 
 [[oh-jesus-cana]]
-include::ohjesus.adoc[]
+include::./rosario/ohjesus.adoc[]
 
 [[reino]]
 ==== La Proclamación del Reino de Dios
@@ -396,7 +400,7 @@ include::./rosario/luminosos/03-reino-larga.adoc[]
 '''
 
 [[oh-jesus-reino]]
-include::ohjesus.adoc[]
+include::./rosario/ohjesus.adoc[]
 
 [[transfiguracion]]
 ==== La Transfiguración
@@ -412,7 +416,7 @@ include::./rosario/luminosos/04-transfiguracion-larga.adoc[attributes]
 '''
 
 [[oh-jesus-transfiguracion]]
-include::ohjesus.adoc[]
+include::./rosario/ohjesus.adoc[]
 
 [[eucaristia]]
 ==== La Institución de la Eucaristía
@@ -423,12 +427,12 @@ include::./rosario/luminosos/05-eucaristia-corta.adoc[]
 
 '''
 
-include::./rosario/luminosos/05-eucaristia-largaa.adoc[]
+include::./rosario/luminosos/05-eucaristia-larga.adoc[]
 
 '''
 
 [[oh-jesus-eucaristia]]
-include::ohjesus.adoc[]
+include::./rosario/ohjesus.adoc[]
 
 [[final-luminosos]]
 include::./rosario/oraciones-final.adoc[]
