@@ -86,7 +86,7 @@ include::./oraciones/salve-regina.adoc[attributes]
 |=== 
 
 [.text-center]
-María, Madre de gracia, Madre de Misericordia. Defiendenos del enemigo y amparanos en la hora de nuestra muerte. Amén.\\
+María, Madre de gracia, Madre de Misericordia. Defiendenos del enemigo y amparanos en la hora de nuestra muerte. Amén.
 [.text-center]
 1 Paternoster, 3 Avemarías y Gloria.
 
