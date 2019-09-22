@@ -1,7 +1,54 @@
 = Devocionario
 :toc:
 
-include::oraciones.adoc[]
+[[oraciones]]
+== Oraciones 
+
+[[senalcruz]]
+=== La señal de la Cruz
+
+include::./oraciones/senal-cruz.adoc[]
+
+[[paternoster]]
+=== Padrenuestro (Oración Dominical)
+
+include::./oraciones/padrenuestro.adoc[]
+
+[[avemaria]]
+=== Avemaría (Salutación Evangélica)
+
+include::./oraciones/avemaria.adoc[]
+
+[[gloriapatri]]
+=== Gloria Patri
+
+include::oraciones/gloria.adoc[]
+
+[[confiteor]]
+=== Confíteor
+
+include::./oraciones/confiteor.adoc[]
+
+[[actorContricion]]
+=== Acto de contrición
+
+include::./oraciones/acto-contricion.adoc[]
+
+[[credoapostolico]]
+=== Credo Apostólico (Símbolo de los Apóstoles)
+
+include::./oraciones/creo-apostoles.adoc[]
+
+[[salveRegina]]
+=== Salve, Regina
+
+include::./oraciones/salve-regina.adoc[attributes]
+
+
 include::rosario.adoc[]
-include::angelus.adoc[]
-include::novenas.adoc[]
+
+[[toqueoracion]]
+== Ángelus y Regina Cœli Lœtáre
+include::./angelus_reginacoeli/angelus.adoc[]
+include::./angelus_reginacoeli/reginacoeli.adoc[]
+
