@@ -1,7 +1,7 @@
 [[angelus]]
 === Ángelus
 
-[cols="<,<", grid="none", frame="none"]
+[cols="<,>", grid="none", frame="none"]
 |===
 
 | *El Ángel del Señor anunció a María.* +
@@ -14,7 +14,7 @@ Et concépit de Spíritu Sancto.
 [.text-center]
 *_Avemaría_*
 
-[cols="<,<", grid="none", frame="none"]
+[cols="<,>", grid="none", frame="none"]
 |===
 
 | *He aquí la excalva del Señor.* +
@@ -27,7 +27,7 @@ Fiat mihi secúndum verbum tuum.
 [.text-center]
 *_Avemaría_*
 
-[cols="<,<", grid="none", frame="none"]
+[cols="<,>", grid="none", frame="none"]
 |===
 
 | *Y el Verbo se hizo.* +
@@ -40,7 +40,7 @@ Et habitávit in nobis.
 [.text-center]
 *_Avemaría_*
 
-[cols="<,<", grid="none", frame="none"]
+[cols="<,>", grid="none", frame="none"]
 |===
 
 | *Rogad por nosotros, Santa Madre de Dios.* +

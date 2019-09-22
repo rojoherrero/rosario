@@ -1,7 +1,4 @@
-[[letanias]]
-==== Letanías lauretanas
-
-[cols="<,<", grid="none", frame="none"]
+[cols="<,>", grid="none", frame="none"]
 |===
 
 | Señor, tened piedad de nosptros.

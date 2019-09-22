@@ -4,12 +4,13 @@
 [[oraciones]]
 == Oraciones 
 
-[[senalcruz]]
+[[senal-cruz]]
 === La señal de la Cruz
 
 include::./oraciones/senal-cruz.adoc[]
 
 [[paternoster]]
+
 === Padrenuestro (Oración Dominical)
 
 include::./oraciones/padrenuestro.adoc[]
@@ -19,7 +20,7 @@ include::./oraciones/padrenuestro.adoc[]
 
 include::./oraciones/avemaria.adoc[]
 
-[[gloriapatri]]
+[[gloria-patri]]
 === Gloria Patri
 
 include::oraciones/gloria.adoc[]
@@ -29,12 +30,12 @@ include::oraciones/gloria.adoc[]
 
 include::./oraciones/confiteor.adoc[]
 
-[[actorContricion]]
+[[acto-contricion]]
 === Acto de contrición
 
 include::./oraciones/acto-contricion.adoc[]
 
-[[credoapostolico]]
+[[credo-apostolico]]
 === Credo Apostólico (Símbolo de los Apóstoles)
 
 include::./oraciones/creo-apostoles.adoc[]
@@ -45,7 +46,310 @@ include::./oraciones/creo-apostoles.adoc[]
 include::./oraciones/salve-regina.adoc[attributes]
 
 
-include::rosario.adoc[]
+[[rosario]]
+== Rosario Meditado
+
+[.text-center]
+<<senal-cruz, Por la señal...>>
+[.text-center]
+<<confiteor, Confíteor>>
+[.text-center]
+<<acto-contricion, Acto de contrición>>
+
+[cols="<,>", grid="none", frame="none"]
+|===
+
+| *Dios te salve, María, llena eres de gracia, el Señor es contigo*
+| *Ave María, grátia plena, Dóminus tecum*
+
+| _Bendita eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús_
+| _Benedicta tu in muliéribus, et benedictum fructus ventris tui, Iesus_
+
+| *Abre, Señor, mis labios*
+| *Dómine, lábia mea apéries*
+
+| _Y mi boca cantará tus alabanzas_
+| _Et os meum annuntiábit laudem tuam_
+
+| *Apresútare, Señor, a socorrerme*
+| *Deum, in adjutórium meum inténde*
+
+| _Ven, oh Dios, em mi ayuda_
+| _Dómine, ad adjuvándum me festina_
+
+| *Gloria al Padre...*
+| *Gloria Patri,,,*
+
+| _Como era..._
+| _Sicut erat..._
+
+|=== 
+
+[.text-center]
+María, Madre de gracia, Madre de Misericordia. Defiendenos del enemigo y amparanos en la hora de nuestra muerte. Amén.\\
+[.text-center]
+1 Paternoster, 3 Avemarías y Gloria.
+
+[[gozosos]]
+=== Misterios Gozosos (Lunes y Jueves)
+
+[[anunciacion]]
+==== La Anunciación de la Santísima Virgen María
+
+include::./rosario/gozosos/01-anunciacion-corta.adoc[attributes]
+
+1 Paternoster, 10 Avemarías,  1 Gloria y <<oh-jesus-anunciacion, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/gozosos/01-anunciacion-larga.adoc[attributes]
+
+'''
+
+[[oh-jesus-anunciacion]]
+include::./rosario/ohjesus.adoc[]
+
+[[visitacion]]
+==== La Visitación de Nuestra Señora 
+
+include::./rosario/gozosos/02-visitacion-corta.adoc[attributes]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-visitacion, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/gozosos/02-visitacion-larga.adoc[attributes]
+
+'''
+
+[[oh-jesus-visitacion]]
+include::./rosario/ohjesus.adoc[]
+            
+[[natividad]]
+==== La Natividad de Nuestro Señor Jesucristo
+
+include::./rosario/gozosos/03-natividad-corta.adoc[attributes]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-natividad, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/gozosos/03-natividad-larga.adoc[attributes]
+
+'''
+
+[[oh-jesus-natividad]]
+include::./rosario/ohjesus.adoc[]
+
+[[presentacion]]
+==== La Presentación del Niño Jesús en el Templo
+
+include::./rosario/gozosos/04-presentacion-corta.adoc[attributes]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-presentacion, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/gozosos/04-presentacion-larga.adoc[attributes]
+
+'''
+
+[[oh-jesus-presentacion]]
+include::./rosario/ohjesus.adoc[]
+    
+[[perdida]]
+==== La Pérdida y Hallazgo del Niño Jesús en el Templo 
+
+include::./rosario/gozosos/05-perdida-corta.adoc[attributes]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-perdida, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/gozosos/05-perdida-larga.adoc[attributes]
+
+'''
+
+[[oh-jesus-perdida]]
+include::./rosario/ohjesus.adoc[]
+
+[[final-gozosos]]
+include::./rosario/oraciones-final.adoc[]
+
+[[dolorosos]]
+=== Misterios Dolorosos (Martes y Viernes)
+
+[[huerto]]
+==== La Agonía de Nuestro Señor en el Huerto de los Olivos
+
+include::./rosario/dolorosos/01-agonia-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-huerto, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/dolorosos/01-agonia-larga.adoc[]
+
+'''
+
+[[oh-jesus-huerto]]
+include::./rosario/ohjesus.adoc[]
+
+[[flagelacion]]
+==== La flagelación de Nuestro Señor Jesucristo
+
+include::./rosario/dolorosos/02-flajelacion-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-flagelacion, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/dolorosos/02-flajelacion-larga.adoc[]
+
+'''
+
+[[oh-jesus-flagelacion]]
+include::./rosario/ohjesus.adoc[]
+
+==== La coronación de espinas de Nuestro Señor Jesucristo
+
+include::./rosario/dolorosos/03-espinas-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-corona-espinas, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/dolorosos/03-espinas-larga.adoc[]
+
+'''
+
+[[oh-jesus-corona-espinas]]
+include::./rosario/ohjesus.adoc[]
+
+[[cruz]]
+==== Jesús con la Cruz a cuestas
+
+include::./rosario/dolorosos/04-cruz-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-cruz, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/dolorosos/04-cruz-larga.adoc[]
+
+'''
+
+[[oh-jesus-cruz]]
+include::./rosario/ohjesus.adoc[]
+
+[[muerte]]
+==== La Crucifixión y Muerte del Redentor
+
+include::./rosario/dolorosos/05-muerte-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-crucifixion, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/dolorosos/05-muerte-larga.adoc[]
+
+'''
+
+[[oh-jesus-crucifixion]]
+include::./rosario/ohjesus.adoc[]
+
+[[final-dolorosos]]
+include::./rosario/oraciones-final.adoc[]
+
+[[gloriosos]]
+=== Misterios Gloriosos (Miércoles, Sábados y Domingos)
+
+[[resurreccion]]
+==== La Resurección del Señor
+
+include::./rosario/gloriosos/01-resurreccion-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-resureccion, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/gloriosos/01-resurreccion-larga.adoc[]
+
+'''
+
+[[oh-jesus-resureccion]]
+include::./rosario/ohjesus.adoc[]
+
+[[acension]]
+==== La Ascensión de Jesucristo a los cielos
+
+include::./rosario/gloriosos/02-ascension-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-ascension, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/gloriosos/02-ascension-larga.adoc[]
+
+'''
+
+[[oh-jesus-ascension]]
+include::./rosario/ohjesus.adoc[]
+
+[[pentecostes]]
+==== La Venida del Espíritu Santo sobre los Apóstoles
+
+include::./rosario/gloriosos/03-pentecostes-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-pentecostes, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/gloriosos/03-pentecostes-larga.adoc[]
+
+'''
+
+[[oh-jesus-pentecostes]]
+include::./rosario/ohjesus.adoc[]
+
+[[asuncion]]
+==== La Asunción de Nuestra Señora a los cielos
+
+include::./rosario/gloriosos/04-asuncion-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-asuncion, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/gloriosos/04-asuncion-larga.adoc[]
+
+'''
+
+[[oh-jesus-asuncion]]
+include::./rosario/ohjesus.adoc[]
+
+[[coronacion]]
+==== La Coronación de la Santísima Virgen María
+
+include::./rosario/gloriosos/05-coronacion-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria, <<oh-jesus-coronacion-bvm, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/gloriosos/05-coronacion-larga.adoc[]
+
+'''
+
+[[oh-jesus-coronacion-bvm]]
+include::./rosario/ohjesus.adoc[]
+
+[[final-gloriosos]]
+include::./rosario/oraciones-final.adoc[]
+
+[[letanias]]
+==== Letanías lauretanas
+include::./rosario/letanias.adoc[]
 
 [[toqueoracion]]
 == Ángelus y Regina Cœli Lœtáre

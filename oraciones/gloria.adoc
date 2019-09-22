@@ -1,4 +1,4 @@
-[cols="<,<", grid="none", frame="none"]
+[cols="<,>", grid="none", frame="none"]
 |===
 
 | V/ Gloria al Padre, al Hijo, y al Espíritu Santo. +

@@ -1,4 +1,4 @@
-[cols="<,<", grid="none", frame="none"]
+[cols="<,>", grid="none", frame="none"]
 |===
 
 | En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.
