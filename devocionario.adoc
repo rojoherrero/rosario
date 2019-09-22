@@ -347,6 +347,92 @@ include::./rosario/ohjesus.adoc[]
 [[final-gloriosos]]
 include::./rosario/oraciones-final.adoc[]
 
+[[luminosos]]
+=== Misterios Luminosos
+
+[[bautismo]]
+==== El Bautismo de Nuestro Señor Jesucristo en el Jordán
+
+include::./rosario/luminosos/01-bautismo-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<ph-jesus-nautismo, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/luminosos/01-bautismo-larga.adoc[]
+
+'''
+
+[[ph-jesus-nautismo]]
+include::ohjesus.adoc[]
+
+[[cana]]
+==== Las Bodas de Caná
+
+include::./rosario/luminosos/02-boda-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-cana, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/luminosos/02-boda-larga.adoc[]
+
+'''
+
+[[oh-jesus-cana]]
+include::ohjesus.adoc[]
+
+[[reino]]
+==== La Proclamación del Reino de Dios
+
+include::./rosario/luminosos/03-reino-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-reino, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/luminosos/03-reino-larga.adoc[]
+
+'''
+
+[[oh-jesus-reino]]
+include::ohjesus.adoc[]
+
+[[transfiguracion]]
+==== La Transfiguración
+
+include::./rosario/luminosos/04-transfiguracion-corta.adoc[attributes]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-transfiguracion, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/luminosos/04-transfiguracion-larga.adoc[attributes]
+
+'''
+
+[[oh-jesus-transfiguracion]]
+include::ohjesus.adoc[]
+
+[[eucaristia]]
+==== La Institución de la Eucaristía
+
+include::./rosario/luminosos/05-eucaristia-corta.adoc[]
+
+1 Paternoster, 10 Avemarías, 1 Gloria y <<oh-jesus-eucaristia, ¡Oh Jesús mío!>>
+
+'''
+
+include::./rosario/luminosos/05-eucaristia-largaa.adoc[]
+
+'''
+
+[[oh-jesus-eucaristia]]
+include::ohjesus.adoc[]
+
+[[final-luminosos]]
+include::./rosario/oraciones-final.adoc[]
+
 [[letanias]]
 ==== Letanías lauretanas
 include::./rosario/letanias.adoc[]

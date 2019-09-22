@@ -2,25 +2,19 @@
 Gracias os damos, soberana Princesa, por los favores que todos los días recibimos de vuestra benéfica mano; dignaos, Señora, tenernos ahora 
 y siempre bajo vuestra protección y amparo y para más obligados, os saludamos con una Salve
 
-[cols="<,>", grid="none", frame="none"]
-|===
-
-| Dios te Salve, Reina y Madre...
-| Salve, Regina, Mater mi­se­ri­córdiæ...
-
-|=== 
+[.text-center]
+Dios te Salve, Reina y Madre...
+[.text-center]
+_Salve, Regina, Mater mi­se­ri­córdiæ..._
 
 [.text-justify]
 Los que lleven consigo el Rosario debidamente bendecido y lo besaren devotamente diciento las palabras
 
-[cols="<,>", grid="none", frame="none"]
-|===
-
-| Dios de salve, María, llena eres de gracia, el Señor es contigo; bendita eres entre todas las mujeres, 
+[.text-center]
+Dios de salve, María, llena eres de gracia, el Señor es contigo; bendita eres entre todas las mujeres, 
 y bendito es el fruto de tu vientre, Jesús.
-| Ave María, grátia plena, Dóminus tecum; benedicta tu in muliéribus, et benedictum fructus ventris tui, Iesus.
-
-|=== 
+[.text-center]
+_Ave María, grátia plena, Dóminus tecum; benedicta tu in muliéribus, et benedictum fructus ventris tui, Iesus._
 
 [.text-justify]
 Su Santidad el Papa Pío XII concede perpetuamente 500 días de indulgencia una vez el día
