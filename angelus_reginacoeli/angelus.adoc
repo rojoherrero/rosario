@@ -1,7 +1,7 @@
 [[angelus]]
 === Ángelus
 
-V/ El Ángel del Señor anunció a María.+
+V/ El Ángel del Señor anunció a María. +
 R/ Y ella concibió por obra y gracia del Espíritu Santo.
 
 *_Avemaría_*

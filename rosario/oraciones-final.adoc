@@ -3,9 +3,9 @@ Gracias os damos, soberana Princesa, por los favores que todos los días recibim
 y siempre bajo vuestra protección y amparo y para más obligados, os saludamos con una Salve
 
 [.text-center]
-Dios te Salve, Reina y Madre...
+<<salve-regina, Dios te Salve, Reina y Madre...>>
 [.text-center]
-_Salve, Regina, Mater mi­se­ri­córdiæ..._
+<<salve-regina,_Salve, Regina, Mater mi­se­ri­córdiæ..._>>
 
 [.text-justify]
 Los que lleven consigo el Rosario debidamente bendecido y lo besaren devotamente diciento las palabras

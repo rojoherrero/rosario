@@ -4,44 +4,19 @@
 [[oraciones]]
 == Oraciones 
 
-[[senal-cruz]]
-=== La señal de la Cruz
-
 include::./oraciones/senal-cruz.adoc[]
-
-[[paternoster]]
-
-=== Padrenuestro (Oración Dominical)
 
 include::./oraciones/padrenuestro.adoc[]
 
-[[avemaria]]
-=== Avemaría (Salutación Evangélica)
-
 include::./oraciones/avemaria.adoc[]
-
-[[gloria-patri]]
-=== Gloria Patri
 
 include::oraciones/gloria.adoc[]
 
-[[confiteor]]
-=== Confíteor
-
 include::./oraciones/confiteor.adoc[]
-
-[[acto-contricion]]
-=== Acto de contrición
 
 include::./oraciones/acto-contricion.adoc[]
 
-[[credo-apostolico]]
-=== Credo Apostólico (Símbolo de los Apóstoles)
-
 include::./oraciones/creo-apostoles.adoc[]
-
-[[salveRegina]]
-=== Salve, Regina
 
 include::./oraciones/salve-regina.adoc[attributes]
 
@@ -49,53 +24,10 @@ include::./oraciones/salve-regina.adoc[attributes]
 [[rosario]]
 == Rosario Meditado
 
-[.text-center]
-<<senal-cruz, Por la señal...>>
-[.text-center]
-<<confiteor, Confíteor>>
-[.text-center]
-<<acto-contricion, Acto de contrición>>
-
-'''
-
-V/ Dios te salve, María, llena eres de gracia, el Señor es contigo +
-R/ Bendita eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús
-
-V/ Abre, Señor, mis labios +
-R/ Y mi boca cantará tus alabanzas
-
-V/ Apresútare, Señor, a socorrerme +
-R/ Ven, oh Dios, em mi ayuda
-
-V/ Gloria al Padre... +
-R/ Como era...
-
-'''
-
-_V/ Ave María, grátia plena, Dóminus tecum_ +
-_R/ Benedicta tu in muliéribus, et benedictum fructus ventris tui, Iesus_
-
-
-_V/ Dómine, lábia mea apéries_ +
-_R/ Et os meum annuntiábit laudem tuam_
-
-
-_V/ Deum, in adjutórium meum inténde_ +
-_R/ Dómine, ad adjuvándum me festina_
-
-
-_V/ Gloria Patri,,,_ +
-_R/ Sicut erat..._
-
-'''
-
-[.text-center]
-María, Madre de gracia, Madre de Misericordia. Defiendenos del enemigo y amparanos en la hora de nuestra muerte. Amén.
-[.text-center]
-1 Paternoster, 3 Avemarías y Gloria.
+include::./rosario/inicio.adoc[]
 
 [[gozosos]]
-=== Misterios Gozosos (Lunes y [Jueves])
+=== Misterios Gozosos (Lunes y Jueves | Lunes y Sábados)
 
 [[anunciacion]]
 ==== La Anunciación de la Santísima Virgen María
@@ -266,7 +198,7 @@ include::./rosario/ohjesus.adoc[]
 include::./rosario/oraciones-final.adoc[]
 
 [[gloriosos]]
-=== Misterios Gloriosos (Miércoles, Sábados y Domingos)
+=== Misterios Gloriosos (Miércoles, Sábados y Domingos | Domingo y Miércoles)
 
 [[resurreccion]]
 ==== La Resurección del Señor
@@ -443,6 +375,7 @@ include::./rosario/letanias.adoc[]
 
 [[toqueoracion]]
 == Ángelus y Regina Cœli Lœtáre
+
 include::./angelus_reginacoeli/angelus.adoc[]
 include::./angelus_reginacoeli/reginacoeli.adoc[]
 
