@@ -370,7 +370,7 @@ include::./rosario/ohjesus.adoc[]
 include::./rosario/oraciones-final.adoc[]
 
 [[letanias]]
-==== Letanías lauretanas
+=== Letanías lauretanas
 include::./rosario/letanias.adoc[]
 
 [[toqueoracion]]

@@ -1,210 +1,207 @@
-[cols="<,>", grid="none", frame="none"]
-|===
+Kýrie, eléison. +
+Señor, tened piedad de nosotros.
 
-| Señor, tened piedad de nosptros.
-| Kýrie, eléison.
+Christe, eléison. +
+Cristo, tened piedad de nosotros. +
 
-| Cristo, tened piedad de nosptros.
-| hriste, eléison.
+Kýrie, eléison. +
+Señor, tened piedad de nosotros.
 
-| Señor, tened piedad de nosptros.
-| Kýrie, eléison.
+Christe, audi nos. +
+Cristo, oídnos.
 
-| Cristo, oídnos
-| Christe, audi nos.
+Christe, exáudi nos. +
+Cristo, escuchadnos.
 
-| Cristo, escuchadnos
-| Christe, exáudi nos.
+Pater de cælis, Deus, _miserére nobis._ +
+Dios, Padre celestial, _tened misericordia de nosotros._
 
-| Dios, Padre celestial, _tened misericordia de nosotros._
-| Pater de cælis, Deus, _miserére nobis._
+Fili, Redémptor mundi, Deus. +
+Dios Hijo, Redentor del mundo.
 
-| Dios Hijo, Redentor del mundo.
-| Fili, Redémptor mundi, Deus.
+Spíritus Sancte, Deus. +
+Dios Espíritu Santo.
 
-| Dios Espíritu Santo.
-| Spíritus Sancte, Deus.
+Sancta Trínitas, unus Deus. +
+Trinidad Santa, un solo Dios
 
-| Trinidad Santa, un solo Dios
-| Sancta Trínitas, unus Deus
+Sancta Maria, _ora pro nobis._ +
+Santa María, _rogad por nosotros._
 
-| Santa María, _rogad por nosotros._
-| Sancta Maria, _ora pro nobis._
+Sancta Dei Génetrix. +
+Santa Madre de Dios.
 
-| Santa Madre de Dios
-| Sancta Dei Génetrix
+Sancta Virgo vírginum. +
+Santa Virgen de las vírgenes.
 
-| Santa Virgen de las vírgenes
-| Sancta Virgo vírginum
+Mater Christi. +
+Madre de Cristo.
 
-| Madre de Cristo.
-| Mater Christi.
+Mater Ecclésiæ. +
+Madre de la Iglesia.
 
-| Madre de la Iglesia
-| Mater Ecclésiæ
+Mater divínæ gratiæ. +
+Madre de la divina gracia.
 
-| Madre de la divina gracia
-| Mater divínæ gratiæ
+Mater puríssima. +
+Madre purísima. +
 
-| Madre purísima
-| Mater puríssima
+Mater castíssima. +
+Madre castísima.
 
-| Madre castísima
-| Mater castíssima
+Mater invioláta. +
+Madre virginal.
 
-| Madre virginal
-| Mater invioláta
+Mater intemeráta. +
+Madre sin corrupción.
 
-| Madre sin corrupción
-| Mater intemeráta
+Mater immaculáta. +
+Madre inmaculada.
 
-| Madre inmaculada
-| Mater immaculáta
+Mater amábilis. +
+Madre amable.
 
-| Madre amable
-| Mater amábilis
+Mater admirábilis. +
+Madre admirable.
 
-| Madre admirable
-| Mater admirábilis
+Mater boni Consílii. +
+Madre del Buen Consejo. 
 
-| Madre del Buen Consejo
-| Mater boni Consílii
+Mater Creatóris. +
+Madre del Creador. 
 
-| Madre del Creador
-| Mater Creatóris
+Mater Salvatóris. +
+Madre del Salvador. 
 
-| Madre del Salvador
-| Mater Salvatóris
+Virgo pru­den­tíssima. +
+Virgen pru­den­tísima.
 
-| Virgen pru­den­tísima
-| Virgo pru­den­tíssima
+Virgo veneránda. +
+Virgen digna de veneración.
 
-| Virgen digna de veneración
-| Virgo veneránda
+Virgo prædicánda. +
+Virgen digna de alabanza.
 
-| Virgen digna de alabanza
-| Virgo prædicánda
+Virgo potens. +
+Virgen poderosa.
 
-| Virgen poderosa
-| Virgo potens
+Virgo clemens. +
+Virgen clemente.
 
-| Virgen clemente
-| Virgo clemens
+Virgo fidélis. +
+Virgen fiel.
 
-| Virgen fiel
-| Virgo fidélis
+Spéculum iustítiæ. +
+Espejo de justicia.
 
-| Espejo de justicia
-| Spéculum iustítiæ
+Sedes Sapiéntiæ. +
+Trono de sabiduría.
 
-| Trono de sabiduría
-| Sedes Sapiéntiæ
+Causa nostræ lætítiæ. +
+Causa de nuestra alegría.
 
-| Causa de nuestra alegría
-| Causa nostræ lætítiæ
+Vas spirituále. +
+Vaso espiritual.
 
-| Vaso espiritual
-| Vas spirituále
+Vas honorábile. +
+Vaso digno de honor.
 
-| Vaso digno de honor
-| Vas honorábile
+Vas insigne devotiónis. +
+Vaso insigne de devoción.
 
-| Vaso insigne de devoción
-| Vas insigne devotiónis
+Rosa mýstica. +
+Rosa mística.
 
-| Rosa mística
-| Rosa mýstica
+Turris Davídica. +
+Torre de David.
 
-| Torre de David
-| Turris Davídica
+Turris ebúrnea. +
+Torre de marfil.
 
-| Torre de marfil
-| Turris ebúrnea
+Domus áurea. +
+Casa de oro. 
 
-| Casa de oro. 
-| Domus áurea.
+Fœderis arca. +
+Arca de la alianza.
 
-| Arca de la alianza.
-| Fœderis arca.
+Iánua cæli. +
+Puerta del cielo. +
 
-| Puerta del cielo.
-| Iánua cæli.
+Stella matutina. +
+Estrella de la mañana.
 
-| Estrella de la mañana.
-| Stella matutina.
+Salus infirmórum, +
+Salud de los enfermos.
 
-| Salud de los enfermos.
-| Salus infirmórum,.
+Refugium peccatórum. +
+Refugio de los pecadores.
 
-| Refugio de los pecadores.
-| Refugium peccatórum.
+Consolátrix af­flic­tórum. +
+Consuelo de los afligidos.
 
-| Consuelo de los afligidos.
-| Consolátrix af­flic­tórum.
+Auxílium chris­tia­nórum. +
+Auxilio de los cristianos.
 
-| Auxilio de los cristianos.
-| Auxílium chris­tia­nórum.
+Regina Angelórum. +
+Reina de los Ángeles.
 
-| Reina de los Ángeles.
-| Regina Angelórum.
+Regina Pa­triar­chárum. +
+Reina de los Patriarcas.
 
-| Reina de los Patriarcas.
-| Regina Pa­triar­chárum.
+Regina Pro­phe­tárum. +
+Reina de los Profetas.
 
-| Reina de los Profetas.
-| Regina Pro­phe­tárum.
+Regina Apos­to­lórum. +
+Reina de los Apóstoles.
 
-| Reina de los Apóstoles.
-| Regina Apos­to­lórum.
+Regina Mártyrum. +
+Reina de los Mártires.
 
-| Reina de los Mártires.
-| Regina Mártyrum.
+Regina Con­fe­ssórum. +
+Reina de los Confesores.
 
-| Reina de los Confesores.
-| Regina Con­fe­ssórum.
+Regina Vírginum. +
+Reina de las Vírgenes.
 
-| Reina de las Vírgenes.
-| Regina Vírginum.
+Regina Sanctórum ómnium. +
+Reina de todos los Santos.
 
-| Reina de todos los Santos.
-| Regina Sanctórum ómnium.
+Regina sine labe originali concépta. +
+Reina concebida sin pecado original.
 
-| Reina concebida sin pecado original.
-| Regina sine labe originali concépta.
+Regina in cælum assumpta. +
+Reina elevada al cielo.
 
-| Reina elevada al cielo.
-| Regina in cælum assumpta.
+Regina sa­cra­tíssimi Rosárii. +
+Reina del Santísimo Rosario.
 
-| Reina del Santísimo Rosario.
-| Regina sa­cra­tíssimi Rosárii.
+Regina famíliæ. +
+Reina de la familia.
 
-| Reina de la familia.
-| Regina famíliæ.
+Regina pacis. +
+Reina de la paz.
 
-| Reina de la paz.
-| Regina pacis.
-
-| *Cordero de Dios, que quitas los pecados del mundo*, +
+*Agnus Dei, qui tollis peccáta mundi*, +
+_parce nobis, Dómine._ +
+*Cordero de Dios, que quitas los pecados del mundo*, +
 _perdonadnos, Señor._
-| *Agnus Dei, qui tollis peccáta mundi*, +
-_parce nobis, Dómine._
 
-| *Cordero de Dios, que quitas los pecados del mundo*, +
+*Agnus Dei, qui tollis peccáta mundi*, +
+_exáudi nos, Dómine._ +
+*Cordero de Dios, que quitas los pecados del mundo*, +
 _escuchadnos, Señor._
-| *Agnus Dei, qui tollis peccáta mundi*, +
-_exáudi nos, Dómine._
 
-| *Cordero de Dios, que quitas los pecados del mundo*, +
-_tened piedad de nosotros+_
-| *Agnus Dei, qui tollis peccáta mundi*, +
-_miserére nobis._
+*Agnus Dei, qui tollis peccáta mundi*, +
+_miserére nobis._ +
+*Cordero de Dios, que quitas los pecados del mundo*, +
+_tened piedad de nosotros_
 
-| Bajo tu amparo nos acogemos, Santa Madre de Dios: no desprecies las súplicas que te dirigimos en nuestras necesidades, antes bien, líbranos siempre de todos los peligros, Virgen gloriosa y bendita.
-| Sub tuum præsídium confúgimus, Sancta Dei Génetrix, nostras de­pre­ca­tiónes ne despícias in ne­ces­si­tátibus; sed a perículis cunctis líbera nos semper, Virgo gloriósa et benedícta.
+Sub tuum præsídium confúgimus, Sancta Dei Génetrix, nostras de­pre­ca­tiónes ne despícias in ne­ces­si­tátibus; sed a perículis cunctis líbera nos semper, Virgo gloriósa et benedícta. +
+Bajo tu amparo nos acogemos, Santa Madre de Dios: no desprecies las súplicas que te dirigimos en nuestras necesidades, antes bien, líbranos siempre de todos los peligros, Virgen gloriosa y bendita.
 
-| *Ruega por nosotros, Santa Madre de Dios*. +
+*Ora pro nobis, Sancta Dei Génetrix*. +
+_Ut digni efficiámur pro­mi­ssiónibus Christi._ +
+*Ruega por nosotros, Santa Madre de Dios*. +
 _Para que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo._
-| *Ora pro nobis, Sancta Dei Génetrix*. +
-_Ut digni efficiámur pro­mi­ssiónibus Christi._
 
-|=== 
+
