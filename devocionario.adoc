@@ -6,7 +6,7 @@
 
 include::./oraciones/senal-cruz.adoc[]
 
-include::./oraciones/padrenuestro.adoc[]
+include::./oraciones/paternoster.adoc[]
 
 include::./oraciones/avemaria.adoc[]
 
@@ -14,11 +14,11 @@ include::oraciones/gloria.adoc[]
 
 include::./oraciones/confiteor.adoc[]
 
-include::./oraciones/acto-contricion.adoc[]
+include::./oraciones/contricion.adoc[]
 
-include::./oraciones/creo-apostoles.adoc[]
+include::./oraciones/credo-apostolico.adoc[]
 
-include::./oraciones/salve-regina.adoc[attributes]
+include::./oraciones/salve.adoc[]
 
 
 [[rosario]]
@@ -27,7 +27,7 @@ include::./oraciones/salve-regina.adoc[attributes]
 include::./rosario/inicio.adoc[]
 
 [[gozosos]]
-=== Misterios Gozosos (Lunes y Jueves | Lunes y Sábados)
+=== Misterios Gozosos (Lunes y Jueves)
 
 [[anunciacion]]
 ==== La Anunciación de la Santísima Virgen María
@@ -198,7 +198,7 @@ include::./rosario/ohjesus.adoc[]
 include::./rosario/oraciones-final.adoc[]
 
 [[gloriosos]]
-=== Misterios Gloriosos (Miércoles, Sábados y Domingos | Domingo y Miércoles)
+=== Misterios Gloriosos (Miércoles, Sábados y Domingos)
 
 [[resurreccion]]
 ==== La Resurección del Señor
