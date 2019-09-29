@@ -5,10 +5,14 @@
 *.fdb_latexmk
 *.bbl
 *.blg
+*.toc
 
 .vscode
 output/
 aux/
+pandoc_downloads/
 
 *.epub
 *.pdf
+*.azw3
+*.html
