@@ -1,5 +1,0 @@
-[.text-justify]
-Y una gran señal fué vista en el cielo: una Mujer vestida del sol, y la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas. 
-
-[.text-right]
-_Apocalipsis 12, 1_
