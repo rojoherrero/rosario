@@ -1,9 +1,9 @@
-\documentclass[11pt,a4paper]{report}
+\documentclass[11pt,a4paper]{book}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{geometry}
- \geometry{
+\geometry{
     a4paper,
     total={170mm,257mm},
     left=20mm,
@@ -21,41 +21,44 @@
 
 \begin{document}
 
-    \maketitle
+    \begin{titlepage}
+    \maketitle        
+    \end{titlepage}
 
-    \section*{Oraciones}
+    \chapter{Oraciones}
 
-    \subsection*{La Señal de la Cruz}
+    \section{La Señal de la Cruz}\label{sec:senal-cruz}
     \subfile{./oraciones/senal-cruz.tex}
 
-    \subsection*{Padre Nuestro}
+    \section{Padre Nuestro}\label{sec:paternoster}
     \subfile{./oraciones/paternoster.tex}
 
-    \subsection*{Ave María}
+    \section{Ave María}\label{sec:avemaria}
     \subfile{./oraciones/avemaria.tex}
 
-    \subsection*{Gloria Patri}
+    \section{Gloria Patri}\label{sec_gloria}
     \subfile{./oraciones/gloria.tex}
 
-    \subsection*{Confíteor}
+    \section{Confíteor}\label{sec:confiteor}
     \subfile{./oraciones/confiteor.tex}
 
-    \subsection*{Acto de contrición}
+    \section{Acto de contrición}\label{sec:contricion}
     \subfile{./oraciones/contricion.tex}
 
-    \subsection*{Credo Apostólico}
+    \section{Credo Apostólico}\label{sec:credo}
     \subfile{./oraciones/credo-apostolico.tex}
 
-    \subsection*{Salve}
+    \section{Salve}\label{sec:salve}
     \subfile{./oraciones/salve.tex}
 
-    \section*{Rosario}
+    \chapter{Rosario}
 
     \subfile{./rosario/inicio.tex}
     
-    \subsection*{Misterios Gozosos (Lunes y Jueves)}
+    \section{Misterios Gozosos}
+    Lunes, jueves y domingos de Adviento y Navidad.
 
-    \subsubsection*{I Misterio:\\ La Encarnación del Verbo en el seno de la Virgen}
+    \subsection{La Anunciación de la Santísima Virgen María}
     \subfile{./rosario/gozosos/01-anunciacion-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -63,7 +66,7 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subsubsection*{II Misterio:\\ La Visitación de Nuestra Señora a Santa Isabel}
+    \subsection{La Visitación de Nuestra Señora}
     \subfile{./rosario/gozosos/02-visitacion-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -71,7 +74,7 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subsubsection*{III Misterio:\\ La Natividad del Señor}
+    \subsection{La Natividad del Nuestro Señor Jesucristo}
     \subfile{./rosario/gozosos/03-natividad-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -79,7 +82,7 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subsubsection*{IV Misterio:\\ La Purificación de nuestra Serñora y La Presentación del Niño Jesús en el Templo}
+    \subsection{La Purificación de nuestra Serñora y La Presentación del Niño Jesús en el Templo}
     \subfile{./rosario/gozosos/04-presentacion-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -87,7 +90,7 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subsubsection*{V Misterio:\\ EL Niño perdido y hallado en el Templo}
+    \subsection{La pérdida y hallazgo del Niño Jesús en el Templo}
     \subfile{./rosario/gozosos/05-perdida-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -95,11 +98,14 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subfile{./rosario/oraciones-final.tex}
+    ir a Oraciones finales.
 
-    \subsection*{Misterios Dolorosos (Martes y Viernes)}
+    \newpage    
 
-    \subsubsection*{I Misterio:\\ La Agonía de Nuestro Señor en el Huerto de los Olivos}
+    \section{Misterios Dolorosos}
+    Martes, viernes y domingos de Cuaresma
+
+    \subsection{La Agonía de Nuestro Señor en el Huerto de los Olivos}
     \subfile{./rosario/dolorosos/01-agonia-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -107,7 +113,7 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subsubsection*{II Misterio:\\ La Flagelación de Nuestro Señor}
+    \subsection{La Flagelación de Nuestro Señor Jesucristo}
     \subfile{./rosario/dolorosos/02-flajelacion-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -115,7 +121,7 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subsubsection*{III Misterio:\\ La Coronación de espinas de Nuestro Señor}
+    \subsection{La Coronación de espinas de Nuestro Señor Jesucristo}
     \subfile{./rosario/dolorosos/03-espinas-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -123,7 +129,7 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subsubsection*{IV Misterio:\\ El Señor con la cruz a cuestas}
+    \subsection{El Señor con la cruz a cuestas}
     \subfile{./rosario/dolorosos/04-cruz-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -131,7 +137,7 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subsubsection*{V Misterio:\\ Crucifixión y Muerte del Señor}
+    \subsection{Crucifixión y Muerte del Redentor}
     \subfile{./rosario/dolorosos/05-muerte-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -139,11 +145,14 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subfile{./rosario/oraciones-final.tex}
+    ir a Oraciones finales.
 
-    \subsection*{Misterios Gloriosos (Domingos. Miércoles y Sábados)}
+    \newpage
 
-    \subsubsection*{I Misterio:\\ La Resurrección del Señor}
+    \section{Misterios Gloriosos.}
+    Miércoles, sábados y domingos de Pascua y Pentecostés.
+
+    \subsection{La Resurrección del Señor}
     \subfile{./rosario/gloriosos/01-resurreccion-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -151,7 +160,7 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subsubsection*{II Misterio:\\ Las Ascensión del Señor}
+    \subsection{Las Ascensión Jesucristo a los cielos}
     \subfile{./rosario/gloriosos/02-ascension-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -159,7 +168,7 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subsubsection*{III Misterio:\\ La Venida del Espíritu Santo}
+    \subsection{III Misterio glorioso: La Venida del Espíritu Santo sobre los Apóstoles}
     \subfile{./rosario/gloriosos/03-pentecostes-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -167,7 +176,7 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subsubsection*{IV Misterio:\\ La Asunción de María Santísima}
+    \subsection{La Asunción de María Santísima a los cielos}
     \subfile{./rosario/gloriosos/04-asuncion-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -175,7 +184,7 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
-    \subsubsection*{V Misterio:\\ La Coronación de María Santísima}
+    \subsection{La Coronación de la Santísima Virgen María}
     \subfile{./rosario/gloriosos/05-coronacion-corta.tex}
     \subfile{./rosario/oraciones-corto.tex}
     \rule{\textwidth}{0.5pt}
@@ -183,12 +192,14 @@
     \rule{\textwidth}{0.5pt}
     \subfile{./rosario/jaculatorias.tex}
 
+    \section{Oraciones finales}\label{sec:oracion-final}
+
     \subfile{./rosario/oraciones-final.tex}
 
-    \subsection*{Letanías lauretanas}
+    \section{Letanías lauretanas}
     \subfile{./rosario/letanias.tex}
 
-    \section*{Ángelus y Regina Cœli}
+    \chapter{Ángelus y Regina Cœli}
     \subfile{./angelus_reginacoeli/angelus.tex}
     \subfile{./angelus_reginacoeli/reginacoeli.tex}
 
