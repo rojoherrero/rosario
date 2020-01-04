@@ -6,6 +6,8 @@
 *.bbl
 *.blg
 *.toc
+*.dvi
+*.ps
 
 .vscode
 output/

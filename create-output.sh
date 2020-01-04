@@ -1,5 +1,8 @@
 #!/bin/bash
 
-rm -f ./output/{*.aux,*.log,*.pdf,*.epub,*.azw3,*.html,*.dvi}
+rm -f ./{*.aux,*.log,*.pdf,*.epub,*.azw3,*.html,*.dvi, *.ps}
 current_date_time="`date +%Y%m%d`";
-pdflatex -halt-on-error -output-directory=./output -output-format=pdf -jobname=${current_date_time}_devocionario devocionario.tex 
+
+latex rosario.tex
+dvips rosario.dvi
+ps2pdf rosario.ps
