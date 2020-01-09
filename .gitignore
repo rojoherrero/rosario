@@ -7,12 +7,9 @@
 *.blg
 *.toc
 
-.vscode
-output/
-aux/
-pandoc_downloads/
-
-*.epub
+*.dvi
+*.ps
 *.pdf
-*.azw3
-*.html
+
+.vscode
+aux/
