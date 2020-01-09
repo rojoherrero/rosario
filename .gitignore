@@ -6,15 +6,10 @@
 *.bbl
 *.blg
 *.toc
+
 *.dvi
 *.ps
+*.pdf
 
 .vscode
-output/
 aux/
-pandoc_downloads/
-
-*.epub
-*.pdf
-*.azw3
-*.html
