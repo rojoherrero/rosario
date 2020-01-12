@@ -3,8 +3,8 @@
 current_date="`date +%Y%m%d`";
 output_name=${current_date}_rosary
 
-# clean all outputfolders
-rm -f aux/{*.aux,*.log,*.fls,*.fdb_latexmk,*.dvi} ./*.pdf
+# clean all output folders
+rm -f ./*.pdf aux/{*.aux,*.log,*.fls,*.fdb_latexmk,*.dvi} 
 
 # compile the tex file
 latexmk -pdf -jobname=${output_name} rosary.tex
