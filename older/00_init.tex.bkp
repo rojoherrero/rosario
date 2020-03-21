@@ -1,7 +1,10 @@
 \documentclass[./rosary.tex]{subfiles}
 
 \begin{document}
-\chapter*{Rosario}
+\chapter*{Rosario\footnote{Los que lleven consigo el Rosario debidamente bendecido y lo besaren devotamente diciento las palabras:
+        Dios de salve, María, llena eres de gracia, el Señor es contigo; bendita eres entre todas las mujeres,
+        y bendito es el fruto de tu vientre, Jesús. (Ave María, grátia plena, Dóminus tecum; benedicta tu in muliéribus, et benedíctus fructus ventris tui,
+        Iesus.) Su Santidad el Papa Pío XII concede perpetuamente 500 días de indulgencia una vez el día}}
 
 \label{crossSignal}
 \begin{longtable} { p{0.5\textwidth} p{0.5\textwidth} }
@@ -20,9 +23,7 @@
     de pensamiento, palabra y obra: por mi culpa, por mi culpa, por mi grandísima culpa. Por tanto, ruego a la bienaventurada
     siempre Virgen María, al bienaventurado San Miguel Arcángel, al bienaventurado San Juan Bautista, a los Santos Apóstoles
     Pedro y Pablo, a todos los Santos, y a vos, Padre, que roguéis por mi a Dios Nuestro Señor. Amén.
-    
      &
-
     \textbf{CONFÍTEOR} Deo omnipoténti, beátæ Maríæ semper Virigini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo,
     ómníbus Sanctis (et tibi, pater), quia peccávi nimis, cogitatióne, verbo et ópere, mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam
     Maríam semper Virgínem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctis Apóstolos Petrum et Paulum, omnes Sanctos (et te, pater),
@@ -36,34 +37,16 @@ confesarme, y cumplir la penitencia que me fuere impuesta; ofrézcoos mi vida, o
 y confío en vuestra bondad y misericordia infinita me los perdonaréis por los merecimientos de vuestra preciosísima sangre, pasión y muerte,
 y me daréis gracia para enmendarme y para perseverar en vuestro santo servicio hasta el fin de mi vida. Amén.
 
-\begin{center}
-    o
-\end{center}
-
-\label{condolences}
-\textbf{PÉSAME}, Dios mío, y me arrepiento de todo corazón de haberos ofendido. Pésame por el infierno que merecí y por el cielo que perdí. Pero mucho
-más me pesa porque pecando ofendí a un Dios tan bueno y tan grande como Vos. Antes querría haber muerto que haberos ofendido y propongo firmement no pecar
-más y evitar todas las ocasiones próximas de pecar. Amén.
-
 \begin{longtable} {p{0.45\textwidth} p{0.45\textwidth} }
-    Abre, Señor, mis labios. -- Y mi boca cantará tus alabanzas                                                           
-    
-     & 
-    
-    Dómine, lábia mea apéries. -- Et os meum annuntiábit laudem tuam\\
-    Apresútare, Señor, a socorrerme. -- Ven, oh Dios, en mi ayuda                                                    
-    
-     & 
-    
-    Deum, in adjutórium meum inténde. -- Dómine, ad adjuvándum me festina\\
-    \label{sec:glory}Gloria al Padre, al Hijo, y al Espíritu Santo. -- Como era en el principio, ahora, y siempre, y por los siglos de los siglos. Amén.                   
-    
-     & 
-    
-    Gloria Patri, et Filio, et Spíritui Sancto. -- Sicut erat in princípio et nunc, et semper et in sæcula sæculórum, Amen. \\\\
+    V. Abre, Señor, mis labios                                                           & V. Dómine, lábia mea apéries                                                \\
+    R. Y mi boca cantará tus alabanzas                                                   & R. Et os meum annuntiábit laudem tuam                                       \\
+    V. Apresútare, Señor, a socorrerme                                                   & V. Deum, in adjutórium meum inténde                                         \\
+    R. Ven, oh Dios, en mi ayuda                                                         & R. Dómine, ad adjuvándum me festina                                         \\
+    V. Gloria al Padre, al Hijo, y al Espíritu Santo.\label{sec:glory}                   & V. Gloria Patri, et Filio, et Spíritui Sancto.                              \\
+    R. Como era en el principio, ahora, y siempre, y por los siglos de los siglos. Amén. & R. Sicut erat in princípio et nunc, et semper et in sæcula sæculórum, Amen. \\
     \textbf{MARÍA}, Madre de gracia, Madre de Misericordia. Defendednos del enemigo y amparadnos ahora y en la hora de nuestra muerte. Amén.                               
     
-     & 
+    & 
     
     \textbf{MARÍA} Mater gratiæ, Mater Misericordiæ. Tu nos ab hoste protege. Et mortis hora suspice.
 
