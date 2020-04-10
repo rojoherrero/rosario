@@ -2,8 +2,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
 \usepackage[T1]{fontenc}
-\usepackage{geometry}
 \usepackage[spanish]{cleveref}
+\usepackage{geometry}
 \geometry{
     a4paper,
     total={170mm,257mm},
@@ -11,19 +11,14 @@
     right=15mm,
     top=20mm,
 }
-\usepackage{comment}
-\usepackage{longtable}
-\usepackage{subfiles}
+\usepackage{lettrine,color,yfonts,longtable,subfiles,comment}
 \usepackage{graphicx}
 \graphicspath{ {images/} }
-
 \usepackage{fancyhdr} 
 \fancyhf{}
 \cfoot{\thepage}
 \pagestyle{fancy}
-
 \usepackage{afterpage}
-
 \newcommand\blankpage{%
     \null
     \thispagestyle{empty}%
@@ -31,14 +26,26 @@
     \newpage
 }
 
-\newcommand{\destacado}[1]{
-    \textbf{\uppercase{#1}}
-}
 
 \usepackage{datetime}
-
 \newdateformat{monthyeardate}{%
   \monthname[\THEMONTH] \THEYEAR}
+
+\newcommand{\bigredletter}[2]{
+    \lettrine[lines=2]{\color{red}#1}{#2}
+}
+
+\newcommand{\versicle}[1]{
+    {\color{red}V}. {#1}.
+}
+
+\newcommand{\response}[1]{
+    {\color{red}R}. {#1}.
+}
+
+\newcommand{\smallreply}[1]{
+    {\color{red}\scriptsize{#1}}
+}
 
 \title{
     {\Huge \uppercase{Santo Rosario y Ángelus}}\\
