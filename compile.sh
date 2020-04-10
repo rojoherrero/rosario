@@ -1,7 +1,7 @@
 #!/bin/bash
 
 current_date="`date +%Y%m%d`";
-output_name=${current_date}_rosary
+output_name=${current_date}_rosario_angelus
 
 # clean all output folders
 rm -f ./*.pdf aux/{*.aux,*.log,*.fls,*.fdb_latexmk,*.dvi} 

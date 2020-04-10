@@ -1,4 +1,4 @@
-\documentclass[11pt,a4paper]{book}
+\documentclass[11pt,a4paper,oneside]{book}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
 \usepackage[T1]{fontenc}
@@ -7,29 +7,51 @@
 \geometry{
     a4paper,
     total={170mm,257mm},
-    left=20mm,
+    left=15mm,
+    right=15mm,
     top=20mm,
 }
 \usepackage{comment}
 \usepackage{longtable}
 \usepackage{subfiles}
-\usepackage{multicol}
-\usepackage{csquotes}
 \usepackage{graphicx}
 \graphicspath{ {images/} }
 
+\usepackage{fancyhdr} 
+\fancyhf{}
+\cfoot{\thepage}
+\pagestyle{fancy}
+
+\usepackage{afterpage}
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage
+}
+
+\newcommand{\destacado}[1]{
+    \textbf{\uppercase{#1}}
+}
+
+\usepackage{datetime}
+
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH] \THEYEAR}
 
 \title{
-    {Santo Rosario y Ángelus}\\
+    {\Huge \uppercase{Santo Rosario y Ángelus}}\\
     {\includegraphics{foto-04.jpg}}\\
 }
 \author{Sergio}
-\date{Abril 2020}
+\date{\monthyeardate\today}
 
 \begin{document}
 
 \maketitle
-\clearpage
+\afterpage{\blankpage}
+
 
 \subfile{01_rosary}
 
