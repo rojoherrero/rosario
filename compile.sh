@@ -7,7 +7,7 @@ output_name=${current_date}_rosario_angelus
 rm -f ./*.pdf aux/{*.aux,*.log,*.fls,*.fdb_latexmk,*.dvi} 
 
 # compile the tex file
-latexmk -pdf -jobname=${output_name} 00_main.tex
+latexmk -lualatex -jobname=${output_name} 00_main.tex
 
 # I'm doing this because latexmk on linux doesn't allow to put different
 # output and aux directories
