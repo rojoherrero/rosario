@@ -1,9 +1,10 @@
 \documentclass[11pt,a4paper,oneside]{book}
 \usepackage[utf8]{inputenc}
+%\usepackage[spanish,latin]{babel}
 \usepackage[spanish]{babel}
 \usepackage[T1]{fontenc}
-\usepackage{geometry}
 \usepackage[spanish]{cleveref}
+\usepackage{geometry}
 \geometry{
     a4paper,
     total={170mm,257mm},
@@ -11,19 +12,15 @@
     right=15mm,
     top=20mm,
 }
-\usepackage{comment}
-\usepackage{longtable}
-\usepackage{subfiles}
+\usepackage{lettrine,color,yfonts,longtable,subfiles,comment}
+\usepackage{gregoriotex}
 \usepackage{graphicx}
 \graphicspath{ {images/} }
-
 \usepackage{fancyhdr} 
 \fancyhf{}
 \cfoot{\thepage}
 \pagestyle{fancy}
-
 \usepackage{afterpage}
-
 \newcommand\blankpage{%
     \null
     \thispagestyle{empty}%
@@ -31,21 +28,37 @@
     \newpage
 }
 
-\newcommand{\destacado}[1]{
-    \textbf{\uppercase{#1}}
-}
 
 \usepackage{datetime}
-
 \newdateformat{monthyeardate}{%
   \monthname[\THEMONTH] \THEYEAR}
+
+\newcommand{\bigredletter}[2]{
+    \lettrine[lines=2]{\color{red}#1}{#2}
+}
+
+\newcommand{\versicle}[1]{
+    {\color{red}\Vbar}. {#1}.
+}
+
+\newcommand{\response}[1]{
+    {\color{red}\Rbar}. {#1}.
+}
+
+\newcommand{\smallresponse}[1]{
+    {\color{red}\scriptsize{#1}}
+}
+
+\newcommand{\quotes}[1]{
+    {\guillemotleft}#1{\guillemotright}
+}
 
 \title{
     {\Huge \uppercase{Santo Rosario y Ángelus}}\\
     {\includegraphics{foto-04.jpg}}\\
 }
 \author{Sergio}
-\date{\monthyeardate\today}
+\date{Valladolid (España), \monthyeardate\today}
 
 \begin{document}
 
