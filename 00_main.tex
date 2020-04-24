@@ -12,9 +12,15 @@
     right=15mm,
     top=20mm,
 }
-\usepackage{lettrine,color,yfonts,longtable,subfiles,comment}
+\usepackage{lettrine}
+\usepackage{color}
+\usepackage{yfonts}
+\usepackage{longtable}
+\usepackage{subfiles}
+\usepackage{comment}
 \usepackage{gregoriotex}
 \usepackage{graphicx}
+\usepackage{verbatim} 
 \graphicspath{ {images/} }
 \usepackage{fancyhdr} 
 \fancyhf{}
@@ -33,25 +39,7 @@
 \newdateformat{monthyeardate}{%
   \monthname[\THEMONTH] \THEYEAR}
 
-\newcommand{\bigredletter}[2]{
-    \lettrine[lines=2]{\color{red}#1}{#2}
-}
-
-\newcommand{\versicle}[1]{
-    {\color{red}\Vbar}. {#1}.
-}
-
-\newcommand{\response}[1]{
-    {\color{red}\Rbar}. {#1}.
-}
-
-\newcommand{\smallresponse}[1]{
-    {\color{red}\scriptsize{#1}}
-}
-
-\newcommand{\quotes}[1]{
-    {\guillemotleft}#1{\guillemotright}
-}
+\input{05_commands.tex}
 
 \title{
     {\Huge \uppercase{Santo Rosario y Ángelus}}\\
