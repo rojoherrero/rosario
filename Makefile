@@ -1,16 +1,17 @@
 current_date = `date +%Y%m%d`
 output_name_long = ${current_date}_rosario_angelus
-output_name_short = ${current_date}_rosario_angelus_corto
+output_name_short = ${current_date}_rosario_latin
+output_name_short = ${current_date}_rosario_castellano
 
 .PHONY = delete_short delete_long clean_aux clean_all
 
 all: clean_all compile_long compile_short move_aux
 
 compile_long:
-	latexmk -lualatex -jobname=${output_name_long} L00_main.tex
+	latexmk -lualatex -jobname=${output_name_long} 00_rosario_angelus_oraciones_castellano_latin.tex
 
 compile_short:
-	latexmk -lualatex -jobname=${output_name_short} C00_main_latin.tex
+	latexmk -lualatex -jobname=${output_name_short} 01_rosario_latin.tex
 
 long: clean_aux delete_long compile_long move_aux
 
