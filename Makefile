@@ -28,5 +28,5 @@ delete_long:
 	rm -f ./*rosario_angelus.pdf
 
 clean_aux:
-	@echo "cleaning aux files..."
+	@echo "cleaning aux files\ldots"
 	rm -f aux/{*.aux,*.log,*.fls,*.fdb_latexmk,*.dvi} 

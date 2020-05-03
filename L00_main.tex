@@ -1,4 +1,4 @@
-\documentclass[11pt,a4paper,oneside]{book}
+\documentclass[10pt,a4paper,oneside]{book}
 \usepackage[utf8]{inputenc}
 %\usepackage[spanish,latin]{babel}
 \usepackage[spanish]{babel}
@@ -20,7 +20,8 @@
 \usepackage{comment}
 \usepackage{gregoriotex}
 \usepackage{graphicx}
-\usepackage{verbatim} 
+\usepackage{verbatim}
+\usepackage{lipsum}
 \graphicspath{ {images/} }
 \usepackage{fancyhdr} 
 \fancyhf{}
@@ -34,12 +35,12 @@
     \newpage
 }
 
-
 \usepackage{datetime}
 \newdateformat{monthyeardate}{%
-  \monthname[\THEMONTH] \THEYEAR}
-
-\input{05_commands.tex}
+  \monthname[\THEMONTH] \THEYEAR
+}
+\setlength\parindent{0pt}
+\input{L05_commands.tex}
 
 \title{
     {\Huge \uppercase{Santo Rosario y Ángelus}}\\
@@ -53,13 +54,12 @@
 \maketitle
 \afterpage{\blankpage}
 
+\subfile{L01_rosary}
 
-\subfile{01_rosary}
+\subfile{L02_letanies}
 
-\subfile{02_letanies}
+\subfile{L03_angelus}
 
-\subfile{03_angelus}
-
-\subfile{04_prayers}
+\subfile{L04_prayers}
 
 \end{document}
