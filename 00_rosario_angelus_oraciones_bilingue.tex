@@ -1,0 +1,804 @@
+\documentclass[10pt,a4paper,oneside]{book}
+\usepackage[utf8]{inputenc}
+%\usepackage[spanish,latin]{babel}
+\usepackage[spanish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{cleveref}
+\usepackage{geometry}
+\geometry{
+    a4paper,
+    total={170mm,257mm},
+    left=15mm,
+    right=15mm,
+    top=20mm,
+}
+\usepackage{lettrine}
+\usepackage{color}
+\usepackage{yfonts}
+\usepackage{longtable}
+\usepackage{subfiles}
+\usepackage{comment}
+\usepackage{gregoriotex}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+\usepackage{fancyhdr} 
+\fancyhf{}
+\cfoot{\thepage}
+\pagestyle{fancy}
+\usepackage{afterpage}
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage
+}
+
+\usepackage{datetime}
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH] \THEYEAR
+}
+\setlength\parindent{0pt}
+\input{L05_commands.tex}
+
+\title{
+    {\Huge \uppercase{Santo Rosario y Ángelus}}\\
+    {\includegraphics{foto-04.jpg}}\\
+}
+\author{Sergio}
+\date{Valladolid (España), \monthyeardate\today}
+
+\newcounter{joyful-counter}
+\newcounter{sorrowful-counter}
+\newcounter{glorious-counter}
+\newcounter{lux-counter}
+
+\begin{document}
+
+\maketitle
+\afterpage{\blankpage}
+
+\chapter*{Santo Rosario Meditado}
+
+\begin{minipage}[t]{0.475\textwidth}
+      \input{oraciones/senal_cruz/castellano.tex}
+      \vspace{1mm}
+      \input{oraciones/contricion/senor_mio_jesucristo.tex}\\[2mm]
+      \input{oraciones/versiculos/abre_senor_mis_labios/castellano.tex}\\[1mm]
+      \input{oraciones/versiculos/apresurate_snor/castellano.tex}\\[1mm]
+      \input{oraciones/gloria/castellano_separado.tex}\\[1mm]
+      \input{oraciones/versiculos/maria_madre/castellano.tex}\\
+\end{minipage}
+\lineaverticalroja{0.5}
+\begin{minipage}[t]{0.475\textwidth}
+      \input{oraciones/senal_cruz/latin.tex}
+      \vspace{1mm}
+      \input{oraciones/contricion/confiteor/latin.tex}\\[2mm]
+      \input{oraciones/versiculos/abre_senor_mis_labios/latin.tex}\\[1mm]
+      \input{oraciones/versiculos/apresurate_snor/latin.tex}\\[1mm]
+      \input{oraciones/gloria/latin_separado.tex}\\[1mm]
+      \input{oraciones/versiculos/maria_madre/latin.tex}\\
+\end{minipage}
+
+\medskip
+
+\begin{center}
+      \textorojo{Decimos aquí las intenciones de este Rosario}
+\end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INICIO MISTERIOS GOZOSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Misterios Gozosos}
+\textorojo{\input{biblia/01_gozosos/dias.tex}}
+\stepcounter{joyful-counter}
+\subsection*{\Roman{joyful-counter} Misterio: \input{biblia/01_gozosos/01_anunciacion/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/01_gozosos/01_anunciacion/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/01_gozosos/01_anunciacion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{joyful-counter}
+\subsection*{\Roman{joyful-counter} Misterio: \input{biblia/01_gozosos/02_visitacion/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/01_gozosos/02_visitacion/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/01_gozosos/02_visitacion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{joyful-counter}
+\subsection*{\Roman{joyful-counter} Misterio: \input{biblia/01_gozosos/03_natividad/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/01_gozosos/03_natividad/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/01_gozosos/03_natividad/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{joyful-counter}
+\subsection*{\Roman{joyful-counter} Misterio: \input{biblia/01_gozosos/04_presentacion/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/01_gozosos/04_presentacion/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/01_gozosos/04_presentacion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{joyful-counter}
+\subsection*{\Roman{joyful-counter} Misterio: \input{biblia/01_gozosos/05_perdida/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/01_gozosos/05_perdida/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/01_gozosos/05_perdida/pasaje.tex}
+\begin{center}
+      %\textorojo{\input{oraciones/oraciones_misterio.tex}}\\
+      Oraciones finales (\cpageref{final-prayer}).
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FINAL MISTERIOS GOZOSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INICIO MISTERIOS LUMINOSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{\input{biblia/02_luminosos/titulo.tex}}
+\textorojo{\input{biblia/02_luminosos/dias.tex}}
+\stepcounter{lux-counter}
+\subsection*{\Roman{lux-counter} Misterio: \input{biblia/02_luminosos/01_bautismo/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/02_luminosos/01_bautismo/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/02_luminosos/01_bautismo/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{lux-counter}
+\subsection*{\Roman{lux-counter} Misterio: \input{biblia/02_luminosos/02_boda/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/02_luminosos/01_bautismo/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/02_luminosos/01_bautismo/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{lux-counter}
+\subsection*{\Roman{lux-counter} Misterio: \input{biblia/02_luminosos/03_reino/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/02_luminosos/03_reino/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/02_luminosos/03_reino/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{lux-counter}
+\subsection*{\Roman{lux-counter} Misterio: \input{biblia/02_luminosos/04_transfiguracion/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/02_luminosos/04_transfiguracion/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/02_luminosos/04_transfiguracion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{lux-counter}
+\subsection*{\Roman{lux-counter} Misterio: \input{biblia/02_luminosos/05_eucaristia/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/02_luminosos/05_eucaristia/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/02_luminosos/05_eucaristia/pasaje.tex}
+
+\begin{center}
+      %\textorojo{\input{oraciones/oraciones_misterio.tex}}\\
+      Oraciones finales (\cpageref{final-prayer}).
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FINAÑ MISTERIOS LUMINOSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INICIO MISTERIOS DOLOROSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{\input{biblia/03_dolorosos/titulo.tex}}
+\input{biblia/03_dolorosos/dias.tex}
+\stepcounter{sorrowful-counter}
+\subsection*{\Roman{sorrowful-counter} Misterio: \input{biblia/03_dolorosos/01_agonia/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/03_dolorosos/01_agonia/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/03_dolorosos/01_agonia/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{sorrowful-counter}
+\subsection*{\Roman{sorrowful-counter} Misterio: \input{biblia/03_dolorosos/02_flagelacion/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/03_dolorosos/02_flagelacion/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/03_dolorosos/02_flagelacion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{sorrowful-counter}
+\subsection*{\Roman{sorrowful-counter} Misterio: \input{biblia/03_dolorosos/03_espinas/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/03_dolorosos/03_espinas/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/03_dolorosos/03_espinas/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{sorrowful-counter}
+\subsection*{\Roman{sorrowful-counter} \input{biblia/03_dolorosos/04_cruz/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/03_dolorosos/04_cruz/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/03_dolorosos/04_cruz/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{sorrowful-counter}
+\subsection*{\Roman{sorrowful-counter} \input{biblia/03_dolorosos/05_muerte/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/03_dolorosos/05_muerte/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/03_dolorosos/05_muerte/pasaje.tex}
+
+\begin{center}
+      %\textorojo{\input{oraciones/oraciones_misterio.tex}}\\
+      Oraciones finales (\cpageref{final-prayer}).
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FINAL MISTERIOS DOLOROSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INICIO MISTERIOS GLORIOSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{\input{biblia/04_gloriosos/titulo.tex}}
+\input{biblia/04_gloriosos/dias.tex}
+\stepcounter{glorious-counter}
+\subsection*{\Roman{glorious-counter} Misterio: \input{biblia/04_gloriosos/01_resurrecion/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/04_gloriosos/01_resurrecion/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/04_gloriosos/01_resurrecion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{glorious-counter}
+\subsection*{\Roman{glorious-counter} Misterio: \input{biblia/04_gloriosos/02_ascension/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/04_gloriosos/02_ascension/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/04_gloriosos/02_ascension/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{glorious-counter}
+\subsection*{\Roman{glorious-counter} Misterio: \input{biblia/04_gloriosos/03_pentecostes/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/04_gloriosos/03_pentecostes/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/04_gloriosos/03_pentecostes/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{glorious-counter}
+\subsection*{\Roman{glorious-counter} Misterio: \input{biblia/04_gloriosos/04_asuncion/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/04_gloriosos/04_asuncion/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/04_gloriosos/04_asuncion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{glorious-counter}
+\subsection*{\Roman{glorious-counter} Misterio: \input{biblia/04_gloriosos/05_coronacion/titulo.tex}}
+\begin{flushright}
+      {\color{red}\input{biblia/04_gloriosos/05_coronacion/posicion.tex}}
+\end{flushright}
+\vspace{-3mm}
+\input{biblia/04_gloriosos/05_coronacion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FINAL MISTERIOS GLORIOSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ORACIONES FINALES Y LETANIAS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\label{final-prayer}
+\begin{center}
+      \textorojo{Terminados los misterios podemos rezar}
+\end{center}
+
+\begin{minipage}[t]{0.475\textwidth}
+      \input{oraciones/avemaria/hija/castellano.tex}\\[1mm]
+      \input{oraciones/avemaria/madre/castellano.tex}\\[1mm]
+      \input{oraciones/avemaria/esposa/castellano.tex}\\[1mm]
+      \input{oraciones/avemaria/sagrario/castellano.tex}
+\end{minipage}
+\lineaverticalroja{1}
+\begin{minipage}[t]{0.475\textwidth}
+      \input{oraciones/avemaria/hija/latin.tex}\\[1mm]
+      \input{oraciones/avemaria/madre/latin.tex}\\[1mm]
+      \input{oraciones/avemaria/esposa/latin.tex}\\[1mm]
+      \input{oraciones/avemaria/sagrario/latin.tex}
+\end{minipage}
+\vspace*{5mm}
+\begin{center}
+      \textorojo{Letanías de Nuestra Señora}
+\end{center}
+
+\begin{minipage}[t]{0.475\textwidth}
+      \primeraletragranderoja{S}{eñor,}ten piedad.\\
+      Cristo, ten piedad.\\
+      Señor, ten piedad.\\
+      Cristo, óyenos.\\
+      Cristo, escúchanos.\\
+      Dios Padre celestial, ten piedad de nosotros\\
+      Dios Hijo Redentor del mundo, ten piedad de nosotros\\
+      Dios Espíritu Santo, ten piedad de nosotros\\
+      Trinidad Santa, un solo Dios, ten piedad de nosotros\\
+      Santa María, ruega por nosotros.\\
+      Santa Madre de Dios, ruega.\\
+      Santa Virgen de las Vírgenes, ruega.\\
+      Madre de Cristo, ruega.\\
+      Madre de la divina gracia, ruega.\\
+      Madre purísima, ruega.\\
+      Madre castíssima, ruega.\\
+      Madre virignal, ruega.\\
+      Madre sin corrupción, ruega.\\
+      Madre inmaculada, ruega.\\
+      Madre amable, ruega.\\
+      Madre admirable, ruega.
+\end{minipage}
+\lineaverticalroja{1}
+\begin{minipage}[t]{0.475\textwidth}
+      \primeraletragranderoja{K}{ýrie,}eléison.\\
+      Christe, eléison.\\
+      Kýrie, eléison.\\
+      Christe, audi nos.\\
+      Christe, exáudi nos.\\
+      Pater de c{\ae}lis, Deus, miserére nobis.\\
+      Fili, Redémptor mundi, Deus, miserére nobis.\\
+      Spíritus Sancte, Deus, miserére nobis.\\
+      Sancta Trínitas, unus Deus, miserére nobis.\\
+      Sancta Maria, ora pro nobis.\\
+      Sancta Dei Génetrix, ora.\\
+      Sancta Virgo vírginum, ora.\\
+      Mater Christi, ora.\\
+      Mater divín{\ae} grati{\ae}, ora.\\
+      Mater puríssima, ora.\\
+      Mater castíssima, ora.\\
+      Mater invioláta, ora.\\
+      Mater intemeráta, ora.\\
+      Mater immaculáta, ora.\\
+      Mater amábilis, ora.\\
+      Mater admirábilis, ora.
+\end{minipage}
+
+\begin{minipage}[t]{0.475\textwidth}
+      Madre del buen Consejo, ruega por nosotros.\\
+      Madre del Creador, ruega.\\
+      Madre del Salvador, ruega.\\
+      Virgen prudentísima, ruega.\\
+      Virgen digna de veneración, ruega.\\
+      Virgen digna de alabanza, ruega.\\
+      Virgen poderosa, ruega.\\
+      Virgen clemente, ruega.\\
+      Virgen fiel, ruega.\\
+      Espejo de justicia, ruega.\\
+      Sede de la sabiduría, ruega.\\
+      Causa de nuestra alegría, ruega.\\
+      Vaso espiritual, ruega.\\
+      Vaso honorable, ruega.\\
+      Vaso insigne de devoción, ruega.\\
+      Rosa mística, ruega.\\
+      Torre de David, ruega.\\
+      Torre de marfil, ruega.\\
+      Casa de oro, ruega.\\
+      Arca de la alianza, ruega.\\
+      Puerta del cielo, ruega.\\
+      Estrella de la mañana, ruega.\\
+      Salud de los enfermos, ruega.\\
+      Refugio de los pecadores, ruega.\\
+      Consuelo de la afligidos, ruega.\\
+      Auxilio de los cristianos, ruega.\\
+      Reina de los Ángeles, ruega.\\
+      Reina de los Patriarcas, ruega.\\
+      Reina de los Profetas, ruega.\\
+      Reina de los Apóstoles, ruega.\\
+      Reina de los Mártires, ruega.\\
+      Reina de los Confesores, ruega.\\
+      Reina de las Vírgenes, ruega.\\
+      Reina de todos los Santos, ruega.\\
+      Reina concebida sin pecado original, ruega.\\
+      Reina asunta al cielo, ruega.\\
+      Reina del santísimo Rosario, ruega.\\
+      Reina de la paz, ruega.\\
+      Cordero de Dios, que quitas los pecados del mundo, perdónanos, Señor.\\
+      Cordero de Dios, que quitas los pecados del mundo, escúchanos, Señor.\\
+      Cordero de Dios, que quitas los pecados del mundo, ten piedad de nosotros.\\
+      \ruegapornosotrossalve\\
+
+      \textbf{Oremos}
+      \primeraletragranderoja{T}{e} rogamos nos concedas, Señor Dios nuestro, gozar de continua salud de alma y cuerpo, y por la gloriosa intercesión de la
+      bienaventurada siempre Virgen María, vernos libres de las tristezas de la vida presente y disfrutar de las alegrías eternas.
+      Por Nuestro Señor Jesucristo. \respuesta{Amén}\\
+\end{minipage}
+\lineaverticalroja{1}
+\begin{minipage}[t]{0.475\textwidth}
+      Mater boni Consílii, ora pro nobis.\\
+      Mater Creatóris, ora.\\
+      Mater Salvatóris, ora.\\
+      Virgo prudentíssima, ora.\\
+      Virgo veneránda, ora.\\
+      Virgo pr{\ae}dicánda, ora.\\
+      Virgo potens, ora.\\
+      Virgo clemens, ora.\\
+      Virgo fidélis, ora.\\
+      Spéculum iustíti{\ae}, ora.\\
+      Sedes Sapiénti{\ae}, ora.\\
+      Causa nostr{\ae} l{\ae}títi{\ae}, ora.\\
+      Vas spirituále, ora.\\
+      Vas honorábile, ora.\\
+      Vas insigne devotiónis, ora.\\
+      Rosa mýstica, ora.\\
+      Turris Davídica, ora.\\
+      Turris ebúrnea, ora.\\
+      Domus áurea, ora.\\
+      F{\oe}deris arca, ora.\\
+      Iánua c{\ae}li, ora.\\
+      Stella matutina, ora.\\
+      Salus infirmórum, ora.\\
+      Refugium peccatórum, ora.\\
+      Consolátrix afflictórum, ora.\\
+      Auxílium christianórum, ora.\\
+      Regina Angelórum, ora.\\
+      Regina Patriarchánum, ora.\\
+      Regina Prophetárum, ora.\\
+      Regina Apostolórum, ora.\\
+      Regina Mártyrum, ora.\\
+      Regina Confessórum, ora.\\
+      Regina Vírginum, ora.\\
+      Regina Sanctórum ómnium, ora.\\
+      Regina sine labe originali concépta, ora.\\
+      Regina in c{\ae}lum assumpta, ora.\\
+      Regina sacratíssimi Rosárii, ora.\\
+      Regina pacis, ora.\\
+      Ágnus Dei, qui tolli peccáta mundi, Parce nobis, Dómine.\\
+      Ágnus Dei, qui tolli peccáta mundi, Exáudi nos, Dómine.\\
+      Ágnus Dei, qui tolli peccáta mundi, Miserére nobis.\\
+      \orapronobissalve\\
+
+      \textbf{Orémus}
+      \primeraletragranderoja{C}{oncéde} nos fámulos tuos, qu{\'\ae}sumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriosa beát{\ae}
+      Marí{\ae} semper Virginis intercessióne, a pr{\ae}sénti liberári tristítia, et {\ae}térnan pérfrui l{\ae}títia. Per Christum, Dóminum nostrum.
+      \respuesta{Amen}\\
+\end{minipage}
+
+\newpage
+
+\noindent\small{Desde la Purificación hasta Sábado Santo y desde la Santísima Trinidad hasta el I Domingo de Adviento:}\\
+\begin{minipage}[t]{0.475\textwidth}
+      \ruegapornosotrossalve\\[2mm]
+      \textbf{Oremos}
+      \primeraletragranderoja{T}{e} rogamos, Señor, que nos concedas a nosotros tus siervos, gozar de perpetua salud de alma y cuerpo, y por la gloriosa intercesión de la bienaventurada siempre Virgen
+      María, seamos librados de la tristeza presente y disfrutemos de la eterna alegría. Por el mismo Jesucristo Nuestro Señor, Tu Hijo, que vive contigo y reina en unidad con el mismo Espíritu
+      Santo, Dios, por lo siglos de los siglos.
+\end{minipage}
+\lineaverticalroja{1}
+\begin{minipage}[t]{0.475\textwidth}
+      \orapronobissalve\\[2mm]
+      \textbf{Orémus}
+      \primeraletragranderoja{C}{oncéde} nos famulos tuos, qu{\'\ae}sumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et gloriósa beát{\ae}\ Marí{\ae} semper Virginis intercessióne
+      a pr{\ae}sénti liberári tristítia, et {\ae}térna pérfrui l{\ae}títia. Per eudem Dóminum nostrum Jesum Christium Filium tuum, qui tecum vivit et regnat im unitáte Spiritus Sancti,
+      Deus, per ómnia s{\'\ae}cula s{\'\ae}culórum. Amen.\\
+\end{minipage}
+
+\bigskip
+
+\noindent\small{Desde el I Domingo de Adviento hasta Navidad:}\\
+\begin{minipage}[t]{0.475\textwidth}
+      \versiculorespuesta{El Ángel del Señor anunció a María}{Y ella concibió por obra y gracia del Espíritu Santo}\\[2mm]
+      \textbf{Oremos}
+      \primeraletragranderoja{O}{h} Dios, que quisiste que tu Verbo tomase nuestra carne de las entrañas de la Santísima Virgen, al anunciarle el Ángel el misterio: concede a tus siervos que, pues
+      la creemos verdadera Madre de Dios, seamos ayudados anti Ti por su intercesión. Por el mismo Jesucristo Nuestro Señor, Tu Hijo, que vive contigo y reina en unidad con el mismo Espíritu
+      Santo, Dios, por lo siglos de los siglos.
+\end{minipage}
+\lineaverticalroja{1}
+\begin{minipage}[t]{0.475\textwidth}
+      \versiculorespuesta{Angelus Dómini nuntiávit Marí{\ae}}{Et concépit de Spíritu Sancto}\\[2mm]
+      \textbf{Orémus}
+      \primeraletragranderoja{D}{eus}, qui de beát{\ae} Marí{\ae} Virginis útero Verbum tuum, Angelo nuntiánte; carnem suscípere voluisti; pr{\ae}ta supplicibus tuis; ut, qui vere eam Genetrícem
+      Dei crédimus, ejus apud te intercessiónibus adjuvémur. Per eudem Dóminum nostrum Jesum Christium Filium tuum, qui tecum vivit et regnat im unitáte Spiritus Sancti, Deus, per ómnia
+      s{\'\ae}cula s{\'\ae}culórum. Amen.
+\end{minipage}
+
+\bigskip
+
+\noindent\small{Desde Navidad hasta la Purificación:}\\
+\begin{minipage}[t]{0.475\textwidth}
+      \versiculorespuesta{Después del parto, oh Virgen, has permanecido intacta}{Madre de Dios, intercedes por nosostros}\\[2mm]
+      \textbf{Oremos}
+      \primeraletragranderoja{O}{h} Dios, que por la fecunda virginidad de la bienaventurada siempre Virgen María has concedido al género humano los bienes de la salvación eterna, haznos sentir
+      la intercesión de aquélla, por quien hemos merecido recibir al autor de la vida, Jesucristo, tu hijo y Señor nuestro, que vive y reina en unidad con el Espíritu Santo, Dios, por
+      todos los siglos de los siglos. Amén.
+\end{minipage}
+\lineaverticalroja{1}
+\begin{minipage}[t]{0.475\textwidth}
+      \versiculorespuesta{Post partum Virgo invioláta permansísti}{Dei Génitrix, intercéde pro nobis}\\[2mm]
+      \textbf{Orémus}
+      \primeraletragranderoja{D}{eus}, qui salútis {\ae}térn{\ae}. beát{\ae} Marí{\ae} virginitáte f{\oe}cúnda, humáno géneri pr{\ae}mia pr{\ae}stitísti; tríbue, qu{\ae}sumus, ut ipsam pro nobis
+      intercédere sentiámus, per quam merúsmus acutórem vit{\ae} suscípere, Dóminum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitáte Spíritus Sacnti, Deus, per ómnia
+      s{\'\ae}cula s{\'\ae}culórum. Amen.
+\end{minipage}
+
+\bigskip
+
+\noindent\small{Domingo de Páscua hasta la Santísima Trinidad:}\\
+\begin{minipage}[t]{0.475\textwidth}
+      \versiculorespuesta{Reina del cielo, alégrate, aleluya}{Porque el que mereciste llevar en tu seno, aleluya}\\[1mm]
+      \versiculorespuesta{Resucitó, como Él predijo, aleluya}{Rogad por nosotros a Dios, aleluya}\\[1mm]
+      \versiculorespuesta{Alegraos y regocijaos, Virgen María, aleluya}{Porque resucitó verdaderamente el Señor, aleluya}\\[2mm]
+      \textbf{Oremos}
+      \primeraletragranderoja{O}{h} Dios, que, por la resurreción de vuestro Hijo y Señor nuestro Jesucristo,
+      os habéis dignado alegrar el mundo: concedednos por medio de su divina Madre, la Virgen Santísima,
+      que merezcamos obtener los goces de la vida eterna. Por el mismo Cristo, Señor nuestro. Amén.
+\end{minipage}
+\lineaverticalroja{1}
+\begin{minipage}[t]{0.475\textwidth}
+      \versiculorespuesta{Regina caeli l{\ae}táre, allelúia}{Quia quem meruisti portáre, allelúia}\\[1mm]
+      \versiculorespuesta{Resurréxit sicut dixit, allelúia}{Ora pro nobis Deum, allelúia}\\[1mm]
+      \versiculorespuesta{Gaudate el l{\ae}táre, Virgo María, allelúia}{Quia surréxit Dóminus vere, allelúia}\\[2mm]
+      \textbf{Orémus}
+      \primeraletragranderoja{D}{eus}, qui per resurrectiónem Filii tui Dómini nostri Jesu Christi,
+      mundum l{\ae}tificáre dignátus es: pr{\ae}sta, qu{\'\ae}sumus, ut per ejus Genetricem Vírginem Maríam,
+      perpétu{\ae} capiámus gáudia vit{\ae}. Per eúmdem Christum Dóminum nostrum. Amen.
+\end{minipage}
+
+\bigskip
+
+\textbf{Por el Santo Padre y sus intenciones}:\\
+\hspace*{10mm}Paternóster, Avemaría y Gloria.\\
+\textbf{Por la Hispanidad}:\\
+\hspace*{10mm}Paternóster, Avemaría, Gloria.\\
+\textbf{Por el nuestro Obispo, sacerdotes, seminaristas, monjas\ldots}:\\
+\hspace*{10mm}Paternóster, Avemaría\\
+\hspace*{10mm}Enviad, Señor, sacerdotes santos a vuestra Iglesia.\\
+\hspace*{10mm}{!`}Oh Jesús, Salvador del mundo! santificad a vuestros sacerdotes y seminaristas.\\
+\hspace*{10mm}Oh María, Reina del sacerdocio, alcanzadnos santos y numerosos sacerdotes.\\
+\hspace*{10mm}Gloria.\\
+\textbf{Por las benditas almas de Purgatorio}:\\
+\hspace*{10mm}Paternóster, Avemaría, Descansen en paz. Amén. (requiéscant in pace. Amen)
+
+\bigskip
+{\label{hailMaryQueen}}Una Salve al Inmaculado Corazón de María:\\
+\smallskip
+\begin{minipage}[t]{0.475\textwidth}
+      \input{oraciones/salve/castellano.tex}\\
+\end{minipage}
+\lineaverticalroja{1}
+\begin{minipage}[t]{0.475\textwidth}
+      \input{oraciones/salve/latin.tex}\\
+\end{minipage}
+
+\bigskip
+{\label{creed-apostles}}
+Un Credo al Sagrado Corazón de Jesús:\\
+\smallskip
+\begin{minipage}[t]{0.475\textwidth}
+      \input{oraciones/credo/apostoles_castellano.tex}\\
+
+      \input{oraciones/san_jose/castellano.tex}\\
+
+      \input{oraciones/san_miguel/castellano.tex}\\
+
+      \versiculorespuesta{Corazón sacratísimo de Jesús}{Ten misericordia de nosotros (3)}\\
+
+      \versiculorespuesta{Ave María purísima}{Sin pecado concebida}{Sine labe originali concépta}\\
+
+      En el Nombre del Padre, y del{\redcross}Hijo, y del Espíritu Santo.
+      \respuesta{Amén}
+\end{minipage}
+\lineaverticalroja{1}
+\begin{minipage}[t]{0.475\textwidth}
+      \input{oraciones/credo/apostoles_latin.tex}\\
+
+      \input{oraciones/san_jose/latin.tex}\\
+
+      \input{oraciones/san_miguel/latin.tex}\\
+
+      \input{oraciones/versiculos/corazon_jesus/latin.tex}(3)\\[1mm]
+
+      \input{oraciones/versiculos/avemaria_purisima/latin.tex}\\[1mm]
+  
+      \input{oraciones/senal_cruz/latin.tex}
+\end{minipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ORACIONES FINALES Y LETANIAS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ANGELUS Y REGINA COELIS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter*{Ángelus y Regina C{\oe}li}
+
+\section*{Ángelus}
+
+\begin{minipage}[t]{0.475\textwidth}
+      \versiculorespuesta{El Ángel del Señor anunció a María}{Y concibió por obra y gracia del Espíritu Santo}\\[1mm]
+      \textit{Dios te salve, María}\ldots\\[1mm]
+      \versiculorespuesta{He aquí la excalva del Señor}{Hágase en mi según tu palabra}\\[1mm]
+      \textit{Dios te salve, María}\ldots\\[1mm]
+      \versiculorespuesta{Y el Verbo se hizo carne}{Y habitó entre nosotros}\\[1mm]
+      \textit{Dios te salve, María}\ldots\\[1mm]
+      \ruegapornosotrossalve\\[2mm]
+      \textbf{Oremos}
+      \primeraletragranderoja{O}{s} rogamos, Señor, que infundáis vuestra gracia en nuestras almas para que,
+      habiendo conocido la Encarnación de vuestro Hijo Jesucristo por el Ángel que la anunció,
+      seamos llevados a la gloria de la resurrección, por los méritos de su pasión y cruz santísima.
+      Por el mismo Jesucristo nuestro Señor.\\[1mm]
+      \respuesta{Amén}
+\end{minipage}
+\lineaverticalroja{1}
+\begin{minipage}[t]{0.475\textwidth}
+      \versiculorespuesta{Angelus Dómini nuntiávit Marí{\ae}}{Et concépit de Spíritu Sancto}\\[1mm]
+      \textit{Ave Maria}\ldots\\[1mm]
+      \versiculorespuesta{Ecce Amcilla Dómini}{Fiat mihi secúndum verbum tuum}\\[1mm]
+      \textit{Ave Maria}\ldots\\[1mm]
+      \versiculorespuesta{Et Verbum caro factum est}{Et habitávit in nobis}\\[1mm]
+      \textit{Ave Maria}\ldots\\[1mm]
+      \orapronobissalve\\[2mm]
+      \textbf{Orémus}
+      \primeraletragranderoja{G}{rátiam} tuam qu{\'\ae}sumus. Dómine, méntibus nostris infúnde ut qui Angelo nuntiáte.
+      Christi Filii tui incarnatiónem cognóvimus, per passiónem ejus et crucem ad resurrectiónis glóriam perducámur.
+      Per eúmdem Christum Dóminum nostrum.\\[1mm]
+      \respuesta{Amen}
+\end{minipage}
+
+\section*{Regina C{\oe}li L{\ae}táre (Tiempo Pascual)}
+
+\begin{minipage}[t]{0.475\textwidth}
+      \versiculorespuesta{Reina del cielo, alégrate, aleluya}{Porque el que mereciste llevar en tu seno, aleluya}\\
+      \versiculorespuesta{Resucitó, como Él predijo, aleluya}{Rogad por nosotros a Dios, aleluya}\\
+      \versiculorespuesta{Alegraos y regocijaos, Virgen María, aleluya}{Porque resucitó verdaderamente el Señor, aleluya}\\\\
+      \textbf{Oremos}\\
+      Oh Dios, que, por la resurreción de vuestro Hijo y Señor nuestro Jesucristo, os habéis dignado alegrar el mundo: 
+      concedednos por medio de su divina Madre, la Virgen Santísima, que merezcamos obtener los goces de la vida eterna. 
+      Por el mismo Cristo, Señor nuestro. \respuesta{Amén}
+\end{minipage}
+\lineaverticalroja{1}
+\begin{minipage}[t]{0.475\textwidth}
+      \versiculorespuesta{Regina caeli l{\ae}táre, allelúia}{Quia quem meruisti portáre, allelúia}\\[1mm]
+      \versiculorespuesta{Resurréxit sicut dixit, allelúia}{Ora pro nobis Deum, allelúia}\\[1mm]
+      \versiculorespuesta{Gaudate el l{\ae}táre, Virgo María, allelúia}{Quia surréxit Dóminus vere, allelúia}\\[2mm]
+      \textbf{Orémus}\\
+      Deus, qui per resurrectiónem Filii tui Dómini nostri Jesu Christi,
+      mundum l{\ae}tificáre dignátus es: pr{\ae}sta, qu{\'\ae}sumus, ut per ejus Genetricem Vírginem Maríam,
+      perpétu{\ae} capiámus gáudia vit{\ae}. Per eúmdem Christum Dóminum nostrum. \respuesta{Amen}
+\end{minipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ANGELUS Y REGINA COELIS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%
+% ORACIONES %
+%%%%%%%%%%%%%
+\chapter*{Oraciones}
+
+\begin{minipage}[t]{0.475\textwidth}
+      \input{oraciones/padrenuestro/castellano.tex}\\
+
+      \input{oraciones/gloria/castellano.tex}\\
+
+      \input{oraciones/avemaria/castellano.tex}\\
+
+      \input{oraciones/salve/castellano.tex}\\
+
+      \input{oraciones/acordaos/castellano.tex}\\
+
+      \input{oraciones/bajo_tu_amparo/castellano.tex}
+\end{minipage}
+\lineaverticalroja{1}
+\begin{minipage}[t]{0.475\textwidth}
+      \input{oraciones/padrenuestro/latin.tex}\\
+
+      \input{oraciones/gloria/latin.tex}\\
+
+      \input{oraciones/avemaria/latin.tex}\\
+
+      \input{oraciones/salve/latin.tex}\\
+
+      \input{oraciones/acordaos/latin.tex}\\
+
+      \input{oraciones/bajo_tu_amparo/latin.tex}
+
+\end{minipage}
+
+\bigskip
+
+\textorojo{Actos de contrición}
+\input{oraciones/contricion/senor_mio_jesucristo.tex}
+
+\medskip
+
+\begin{minipage}[t]{0.475\textwidth}
+      \input{oraciones/contricion/confiteor/castellano.tex}\\
+
+      \input{oraciones/contricion/dios_mio/castellano.tex}\\
+
+      \input{oraciones/credo/niceno_castellano.tex}\\
+
+      \input{oraciones/san_miguel/castellano.tex}
+
+\end{minipage}
+\lineaverticalroja{1}
+\begin{minipage}[t]{0.475\textwidth}
+      \input{oraciones/contricion/confiteor/latin.tex}\\
+
+      \input{oraciones/contricion/dios_mio/latin.tex}\\
+
+      \input{oraciones/credo/niceno_latin.tex}\\
+
+      \input{oraciones/san_miguel/latin.tex}
+\end{minipage}
+%%%%%%%%%%%%%
+% ORACIONES %
+%%%%%%%%%%%%%
+
+\end{document}
