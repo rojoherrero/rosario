@@ -1,6 +1,6 @@
 \documentclass[10pt,oneside]{book}
-\usepackage[utf8]{inputenc}
-%\usepackage[spanish,latin]{babel}
+%\usepackage[utf8]{inputenc}
+\usepackage[latin,spanish]{babel}
 \usepackage[spanish]{babel}
 \usepackage[T1]{fontenc}
 \usepackage[spanish]{cleveref}
@@ -10,10 +10,11 @@
     left=15mm,
     right=15mm,
     top=15mm,
+    bottom=15mm
 }
-\usepackage{paracol}
+\usepackage{paracol,lipsum,multicol}
 \usepackage{lettrine}
-\usepackage{color}
+\usepackage{xcolor}
 \usepackage{yfonts}
 \usepackage{longtable}
 \usepackage{subfiles}
@@ -22,6 +23,7 @@
 \usepackage{graphicx}
 \graphicspath{ {images/} }
 \usepackage{fancyhdr} 
+\usepackage{ragged2e}
 \fancyhf{}
 \cfoot{\thepage}
 \pagestyle{fancy}
@@ -52,8 +54,9 @@
 \newcounter{glorious-counter}
 \newcounter{lux-counter}
 
-\setlength{\columnseprule}{0.5pt}
+\setlength{\columnseprule}{0.4pt}
 \colseprulecolor{red}
+%\ensurevspace{2mm}
 
 \begin{document}
 
@@ -63,36 +66,76 @@
 \chapter*{Santo Rosario Meditado}
 
 \begin{paracol}{2}  
+      \selectlanguage{spanish}
       \input{oraciones/senal_cruz/castellano.tex}
       \vspace{1mm}
-      \input{oraciones/contricion/senor_mio_jesucristo.tex}\\[2mm]
-      \input{oraciones/versiculos/abre_senor_mis_labios/castellano.tex}\\[1mm]
-      \input{oraciones/versiculos/apresurate_snor/castellano.tex}\\[1mm]
-      \input{oraciones/gloria/castellano_separado.tex}\\[1mm]
+      \switchcolumn
+
+      \selectlanguage{latin}
+      \input{oraciones/senal_cruz/latin.tex}
+
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/contricion/senor_mio_jesucristo.tex}
+
+      \switchcolumn
+
+      \selectlanguage{latin}
+      \input{oraciones/contricion/confiteor/latin.tex}
+      \vspace{2mm}
+      \switchcolumn*
+
+      \selectlanguage{spanish}
+      \input{oraciones/versiculos/abre_senor_mis_labios/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \selectlanguage{latin}
+      \input{oraciones/versiculos/abre_senor_mis_labios/latin.tex}
+
+      \switchcolumn*
+
+      \selectlanguage{spanish}
+      \input{oraciones/versiculos/apresurate_snor/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \selectlanguage{latin}
+      \input{oraciones/versiculos/apresurate_snor/latin.tex}
+
+      \switchcolumn*
+
+      \selectlanguage{spanish}
+      \input{oraciones/gloria/castellano_separado.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \selectlanguage{latin}
+      \input{oraciones/gloria/latin_separado.tex}
+
+      \switchcolumn*
+      
+      \selectlanguage{spanish}
       \input{oraciones/versiculos/maria_madre/castellano.tex}
       
       \switchcolumn
-      
-      \input{oraciones/senal_cruz/latin.tex}
-      \vspace{1mm}
-      \input{oraciones/contricion/confiteor/latin.tex}\\[2mm]
-      \input{oraciones/versiculos/abre_senor_mis_labios/latin.tex}\\[1mm]
-      \input{oraciones/versiculos/apresurate_snor/latin.tex}\\[1mm]
-      \input{oraciones/gloria/latin_separado.tex}\\[1mm]
-      \input{oraciones/versiculos/maria_madre/latin.tex}                                                                              
+
+      \selectlanguage{latin}
+      \input{oraciones/versiculos/maria_madre/latin.tex}
+      \selectlanguage{spanish}
 \end{paracol}
 
 \vspace{2mm}
 
 \begin{center}
-      \textorojo{Decimos aquí las intenciones de este Rosario}
+      \textcolor{red}{Decimos aquí las intenciones de este Rosario}
 \end{center}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % INICIO MISTERIOS GOZOSOS %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{\input{biblia/01_gozosos/titulo.tex}}
-\textorojo{\input{biblia/01_gozosos/dias.tex}}
+\textcolor{red}{\input{biblia/01_gozosos/dias.tex}}
 \stepcounter{joyful-counter}
 \subsection*{\Roman{joyful-counter} Misterio: \input{biblia/01_gozosos/01_anunciacion/titulo.tex}}
 \input{biblia/01_gozosos/01_anunciacion/pasaje.tex}
@@ -140,7 +183,7 @@
 % INICIO MISTERIOS LUMINOSOS %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{\input{biblia/02_luminosos/titulo.tex}}
-\textorojo{\input{biblia/02_luminosos/dias.tex}}
+\textcolor{red}{\input{biblia/02_luminosos/dias.tex}}
 \stepcounter{lux-counter}
 \subsection*{\Roman{lux-counter} Misterio: \input{biblia/02_luminosos/01_bautismo/titulo.tex}}
 \input{biblia/02_luminosos/01_bautismo/pasaje.tex}
@@ -187,7 +230,7 @@
 % INICIO MISTERIOS DOLOROSOS %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{\input{biblia/03_dolorosos/titulo.tex}}
-\textorojo{\input{biblia/03_dolorosos/dias.tex}}
+\textcolor{red}{\input{biblia/03_dolorosos/dias.tex}}
 \stepcounter{sorrowful-counter}
 \subsection*{\Roman{sorrowful-counter} Misterio: \input{biblia/03_dolorosos/01_agonia/titulo.tex}}
 \input{biblia/03_dolorosos/01_agonia/pasaje.tex}
@@ -235,7 +278,7 @@
 % INICIO MISTERIOS GLORIOSOS %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{\input{biblia/04_gloriosos/titulo.tex}}
-\textorojo{\input{biblia/04_gloriosos/dias.tex}}
+\textcolor{red}{\input{biblia/04_gloriosos/dias.tex}}
 \stepcounter{glorious-counter}
 \subsection*{\Roman{glorious-counter} Misterio: \input{biblia/04_gloriosos/01_resurrecion/titulo.tex}}
 \input{biblia/04_gloriosos/01_resurrecion/pasaje.tex}
@@ -274,7 +317,6 @@
 
 \begin{center}
       {\input{oraciones/oraciones_misterio.tex}}
-      Oraciones finales (\cpageref{final-prayer})
 \end{center}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % FINAL MISTERIOS GLORIOSOS %
@@ -284,34 +326,52 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \label{final-prayer}
 \begin{center}
-      \textorojo{Terminados los misterios podemos rezar}
+      \textcolor{red}{Terminados los misterios podemos rezar}
 \end{center}
 
 \begin{paracol}{2}  
-      \input{oraciones/avemaria/hija/castellano.tex}\\[1mm]
-      \input{oraciones/avemaria/madre/castellano.tex}\\[1mm]
-      \input{oraciones/avemaria/esposa/castellano.tex}\\[1mm]
+      \input{oraciones/avemaria/hija/castellano.tex}
+      \vspace{1mm}
+      \switchcolumn
+
+      \input{oraciones/avemaria/hija/latin.tex}
+
+      \switchcolumn*
+
+      \input{oraciones/avemaria/madre/castellano.tex}
+      \vspace{1mm}
+      \switchcolumn
+
+      \input{oraciones/avemaria/madre/latin.tex}
+
+      \switchcolumn*
+
+      \input{oraciones/avemaria/esposa/castellano.tex}
+      \vspace{1mm}
+      \switchcolumn
+
+      \input{oraciones/avemaria/esposa/latin.tex}
+
+      \switchcolumn*
+
       \input{oraciones/avemaria/sagrario/castellano.tex}
       
       \switchcolumn
       
-      \input{oraciones/avemaria/hija/latin.tex}\\[1mm]
-      \input{oraciones/avemaria/madre/latin.tex}\\[1mm]
-      \input{oraciones/avemaria/esposa/latin.tex}\\[1mm]
       \input{oraciones/avemaria/sagrario/latin.tex}                                                                            
 \end{paracol}
 
-\vspace*{5mm}
+\vspace*{3mm}
 \begin{center}
-      \textorojo{Letanías de Nuestra Señora}
+      \textcolor{red}{Letanías de Nuestra Señora}
 \end{center}
 
 \begin{paracol}{2}  
       \input{oraciones/letanias/castellano.tex}
       
       \switchcolumn
-      
-      \input{oraciones/letanias/latin.tex}                                                                          
+
+      \input{oraciones/letanias/latin.tex}                                                                              
 \end{paracol}
 
 \vspace{3mm}
@@ -358,41 +418,26 @@
       \input{oraciones/antifonas_bvm/04_pascua/latin.tex}                                                                      
 \end{paracol}
 
-\vspace{3mm}
+\vspace{4mm}
 
-\begin{paracol}{2}  
+\begin{paracol}{2}
+
       \input{oraciones/versiculos/el_senor_este/castellano.tex}\\[1mm]
-      \textbf{Oremos por el Papa y sus intenciones:}\\
-      \hspace*{5mm}Padre Nuestro, que estás ne los cielo\ldots\\
-      \hspace*{5mm}Dios te salve, María\ldots\\
-      \hspace*{5mm}Gloria al Padre\ldots\\[2mm]
-      \textbf{Oremos por nuestro Obispo, sacerdotes, seminaristas y monjas:}\\
-      \hspace*{5mm}Padre Nuestro, que estás ne los cielo\ldots\\
-      \hspace*{5mm}Dios te salve, María\ldots\\
-      \hspace*{5mm}Gloria al Padre\ldots\\[2mm]
-      \textbf{Oremos por las benditas almas del Purgatorio;}\\
-      \hspace*{5mm}Padre Nuestro, que estás ne los cielo\ldots\\
-      \hspace*{5mm}Dios te salve, María\ldots\\
-      \hspace*{2.5mm}\versiculorespuestaseguido{Descansen en paz}{Amén}
+      \input{oraciones/por_el_papa/castellano.tex}\\[1mm]
+      \input{oraciones/por_el_obispo/castellano.tex}\\[1mm]
+      \input{oraciones/por_los_fieles_difuntos/castellano.tex}\\[1mm]
+      \input{oraciones/versiculos/escucha_senor/castellano.tex}
       
       \switchcolumn
       
       \input{oraciones/versiculos/el_senor_este/latin.tex}\\[1mm]
-      \textbf{Orémus pro Pontifice nostro:}\\
-      \hspace*{5mm}Pater noster, qui es in c{\ae}lis\ldots\\
-      \hspace*{5mm}Ave María, grátia plena\ldots\\
-      \hspace*{5mm}Glória Patri,\ldots\\[2mm]
-      \textbf{Oremos por nuestro Obispo, sacerdotes, seminaristas y monjas:}\\
-      \hspace*{5mm}Pater noster, qui es in c{\ae}lis\ldots\\
-      \hspace*{5mm}Ave María, grátia plena\ldots\\
-      \hspace*{5mm}Glória Patri,\ldots\\[2mm]
-      \textbf{Oremos por las benditas almas del Purgatorio;}\\
-      \hspace*{5mm}Pater noster, qui es in c{\ae}lis\ldots\\
-      \hspace*{5mm}Ave María, grátia plena\ldots\\
-      \hspace*{2.5mm}\versiculorespuestaseguido{Requiéscant in pace}{Amen}
+      \input{oraciones/por_el_papa/latin.tex}\\[1mm]
+      \input{oraciones/por_el_obispo/latin.tex}\\[1mm]
+      \input{oraciones/por_los_fieles_difuntos/latin.tex}\\[1mm]
+      \input{oraciones/versiculos/escucha_senor/latin.tex}
 \end{paracol}
 
-\vspace{3mm}
+\vspace{4mm}
 Una Salve al Inmaculado Corazón de María:
 \begin{paracol}{2}  
       \input{oraciones/salve/castellano.tex}
@@ -404,22 +449,52 @@ Una Salve al Inmaculado Corazón de María:
 
 Un Credo al Sagrado Corazón de Jesús:
 \begin{paracol}{2}  
-      \input{oraciones/credo/apostoles_castellano.tex}\\
-      \input{oraciones/san_jose/castellano.tex}\\
-      \input{oraciones/san_miguel/castellano.tex}\\[2mm]
+      \input{oraciones/credo/apostoles_castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \input{oraciones/credo/apostoles_latin.tex}
+
+      \switchcolumn*
+
+      \input{oraciones/san_jose/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \input{oraciones/san_jose/latin.tex}
+
+      \switchcolumn*
+
+      \input{oraciones/san_miguel/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \input{oraciones/san_miguel/latin.tex}
+
+      \switchcolumn*
+
       \textopequenorojo{Se repite tres veces}\\
-      \input{oraciones/versiculos/corazon_jesus/castellano.tex}\\[1mm]
-      \input{oraciones/versiculos/avemaria_purisima/castellano.tex}\\[1mm]
+      \input{oraciones/versiculos/corazon_jesus/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \textopequenorojo{Se repite tres veces}\\
+      \input{oraciones/versiculos/corazon_jesus/latin.tex}
+
+      \switchcolumn*
+
+      \input{oraciones/versiculos/avemaria_purisima/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \input{oraciones/versiculos/avemaria_purisima/latin.tex}
+
+      \switchcolumn*
+
       \input{oraciones/senal_cruz/castellano.tex} 
       
       \switchcolumn
-      
-      \input{oraciones/credo/apostoles_latin.tex}\\
-      \input{oraciones/san_jose/latin.tex}\\
-      \input{oraciones/san_miguel/latin.tex}\\[2mm]
-      \textopequenorojo{Se repite tres veces}\\
-      \input{oraciones/versiculos/corazon_jesus/latin.tex}\\[1mm]
-      \input{oraciones/versiculos/avemaria_purisima/latin.tex}\\[-2mm]
+
       \input{oraciones/senal_cruz/latin.tex}                                                                      
 \end{paracol}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -430,7 +505,7 @@ Un Credo al Sagrado Corazón de Jesús:
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter*{Ángelus y Regina C{\oe}li}
 
-\section*{Ángelus}
+\section*{\input{oraciones/angelus/titulo.tex}}
 
 \begin{paracol}{2}  
       \input{oraciones/angelus/castellano.tex}
@@ -440,7 +515,7 @@ Un Credo al Sagrado Corazón de Jesús:
       \input{oraciones/angelus/latin.tex}                                                                  
 \end{paracol}
 
-\section*{Regina C{\oe}li L{\ae}táre (Tiempo Pascual)}
+\section*{\input{oraciones/regina_coelis/titulo.tex}}
 
 \begin{paracol}{2}  
       \input{oraciones/regina_coelis/castellano.tex}
@@ -458,60 +533,99 @@ Un Credo al Sagrado Corazón de Jesús:
 \chapter*{Oraciones}
 
 \begin{paracol}{2}  
-      \input{oraciones/padrenuestro/castellano.tex}\\
+      \input{oraciones/padrenuestro/castellano.tex}
+      \vspace{-2mm}
+      \switchcolumn
 
-      \input{oraciones/gloria/castellano.tex}\\
+      \input{oraciones/padrenuestro/latin.tex}
 
-      \input{oraciones/avemaria/castellano.tex}\\
+      \switchcolumn*
 
-      \input{oraciones/salve/castellano.tex}\\
+      \input{oraciones/gloria/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
 
-      \input{oraciones/acordaos/castellano.tex}\\
+      \input{oraciones/gloria/latin.tex}
+
+      \switchcolumn*
+
+      \input{oraciones/avemaria/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \input{oraciones/avemaria/latin.tex}
+
+      \switchcolumn*
+
+      \input{oraciones/salve/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \input{oraciones/salve/latin.tex}
+
+      \switchcolumn*
+
+      \input{oraciones/acordaos/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \input{oraciones/acordaos/latin.tex}
+
+      \switchcolumn*
 
       \input{oraciones/bajo_tu_amparo/castellano.tex}
       
       \switchcolumn
-      
-      \input{oraciones/padrenuestro/latin.tex}\\
-
-      \input{oraciones/gloria/latin.tex}\\
-
-      \input{oraciones/avemaria/latin.tex}\\
-
-      \input{oraciones/salve/latin.tex}\\
-
-      \input{oraciones/acordaos/latin.tex}\\
 
       \input{oraciones/bajo_tu_amparo/latin.tex}                                                                    
 \end{paracol}
 
-\vspace{5mm}
+\vspace{3mm}
 
 \input{oraciones/contricion/senor_mio_jesucristo.tex}
 
-\vspace{5mm}
+\vspace{3mm}
 
 \begin{paracol}{2}  
-      \input{oraciones/contricion/confiteor/castellano.tex}\\
+      \input{oraciones/contricion/confiteor/castellano.tex}
+      \vspace{-2mm}
+      \switchcolumn
 
-      \input{oraciones/contricion/dios_mio/castellano.tex}\\
+      \input{oraciones/contricion/confiteor/latin.tex}
 
-      \input{oraciones/credo/niceno_castellano.tex}\\
+      \switchcolumn*
+
+      \input{oraciones/contricion/dios_mio/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \input{oraciones/contricion/dios_mio/latin.tex}
+
+      \switchcolumn*
+
+      \input{oraciones/credo/niceno_castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \input{oraciones/credo/niceno_latin.tex}
+
+      \switchcolumn*
 
       \input{oraciones/san_miguel/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+
+      \input{oraciones/san_miguel/latin.tex}
+
+      \switchcolumn*
+
+      \input{oraciones/angel_guarda/castellano.tex}
       
       \switchcolumn
-      
-      \input{oraciones/contricion/confiteor/latin.tex}\\
 
-      \input{oraciones/contricion/dios_mio/latin.tex}\\
-
-      \input{oraciones/credo/niceno_latin.tex}\\
-
-      \input{oraciones/san_miguel/latin.tex}                                                                   
+      \input{oraciones/angel_guarda/latin.tex}
 \end{paracol}
 %%%%%%%%%%%%%
 % ORACIONES %
 %%%%%%%%%%%%%
-
 \end{document}
