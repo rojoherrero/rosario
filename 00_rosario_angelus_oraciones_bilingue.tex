@@ -12,18 +12,14 @@
     top=15mm,
     bottom=15mm
 }
-\usepackage{paracol,lipsum,multicol}
+\usepackage{paracol}
 \usepackage{lettrine}
 \usepackage{xcolor}
 \usepackage{yfonts}
-\usepackage{longtable}
-\usepackage{subfiles}
-\usepackage{comment}
 \usepackage{gregoriotex}
 \usepackage{graphicx}
 \graphicspath{ {images/} }
-\usepackage{fancyhdr} 
-\usepackage{ragged2e}
+\usepackage{fancyhdr}
 \fancyhf{}
 \cfoot{\thepage}
 \pagestyle{fancy}
@@ -65,7 +61,7 @@
 
 \chapter*{Santo Rosario Meditado}
 
-\begin{paracol}{2}  
+\begin{paracol}{2}
       \selectlanguage{spanish}
       \input{oraciones/senal_cruz/castellano.tex}
       \vspace{1mm}
@@ -377,22 +373,28 @@
 \vspace{3mm}
 
 \textopequenorojo{Desde la Purificación hasta Sábado Santo y desde la Santísima Trinidad hasta el I Domingo de Adviento:}
-\begin{paracol}{2}  
-      \input{oraciones/antifonas_bvm/01_septuagesima_cuaresma_postpentecostes/castellano.tex}
-      
+\begin{paracol}{2}
+      \input{oraciones/versiculos/salve/castellano.tex}
+      \vspace{2mm}
       \switchcolumn
-      
+      \input{oraciones/versiculos/salve/latin.tex}
+      \switchcolumn*
+      \input{oraciones/antifonas_bvm/01_septuagesima_cuaresma_postpentecostes/castellano.tex}
+      \switchcolumn
       \input{oraciones/antifonas_bvm/01_septuagesima_cuaresma_postpentecostes/latin.tex}                                                                        
 \end{paracol}
 
 \vspace{3mm}
 
 \textopequenorojo{Desde el I Domingo de Adviento hasta Navidad:}
-\begin{paracol}{2}  
-      \input{oraciones/antifonas_bvm/02_adviento/castellano.tex}
-      
+\begin{paracol}{2}
+      \input{oraciones/angelus/castellano_00.tex}
+      \vspace{2mm}
       \switchcolumn
-      
+      \input{oraciones/angelus/latin_00.tex}
+      \switchcolumn*
+      \input{oraciones/antifonas_bvm/02_adviento/castellano.tex}
+      \switchcolumn
       \input{oraciones/antifonas_bvm/02_adviento/latin.tex}                                                                      
 \end{paracol}
 
@@ -400,40 +402,66 @@
 
 \textopequenorojo{Desde Navidad hasta la Purificación:}
 \begin{paracol}{2}  
-      \input{oraciones/antifonas_bvm/03_navidad/castellano.tex}
-      
+      \input{oraciones/antifonas_bvm/03_navidad/castellano_00.tex}
+      \vspace{2mm}
       \switchcolumn
-      
-      \input{oraciones/antifonas_bvm/03_navidad/latin.tex}                                                                      
+      \input{oraciones/antifonas_bvm/03_navidad/latin_00.tex}  
+      \switchcolumn*
+      \input{oraciones/antifonas_bvm/03_navidad/castellano_01.tex}
+      \switchcolumn
+      \input{oraciones/antifonas_bvm/03_navidad/latin_01.tex}                                                                      
 \end{paracol}
 
 \vspace{3mm}
 
 \textopequenorojo{Desde Domingo de Resurrección hasta la Santísima Trinidad:}
-\begin{paracol}{2}  
-      \input{oraciones/antifonas_bvm/04_pascua/castellano.tex}
-      
+\begin{paracol}{2}
+      \input{oraciones/angelus/castellano_00.tex}
+      \vspace*{1mm}
       \switchcolumn
-      
+      \input{oraciones/angelus/latin_00.tex}
+      \switchcolumn*
+      \input{oraciones/angelus/castellano_01.tex}
+      \vspace*{1mm}
+      \switchcolumn
+      \input{oraciones/angelus/latin_01.tex}
+      \switchcolumn*
+      \input{oraciones/angelus/castellano_02.tex}
+      \vspace*{2mm}
+      \switchcolumn
+      \input{oraciones/angelus/latin_02.tex}
+      \switchcolumn*
+      \input{oraciones/antifonas_bvm/04_pascua/castellano.tex}   
+      \switchcolumn
       \input{oraciones/antifonas_bvm/04_pascua/latin.tex}                                                                      
 \end{paracol}
 
 \vspace{4mm}
 
 \begin{paracol}{2}
-
-      \input{oraciones/versiculos/el_senor_este/castellano.tex}\\[1mm]
-      \input{oraciones/por_el_papa/castellano.tex}\\[1mm]
-      \input{oraciones/por_el_obispo/castellano.tex}\\[1mm]
-      \input{oraciones/por_los_fieles_difuntos/castellano.tex}\\[1mm]
-      \input{oraciones/versiculos/escucha_senor/castellano.tex}
-      
+      \input{oraciones/versiculos/el_senor_este/castellano.tex}
+      \vspace*{1mm}
       \switchcolumn
-      
-      \input{oraciones/versiculos/el_senor_este/latin.tex}\\[1mm]
-      \input{oraciones/por_el_papa/latin.tex}\\[1mm]
-      \input{oraciones/por_el_obispo/latin.tex}\\[1mm]
-      \input{oraciones/por_los_fieles_difuntos/latin.tex}\\[1mm]
+      \input{oraciones/versiculos/el_senor_este/latin.tex}
+      \switchcolumn*
+      \input{oraciones/por_el_papa/castellano.tex}
+      \vspace*{1mm}
+      \switchcolumn
+      \input{oraciones/por_el_papa/latin.tex}
+      \switchcolumn*
+      \input{oraciones/por_el_obispo/castellano.tex}
+      \vspace*{1mm}
+      \switchcolumn
+      \input{oraciones/por_el_obispo/latin.tex}
+      \switchcolumn*
+      \input{oraciones/por_los_fieles_difuntos/castellano.tex}
+      \vspace*{1mm}
+      \switchcolumn
+      \input{oraciones/por_los_fieles_difuntos/latin.tex}
+      \switchcolumn*
+      \input{oraciones/versiculos/escucha_senor/castellano.tex}
+      \vspace*{1mm}
+      \switchcolumn
       \input{oraciones/versiculos/escucha_senor/latin.tex}
 \end{paracol}
 
@@ -452,49 +480,32 @@ Un Credo al Sagrado Corazón de Jesús:
       \input{oraciones/credo/apostoles_castellano.tex}
       \vspace{2mm}
       \switchcolumn
-
       \input{oraciones/credo/apostoles_latin.tex}
-
       \switchcolumn*
-
       \input{oraciones/san_jose/castellano.tex}
       \vspace{2mm}
       \switchcolumn
-
       \input{oraciones/san_jose/latin.tex}
-
       \switchcolumn*
-
       \input{oraciones/san_miguel/castellano.tex}
       \vspace{2mm}
       \switchcolumn
-
       \input{oraciones/san_miguel/latin.tex}
-
       \switchcolumn*
-
       \textopequenorojo{Se repite tres veces}\\
       \input{oraciones/versiculos/corazon_jesus/castellano.tex}
       \vspace{2mm}
       \switchcolumn
-
       \textopequenorojo{Se repite tres veces}\\
       \input{oraciones/versiculos/corazon_jesus/latin.tex}
-
       \switchcolumn*
-
       \input{oraciones/versiculos/avemaria_purisima/castellano.tex}
       \vspace{2mm}
       \switchcolumn
-
       \input{oraciones/versiculos/avemaria_purisima/latin.tex}
-
       \switchcolumn*
-
       \input{oraciones/senal_cruz/castellano.tex} 
-      
       \switchcolumn
-
       \input{oraciones/senal_cruz/latin.tex}                                                                      
 \end{paracol}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -508,31 +519,38 @@ Un Credo al Sagrado Corazón de Jesús:
 \section*{\input{oraciones/angelus/titulo.tex}}
 
 \begin{paracol}{2}  
-      \input{oraciones/angelus/castellano_00.tex}\\[-3.5mm]
+      \input{oraciones/angelus/castellano_00.tex}
+      \vspace{2mm}
       \switchcolumn
       \input{oraciones/angelus/latin_00.tex}
       \switchcolumn*
-      \input{oraciones/angelus/salve_castellano.tex}\\[-3.5mm]
+      \input{oraciones/angelus/salve_castellano.tex}
+      \vspace{2mm}
       \switchcolumn
       \input{oraciones/angelus/salve_latin.tex}
       \switchcolumn*
-      \input{oraciones/angelus/castellano_01.tex}\\[-3.5mm]
+      \input{oraciones/angelus/castellano_01.tex}
+      \vspace{2mm}
       \switchcolumn
       \input{oraciones/angelus/latin_01.tex}
       \switchcolumn*
-      \input{oraciones/angelus/salve_castellano.tex}\\[-3.5mm]
+      \input{oraciones/angelus/salve_castellano.tex}
+      \vspace{2mm}
       \switchcolumn
       \input{oraciones/angelus/salve_latin.tex}
       \switchcolumn*
-      \input{oraciones/angelus/castellano_02.tex}\\[-3.5mm]
+      \input{oraciones/angelus/castellano_02.tex}
+      \vspace{2mm}
       \switchcolumn
       \input{oraciones/angelus/latin_02.tex}
       \switchcolumn*
-      \input{oraciones/angelus/salve_castellano.tex}\\[-3.5mm]
+      \input{oraciones/angelus/salve_castellano.tex}
+      \vspace{2mm}
       \switchcolumn
       \input{oraciones/angelus/salve_latin.tex}
       \switchcolumn*
-      \input{oraciones/versiculos/salve/castellano.tex}\\[-3.5mm]
+      \input{oraciones/versiculos/salve/castellano.tex}
+      \vspace{2mm}
       \switchcolumn
       \input{oraciones/versiculos/salve/latin.tex}
       \switchcolumn*
@@ -544,7 +562,8 @@ Un Credo al Sagrado Corazón de Jesús:
 \section*{\input{oraciones/regina_coelis/titulo.tex}}
 
 \begin{paracol}{2}  
-      \input{oraciones/regina_coelis/castellano_00.tex}\\[2mm]
+      \input{oraciones/regina_coelis/castellano_00.tex}
+      \vspace{2mm}
       \switchcolumn
       \input{oraciones/regina_coelis/latin_00.tex}
       \switchcolumn*
@@ -564,47 +583,30 @@ Un Credo al Sagrado Corazón de Jesús:
       \input{oraciones/padrenuestro/castellano.tex}
       \vspace{-2mm}
       \switchcolumn
-
       \input{oraciones/padrenuestro/latin.tex}
-
       \switchcolumn*
-
       \input{oraciones/gloria/castellano.tex}
       \vspace{2mm}
       \switchcolumn
-
       \input{oraciones/gloria/latin.tex}
-
       \switchcolumn*
-
       \input{oraciones/avemaria/castellano.tex}
       \vspace{2mm}
       \switchcolumn
-
       \input{oraciones/avemaria/latin.tex}
-
       \switchcolumn*
-
       \input{oraciones/salve/castellano.tex}
       \vspace{2mm}
       \switchcolumn
-
       \input{oraciones/salve/latin.tex}
-
       \switchcolumn*
-
       \input{oraciones/acordaos/castellano.tex}
       \vspace{2mm}
       \switchcolumn
-
       \input{oraciones/acordaos/latin.tex}
-
       \switchcolumn*
-
       \input{oraciones/bajo_tu_amparo/castellano.tex}
-      
       \switchcolumn
-
       \input{oraciones/bajo_tu_amparo/latin.tex}                                                                    
 \end{paracol}
 
@@ -618,39 +620,25 @@ Un Credo al Sagrado Corazón de Jesús:
       \input{oraciones/contricion/confiteor/castellano.tex}
       \vspace{-2mm}
       \switchcolumn
-
       \input{oraciones/contricion/confiteor/latin.tex}
-
       \switchcolumn*
-
       \input{oraciones/contricion/dios_mio/castellano.tex}
       \vspace{2mm}
       \switchcolumn
-
       \input{oraciones/contricion/dios_mio/latin.tex}
-
       \switchcolumn*
-
       \input{oraciones/credo/niceno_castellano.tex}
       \vspace{2mm}
       \switchcolumn
-
       \input{oraciones/credo/niceno_latin.tex}
-
       \switchcolumn*
-
       \input{oraciones/san_miguel/castellano.tex}
       \vspace{2mm}
       \switchcolumn
-
       \input{oraciones/san_miguel/latin.tex}
-
       \switchcolumn*
-
       \input{oraciones/angel_guarda/castellano.tex}
-      
       \switchcolumn
-
       \input{oraciones/angel_guarda/latin.tex}
 \end{paracol}
 %%%%%%%%%%%%%
