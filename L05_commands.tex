@@ -1,0 +1,50 @@
+\newcommand{\primeraletragranderoja}[2]{
+    \lettrine[lines=2]{\textcolor{red}{#1}}{#2} 
+}
+
+\newcommand{\primeraletragrande}[2]{
+    \lettrine[lines=2]{#1}{#2}
+}
+
+\newcommand{\letraroja}[2]{
+    \textcolor{red}{#1}{#2}
+}
+
+\newcommand{\versiculo}[1]{
+    \textcolor{red}{\gothVbar.} {#1}.
+}
+
+\newcommand{\respuesta}[1]{
+    \textcolor{red}{\gothRbar.} {#1}.
+}
+
+\newcommand{\textopequenorojo}[1]{
+    {\textcolor{red}{\small{#1}}}
+}
+
+\newcommand{\versiculorespuesta}[2]{
+    \versiculo{#1}\\
+    \respuesta{#2}
+}
+
+\newcommand{\versiculorespuestaseguido}[2]{
+    \versiculo{#1}\respuesta{#2}
+}
+
+\newcommand{\redcross}{
+    \textcolor{red}{\grecross}
+}
+
+\newcommand{\lineahorizontal}[2]{
+    \begin{center}
+        {\rule{#1cm}{#2pt}}
+    \end{center}
+}
+
+\newcommand{\lineahorizontalroja}[2]{
+    \begin{center}
+        \textcolor{red}{\rule{#1cm}{#2pt}}
+    \end{center}
+}
+
+
