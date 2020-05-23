@@ -1,0 +1,756 @@
+\documentclass[10pt,twoside]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[latin,spanish]{babel}
+\usepackage[T1]{fontenc}
+\input{metadata.tex}
+\usepackage[spanish]{cleveref}
+\usepackage{geometry}
+\geometry{
+    a5paper,
+    left=10mm,
+    right=10mm,
+    top=10mm,
+    bottom=15mm
+}
+\usepackage{paracol}
+\usepackage{lettrine}
+\usepackage{xcolor}
+\usepackage{yfonts}
+\usepackage{gregoriotex}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\rfoot{\thepage}
+\usepackage{afterpage}
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage
+}
+
+\usepackage{datetime}
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH] \THEYEAR
+}
+\setlength\parindent{0pt}
+\input{commands.tex}
+\input{hyphenation.tex}
+
+
+\title{
+    {\Huge \uppercase{Santo Rosario y Ángelus}}\\
+    {\includegraphics[scale=0.65]{foto-04.jpg}}\\
+}
+\author{Sergio}
+\date{Valladolid (España), \monthyeardate\today}
+
+\newcounter{joyful-counter}
+\newcounter{sorrowful-counter}
+\newcounter{glorious-counter}
+\newcounter{lux-counter}
+
+\setlength{\columnseprule}{0.5pt}
+\colseprulecolor{red}
+
+
+\begin{document}
+
+% \begin{titlepage}
+%       \begin{center}
+%             \includegraphics[scale=0.75]{foto-04.jpg}
+%             Sergio\\
+%             Valladolid, \monthyeardate\today
+%       \end{center}
+      
+% \end{titlepage}
+
+\maketitle
+%\afterpage{\blankpage}
+
+\chapter*{Santo Rosario Meditado}
+
+\begin{paracol}{2}
+      \selectlanguage{spanish}
+      \input{oraciones/senal_cruz/castellano.tex}
+      \vspace{1mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/senal_cruz/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/contricion/senor_mio_jesucristo.tex}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/contricion/confiteor/latin.tex}
+      \vspace{2mm}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/versiculos/abre_senor_mis_labios/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/versiculos/abre_senor_mis_labios/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/versiculos/apresurate_snor/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/versiculos/apresurate_snor/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/gloria/castellano_separado.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/gloria/latin_separado.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/versiculos/maria_madre/castellano.tex}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/versiculos/maria_madre/latin.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+
+\vspace{2mm}
+
+\begin{center}
+      \textcolor{red}{Decimos aquí las intenciones de este Rosario}
+\end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INICIO MISTERIOS GOZOSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{\input{biblia/01_gozosos/titulo.tex}}
+\textcolor{red}{\input{biblia/01_gozosos/dias.tex}}
+\stepcounter{joyful-counter}
+\subsection*{\Roman{joyful-counter} Misterio: \input{biblia/01_gozosos/01_anunciacion/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/01_gozosos/01_anunciacion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{joyful-counter}
+\subsection*{\Roman{joyful-counter} Misterio: \input{biblia/01_gozosos/02_visitacion/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/01_gozosos/02_visitacion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{joyful-counter}
+\subsection*{\Roman{joyful-counter} Misterio: \input{biblia/01_gozosos/03_natividad/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/01_gozosos/03_natividad/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{joyful-counter}
+\subsection*{\Roman{joyful-counter} Misterio: \input{biblia/01_gozosos/04_presentacion/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/01_gozosos/04_presentacion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{joyful-counter}
+\subsection*{\Roman{joyful-counter} Misterio: \input{biblia/01_gozosos/05_perdida/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/01_gozosos/05_perdida/pasaje.tex}
+\begin{center}
+      {\input{oraciones/oraciones_misterio.tex}}
+      Oraciones finales (\cpageref{final-prayer}).
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FINAL MISTERIOS GOZOSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INICIO MISTERIOS LUMINOSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{\input{biblia/02_luminosos/titulo.tex}}
+\textcolor{red}{\input{biblia/02_luminosos/dias.tex}}
+\stepcounter{lux-counter}
+\subsection*{\Roman{lux-counter} Misterio: \input{biblia/02_luminosos/01_bautismo/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/02_luminosos/01_bautismo/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{lux-counter}
+\subsection*{\Roman{lux-counter} Misterio: \input{biblia/02_luminosos/02_boda/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/02_luminosos/02_boda/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{lux-counter}
+\subsection*{\Roman{lux-counter} Misterio: \input{biblia/02_luminosos/03_reino/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/02_luminosos/03_reino/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{lux-counter}
+\subsection*{\Roman{lux-counter} Misterio: \input{biblia/02_luminosos/04_transfiguracion/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/02_luminosos/04_transfiguracion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{lux-counter}
+\subsection*{\Roman{lux-counter} Misterio: \input{biblia/02_luminosos/05_eucaristia/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/02_luminosos/05_eucaristia/pasaje.tex}
+
+\begin{center}
+      {\input{oraciones/oraciones_misterio.tex}} Oraciones finales (\cpageref{final-prayer}).
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FINAÑ MISTERIOS LUMINOSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INICIO MISTERIOS DOLOROSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{\input{biblia/03_dolorosos/titulo.tex}}
+\textcolor{red}{\input{biblia/03_dolorosos/dias.tex}}
+\stepcounter{sorrowful-counter}
+\subsection*{\Roman{sorrowful-counter} Misterio: \input{biblia/03_dolorosos/01_agonia/titulo.tex}}
+\input{biblia/03_dolorosos/01_agonia/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{sorrowful-counter}
+\subsection*{\Roman{sorrowful-counter} Misterio: \input{biblia/03_dolorosos/02_flagelacion/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/03_dolorosos/02_flagelacion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{sorrowful-counter}
+\subsection*{\Roman{sorrowful-counter} Misterio: \input{biblia/03_dolorosos/03_espinas/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/03_dolorosos/03_espinas/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{sorrowful-counter}
+\subsection*{\Roman{sorrowful-counter} \input{biblia/03_dolorosos/04_cruz/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/03_dolorosos/04_cruz/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{sorrowful-counter}
+\subsection*{\Roman{sorrowful-counter} \input{biblia/03_dolorosos/05_muerte/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/03_dolorosos/05_muerte/pasaje.tex}
+
+\begin{center}
+      {\input{oraciones/oraciones_misterio.tex}}
+      Oraciones finales (\cpageref{final-prayer})
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FINAL MISTERIOS DOLOROSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INICIO MISTERIOS GLORIOSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{\input{biblia/04_gloriosos/titulo.tex}}
+\textcolor{red}{\input{biblia/04_gloriosos/dias.tex}}
+\stepcounter{glorious-counter}
+\subsection*{\Roman{glorious-counter} Misterio: \input{biblia/04_gloriosos/01_resurrecion/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/04_gloriosos/01_resurrecion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{glorious-counter}
+\subsection*{\Roman{glorious-counter} Misterio: \input{biblia/04_gloriosos/02_ascension/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/04_gloriosos/02_ascension/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{glorious-counter}
+\subsection*{\Roman{glorious-counter} Misterio: \input{biblia/04_gloriosos/03_pentecostes/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/04_gloriosos/03_pentecostes/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{glorious-counter}
+\subsection*{\Roman{glorious-counter} Misterio: \input{biblia/04_gloriosos/04_asuncion/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/04_gloriosos/04_asuncion/pasaje.tex}
+
+\begin{center}
+      \input{oraciones/oraciones_misterio.tex}
+\end{center}
+
+\stepcounter{glorious-counter}
+\subsection*{\Roman{glorious-counter} Misterio: \input{biblia/04_gloriosos/05_coronacion/titulo.tex}}
+\selectlanguage{spanish}
+\input{biblia/04_gloriosos/05_coronacion/pasaje.tex}
+
+\begin{center}
+      {\input{oraciones/oraciones_misterio.tex}}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FINAL MISTERIOS GLORIOSOS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ORACIONES FINALES Y LETANIAS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\label{final-prayer}
+\begin{center}
+      \textcolor{red}{Terminados los misterios podemos rezar}
+\end{center}
+
+\begin{paracol}{2}
+      \selectlanguage{spanish}
+      \input{oraciones/avemaria/hija/castellano.tex}
+      \vspace{1mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/avemaria/hija/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/avemaria/madre/castellano.tex}
+      \vspace{1mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/avemaria/madre/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/avemaria/esposa/castellano.tex}
+      \vspace{1mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/avemaria/esposa/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/avemaria/sagrario/castellano.tex}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/avemaria/sagrario/latin.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+
+\vspace*{3mm}
+\begin{center}
+      \textcolor{red}{Letanías de Nuestra Señora}
+\end{center}
+
+\begin{paracol}{2}
+      \selectlanguage{spanish}
+      \input{oraciones/letanias/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/letanias/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/bajo_tu_amparo/castellano.tex}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/bajo_tu_amparo/latin.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+
+\vspace{3mm}
+
+\textopequenorojo{Desde la Purificación hasta Sábado Santo y desde la Santísima Trinidad hasta el I Domingo de Adviento:}
+\vspace{1mm}
+\begin{paracol}{2}
+      \selectlanguage{spanish}
+      \input{oraciones/versiculos/salve/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/versiculos/salve/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/antifonas_bvm/01_septuagesima_cuaresma_postpentecostes/castellano.tex}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/antifonas_bvm/01_septuagesima_cuaresma_postpentecostes/latin.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+
+\vspace{3mm}
+
+\textopequenorojo{Desde el I Domingo de Adviento hasta Navidad:}
+\vspace{1mm}
+\begin{paracol}{2}
+      \selectlanguage{spanish}
+      \input{oraciones/angelus/castellano_00.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/angelus/latin_00.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/antifonas_bvm/02_adviento/castellano.tex}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/antifonas_bvm/02_adviento/latin.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+
+\vspace{3mm}
+
+\textopequenorojo{Desde Navidad hasta la Purificación:}
+\vspace{1mm}
+\begin{paracol}{2}
+      \selectlanguage{spanish}
+      \input{oraciones/antifonas_bvm/03_navidad/castellano_00.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/antifonas_bvm/03_navidad/latin_00.tex}  
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/antifonas_bvm/03_navidad/castellano_01.tex}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/antifonas_bvm/03_navidad/latin_01.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+
+\vspace{3mm}
+
+\textopequenorojo{Desde Domingo de Resurrección hasta la Santísima Trinidad:}
+\vspace{1mm}
+\begin{paracol}{2}
+      \selectlanguage{spanish}
+      \input{oraciones/regina_coelis/castellano_00.tex}
+      \vspace{1mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/regina_coelis/latin_00.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/antifonas_bvm/04_pascua/castellano.tex}   
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/antifonas_bvm/04_pascua/latin.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+
+\vspace{4mm}
+
+\textopequenorojo{Rezamos ahora por el Santo Padre, nuestro Obispo y los fieles difuntos:}
+\vspace{1mm}
+\begin{paracol}{2}
+      \selectlanguage{spanish}
+      \input{oraciones/versiculos/el_senor_este/castellano.tex}
+      \vspace*{1mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/versiculos/el_senor_este/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/por_el_papa/castellano.tex}
+      \vspace*{1mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/por_el_papa/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/por_el_obispo/castellano.tex}
+      \vspace*{1mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/por_el_obispo/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/por_los_fieles_difuntos/castellano.tex}
+      \vspace*{1mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/por_los_fieles_difuntos/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/versiculos/escucha_senor/castellano.tex}
+      \vspace*{1mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/versiculos/escucha_senor/latin.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+
+\vspace{4mm}
+Una Salve al Inmaculado Corazón de María:
+\vspace{1mm}
+\begin{paracol}{2}  
+      \input{oraciones/salve/castellano.tex}
+      \switchcolumn\selectlanguage{latin}
+      \input{oraciones/salve/latin.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+
+\vspace{3mm}
+
+Un Credo al Sagrado Corazón de Jesús:
+\vspace{1mm}
+\begin{paracol}{2}
+      \selectlanguage{spanish}
+      \input{oraciones/credo/apostoles_castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/credo/apostoles_latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/san_jose/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/san_jose/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/san_miguel/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/san_miguel/latin.tex}
+      \switchcolumn*
+      \textopequenorojo{Se repite tres veces}\\
+      \selectlanguage{spanish}
+      \input{oraciones/versiculos/corazon_jesus/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \textopequenorojo{Se repite tres veces}\\
+      \input{oraciones/versiculos/corazon_jesus/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/versiculos/avemaria_purisima/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/versiculos/avemaria_purisima/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/senal_cruz/castellano.tex} 
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/senal_cruz/latin.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ORACIONES FINALES Y LETANIAS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ANGELUS Y REGINA COELIS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter*{Ángelus y Regina C{\oe}li}
+
+\section*{\input{oraciones/angelus/titulo.tex}}
+
+\begin{paracol}{2}
+      \selectlanguage{spanish}
+      \input{oraciones/angelus/castellano_00.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/angelus/latin_00.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/angelus/salve_castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/angelus/salve_latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/angelus/castellano_01.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/angelus/latin_01.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/angelus/salve_castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/angelus/salve_latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/angelus/castellano_02.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/angelus/latin_02.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/angelus/salve_castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/angelus/salve_latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/versiculos/salve/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/versiculos/salve/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/angelus/castellano_03.tex}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/angelus/latin_03.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+
+\section*{\input{oraciones/regina_coelis/titulo.tex}}
+
+\begin{paracol}{2}
+      \selectlanguage{spanish}
+      \input{oraciones/regina_coelis/castellano_00.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/regina_coelis/latin_00.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/regina_coelis/castellano_01.tex}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/regina_coelis/latin_01.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ANGELUS Y REGINA COELIS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%
+% ORACIONES %
+%%%%%%%%%%%%%
+\chapter*{Oraciones}
+
+\begin{paracol}{2}
+      \selectlanguage{spanish}
+      \input{oraciones/padrenuestro/castellano.tex}
+      \vspace{-2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/padrenuestro/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/gloria/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/gloria/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/avemaria/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/avemaria/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/salve/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/salve/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/acordaos/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/acordaos/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/bajo_tu_amparo/castellano.tex}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/bajo_tu_amparo/latin.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+
+\vspace{3mm}
+\selectlanguage{spanish}
+\input{oraciones/contricion/senor_mio_jesucristo.tex}
+
+\vspace{3mm}
+
+\begin{paracol}{2}
+      \selectlanguage{spanish}
+      \input{oraciones/contricion/confiteor/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/contricion/confiteor/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/contricion/dios_mio/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/contricion/dios_mio/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/credo/niceno_castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/credo/niceno_latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/san_miguel/castellano.tex}
+      \vspace{2mm}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/san_miguel/latin.tex}
+      \switchcolumn*
+      \selectlanguage{spanish}
+      \input{oraciones/angel_guarda/castellano.tex}
+      \switchcolumn
+      \selectlanguage{latin}
+      \input{oraciones/angel_guarda/latin.tex}
+      \selectlanguage{spanish}
+\end{paracol}
+%%%%%%%%%%%%%
+% ORACIONES %
+%%%%%%%%%%%%%
+\end{document}
