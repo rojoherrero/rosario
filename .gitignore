@@ -6,6 +6,7 @@
 *.bbl
 *.blg
 *.toc
+*.out
 
 *.dvi
 *.ps

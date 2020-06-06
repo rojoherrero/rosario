@@ -3,17 +3,17 @@
 #############
 current_date = `date +%Y%m%d`
 a4_doc = rosario_angelus_a4
-a5_doc = rosario_angelus_a5
+pray_doc = lavantarse_acostarse
 output_name_a4 = ${current_date}_${a4_doc}
-output_name_a5 = ${current_date}_${a5_doc}
+output_pray = ${current_date}_${pray_doc}
 ######################################################################################################################################################################
 
-.PHONY = compile_a5 compile_a4 move_aux
+.PHONY = delete_a4 delete_wakeup move_aux
 
 ################
 # Compila todo #
 ################
-all: a4 a5 move_aux
+all: a4 wakeup
 ######################################################################################################################################################################
 
 ############################
@@ -29,24 +29,24 @@ delete_a4:
 	rm -f aux/{*${a4_doc}.aux,*${a4_doc}.log,*${a4_doc}.fls,*${a4_doc}.fdb_latexmk,*${a4_doc}.dvi}
 ######################################################################################################################################################################
 
-############################
-# Compila la version larga #
-############################
-a5: delete_a5 compile_a5 move_aux
+####################################
+# Oraciones Levantarse y Aocstarse #
+####################################
+wakeup: delete_wakeup compile_wakeup move_aux
 
-compile_a5:
-	latexmk -lualatex -jobname=${output_name_a5} 00_rosario_bilingue_a5.tex
+compile_wakeup:
+	latexmk -lualatex -jobname=${output_pray} 01_oraciones_levantarse_acostarse.tex
 
-delete_a5:
-	rm -f ./*${a5_doc}.pdf
-	rm -f aux/{*${a5_doc}.aux,*${a5_doc}.log,*${a5_doc}.fls,*${a5_doc}.fdb_latexmk,*${a5_doc}.dvi}
+delete_wakeup:
+	rm -f ./*${pray_doc}.pdf
+	rm -f aux/{*${pray_doc}.aux,*${pray_doc}.log,*${pray_doc}.fls,*${pray_doc}.fdb_latexmk,*${pray_doc}.dvi}
 ######################################################################################################################################################################
 
 #############
 # Genericos #
 #############
 move_aux:
-	mv *.log *.aux *.fdb_latexmk *.fls aux/
+	mv *.log *.aux *.fdb_latexmk *.fls *.out aux/
 
 
 

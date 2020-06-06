@@ -1,21 +1,21 @@
 \newcommand{\primeraletragranderoja}[2]{
-    \lettrine[lines=2]{\textcolor{red}{#1}}{#2} 
+    \lettrine[lines=2]{\textcolor{red}{#1}}#2
 }
 
 \newcommand{\primeraletragrande}[2]{
-    \lettrine[lines=2]{#1}{#2}
+    \lettrine[lines=2]{#1}#2
 }
 
 \newcommand{\letraroja}[2]{
-    \textcolor{red}{#1}{#2}
+    \textcolor{red}{#1}#2
 }
 
 \newcommand{\versiculo}[1]{
-    \textcolor{red}{\gothVbar.} {#1}.
+    \textcolor{red}{\gothVbar.} #1.
 }
 
 \newcommand{\respuesta}[1]{
-    \textcolor{red}{\gothRbar.} {#1}.
+    \textcolor{red}{\gothRbar.} #1.
 }
 
 \newcommand{\textopequenorojo}[1]{
@@ -45,6 +45,67 @@
     \begin{center}
         \textcolor{red}{\rule{#1cm}{#2pt}}
     \end{center}
+}
+
+\newcommand{\latinderecha}[1]{
+    \begin{rightcolumn}
+        \begin{otherlanguage}{latin}
+            \input{#1}
+        \end{otherlanguage}
+    \end{rightcolumn}
+}
+
+\newcommand{\castellanoizquierda}[1]{
+    \begin{leftcolumn}
+        \input{#1}
+    \end{leftcolumn}
+}
+
+\newcommand{\castellanoizquierdasincro}[1]{
+    \begin{leftcolumn*}
+        \input{#1}
+    \end{leftcolumn*}
+}
+
+\newcommand{\castellanoizquierdasincronota}[2]{
+    \begin{leftcolumn*}[#1]
+        \input{#2}
+    \end{leftcolumn*}
+}
+
+\newcommand{\filacastellanolatin}[2]{
+    \castellanoizquierda{#1}
+    \latinderecha{#2}
+}
+
+\newcommand{\filacastellanolatinsincro}[2]{
+    \castellanoizquierdasincro{#1}
+    \latinderecha{#2}
+}
+
+\newcommand{\filacastellanolatinsincronota}[3]{
+    \castellanoizquierdasincronota{#1}{#2}
+    \latinderecha{#3}
+}
+
+\newcommand{\titulomisterios}[2]{
+    \begin{minipage}[t]{0.7\textwidth}
+        \subsection*{#1}
+    \end{minipage}\begin{minipage}[t]{0.3\textwidth}
+        \begin{flushright}
+            \textcolor{red}{#2}
+        \end{flushright}
+    \end{minipage}
+}
+
+\newcommand{\titulomisterio}[2]{
+    \begin{minipage}[t]{0.6\textwidth}
+        \section*{#1}
+    \end{minipage}\begin{minipage}[t]{0.4\textwidth}
+        \begin{flushright}
+            \textcolor{red}{#2}
+        \end{flushright}
+    \end{minipage}
 }
 
 
