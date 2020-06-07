@@ -2,6 +2,10 @@
     \lettrine[lines=2]{\textcolor{red}{#1}}#2
 }
 
+\newcommand{\primeraletragranderojasola}[1]{
+    \lettrine[lines=2]{\textcolor{red}{#1}}
+}
+
 \newcommand{\primeraletragrande}[2]{
     \lettrine[lines=2]{#1}#2
 }
@@ -48,11 +52,11 @@
 }
 
 \newcommand{\latinderecha}[1]{
-    \begin{rightcolumn}
-        \begin{otherlanguage}{latin}
-            \input{#1}
-        \end{otherlanguage}
-    \end{rightcolumn}
+    \begin{otherlanguage}{latin}
+        \begin{rightcolumn}
+            \input{#1}    
+        \end{rightcolumn}
+    \end{otherlanguage}
 }
 
 \newcommand{\castellanoizquierda}[1]{
