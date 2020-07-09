@@ -41,7 +41,7 @@
 
 \title{
     {\Huge \uppercase{Santo Rosario y Ángelus}}\\
-    {\includegraphics{foto-04.jpg}}\\
+    {\includegraphics[scale=0.75]{foto-04.jpg}}\\
 }
 \author{Sergio}
 \date{Valladolid (España), \monthyeardate\today}
@@ -53,26 +53,26 @@
 
 \setlength{\columnseprule}{0.5pt}
 \colseprulecolor{red}
-%\ensurevspace{50mm}
+\setlength{\columnsep}{2mm}
 
 \begin{document}
 
 \maketitle
-%\afterpage{\blankpage}
+\afterpage{\blankpage}
 
 \chapter*{Santo Rosario Meditado}
 
 \begin{paracol}{2}
       \filacastellanolatin{oraciones/senal_cruz/castellano.tex}{oraciones/senal_cruz/latin.tex}
-      \vspace{6mm}
+      %\vspace{6mm}
       \filacastellanolatinsincro{oraciones/contricion/senor_mio_jesucristo.tex}{oraciones/contricion/confiteor/latin.tex}
-      \vspace{2mm}
+      %\vspace{2mm}
       \filacastellanolatinsincro{oraciones/versiculos/abre_senor_mis_labios/castellano.tex}{oraciones/versiculos/abre_senor_mis_labios/latin.tex}
-      \vspace{2mm}
+      %\vspace{2mm}
       \filacastellanolatinsincro{oraciones/versiculos/apresurate_snor/castellano.tex}{oraciones/versiculos/apresurate_snor/latin.tex}
-      \vspace{2mm}
+      %\vspace{2mm}
       \filacastellanolatinsincro{oraciones/gloria/castellano_separado.tex}{oraciones/gloria/latin_separado.tex}
-      \vspace{2mm}
+      %\vspace{2mm}
       \filacastellanolatinsincro{oraciones/versiculos/maria_madre/castellano.tex}{oraciones/versiculos/maria_madre/latin.tex}
 \end{paracol}
 \vspace{2mm}
@@ -126,7 +126,8 @@ según lo que se ordena en la Ley del Señor, <<un par de tórtolas o dos palomi
 sentado en medio de los maestros, escuchándolos y haciéndoles preguntas; y se pasmaban todos los que le oían de su inteligencia y de sus respuestas.
 Y sus padres, al verle, quedaron sorprendidos; y le dijo su madre: <<Hijo, {?`}por qué lo hiciste así con nosotros? Mira que tu padre y yo, llenos de aflicción, 
 te andábamos buscando>>.\\[2mm]
-{\input{oraciones/oraciones_misterio.tex}} Terminadas, nos vamos a la \cpageref{final-prayer} para las oraciones finales.\\[5mm]
+{\input{oraciones/oraciones_misterio.tex}}\\
+Terminadas, nos vamos a la \cpageref{final-prayer} para las oraciones finales.\\[5mm]
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 % FINAL MISTERIOS GOZOSOS %
