@@ -2,96 +2,96 @@
 # Variables #
 #############
 current_date = `date +%Y%m%d`
-castellano = rosario_castellano
-castellano_meditado = rosario_castellano_meditado
-latin = rosario_latin
-latin_meditado = rosario_latin_meditado
-long = rosario_angelus
-output_name_long = ${current_date}_${long}
-output_name_latin = ${current_date}_${latin}
-output_name_latin_meditado = ${current_date}_${latin_meditado}
-output_name_castellano = ${current_date}_${castellano}
-output_name_castellano_meditado = ${current_date}_${castellano_meditado}
+rosary_doc = rosario_angelus_a4
+wakeup_doc = lavantarse
+sleep_doc = acostarse
+week_doc = semana_santificada
+week_sp_doc = semana_santificada_castellano
+output_rosary = ${current_date}_${rosary_doc}
+output_wakeup = ${current_date}_${wakeup_doc}
+output_sleep = ${current_date}_${sleep_doc}
+output_week = ${current_date}_${week_doc}
+output_week_sp = ${current_date}_${week_sp}
 ######################################################################################################################################################################
 
-.PHONY = delete_long delete_latin delete_castellano
+.PHONY = delete_a4 delete_wakeup move_aux
 
 ################
 # Compila todo #
 ################
-all: delete_long delete_latin delete_castellano compile_long compile_latin compile_castellano move_aux
+all: a4 wakeup sleep week week_sp
 ######################################################################################################################################################################
 
 ############################
 # Compila la version larga #
 ############################
-long: delete_long compile_long move_aux
+a4: delete_a4 compile_a4 move_aux
 
-compile_long:
-	latexmk -lualatex -jobname=${output_name_long} 00_rosario_angelus_oraciones_bilingue.tex
+compile_a4:
+	latexmk -lualatex -jobname=${output_rosary} 00_rosario_bilingue_a4.tex
 
-delete_long:
-	rm -f ./*${long}.pdf
-	rm -f aux/{*${long}.aux,*${long}.log,*${long}.fls,*${long}.fdb_latexmk,*${long}.dvi}
+delete_a4:
+	rm -f ./*${rosary_doc}.pdf
+	rm -f aux/{*${rosary_doc}.aux,*${rosary_doc}.log,*${rosary_doc}.fls,*${rosary_doc}.fdb_latexmk,*${rosary_doc}.dvi}
 ######################################################################################################################################################################
 
-####################################
-# Compila sólo la versión en latín #
-####################################
-latin: delete_latin compile_latin move_aux
+########################
+# Oraciones Levantarse #
+########################
+wakeup: delete_wakeup compile_wakeup move_aux
 
-compile_latin:
-	latexmk -lualatex -jobname=${output_name_latin} 01_rosario_latin.tex
+compile_wakeup:
+	latexmk -lualatex -jobname=${output_wakeup} 01_levantarse.tex
 
-delete_latin:
-	rm -f ./*${latin}.pdf
-	rm -f aux/{*${latin}.aux,*${latin}.log,*${latin}.fls,*${latin}.fdb_latexmk,*${latin}.dvi}
+delete_wakeup:
+	rm -f ./*${wakeup_doc}.pdf
+	rm -f aux/{*${wakeup_doc}.aux,*${wakeup_doc}.log,*${wakeup_doc}.fls,*${wakeup_doc}.fdb_latexmk,*${wakeup_doc}.dvi}
 ######################################################################################################################################################################
 
-#############################################
-# Compila sólo la versión en latín meditado #
-#############################################
-latin_meditado: delete_latin_meditado compile_latin_meditado move_aux
+#######################
+# Oraciones Acostarse #
+#######################
+sleep: delete_sleep compile_sleep move_aux
 
-compile_latin_meditado:
-	latexmk -lualatex -jobname=${output_name_latin_meditado} 01_rosario_latin_meditado.tex
+compile_sleep:
+	latexmk -lualatex -jobname=${output_sleep} 02_acostarse.tex
 
-delete_latin_meditado:
-	rm -f ./*${latin_meditado}.pdf
-	rm -f aux/{*${latin_meditado}.aux,*${latin_meditado}.log,*${latin_meditado}.fls,*${latin_meditado}.fdb_latexmk,*${latin_meditado}.dvi}
+delete_sleep:
+	rm -f ./*${sleep_doc}.pdf
+	rm -f aux/{*${sleep_doc}.aux,*${sleep_doc}.log,*${sleep_doc}.fls,*${sleep_doc}.fdb_latexmk,*${sleep_doc}.dvi}
 ######################################################################################################################################################################
 
-########################################
-# Compila sólo la versio en castellano #
-########################################
-castellano: delete_castellano compile_castellano move_aux
+######################
+# Semana Santificada #
+######################
+week: delete_week compile_week move_aux
 
-compile_castellano:
-	latexmk -lualatex -jobname=${output_name_castellano} 02_rosario_castellano.tex
+compile_week:
+	latexmk -lualatex -jobname=${output_week} 03_semana.tex
 
-delete_castellano:
-	rm -f ./*${castellano}.pdf
-	rm -f aux/{*${castellano}.aux,*${castellano}.log,*${castellano}.fls,*${castellano}.fdb_latexmk,*${castellano}.dvi}
+delete_week:
+	rm -f ./*${week_doc}.pdf
+	rm -f aux/{*${week_doc}.aux,*${week_doc}.log,*${week_doc}.fls,*${week_doc}.fdb_latexmk,*${week_doc}.dvi}
 ######################################################################################################################################################################
 
-#################################################
-# Compila sólo la versio en castellano meditado #
-#################################################
-castellano_meditado: delete_castellano_meditado compile_castellano_meditado move_aux
+#################################
+# Semana Santificada Castellano #
+#################################
+week_sp: delete_sp_week compile_sp_week move_aux
 
-compile_castellano_meditado:
-	latexmk -lualatex -jobname=${output_name_castellano_meditado} 02_rosario_castellano.tex
+compile_sp_week:
+	latexmk -lualatex -jobname=${output_week_sp} 03_semana_castellano.tex
 
-delete_castellano_meditado:
-	rm -f ./*${castellano_meditado}.pdf
-	rm -f aux/{*${castellano_meditado}.aux,*${castellano_meditado}.log,*${castellano_meditado}.fls,*${castellano_meditado}.fdb_latexmk,*${castellano_meditado}.dvi}
+delete_sp_week:
+	rm -f ./*${week_sp_doc}.pdf
+	rm -f aux/{*${week_sp_doc}.aux,*${week_sp_doc}.log,*${week_sp_doc}.fls,*${week_sp_doc}.fdb_latexmk,*${week_sp_doc}.dvi}
 ######################################################################################################################################################################
 
 #############
 # Genericos #
 #############
 move_aux:
-	mv *.log *.aux *.fdb_latexmk *.fls aux/
+	mv *.log *.aux *.fdb_latexmk *.fls *.out aux/
 
 
 
