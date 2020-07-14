@@ -3,12 +3,12 @@
 #############
 current_date = `date +%Y%m%d`
 rosary_doc = rosario_angelus_a4
-wakeup_doc = lavantarse
+wakeup_sleep_doc = acostarse_levantarse
 sleep_doc = acostarse
 week_doc = semana_santificada
 week_sp_doc = semana_santificada_castellano
 output_rosary = ${current_date}_${rosary_doc}
-output_wakeup = ${current_date}_${wakeup_doc}
+output_wakeup_sleep = ${current_date}_${wakeup_sleep_doc}
 output_sleep = ${current_date}_${sleep_doc}
 output_week = ${current_date}_${week_doc}
 output_week_sp = ${current_date}_${week_sp}
@@ -19,7 +19,7 @@ output_week_sp = ${current_date}_${week_sp}
 ################
 # Compila todo #
 ################
-all: a4 wakeup sleep week week_sp
+all: a4 wakeup week week_sp
 ######################################################################################################################################################################
 
 ############################
@@ -35,30 +35,17 @@ delete_a4:
 	rm -f aux/{*${rosary_doc}.aux,*${rosary_doc}.log,*${rosary_doc}.fls,*${rosary_doc}.fdb_latexmk,*${rosary_doc}.dvi}
 ######################################################################################################################################################################
 
-########################
-# Oraciones Levantarse #
-########################
+####################################
+# Oraciones Acostarse y Levantarse #
+####################################
 wakeup: delete_wakeup compile_wakeup move_aux
 
 compile_wakeup:
-	latexmk -lualatex -jobname=${output_wakeup} 01_levantarse.tex
+	latexmk -lualatex -jobname=${output_wakeup_sleep} 01_levantarse_acostarse.tex
 
 delete_wakeup:
-	rm -f ./*${wakeup_doc}.pdf
-	rm -f aux/{*${wakeup_doc}.aux,*${wakeup_doc}.log,*${wakeup_doc}.fls,*${wakeup_doc}.fdb_latexmk,*${wakeup_doc}.dvi}
-######################################################################################################################################################################
-
-#######################
-# Oraciones Acostarse #
-#######################
-sleep: delete_sleep compile_sleep move_aux
-
-compile_sleep:
-	latexmk -lualatex -jobname=${output_sleep} 02_acostarse.tex
-
-delete_sleep:
-	rm -f ./*${sleep_doc}.pdf
-	rm -f aux/{*${sleep_doc}.aux,*${sleep_doc}.log,*${sleep_doc}.fls,*${sleep_doc}.fdb_latexmk,*${sleep_doc}.dvi}
+	rm -f ./*${wakeup_sleep_doc}.pdf
+	rm -f aux/{*${wakeup_sleep_doc}.aux,*${wakeup_sleep_doc}.log,*${wakeup_sleep_doc}.fls,*${wakeup_sleep_doc}.fdb_latexmk,*${wakeup_sleep_doc}.dvi}
 ######################################################################################################################################################################
 
 ######################
