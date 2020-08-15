@@ -2,7 +2,7 @@
 # Variables #
 #############
 current_date = `date +%Y%m%d`
-rosary_doc = rosario_angelus_a4
+rosary_doc = rosario_angelus
 wakeup_sleep_doc = acostarse_levantarse
 sleep_doc = acostarse
 week_doc = semana_santificada
@@ -19,18 +19,18 @@ output_week_sp = ${current_date}_${week_sp}
 ################
 # Compila todo #
 ################
-all: a4 wakeup week week_sp
+all: rosary wakeup week week_sp
 ######################################################################################################################################################################
 
 ############################
 # Compila la version larga #
 ############################
-a4: delete_a4 compile_a4 move_aux
+rosary: delete_rosary compile_rosary move_aux
 
-compile_a4:
+compile_rosary:
 	latexmk -lualatex -jobname=${output_rosary} 00_rosario_bilingue_a4.tex
 
-delete_a4:
+delete_rosary:
 	rm -f ./*${rosary_doc}.pdf
 	rm -f aux/{*${rosary_doc}.aux,*${rosary_doc}.log,*${rosary_doc}.fls,*${rosary_doc}.fdb_latexmk,*${rosary_doc}.dvi}
 ######################################################################################################################################################################

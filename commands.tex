@@ -1,9 +1,9 @@
 \newcommand{\primeraletragranderoja}[2]{
-    \lettrine[lines=2]{\textcolor{red}{#1}}#2
+    \lettrine[lines=2]{\textcolor{red}{#1}}{#2}
 }
 
 \newcommand{\primeraletragranderojasola}[1]{
-    \lettrine[lines=2]{\textcolor{red}{#1}}
+    \lettrine[lines=2]{\textcolor{red}{#1}}{}
 }
 
 \newcommand{\primeraletragrande}[2]{
@@ -78,13 +78,29 @@
 }
 
 \newcommand{\filacastellanolatin}[2]{
-    \castellanoizquierda{#1}
-    \latinderecha{#2}
+    {    
+        \begin{leftcolumn}
+            \input{#1}
+        \end{leftcolumn}
+        \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                \input{#2}    
+            \end{rightcolumn}
+        \end{otherlanguage}
+    }
 }
 
 \newcommand{\filacastellanolatinsincro}[2]{
-    \castellanoizquierdasincro{#1}
-    \latinderecha{#2}
+    {    
+        \begin{leftcolumn*}
+            \input{#1}
+        \end{leftcolumn*}
+        \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                \input{#2}    
+            \end{rightcolumn}
+        \end{otherlanguage}
+    }
 }
 
 \newcommand{\filacastellanolatinsincronota}[3]{
@@ -93,28 +109,32 @@
 }
 
 \newcommand{\titulomisterios}[2]{
-    \begin{minipage}[t]{0.7\textwidth}
-        \subsection*{#1}
-    \end{minipage}\begin{minipage}[t]{0.3\textwidth}
-        \begin{flushright}
-            \textcolor{red}{#2}
-        \end{flushright}
-    \end{minipage}
+    {    
+        \begin{minipage}[t]{0.595\textwidth}
+            \subsection*{#1}
+        \end{minipage}\begin{minipage}[t]{0.395\textwidth}
+            \begin{flushright}
+                \textcolor{red}{#2}
+            \end{flushright}
+        \end{minipage}
+    }
 }
 
 \newcommand{\titulomisterio}[2]{
-    \begin{minipage}[t]{0.6\textwidth}
-        \section*{#1}
-    \end{minipage}\begin{minipage}[t]{0.4\textwidth}
-        \begin{flushright}
-            \textcolor{red}{#2}
-        \end{flushright}
-    \end{minipage}
+    {
+        \begin{minipage}[t]{0.595\textwidth}
+            \section*{#1}
+        \end{minipage}\begin{minipage}[t]{0.395\textwidth}
+            \begin{flushright}
+                \textcolor{red}{#2}
+            \end{flushright}
+        \end{minipage}
+    }
 }
 
 \newcommand{\iralfinal}{
     \begin{center}
-        Una vez terminamos nos vamos a la \cpageref{final-prayer} para las oraciones finales.
+        \textcolor{red}{Una vez terminamos nos vamos a la \cpageref{final-prayer} para las oraciones finales.}
     \end{center}
 }
 
