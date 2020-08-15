@@ -26,14 +26,15 @@
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
+\setlength{\columnseprule}{0.4pt}
+\colseprulecolor{red}
+
+
 \usepackage{datetime}
 \newdateformat{monthyeardate}{%
   \monthname[\THEMONTH] \THEYEAR
 }
 \input{commands.tex}
-
-\setlength{\columnseprule}{0.4pt}
-\colseprulecolor{red}
 
 \begin{document}
 \begin{titlepage}
@@ -45,7 +46,7 @@
             
             \vspace{1.5em}
             
-            {\includegraphics[scale=0.75]{foto-04.jpg}}
+            {\includegraphics[scale=0.95]{foto-04.jpg}}
             
             \vspace{0.5em}
             
@@ -55,30 +56,71 @@
       \end{center}
 \end{titlepage}
 \twosided{c}
+\footnotelayout{m}
 \chapter*{Santo Rosario Meditado}
 
 \begin{paracol}{2}
-      \filacastellanolatin{oraciones/senal_cruz/castellano.tex}{oraciones/senal_cruz/latin.tex}
 
-      \vspace{0.5em}
+      \ensurevspace{20mm}
 
-      \filacastellanolatinsincro{oraciones/contricion/senor_mio_jesucristo.tex}{oraciones/contricion/confiteor/latin.tex}
+      \begin{leftcolumn}
+            \input{oraciones/senal_cruz/castellano.tex}
+      \end{leftcolumn}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/senal_cruz/latin.tex}    
+            \end{rightcolumn}
+      \end{otherlanguage}
 
-      \vspace{0.5em}
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
 
-      \filacastellanolatinsincro{oraciones/versiculos/abre_senor_mis_labios/castellano_seguido.tex}{oraciones/versiculos/abre_senor_mis_labios/latin_seguido.tex}
+      \begin{leftcolumn*}
+            \input{oraciones/contricion/senor_mio_jesucristo.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                \input{oraciones/contricion/confiteor/latin.tex}    
+            \end{rightcolumn}
+      \end{otherlanguage}
 
-      \vspace{0.5em}
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/abre_senor_mis_labios/castellano_seguido.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                \input{oraciones/versiculos/abre_senor_mis_labios/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
 
-      \filacastellanolatinsincro{oraciones/versiculos/apresurate_snor/castellano_seguido.tex}{oraciones/versiculos/apresurate_snor/latin_seguido.tex}
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/apresurate_snor/castellano_seguido.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                \input{oraciones/versiculos/apresurate_snor/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
 
-      \vspace{0.5em}
+      \begin{leftcolumn*}
+            \input{oraciones/gloria/castellano_seguido.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                \input{oraciones/gloria/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
 
-      \filacastellanolatinsincro{oraciones/gloria/castellano_seguido.tex}{oraciones/gloria/latin_seguido.tex}
-
-      \vspace{0.5em}
-
-      \filacastellanolatinsincro{oraciones/versiculos/maria_madre/castellano.tex}{oraciones/versiculos/maria_madre/latin.tex}
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/maria_madre/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                \input{oraciones/versiculos/maria_madre/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
 \end{paracol}
 
 \vspace{0.5em}
@@ -94,7 +136,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \noindent\titulomisterio{Misterios Gozosos}{T: Lunes y jueves\\N: Lunes y sábados}
 
-\vspace{4mm}
+\vspace{1.5em}
 
 \noindent\titulomisterios{I La Anunciación de la Santísima Virgen María}{Lc 1, 26-33}
 \lettrine[lines=2]{\textcolor{red}{F}}ue enviado el ángel Gabriel de parte de Dios a una ciudad de Galilea, llamada Nazaret, 
@@ -175,7 +217,7 @@ te andábamos buscando.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \noindent\titulomisterio{Misterios Luminosos}{T: -\\N: Jueves }
 
-\vspace{4mm}
+\vspace{1.5em}
 
 \noindent\titulomisterios{I El Bautismo del Señor en el Jordán}{Mc 1, 9-11}
 \lettrine[lines=2]{\textcolor{red}{Y}}\space aconteció por aquellos días que vino Jesús desde Nazaret de Galilea y fué bautizado en el Jordán por Juan [el Bautista].
@@ -242,7 +284,7 @@ U habiendo tomado un cáliz, y habiendo dado gracias, se lo dió, diciendo: <<Be
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \noindent\titulomisterio{Misterios Dolorosos}{T: Martes y viernes\\N: Martes y viernes}
 
-\vspace{4mm}
+\vspace{1.5em}
 
 \noindent\titulomisterios{I La oración en el Huerto de los Olivos}{Mc 14, 33-36}
 \lettrine[lines=2]{\textcolor{red}{Y}}\space lleva consigo a Pedro y a Santiago y a Juan, y comenzó a sentir espanto y abatimiento; y le dice: <<triste en gran manera está mi corazón hasta la muerte;
@@ -315,7 +357,7 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \noindent\titulomisterio{Misterio Gloriosos}{T: Miércoles, sábados y domingos\\N: Miércoles y domingos}
 
-\vspace{4mm}
+\vspace{1.5em}
 
 \noindent\titulomisterios{I La Resurrección del Señor}{Mt 28, 1-3.5-7}
 \lettrine[lines=2]{\textcolor{red}{P}}asado el sábado, ya para amanecer el día primero de la semana, vino María Magdalena con la otra María al sepulcro. Y sobrevino un gran terremoto,
@@ -386,177 +428,389 @@ Tiene Él escrito en su vestido y en su manto Rey de reyes y Señor de los que d
 \end{center}
 
 \begin{paracol}{2}
-      \filacastellanolatin{oraciones/avemaria/hija/castellano.tex}{oraciones/avemaria/hija/latin.tex}
 
-      \vspace{0.5em}
+      \begin{leftcolumn}
+            \input{oraciones/avemaria/hija/castellano.tex}
+      \end{leftcolumn}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/avemaria/hija/latin.tex}  
+            \end{rightcolumn}
+      \end{otherlanguage}
 
-      \filacastellanolatinsincro{oraciones/avemaria/madre/castellano.tex}{oraciones/avemaria/madre/latin.tex}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/avemaria/esposa/castellano.tex}{oraciones/avemaria/esposa/latin.tex}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/avemaria/sagrario/castellano.tex}{oraciones/avemaria/sagrario/latin.tex}
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
 
-      \vspace{0.5em}
+      \begin{leftcolumn*}
+            \input{oraciones/avemaria/madre/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/avemaria/madre/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
 
-      \filacastellanolatinsincronota
-            {
-                  \begin{center}
-                        \subsection*{Letanias de Nuestra Señora}
-                  \end{center}
-            }
-            {oraciones/letanias/castellano.tex}
-            {oraciones/letanias/latin.tex}
+      \begin{leftcolumn*}
+            \input{oraciones/avemaria/esposa/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/avemaria/esposa/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
 
-      \vspace{0.5em}
+      \begin{leftcolumn*}
+            \input{oraciones/avemaria/sagrario/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/avemaria/sagrario/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
 
-      \filacastellanolatinsincro{oraciones/bajo_tu_amparo/castellano_sencillo.tex}{oraciones/bajo_tu_amparo/latin_sencillo.tex}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincronota
-            {\textcolor{red}{Desde la Purificación hasta Sábado Santo y desde la Santísima Trinidad hasta el I Domingo de Adviento:}}
-            {oraciones/versiculos/salve/castellano_seguido.tex}
-            {oraciones/versiculos/salve/latin_seguido.tex}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
 
-      \vspace{0.5em}
+      \begin{leftcolumn*}[\begin{center}\subsection*{Letanias de Nuestra Señora}\end{center}]
+            \input{oraciones/letanias/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/letanias/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
 
-      \filacastellanolatinsincro
-            {oraciones/antifonas_bvm/01_septuagesima_cuaresma_postpentecostes/castellano.tex}
-            {oraciones/antifonas_bvm/01_septuagesima_cuaresma_postpentecostes/latin.tex}
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
 
-      \vspace{0.5em}
+      \begin{leftcolumn*}
+            \input{oraciones/bajo_tu_amparo/castellano_sencillo.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/bajo_tu_amparo/latin_sencillo.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+\end{paracol}
 
-      \filacastellanolatinsincronota
-            {\textcolor{red}{Desde el I Domingo de Adviento hasta Navidad:}}
-            {oraciones/angelus/castellano_00.tex}
-            {oraciones/angelus/latin_00.tex}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/antifonas_bvm/02_adviento/castellano.tex}{oraciones/antifonas_bvm/02_adviento/latin.tex}
+\vspace{0.5em}
 
-      \vspace{0.5em}
+\textcolor{red}{Desde la Purificación hasta Sábado Santo y desde la Santísima Trinidad hasta el I Domingo de Adviento:}
+\vspace{0.2em}
+\begin{paracol}{2}
+      \begin{leftcolumn}
+            \input{oraciones/versiculos/salve/castellano_seguido.tex}
+      \end{leftcolumn}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/salve/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
 
-      \filacastellanolatinsincronota
-            {\textcolor{red}{Desde Navidad hasta la Purificación:}}
-            {oraciones/antifonas_bvm/03_navidad/castellano_00.tex}
-            {oraciones/antifonas_bvm/03_navidad/latin_00.tex}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/antifonas_bvm/03_navidad/castellano_01.tex}{oraciones/antifonas_bvm/03_navidad/latin_01.tex}
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
 
-      \vspace{0.5em}
+      \begin{leftcolumn*}
+            \input{oraciones/antifonas_bvm/01_septuagesima_cuaresma_postpentecostes/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/antifonas_bvm/01_septuagesima_cuaresma_postpentecostes/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+\end{paracol}
 
-      \filacastellanolatinsincronota
-            {\textcolor{red}{Desde Domingo de Resurrección hasta la Santísima Trinidad:}}
-            {oraciones/regina_coelis/castellano_00.tex}
-            {oraciones/regina_coelis/latin_00.tex}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/antifonas_bvm/04_pascua/castellano.tex}{oraciones/antifonas_bvm/04_pascua/latin.tex}
-      
-      \vspace{0.5em}
+\vspace{0.5em}
 
-      \filacastellanolatinsincronota
-            {\textcolor{red}{Rezamos ahora por el Santo Padre, nuestro Obispo y los fieles difuntos:}}
-            {oraciones/versiculos/el_senor_este/castellano.tex}
-            {oraciones/versiculos/el_senor_este/latin.tex}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/por_el_papa/castellano.tex}{oraciones/por_el_papa/latin.tex}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/padrenuestro/castellano_sencillo.tex}{oraciones/padrenuestro/latin_sencillo.tex}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/avemaria/castellano_sencillo.tex}{oraciones/avemaria/latin_sencillo.tex}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/gloria/castellano_seguido.tex}{oraciones/gloria/latin_seguido.tex}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/por_el_obispo/castellano.tex}{oraciones/por_el_obispo/latin.tex}
-      
-      \vspace{1.75em}
-      
+\textcolor{red}{Desde el I Domingo de Adviento hasta Navidad:}
+\vspace{0.2em}
+\begin{paracol}{2}
+      \begin{leftcolumn}
+            \input{oraciones/angelus/castellano_00.tex}
+      \end{leftcolumn}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/angelus/latin_00.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/antifonas_bvm/02_adviento/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/antifonas_bvm/02_adviento/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+\end{paracol}
+
+\vspace{0.5em}
+
+\textcolor{red}{Desde Navidad hasta la Purificación:}
+\vspace{0.2em}
+\begin{paracol}{2}
+      \begin{leftcolumn}
+            \input{oraciones/antifonas_bvm/03_navidad/castellano_00.tex}
+      \end{leftcolumn}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/antifonas_bvm/03_navidad/latin_00.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/antifonas_bvm/03_navidad/castellano_01.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/antifonas_bvm/03_navidad/latin_01.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+\end{paracol}
+
+\vspace{0.5em}
+
+\textcolor{red}{Desde Domingo de Resurrección hasta la Santísima Trinidad:}
+\vspace{0.2em}
+\begin{paracol}{2}
+      \begin{leftcolumn*}
+            \input{oraciones/regina_coelis/castellano_00.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/regina_coelis/latin_00.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/antifonas_bvm/04_pascua/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/antifonas_bvm/04_pascua/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+\end{paracol}
+
+\vspace{0.5em}
+
+\textcolor{red}{Rezamos ahora por el Santo Padre, nuestro Obispo y los fieles difuntos:}
+\vspace{0.2em}
+\begin{paracol}{2}
+      \begin{leftcolumn}
+            \input{oraciones/versiculos/el_senor_este/castellano.tex}
+      \end{leftcolumn}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/el_senor_este/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/por_el_papa/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/por_el_papa/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/padrenuestro/castellano_vr.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/padrenuestro/latin_vr.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/avemaria/castellano_vr.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/avemaria/latin_vr.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/gloria/castellano_seguido.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/gloria/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/por_el_obispo/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/por_el_obispo/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
       \begin{leftcolumn*}
             Padre nuestro, Ave María y Gloria.
       \end{leftcolumn*}
-      
       \begin{otherlanguage}{latin}
             \begin{rightcolumn}
                   Pater noster, Ave María et Glória.
             \end{rightcolumn}
       \end{otherlanguage}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/por_los_fieles_difuntos/castellano_00.tex}{oraciones/por_los_fieles_difuntos/latin_00.tex}
-      
-      \vspace{0.5em}
-      
+
+      \begin{leftcolumn*}
+            \input{oraciones/por_los_fieles_difuntos/castellano_00.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/por_los_fieles_difuntos/latin_00.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
       \begin{leftcolumn*}
             Padre nuestro y Ave María.
-      \end{leftcolumn*}
-      
+      \end{leftcolumn*}      
       \begin{otherlanguage}{latin}
             \begin{rightcolumn}
                   Pater noster et Ave María.
             \end{rightcolumn}
       \end{otherlanguage}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/por_los_fieles_difuntos/castellano_01.tex}{oraciones/por_los_fieles_difuntos/latin_01.tex}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/versiculos/escucha_senor/castellano.tex}{oraciones/versiculos/escucha_senor/latin.tex}
 
-      \vspace{0.5em}
+      \begin{leftcolumn*}
+            \input{oraciones/por_los_fieles_difuntos/castellano_01.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/por_los_fieles_difuntos/latin_01.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
 
-      \filacastellanolatinsincronota
-            {\textcolor{red}{Credo y salve a los Sagrados Corazones de Jesús y María.}}
-            {oraciones/credo/apostoles_castellano.tex}
-            {oraciones/credo/apostoles_latin.tex}
-
-      \vspace{0.5em}
-
-      \filacastellanolatinsincro{oraciones/salve/castellano_sin.tex}{oraciones/salve/latin_sin.tex}
-
-      \vspace{0.5em}
-
-      \filacastellanolatinsincro{oraciones/versiculos/salve/castellano_seguido.tex}{oraciones/versiculos/salve/latin_seguido.tex}
-
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/san_jose/castellano.tex}{oraciones/san_jose/latin.tex}
-      
-      \vspace{0.5em}
-      
-      \filacastellanolatinsincro{oraciones/san_miguel/castellano.tex}{oraciones/san_miguel/latin.tex}
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/escucha_senor/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/escucha_senor/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
 \end{paracol}
 
-\vspace{0.5em}
+\newpage
 
-\textopequenorojo{Se repite tres veces}
+\textcolor{red}{Credo y salve a los Sagrados Corazones de Jesús y María.}
+\vspace{0.2em}
 \begin{paracol}{2}
-      \filacastellanolatin{oraciones/versiculos/corazon_jesus/castellano.tex}{oraciones/versiculos/corazon_jesus/latin.tex}
-      
-      \filacastellanolatinsincro{oraciones/versiculos/avemaria_purisima/castellano_seguido.tex}{oraciones/versiculos/avemaria_purisima/latin_seguido.tex}
+      \begin{leftcolumn}
+            \input{oraciones/credo/apostoles_castellano.tex}
+      \end{leftcolumn}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/credo/apostoles_latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
 
-      \filacastellanolatinsincro{oraciones/senal_cruz/castellano.tex}{oraciones/senal_cruz/latin.tex}
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/salve/castellano_sin.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/salve/latin_sin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/salve/castellano_seguido.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/salve/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/san_jose/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/san_jose/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/san_miguel/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/san_miguel/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/corazon_jesus/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/corazon_jesus/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/corazon_jesus/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/corazon_jesus/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/avemaria_purisima/castellano_seguido.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/avemaria_purisima/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/senal_cruz/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/senal_cruz/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
 \end{paracol}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % ORACIONES FINALES Y LETANIAS %
@@ -569,44 +823,32 @@ Tiene Él escrito en su vestido y en su manto Rey de reyes y Señor de los que d
 
 \begin{paracol}{2}
 
-      \filacastellanolatinsincronota{\section*{\input{oraciones/angelus/titulo.tex}}}
+      \filacastellanolatinsincronota
+            {\section*{\input{oraciones/angelus/titulo.tex}}}
             {oraciones/angelus/castellano_00.tex}
             {oraciones/angelus/latin_00.tex}
-      
-      \vspace{1mm}
-      
-      \filacastellanolatinsincro{oraciones/avemaria/castellano_sencillo.tex}{oraciones/avemaria/latin_sencillo.tex}
-      
-      \vspace{1mm}
-      
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}            
+
+      \filacastellanolatinsincro{oraciones/avemaria/castellano_vr.tex}{oraciones/avemaria/latin_vr.tex}
+
       \filacastellanolatinsincro{oraciones/angelus/castellano_01.tex}{oraciones/angelus/latin_01.tex}
-      
-      \vspace{1mm}
-      
+
       \filacastellanolatinsincro{oraciones/avemaria/castellano_inicio.tex}{oraciones/avemaria/latin_inicio.tex}
-      
-      \vspace{1mm}
-      
+
       \filacastellanolatinsincro{oraciones/angelus/castellano_02.tex}{oraciones/angelus/latin_02.tex}
-      
-      \vspace{1mm}
-      
+
       \filacastellanolatinsincro{oraciones/avemaria/castellano_inicio.tex}{oraciones/avemaria/latin_inicio.tex}
-      
-      \vspace{1mm}
-      
+
       \filacastellanolatinsincro{oraciones/versiculos/salve/castellano_seguido.tex}{oraciones/versiculos/salve/latin_seguido.tex}
-      
-      \vspace{1mm}
-      
+
       \filacastellanolatinsincro{oraciones/angelus/castellano_03.tex}{oraciones/angelus/latin_03.tex}
 
       \filacastellanolatinsincronota{\section*{\input{oraciones/regina_coelis/titulo.tex}}}
             {oraciones/regina_coelis/castellano_00.tex}
             {oraciones/regina_coelis/latin_00.tex}
-      
-      \vspace{0.5em}
-      
+
       \filacastellanolatinsincro{oraciones/regina_coelis/castellano_01.tex}{oraciones/regina_coelis/latin_01.tex}
 \end{paracol}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -624,12 +866,14 @@ Tiene Él escrito en su vestido y en su manto Rey de reyes y Señor de los que d
 
 \textsc{\textbf{Breviarium Romanum}}. Typis Societatis S. Joannis Evangelisti\ae. Desclée \& Soch, 1948
 
-\textsc{\textbf{Devocionario Completo}}. P. Remigio Vilariño, S.I. El Mensajero del Corazón de Jesús, Bilbao, 1956.
+\textsc{\textbf{Devocionario Completo, 19 edición}}. P. Remigio Vilariño, S.I. El Mensajero del Corazón de Jesús, Bilbao, 1956.
 
-\textsc{\textbf{Misal Diario}}. Fraternidad Sacerdotal San Pío X. Angelus Press, Kansas City (Missouri), 2013.
+\textsc{\textbf{Misal Diario}}. Fraternidad Sacerdotal San Pío X. Angelus Press, Kansas City (Missouri, EEUU), 2013.
 
-\textsc{\textbf{Manual del Seminarista}}. 3ª edición. P. Daniel Sola. S.I. Apostolado de la Prensa, Madrid, 1921.
+\textsc{\textbf{Manual del Seminarista, 3 edición}}. P. Daniel Sola. S.I. Apostolado de la Prensa, Madrid, 1921.
 
 \textsc{\textbf{Catecismo de la Iglesia Católica. Compendio}}. Librería Editrice Vaticana y Asociación de Editores del Catecismo. España, 2005.
+
+\textsc{\textbf{Misal Diario Latino-Español y Devocionario, 19 edición}}. P. Luis Ribera CMF. Editorial Regina. Barcelona, 1962.
 
 \end{document}

@@ -28,7 +28,7 @@ all: rosary wakeup week week_sp
 rosary: delete_rosary compile_rosary move_aux
 
 compile_rosary:
-	latexmk -lualatex -jobname=${output_rosary} 00_rosario_bilingue_a4.tex
+	latexmk -lualatex -jobname=${output_rosary} 00_rosario_bilingue.tex
 
 delete_rosary:
 	rm -f ./*${rosary_doc}.pdf
