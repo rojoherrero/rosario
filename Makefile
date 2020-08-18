@@ -29,9 +29,10 @@ rosary: delete_rosary compile_rosary move_aux
 
 compile_rosary:
 	latexmk -lualatex -jobname=${output_rosary} 00_rosario_bilingue.tex
+	#pdf2ps ${output_rosary}.pdf -| psbook | psnup -Pa4 -pa4 -2 -d | ps2pdf - ${output_rosary}_booklet.pdf
 
 delete_rosary:
-	rm -f ./*${rosary_doc}.pdf
+	rm -f ./*${rosary_doc}*.pdf 
 	rm -f aux/{*${rosary_doc}.aux,*${rosary_doc}.log,*${rosary_doc}.fls,*${rosary_doc}.fdb_latexmk,*${rosary_doc}.dvi}
 ######################################################################################################################################################################
 
