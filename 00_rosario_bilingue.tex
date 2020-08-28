@@ -8,9 +8,10 @@
 \usepackage[spanish]{cleveref}
 \usepackage{geometry}
 \usepackage{setspace}
+\usepackage{multicol}
 \geometry{
     a4paper,
-    inner=15mm,
+    inner=20mm,
     outer=10mm,
     top=15mm,
     bottom=15mm
@@ -30,7 +31,8 @@
 
 \setlength{\columnseprule}{0.4pt}
 \colseprulecolor{red}
-
+\setlength{\columnseprule}{0.4pt}
+\def\columnseprulecolor{\color{red}}
 
 \usepackage{datetime}
 \newdateformat{monthyeardate}{%
@@ -46,7 +48,7 @@
 
             \vspace*{10em}
 
-            {\Huge \uppercase{Santo Rosario y Ángelus}}
+            {\Huge \uppercase{Santo Rosario, Semana Santificada y Ángelus}}
 
             \vspace{1.5em}
 
@@ -62,7 +64,7 @@
 \twosided{c}
 \footnotelayout{m}
 
-\chapter*{\centering\textcolor{red}{S}anto \textcolor{red}{R}osario \textcolor{red}{M}editado}
+\chapter*{\centering\textcolor{red}{S}anto \textcolor{red}{R}osario \textcolor{red}{M}editado \\ y \\ \textcolor{red}{S}emana \textcolor{red}{S}antificada}
 
 \begin{paracol}{2}
 
@@ -138,89 +140,51 @@
 
 \noindent\subsection*{Misterio Gloriosos}
 
-\noindent\subsubsection*{I La Resurrección del Señor}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Mt 28, 1-3.5-7}
-
-\lettrine[lines=2]{\textcolor{red}{P}}asado el sábado, ya para amanecer el día primero de la semana, vino María Magdalena con la otra María al sepulcro. Y sobrevino un gran terremoto,
-pues un ángel del Señor bajó del cielo y acercándose removió la piedra del sepulcro y se sentó sobre ella. Era su aspecto como el relámpago, y su vestidura blanca como la nueve.
-El ángel, dirigiéndose a las mujeres, dijo: No temáis vosotras, pues sé que buscáis a Jesús el crucificado. No está aquí; ha resucitado, según lo había dicho.
-Venid y ved el sitio donde fue puesto. Id luego y decid a sus discípulos que ha resucitado de entre los muertos y que os precede a Galilea; allí le veréis.
-Es lo que tenía que deciros.
+\input{misterios/01-gloriosos/01-resurreccion.tex}
 
 \vspace{0.5em}
 
 \input{oraciones/oraciones_misterio_largo.tex}
 
-\vspace{1.5em}
+\vspace{0.75em}
 
-\noindent\subsubsection*{II Las Ascensión Jesucristo a los cielos}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Lc 24, 50; Mc 16, 15-16.19-20}
-
-\lettrine[lines=2]{\textcolor{red}{L}}os llevó hasta cerca de Betania, y levantando sus manos les bendijo. Y les dijo: Id al mundo entero y predicad el Evangelio a toda la creación.
-El que creyere y fuere bautizado, se salvará, mas el que no creyere, será condenado. Con esto el Señor Jesús, después de hablarles, fue elevado al cielo y se sentó a la diestra de Dios.
-Y ellos, partiéndose de allí, predicaron por todas partes, cooperando el Señor y confirmando la palabra con las señales que la acompañaban.
-
-\vspace{0.5em}
+\input{misterios/01-gloriosos/02-ascension.tex}
 
 \input{oraciones/oraciones_misterio.tex}
 
-\vspace{1.5em}
+\vspace{0.75em}
 
-\noindent\subsubsection*{III La Venida del Espíritu Santo sobre los Apóstoles}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Jn 14, 26; Hch. 2, 1-4}
-
-\lettrine[lines=2]{\textcolor{red}{M}}as el Paráclito, el Espíritu Santo, que enviará el Padre en mi nombre, Él os enseñará todas las cosas y os recordará todas las cosas que os dije yo.
-Y al cumplirse el día de Pentecostés, estaban todos juntos en el mismo lugar. Y se produjo de súbito desde el cielo un estruendo como de viento que soplaba vehementemente,
-y llenó toda la casa donde se hallaban sentados. Y vieron aparecer lenguas como de fuego, que, repartiéndose, se posaban sobre cada uno de ellos.
-
-\vspace{0.5em}
+\input{misterios/01-gloriosos/03-pentecostes.tex}
 
 \input{oraciones/oraciones_misterio.tex}
 
-\vspace{1.5em}
+\vspace{0.75em}
 
-\noindent\subsubsection*{IV La Asunción de María Santísima a los cielos}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Lc 1, 46-49; Ap 11, 19}
-
-\lettrine[lines=2]{\textcolor{red}{M}}i alma magnifica al Señor y exulta de júbilo mi espíritu al Señor, mi Salvador, porque ha mirado la humildad de su sierva;
-por eso todas las generaciones me llamarán bienaventurada, porque ha hecho en mi maravillas el Poderoso, cuyo nombre es santo. Y se abrió el templo de Dios, que está en el cielo,
-y fué vista el arca de la alianza en el templo, y se produjeron relámpagos, y voces, y truenos, y temblor de tierra, y fuerte granizada.
-
-\vspace{0.5em}
+\input{misterios/01-gloriosos/04-asuncion.tex}
 
 \input{oraciones/oraciones_misterio.tex}
 
-\vspace{1.5em}
+\vspace{0.75em}
 
-\noindent\subsubsection*{V La Coronación de la Santísima Virgen María}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Cant 6,10; Ap 12, 1; 18, 16; Sal 44, 10}
-
-\lettrine[lines=2, ante={?`}]{\textcolor{red}{Q}}uién es esa que aparece resplandeciente como la aurora, hermosa cual luna, deslumbradora como el sol, imponente como batallones?.
-Y una gran señal fué vista en el cielo: una Mujer vestida del sol, y la luna debajo de sus  pies, y sobre su cabeza una corona de doce estrellas.
-Tiene Él escrito en su vestido y en su manto Rey de reyes y Señor de los que dominan. Está la Reina a su derecha, adornada con oro finísimo.
-
-\vspace{0.5em}
+\input{misterios/01-gloriosos/05-coronacion-bvm.tex}
 
 \input{oraciones/oraciones_misterio.tex}
 
 \iralfinal
 
-\vspace{0.5em}
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los domingos están dedicados a la Santísima Trinidad, para honrarla podemos rezar:}
+\end{center}
+
+\begin{multicols}{2}
+
+      \input{semana/domingo.tex}
+      
+\end{multicols}
 
 \begin{center}
       \begin{spacing}{0.25}
@@ -239,96 +203,51 @@ Tiene Él escrito en su vestido y en su manto Rey de reyes y Señor de los que d
 
 \noindent\subsection*{Misterios Gozosos}
 
-\noindent\subsubsection*{I La Anunciación de la Santísima Virgen María}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Lc 1, 26-33}
-
-\lettrine[lines=2]{\textcolor{red}{F}}ue enviado el ángel Gabriel de parte de Dios a una ciudad de Galilea, llamada Nazaret, 
-a una doncella desposada con un varón llamado José, de la familia de David, y el nombre de la doncella era María. 
-Y habiendo entrado a ella, dijo: Dios te salve, llena de gracia, el Señor es contigo, bendita tu entre las mujeres.
-Ella, al oír estas palabras, se turbó, y discurría que podría ser esta salutación. Y le dijo el ángel: No temas, María, 
-pues hallaste gracia a los ojos de Dios. He aquí que concebirás en tu seno y darás a luz un Hijo, a quien darás por nombre Jesús. 
-Este será grande, y será llamado Hijo del Altísimo, y le dará el Señor Dios el trono de David su padre, y reinará sobre la 
-casa de Jacob etérnamente, y su reinado no tendrá fin.
+\input{misterios/02-gozosos/01-anunciacion.tex}
 
 \vspace{0.5em}
 
 \input{oraciones/oraciones_misterio_largo.tex}
 
-\vspace{1.5em}
+\vspace{0.75em}
 
-\noindent\subsubsection*{II La Visitación de Nuestra Señora}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Lc 1, 39-41}
-
-\lettrine[lines=2]{\textcolor{red}{P}}or aquellos días, levantándose María, se dirigió presurosa a la montaña, a un ciudad de Judá, 
-y entró en la casa de Zacarías y saludó a Isabel. Y aconteció que, al oir Isabel la salutación de María, dió saltos de 
-gozo el niño en su seno, y fue llena Isabel del Espíritu Santo,
-
-\vspace{0.5em}
+\input{misterios/02-gozosos/02-visitacion.tex}
 
 \input{oraciones/oraciones_misterio.tex}
 
-\vspace{1.5em}
+\vspace{0.75em}
 
-\noindent\subsubsection*{III La Natividad de Nuestro Señor Jesucristo}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Lc 2, 4.7-8.10-11}
-
-\lettrine[lines=2]{\textcolor{red}{S}}ubió también José desde la Galilea, de la ciudad de Nazaret, a la Judea, a la ciudad de David que se llama Belén, por ser él del linaje y familia de David.
-Y sucedió que estando ellos allí se le cumplieron a ella los días del parto, y dió a luz su hijo primogénito, y le envolvió en pañales y le recostó en un pesebre, 
-pues no había para ellos lugar en el mesón. Y había unos pastores en aquella misma comarca, que pernoctaban al raso y velaban por turno para guardar su ganado, 
-y un ángel del Señor se presentó ante ellos. Y les dijo el Ángel: No temáis, pues he aquí que os traigo una buena nueva, que será de grande alegría para todo el pueblo: 
-que os ha nacido hoy en la ciudad de David un Salvador, que es el Mesías, el Señor.
-
-\vspace{0.5em}
+\input{misterios/02-gozosos/03-natividad.tex}
 
 \input{oraciones/oraciones_misterio.tex}
 
-\vspace{1.5em}
+\vspace{0.75em}
 
-\noindent\subsubsection*{IV La Presentación del Niño Jesús en el Templo}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Lc 2, 22-24}
-
-\lettrine[lines=2]{\textcolor{red}{Y}}\space{} cuando se les cumplieron los días de la purificación según la ley de Moisés, le subieron a Jerusalén para presentarle al Señor,
-según está escrito en la Ley del Señor que <<todo primogénito del sexo masculino será consagrado al Señor>>, y para ofrecer como sacrificio,
-según lo que se ordena en la Ley del Señor, <<un par de tórtolas o dos palominos>>.
-
-\vspace{0.5em}
+\input{misterios/02-gozosos/04-presentacion.tex}
 
 \input{oraciones/oraciones_misterio.tex}
 
-\noindent\subsubsection*{V La pérdida y hallazgo del Niño Jesús en el Templo}
+\vspace{0.75em}
 
-\vspace{-0.5em}
+\input{misterios/02-gozosos/05-perdida.tex}
 
-\hfill\textcolor{red}{Lc 2, 43-48}
-
-\lettrine[lines=2]{\textcolor{red}{I}}ban sus padres cada año a Jerusalén por la fiesta de la Pascua. Y cuando fué de doce años, habiendo ellos subido, según la costumbre de la fiesta,
-y acabados los días, al volverse ellos, quedóse el niño Jesús en Jerusalén sin que lo advirtiesen sus padres. Y creyendo ellos que El andaría en la comitiva caminaron una jornada; y le
-buscaban entre los parientes y conocidos; y no hallándole, se tornaron a Jerusalén para buscarle. Y sucedió que después de tres días le hallaron en el templo,
-sentado en medio de los maestros, escuchándolos y haciéndoles preguntas; y se pasmaban todos los que le oían de su inteligencia y de sus respuestas.
-Y sus padres, al verle, quedaron sorprendidos; y le dijo su madre: Hijo, {?`}por qué lo hiciste así con nosotros? Mira que tu padre y yo, llenos de aflicción, 
-te andábamos buscando.
-
-\vspace{0.5em}
-
-{\input{oraciones/oraciones_misterio.tex}}
-
-\vspace{0.5em}
+\input{oraciones/oraciones_misterio.tex}
 
 \iralfinal
 
-\vspace{0.5em}
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los lunes están dedicados a la benditas almas de Purgatorio, para rogar por ellas podemos rezar:}
+\end{center}
+
+\begin{multicols}{2}
+
+      \input{semana/lunes.tex}
+
+\end{multicols}
 
 \begin{center}
       \begin{spacing}{0.25}
@@ -347,15 +266,7 @@ te andábamos buscando.
 
 \noindent\subsection*{Misterios Dolorosos}
 
-\noindent\subsubsection*{I La oración en el Huerto de los Olivos}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Mc 14, 33-36}
-
-\lettrine[lines=2]{\textcolor{red}{Y}}\space lleva consigo a Pedro y a Santiago y a Juan, y comenzó a sentir espanto y abatimiento; y le dice: <<triste en gran manera está mi corazón hasta la muerte;
-quedad aquí y velad>>. Y apartándose un poco, caía sobre tierra, y rogaba que, a ser posible, pasase el Él aquella hora, y decía: <<Abba, Padre, todas las cosas te son posibles:
-traspasa de mi este cáliz; más no se haga lo que yo quiero, sino lo que tú quieres>>.
+\input{misterios/03-dolorosos/01-huerto.tex}
 
 \vspace{0.5em}
 
@@ -363,75 +274,43 @@ traspasa de mi este cáliz; más no se haga lo que yo quiero, sino lo que tú qu
 
 \vspace{1.5em}
 
-\noindent\subsubsection*{II La Flagelación de Nuestro Señor Jesucristo}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Jn 18,38-40; 19, 1}
-
-\lettrine[lines=2, ante=\guillemotleft]{\textcolor{red}{Y}}o no hallo en Él delito alguno. Es costumbre vuestra que yo os suelte un preso por la Pascua: {?`}queréis, 
-pues, que os suelte al rey de los Judíos?\guillemotright. Gritaron, pues, de nuevo, diciendo: <<No, a ése, sino a Barrabás>>. 
-Era este Barrabás un salteador. Entonces, pues, tomó Pilato a Jesús y le azotó.
-
-\vspace{0.5em}
+\input{misterios/03-dolorosos/02-flagelacion.tex}
 
 \input{oraciones/oraciones_misterio.tex}
 
 \vspace{1.5em}
 
-\noindent\subsubsection*{III La Coronación de espinas de Nuestro Señor Jesucristo}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Mt 27, 27-30}
-
-\lettrine[lines=2]{\textcolor{red}{E}}ntonces los soldados del gobernador, tomando a Jesús y conduciéndole al pretorio, reunieron en torno a Él toda la cohorte. 
-Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana, y trenzando una corona de espinas, la pusieron sobre su cabeza, 
-y una caña en su mano derecha; y doblando la rodilla delante de Él, le mofaban, diciendo: <<Salud, Rey de los judíos>>. Y escupiendo en Él, 
-tomaron la caña y le daban golpes en la cabeza.
-
-\vspace{0.5em}
+\input{misterios/03-dolorosos/03-espinas.tex}
 
 \input{oraciones/oraciones_misterio.tex}
 
 \vspace{1.5em}
 
-\noindent\subsubsection*{IV El Señor con la Cruz a cuestas}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Jn 19, 16-17; Lc 23, 26}
-
-\lettrine[lines=2]{\textcolor{red}{E}}ntonces, pues, se le entregó para que fuera crucificando. Se apoderaron, pues, de Jesús, y llevando a cuestas su cruz, 
-salió hacia el lugar llamado el Cráneo, que en hebreo se dice Gólgota. Y como le hubieron sacado, echaron mano de un tal Simón de Cirene que venía del campo, 
-le pusieron en hombros la cruz para que la llevase detrás de Jesús.
-
-\vspace{0.5em}
+\input{misterios/03-dolorosos/04-cruz.tex}
 
 \input{oraciones/oraciones_misterio.tex}
 
 \vspace{1.5em}
 
-\noindent\subsubsection*{V El Señor muere en la Cruz}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Lc 23, 33-34; Jn 19, 19.25-27; Lc 23, 44-46}
-
-\lettrine[lines=2]{\textcolor{red}{C}}uando llegaron al lugar llamado Calvario, le crucificaron allí, y a los dos malhechores, uno a la derecha y otro a la izquierda. 
-Jesús decía: Padre, perdónalos, porque no saben los que hacen. Dividiendo sus vestidos, echaron suertes sobre ellos. Escribió Pilato un título y lo puso sobre la cruz;
-estaba escrito: \textit{Jesús Nazareno, Rey de los judíos}. Estaba junto a la cruz de Jesús su Madre y la hermana de su Madre, María la debajo Cleofás y María Magdalena.
-Jesús, viendo a su Madre y al discípulo a quien amaba, que estaba allí, dijo a la Madre: Mujer, he ahí a tu hijo. Luego dijo al discípulo: He ahí a tu Madre.
-Y desde aquella hora el discípulo la recibió en su casa. Era ya como la hora de sexta, y las tinieblas cubrieron toda la tierra hasta la hora de nona,
-obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una gran voz, dijo: Padre, en tus manos entrego mi espíritu; y diciendo esto expiró.
-
-\vspace{0.5em}
+\input{misterios/03-dolorosos/05-muerte.tex}
 
 {\input{oraciones/oraciones_misterio.tex}}
 
 \iralfinal
 
-\vspace{0.5em}
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los martes están dedicados a nuestro Ángel de la Guarda, para pedir su protección podemos rezar:}
+\end{center}
+
+\begin{multicols}{2}
+
+      \input{semana/martes.tex}
+
+\end{multicols}
 
 \begin{center}
       \begin{spacing}{0.25}
@@ -450,83 +329,49 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
 
 \noindent\subsection*{Misterios Gloriosos}
 
-\noindent\subsubsection*{I La oración en el Huerto de los Olivos}
-
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Mc 14, 33-36}
-
-\lettrine[lines=2]{\textcolor{red}{Y}}\space lleva consigo a Pedro y a Santiago y a Juan, y comenzó a sentir espanto y abatimiento; y le dice: <<triste en gran manera está mi corazón hasta la muerte;
-quedad aquí y velad>>. Y apartándose un poco, caía sobre tierra, y rogaba que, a ser posible, pasase el Él aquella hora, y decía: <<Abba, Padre, todas las cosas te son posibles:
-traspasa de mi este cáliz; más no se haga lo que yo quiero, sino lo que tú quieres>>.
+\input{misterios/01-gloriosos/11-resurreccion.tex}
 
 \vspace{0.5em}
 
 \input{oraciones/oraciones_misterio_largo.tex}
 
-\noindent\subsubsection*{II La Flagelación de Nuestro Señor Jesucristo}
+\vspace{1.5em}
 
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Jn 18,38-40; 19, 1}
-
-\lettrine[lines=2, ante=\guillemotleft]{\textcolor{red}{Y}}o no hallo en Él delito alguno. Es costumbre vuestra que yo os suelte un preso por la Pascua: {?`}queréis, 
-pues, que os suelte al rey de los Judíos?\guillemotright. Gritaron, pues, de nuevo, diciendo: <<No, a ése, sino a Barrabás>>. 
-Era este Barrabás un salteador. Entonces, pues, tomó Pilato a Jesús y le azotó.
-
-\vspace{0.5em}
+\input{misterios/01-gloriosos/12-ascension.tex}
 
 \input{oraciones/oraciones_misterio.tex}
 
-\noindent\subsubsection*{III La Coronación de espinas de Nuestro Señor Jesucristo}
+\vspace{1.5em}
 
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Mt 27, 27-30}
-
-\lettrine[lines=2]{\textcolor{red}{E}}ntonces los soldados del gobernador, tomando a Jesús y conduciéndole al pretorio, reunieron en torno a Él toda la cohorte. 
-Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana, y trenzando una corona de espinas, la pusieron sobre su cabeza, 
-y una caña en su mano derecha; y doblando la rodilla delante de Él, le mofaban, diciendo: <<Salud, Rey de los judíos>>. Y escupiendo en Él, 
-tomaron la caña y le daban golpes en la cabeza.
-
-\vspace{0.5em}
+\input{misterios/01-gloriosos/13-pentecostes.tex}
 
 \input{oraciones/oraciones_misterio.tex}
 
-\noindent\subsubsection*{IV El Señor con la Cruz a cuestas}
+\vspace{1.5em}
 
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Jn 19, 16-17; Lc 23, 26}
-
-\lettrine[lines=2]{\textcolor{red}{E}}ntonces, pues, se le entregó para que fuera crucificando. Se apoderaron, pues, de Jesús, y llevando a cuestas su cruz, 
-salió hacia el lugar llamado el Cráneo, que en hebreo se dice Gólgota. Y como le hubieron sacado, echaron mano de un tal Simón de Cirene que venía del campo, 
-le pusieron en hombros la cruz para que la llevase detrás de Jesús.
-
-\vspace{0.5em}
+\input{misterios/01-gloriosos/14-asuncion.tex}
 
 \input{oraciones/oraciones_misterio.tex}
 
-\noindent\subsubsection*{V El Señor muere en la Cruz}
+\vspace{1.5em}
 
-\vspace{-0.5em}
-
-\hfill\textcolor{red}{Lc 23, 33-34; Jn 19, 19.25-27; Lc 23, 44-46}
-
-\lettrine[lines=2]{\textcolor{red}{C}}uando llegaron al lugar llamado Calvario, le crucificaron allí, y a los dos malhechores, uno a la derecha y otro a la izquierda. 
-Jesús decía: Padre, perdónalos, porque no saben los que hacen. Dividiendo sus vestidos, echaron suertes sobre ellos. Escribió Pilato un título y lo puso sobre la cruz;
-estaba escrito: \textit{Jesús Nazareno, Rey de los judíos}. Estaba junto a la cruz de Jesús su Madre y la hermana de su Madre, María la debajo Cleofás y María Magdalena.
-Jesús, viendo a su Madre y al discípulo a quien amaba, que estaba allí, dijo a la Madre: Mujer, he ahí a tu hijo. Luego dijo al discípulo: He ahí a tu Madre.
-Y desde aquella hora el discípulo la recibió en su casa. Era ya como la hora de sexta, y las tinieblas cubrieron toda la tierra hasta la hora de nona,
-obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una gran voz, dijo: Padre, en tus manos entrego mi espíritu; y diciendo esto expiró.
-
-\vspace{0.5em}
+\input{misterios/01-gloriosos/15-coronacion-bvm.tex}
 
 {\input{oraciones/oraciones_misterio.tex}}
 
 \iralfinal
 
-\vspace{0.5em}
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los miércoles están dedicados al Patriarca San José, para pedir su intercesión podemos rezar:}
+\end{center}
+
+\begin{multicols}{2}
+      \input{semana/miercoles.tex}
+\end{multicols}
 
 \begin{center}
       \begin{spacing}{0.25}
@@ -544,178 +389,89 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
 \section*{\centering Feria Quinta (Jueves)}
 
 \begin{paracol}{2}
-      \begin{leftcolumn}
+      \begin{leftcolumn*}
             \begin{center}
                   \textcolor{red}{Forma Nueva}
                   \subsection*{Misterios Luminosos}
             \end{center}
 
-            \noindent\subsubsection*{I El Bautismo del Señor en el Jordán}
-
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Mc 1, 9-11}
-
-            \lettrine[lines=2]{\textcolor{red}{Y}}\space aconteció por aquellos días que vino Jesús desde Nazaret de Galilea y fué bautizado en el Jordán por Juan [el Bautista].
-            Y al punto subiendo del agua, vió rasgarse los cielos y venir sobre Él el Espíritu Santo como paloma; y una voz vino de los cielos: 
-            <<Tú eres mi Hijo amado, en Ti me agradé>>.
-      \end{leftcolumn}
+            \input{misterios/04-luminosos/01-bautizo.tex}
+      \end{leftcolumn*}
       \begin{rightcolumn}
             \begin{center}
                   \textcolor{red}{Forma Tradicional}
                   \subsection*{Misterios Gozosos }
             \end{center}
 
-            \noindent\subsubsection*{I La Anunciación de la Santísima Virgen María}
-
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Lc 1, 26-33}
-
-            \lettrine[lines=2]{\textcolor{red}{F}}ue enviado el ángel Gabriel de parte de Dios a una ciudad de Galilea, llamada Nazaret, 
-            a una doncella desposada con un varón llamado José, de la familia de David, y el nombre de la doncella era María. 
-            Y habiendo entrado a ella, dijo: Dios te salve, llena de gracia, el Señor es contigo, bendita tu entre las mujeres.
-            Ella, al oír estas palabras, se turbó, y discurría que podría ser esta salutación. Y le dijo el ángel: No temas, María, 
-            pues hallaste gracia a los ojos de Dios. He aquí que concebirás en tu seno y darás a luz un Hijo, a quien darás por nombre Jesús. 
-            Este será grande, y será llamado Hijo del Altísimo, y le dará el Señor Dios el trono de David su padre, y reinará sobre la 
-            casa de Jacob etérnamente, y su reinado no tendrá fin.
+            \input{misterios/02-gozosos/11-anunciacion.tex}
       \end{rightcolumn}
 \end{paracol}
-
-\begin{center}
-      \rule{25em}{0.4pt}
-\end{center}
 
 \input{oraciones/oraciones_misterio_largo.tex}
 
-\begin{center}
-      \rule{25em}{0.4pt}
-\end{center}
-
 \begin{paracol}{2}
-      \begin{leftcolumn}
-            \noindent\subsubsection*{II Las Bodas de Caná}
-            
-            \vspace{-0.5em}
+      \begin{leftcolumn*}
+            \input{misterios/04-luminosos/02-bodas.tex}
 
-            \hfill\textcolor{red}{Jn 2, 1-5}
-
-            \lettrine[lines=2]{\textcolor{red}{Y}}\space al día tercero se celebraron unas bodas en Caná de Galilea, y estaba allí la madre de Jesús. Fueron también invitados a las bodas
-            Jesús y sus discípulos. Y como faltase el vino, dice su madre a Jesús: no tienen vino. Y le dice Jesús: {?`}Qué tenemos que ver tú y yo, mujer? Todavía no ha llegado mi hora.
-            DIce su madre a los que servían: Todo cuanto Él os diga, hacedlo.
-      \end{leftcolumn}
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
       \begin{rightcolumn}
-            \noindent\subsubsection*{II La Visitación de Nuestra Señora}
+            \input{misterios/02-gozosos/12-visitacion.tex}
 
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Lc 1, 39-45}
-
-            \lettrine[lines=2]{\textcolor{red}{P}}or aquellos días, levantándose María, se dirigió presurosa a la montaña, a un ciudad de Judá, 
-            y entró en la casa de Zacarías y saludó a Isabel. Y aconteció que, al oir Isabel la salutación de María, dió saltos de 
-            gozo el niño en su seno, y fue llena Isabel del Espíritu Santo, y levantó la voz con gran clamor y dijo: Bendita tu entre 
-            las mujeres y bendito el fruto de tu vientre. {?`}Y de dónde a mí esto que venga la madre de mi Señor a mí? Porque he aquí que, 
-            como sonó la voz de tu salutación en mi oídos, dió saltos de alborozo el niño en mi seno.
+            \input{oraciones/oraciones_misterio.tex}
       \end{rightcolumn}
-\end{paracol}
 
-\input{oraciones/oraciones_misterio.tex}
+      \begin{leftcolumn*}
+            \input{misterios/04-luminosos/03-reino.tex}
 
-\begin{paracol}{2}
-      \begin{leftcolumn}
+            \input{oraciones/oraciones_misterio.tex}
 
-            \noindent\subsubsection*{III El Anuncio del Reino de Dios}
-            
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Mc 1, 14-15.21-22}
-
-            \lettrine[lines=2]{\textcolor{red}{Y}}\space después que Juan [el Bautista] hubo sido entregado, vino Jesús a Galilea, y allí predicaba el Evangelio de Dios, y decía que <<Se ha cumplido
-            el tiempo y está cerca el reino de Dios: arrepentíos y creed en el Evangelio>>. Y entran en Cafarnaúm; y luego que fué sábado enseñaba en la sinagoga. Y se asombraban de su
-            enseñanza, porque les estaba enseñando como quien tiene autoridad, y no como los escribas.
-
-      \end{leftcolumn}
+      \end{leftcolumn*}
       \begin{rightcolumn}
-            \noindent\subsubsection*{III La Natividad de Nuestro Señor Jesucristo}
+            \input{misterios/02-gozosos/13-natividad.tex}
+            
+            \input{oraciones/oraciones_misterio.tex}
 
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Lc 2, 4.7-8.10-11}
-
-            \lettrine[lines=2]{\textcolor{red}{S}}ubió también José desde la Galilea, de la ciudad de Nazaret, a la Judea, a la ciudad de David que se llama Belén, por ser él del linaje y familia de David.
-            Y sucedió que estando ellos allí se le cumplieron a ella los días del parto, y dió a luz su hijo primogénito, y le envolvió en pañales y le recostó en un pesebre, 
-            pues no había para ellos lugar en el mesón. Y había unos pastores en aquella misma comarca, que pernoctaban al raso y velaban por turno para guardar su ganado, 
-            y un ángel del Señor se presentó ante ellos. Y les dijo el Ángel: No temáis, pues he aquí que os traigo una buena nueva, que será de grande alegría para todo el pueblo: 
-            que os ha nacido hoy en la ciudad de David un Salvador, que es el Mesías, el Señor.
       \end{rightcolumn}
-\end{paracol}
 
-\input{oraciones/oraciones_misterio.tex}
+      \begin{leftcolumn*}
+            \input{misterios/04-luminosos/04-transfiguracion.tex}
 
-\begin{paracol}{2}
-      \begin{leftcolumn}
-
-            \noindent\subsubsection*{IV La Transfiguración}
-            
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Mt 17, 1-5}
-
-            \lettrine[lines=2]{\textcolor{red}{Y}}\space seis días después toma Jesús consigo a Pedro, a Santiago y a Juan, su hermano, y sube con ellos a un monte elevado a solas. Y se transfiguró
-            en presencia de ellos, y comenzó a relumbar su faz como el sol, y sus vestiduras se pararon blancas como la luz. Y de pronto aparecieron a su vista Moisés y Elías, conversando con El.
-            Tomando Pedro la palabra, dijo a Jesús: Señor, linda cosa es estarnos aquí; si quieres, haré aquí tres tiendas: una para ti, otra para Moisés y otra para Elías. Estando aún él hablando,
-            de pronto una nube luminosa los cubrió. Y he aquí una voz salida de la nube, que decía: Este es mi Hijo querido, en quien me agradé; escuchadle.
-      \end{leftcolumn}
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
       \begin{rightcolumn}
+            \input{misterios/02-gozosos/14-presentacion.tex}
 
-            \noindent\subsubsection*{IV La Presentación del Niño Jesús en el Templo}
-
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Lc 2, 22-24}
-
-            \lettrine[lines=2]{\textcolor{red}{Y}}\space{} cuando se les cumplieron los días de la purificación según la ley de Moisés, le subieron a Jerusalén para presentarle al Señor,
-            según está escrito en la Ley del Señor que <<todo primogénito del sexo masculino será consagrado al Señor>>, y para ofrecer como sacrificio,
-            según lo que se ordena en la Ley del Señor, <<un par de tórtolas o dos palominos>>.
+            \input{oraciones/oraciones_misterio.tex}
       \end{rightcolumn}
-\end{paracol}
 
-\input{oraciones/oraciones_misterio.tex}
+      \begin{leftcolumn*}
+            \input{misterios/04-luminosos/05-eucaristia.tex}
 
-\begin{paracol}{2}
-      \begin{leftcolumn}
-
-            \noindent\subsubsection*{V La Institución de la Eucaristía}
-            
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Mt 26, 26-28}
-            
-            \lettrine[lines=2]{\textcolor{red}{E}}stando ellos comiendo, tomando Jesús un pan, y habiendo pronunciado la bendición, lo partió, y dándolo a los discípulos dijo: <<Tomad, comed: éste es mi cuerpo>>.
-            Y habiendo tomado un cáliz, y habiendo dado gracias, se lo dió, diciendo: <<Bebed de él todos, porque ésta es mi sangre de la alianza, que por muchos es derramada para la remisión de los pecados>>.
-      \end{leftcolumn}
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
       \begin{rightcolumn}
+            \input{misterios/02-gozosos/15-perdida.tex}
 
-            \noindent\subsubsection*{V La pérdida y hallazgo del Niño Jesús en el Templo}
-
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Lc 2, 43-48}
-
-            \lettrine[lines=2]{\textcolor{red}{I}}ban sus padres cada año a Jerusalén por la fiesta de la Pascua. Y cuando fué de doce años, habiendo ellos subido, según la costumbre de la fiesta,
-            y acabados los días, al volverse ellos, quedóse el niño Jesús en Jerusalén sin que lo advirtiesen sus padres. Y creyendo ellos que El andaría en la comitiva caminaron una jornada; y le
-            buscaban entre los parientes y conocidos; y no hallándole, se tornaron a Jerusalén para buscarle. Y sucedió que después de tres días le hallaron en el templo,
-            sentado en medio de los maestros, escuchándolos y haciéndoles preguntas; y se pasmaban todos los que le oían de su inteligencia y de sus respuestas.
-            Y sus padres, al verle, quedaron sorprendidos; y le dijo su madre: Hijo, {?`}por qué lo hiciste así con nosotros? Mira que tu padre y yo, llenos de aflicción, 
-            te andábamos buscando.
+            \input{oraciones/oraciones_misterio.tex}
         \end{rightcolumn}
+        \definecolumnpreamble{0}{\vspace{0em}}
+        \definecolumnpreamble{1}{\vspace{0em}}
 \end{paracol}
-
-\input{oraciones/oraciones_misterio.tex}
 
 \iralfinal
 
-\vspace{0.5em}
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los jueves están dedicados al Santísimo Sacramento del Altar, para adorarlo podemos rezar:}
+\end{center}
+
+\begin{multicols}{2}
+      \input{semana/jueves.tex}
+\end{multicols}
 
 \begin{center}
       \begin{spacing}{0.25}
@@ -737,57 +493,43 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
 \vspace{1.5em}
 
 \noindent\titulomisterios{I La oración en el Huerto de los Olivos}{Mc 14, 33-36}
-\lettrine[lines=2]{\textcolor{red}{Y}}\space lleva consigo a Pedro y a Santiago y a Juan, y comenzó a sentir espanto y abatimiento; y le dice: <<triste en gran manera está mi corazón hasta la muerte;
-quedad aquí y velad>>. Y apartándose un poco, caía sobre tierra, y rogaba que, a ser posible, pasase el Él aquella hora, y decía: <<Abba, Padre, todas las cosas te son posibles:
-traspasa de mi este cáliz; más no se haga lo que yo quiero, sino lo que tú quieres>>.
+\input{misterios/03-dolorosos/11-huerto.tex}
 
 \vspace{0.5em}
 
 \input{oraciones/oraciones_misterio_largo.tex}
 
-\vspace{1.5em}
+\vspace{0.5em}
 
-\noindent\titulomisterios{II La Flagelación de Nuestro Señor Jesucristo}{Jn 18,38-40; 19, 1}
-\lettrine[lines=2, ante=\guillemotleft]{\textcolor{red}{Y}}o no hallo en Él delito alguno. Es costumbre vuestra que yo os suelte un preso por la Pascua: {?`}queréis, 
-pues, que os suelte al rey de los Judíos?\guillemotright. Gritaron, pues, de nuevo, diciendo: <<No, a ése, sino a Barrabás>>. 
-Era este Barrabás un salteador. Entonces, pues, tomó Pilato a Jesús y le azotó.
+\noindent\titulomisterios{II La Flagelación de Nuestro Señor Jesucristo}{Ioan 18,38-40; 19, 1}
+\input{misterios/03-dolorosos/12-flagelacion.tex}
 
 \vspace{0.5em}
 
 \input{oraciones/oraciones_misterio.tex}
 
-\vspace{1.5em}
+\vspace{0.5em}
 
 \noindent\titulomisterios{III La Coronación de espinas de Nuestro Señor Jesucristo}{Mt 27, 27-30}
-\lettrine[lines=2]{\textcolor{red}{E}}ntonces los soldados del gobernador, tomando a Jesús y conduciéndole al pretorio, reunieron en torno a Él toda la cohorte. 
-Y habiéndole quitado sus vestidos, le envolvieron en una clámide de grana, y trenzando una corona de espinas, la pusieron sobre su cabeza, 
-y una caña en su mano derecha; y doblando la rodilla delante de Él, le mofaban, diciendo: <<Salud, Rey de los judíos>>. Y escupiendo en Él, 
-tomaron la caña y le daban golpes en la cabeza.
+\input{misterios/03-dolorosos/13-espinas.tex}
 
 \vspace{0.5em}
 
 \input{oraciones/oraciones_misterio.tex}
 
-\vspace{1.5em}
+\vspace{0.5em}
 
-\noindent\titulomisterios{IV El Señor con la Cruz a cuestas}{Jn 19, 16-17; Lc 23, 26}
-\lettrine[lines=2]{\textcolor{red}{E}}ntonces, pues, se le entregó para que fuera crucificando. Se apoderaron, pues, de Jesús, y llevando a cuestas su cruz, 
-salió hacia el lugar llamado el Cráneo, que en hebreo se dice Gólgota. Y como le hubieron sacado, echaron mano de un tal Simón de Cirene que venía del campo, 
-le pusieron en hombros la cruz para que la llevase detrás de Jesús.
+\noindent\titulomisterios{IV El Señor con la Cruz a cuestas}{Ioan 19, 16-17; Lc 23, 26}
+\input{misterios/03-dolorosos/14-cruz.tex}
 
 \vspace{0.5em}
 
 \input{oraciones/oraciones_misterio.tex}
 
-\vspace{1.5em}
+\vspace{0.5em}
 
-\noindent\titulomisterios{V El Señor muere en la Cruz}{Lc 23, 33-34; Jn 19, 19.25-27;\\Lc 23, 44-46}
-\lettrine[lines=2]{\textcolor{red}{C}}uando llegaron al lugar llamado Calvario, le crucificaron allí, y a los dos malhechores, uno a la derecha y otro a la izquierda. 
-Jesús decía: Padre, perdónalos, porque no saben los que hacen. Dividiendo sus vestidos, echaron suertes sobre ellos. Escribió Pilato un título y lo puso sobre la cruz;
-estaba escrito: \textit{Jesús Nazareno, Rey de los judíos}. Estaba junto a la cruz de Jesús su Madre y la hermana de su Madre, María la debajo Cleofás y María Magdalena.
-Jesús, viendo a su Madre y al discípulo a quien amaba, que estaba allí, dijo a la Madre: Mujer, he ahí a tu hijo. Luego dijo al discípulo: He ahí a tu Madre.
-Y desde aquella hora el discípulo la recibió en su casa. Era ya como la hora de sexta, y las tinieblas cubrieron toda la tierra hasta la hora de nona,
-obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una gran voz, dijo: Padre, en tus manos entrego mi espíritu; y diciendo esto expiró.
+\noindent\titulomisterios{V El Señor muere en la Cruz}{Lc 23, 33-34; Ioan 19, 19.25-27;\\Lc 23, 44-46}
+\input{misterios/03-dolorosos/15-muerte.tex}
 
 \vspace{0.5em}
 
@@ -795,7 +537,19 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
 
 \iralfinal
 
-\vspace{0.5em}
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los viernes están dedicados a la Pasión de NS Jesucristo, para redordarla podemos rezar el siguiente Via Crucis\footnote{Tomado del Misal del P. Valentín Sánchez Ruiz, SI. 4a edición, Madrid 1945}:}
+\end{center}
+
+\begin{multicols}{2}
+
+      \input{semana/viernes.tex}
+
+\end{multicols}
 
 \begin{center}
       \begin{spacing}{0.25}
@@ -818,13 +572,11 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
             \begin{center}
                   \textcolor{red}{Forma Nueva}
                   \subsection*{Misterios Misterios Gozosos}
+
+                  \subsubsection*{I La Anunciación}
+                  \textcolor{red}{Ioan 1, 1.14}
+
             \end{center}
-
-            \noindent\subsubsection*{I La Anunciación}
-
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Jn 1, 1.14}
 
             \lettrine[lines=2]{\textcolor{red}{E}}n el principio existía el Verbo, y el Verbo estaba en Dios, y el Verbo era Dios. Y el Verbo se hizo
             carne, y habitó entre nosotros; y contemplamos su gloria, gloria cual Unigénito procedente del Padre: lleno de gracia y de verdad
@@ -834,82 +586,160 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
             \begin{center}
                   \textcolor{red}{Forma Tradicional}
                   \subsection*{Misterios Gloriosos}
+                  
+                  \subsubsection*{I La Resurección del Señor}
+                  \textcolor{red}{Lc 24, 5-8}
             \end{center}
-
-            \noindent\subsubsection*{I La Resurección del Señor}
-
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Lc 24, 5-8}
 
             \lettrine[lines=2, ante={?`}]{\textcolor{red}{A}} qué buscáis al vivo entre los muertos? No está aquí, sino que resucitó. Recordad cómo
             os habló cuando estaba aún en Galilea, diciendo que el Hijo del hombre había de ser entregado en manos de hombres pecadores y ser crucificado
             y al tercer día resucitar. Y se acordaron de sus palabras. Y vueltas del monumento, anunciaron todas estas cosas a los Once y a todos los demás.
-
       \end{rightcolumn}
 \end{paracol}
 
 \begin{center}
-      \rule{25em}{0.4pt}
+      {\rule{20em}{0.4pt}}
 \end{center}
 
 \input{oraciones/oraciones_misterio_largo.tex}
 
 \begin{center}
-      \rule{25em}{0.4pt}
+      {\rule{20em}{0.4pt}}
 \end{center}
 
 \begin{paracol}{2}
-      \begin{leftcolumn}
-            \noindent\subsubsection*{II La Visitación de la Virgen a su prima Santa Isabel}
-
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Lc 42-45}
+      \definecolumnpreamble{0}{\vspace{-1.5em}}
+      \definecolumnpreamble{1}{\vspace{-1.5em}}
+      \begin{leftcolumn*}
+            \begin{center}
+                  \subsubsection*{II La Visitación de la Virgen a su prima Santa Isabel}
+                  \textcolor{red}{Lc 42-45}
+            \end{center}
 
             \lettrine[lines=2]{\textcolor{red}{Y}} levantó la voz con gran clamor y dijo: Bendita tu entre 
             las mujeres y bendito el fruto de tu vientre. {?`}Y de dónde a mí esto que venga la madre de mi Señor a mí? Porque he aquí que, 
             como sonó la voz de tu salutación en mi oídos, dió saltos de alborozo el niño en mi seno. Y dichosa la que creyó que tendrán
             cumplimiento las cosas que le han sido dichas de parte del Señor.
-      \end{leftcolumn}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
+
       \begin{rightcolumn}
-            \noindent\subsubsection*{II La Ascensión de Nuestro Señor a los Cielos}
-
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Jn 1, 1.14}
+            \begin{center}
+                  \subsubsection*{II La Ascensión de Nuestro Señor a los Cielos}
+                  \textcolor{red}{Ioan 1, 1.14}
+            \end{center}
 
             \lettrine[lines=2]{\textcolor{red}{E}}n el principio existía el Verbo, y el Verbo estaba en Dios, y el Verbo era Dios. Y el Verbo se hizo
-            carne, y habitó entre nosotros; y contemplamos su gloria, gloria cual Unigénito procedente del Padre: lleno de gracia y de verdad
+            carne, y habitó entre nosotros; y contemplamos su gloria, gloria cual Unigénito procedente del Padre: lleno de gracia y de verdad.
+
+            \input{oraciones/oraciones_misterio.tex}
       \end{rightcolumn}
-\end{paracol}
 
-\input{oraciones/oraciones_misterio.tex}
+      \definecolumnpreamble{0}{\vspace{-0.75em}}
+      \definecolumnpreamble{1}{\vspace{-0.75em}}
 
-\begin{paracol}{2}
-      \begin{leftcolumn}
-            \noindent\subsubsection*{III La Natividad del Señor}
-
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Mt 1, 22-25}
+      \begin{leftcolumn*}
+            \begin{center}
+                  \subsubsection*{III La Natividad del Señor}
+                  \textcolor{red}{Mt 1, 22-25}
+            \end{center}
 
             \lettrine[lines=2]{\textcolor{red}{T}}odo esto ha acaecido a fin de que se cumpliese lo que dijo el Señor por el profeta: He aquí que una virgen concebirá y parirá
             un hijo, y llamarán su nombre Emmanuel, que traducido quiere decir \textit{Dios con nosotros}
-      \end{leftcolumn}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
+
       \begin{rightcolumn}
-            \noindent\subsubsection*{III La Venida del Espíritu Santo sobre los Apóstoles}
-
-            \vspace{-0.5em}
-
-            \hfill\textcolor{red}{Rm 8, 12-16}
+            \begin{center}
+                  \subsubsection*{III La Venida del Espíritu Santo sobre los Apóstoles}
+                  \textcolor{red}{Rm 8, 12-16}
+            \end{center}
 
             \lettrine[lines=2]{\textcolor{red}{A}}sí, pues, hermanos, deudores somos nos a la carne: de vivir según la carne. Porque si según la carne vivís, habréis de morir; mas
             si con el Espíritu hacéis morir la fechorías del cuerpo viviréis. Pues cuantos son llevados por el Espíritu Santo de Dios, éstos son hijos de Dios. Porque no recibisteis
             espíritu de esclavitud para reincidir de nuevo en el temor; antes recibisteis Espíritu de filiación adoptiva, con el cual clamamos: {!`}Abba!{!`}Padre! El Espíritu mismo
             testifica a una nuestro espíritu que somos hijos de Dios.
+
+            \input{oraciones/oraciones_misterio.tex}
       \end{rightcolumn}
+
+      \begin{leftcolumn*}
+            \begin{center}
+                  \subsubsection*{IV La Presentación del Niño Jesús en el Templo}
+                  \textcolor{red}{Mt 1, 22-25}
+            \end{center}
+
+            \lettrine[lines=2]{\textcolor{red}{T}}odo esto ha acaecido a fin de que se cumpliese lo que dijo el Señor por el profeta: He aquí que una virgen concebirá y parirá
+            un hijo, y llamarán su nombre Emmanuel, que traducido quiere decir \textit{Dios con nosotros}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
+      \begin{rightcolumn}
+            \begin{center}
+                  \subsubsection*{IV La Asunción de la Sta. Virgen María a los Cielos}
+                  \textcolor{red}{Rm 8, 12-16}
+            \end{center}
+
+            \lettrine[lines=2]{\textcolor{red}{A}}sí, pues, hermanos, deudores somos nos a la carne: de vivir según la carne. Porque si según la carne vivís, habréis de morir; mas
+            si con el Espíritu hacéis morir la fechorías del cuerpo viviréis. Pues cuantos son llevados por el Espíritu Santo de Dios, éstos son hijos de Dios. Porque no recibisteis
+            espíritu de esclavitud para reincidir de nuevo en el temor; antes recibisteis Espíritu de filiación adoptiva, con el cual clamamos: {!`}Abba!{!`}Padre! El Espíritu mismo
+            testifica a una nuestro espíritu que somos hijos de Dios.
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{rightcolumn}
+
+      \begin{leftcolumn*}
+            \begin{center}
+                  \subsubsection*{V El Niño Jesús perdido y hallado en el Templo}
+                  \textcolor{red}{Mt 1, 22-25}
+            \end{center}
+
+            \lettrine[lines=2]{\textcolor{red}{T}}odo esto ha acaecido a fin de que se cumpliese lo que dijo el Señor por el profeta: He aquí que una virgen concebirá y parirá
+            un hijo, y llamarán su nombre Emmanuel, que traducido quiere decir \textit{Dios con nosotros}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
+      \begin{rightcolumn}
+            \begin{center}
+                  \subsubsection*{V La Coronación de Sta. Virgen María}
+                  \textcolor{red}{Rm 8, 12-16}
+            \end{center}
+
+            \lettrine[lines=2]{\textcolor{red}{A}}sí, pues, hermanos, deudores somos nos a la carne: de vivir según la carne. Porque si según la carne vivís, habréis de morir; mas
+            si con el Espíritu hacéis morir la fechorías del cuerpo viviréis. Pues cuantos son llevados por el Espíritu Santo de Dios, éstos son hijos de Dios. Porque no recibisteis
+            espíritu de esclavitud para reincidir de nuevo en el temor; antes recibisteis Espíritu de filiación adoptiva, con el cual clamamos: {!`}Abba!{!`}Padre! El Espíritu mismo
+            testifica a una nuestro espíritu que somos hijos de Dios.
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{rightcolumn}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
 \end{paracol}
+
+\iralfinal
+
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los sábados están dedicados a la Bienaventurada Virgen María, Madre de Dios y Madre nuestra, además del Santo Rosario, podemos rezar:}
+\end{center}
+
+\begin{multicols}{2}
+
+      \input{semana/sabado.tex}
+      
+\end{multicols}
+
+\begin{center}
+      \begin{spacing}{0.25}
+            {\rule{20em}{0.4pt}}\\
+            {\rule{20em}{0.4pt}}
+      \end{spacing}
+\end{center}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % ORACIONES FINALES Y LETANIAS %
@@ -919,6 +749,7 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
       \textcolor{red}{Terminados los misterios podemos rezar}
 \end{center}
 
+\footnotelayout{c}
 \begin{paracol}{2}
 
       \begin{leftcolumn}
@@ -963,7 +794,7 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
       \definecolumnpreamble{0}{\vspace{0em}}
       \definecolumnpreamble{1}{\vspace{0em}}
 
-      \begin{leftcolumn*}[\begin{center}\subsection*{Letanias de Nuestra Señora}\end{center}]
+      \begin{leftcolumn*}[\vspace{0.5em}\subsection*{\centering Letanias de Nuestra Señora}]
             \input{oraciones/letanias/castellano.tex}
       \end{leftcolumn*}
       \begin{otherlanguage}{latin}
@@ -983,18 +814,13 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
                   \input{oraciones/bajo_tu_amparo/latin_sencillo.tex}
             \end{rightcolumn}
       \end{otherlanguage}
+
       \definecolumnpreamble{0}{\vspace{0em}}
       \definecolumnpreamble{1}{\vspace{0em}}
-\end{paracol}
 
-\vspace{0.5em}
-
-\textcolor{red}{Desde la Purificación hasta Sábado Santo y desde la Santísima Trinidad hasta el I Domingo de Adviento:}
-\vspace{0.2em}
-\begin{paracol}{2}
-      \begin{leftcolumn}
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde la Purificación hasta Sábado Santo y desde la Santísima Trinidad hasta el I Domingo de Adviento:}\vspace{0.5em}]
             \input{oraciones/versiculos/salve/castellano_seguido.tex}
-      \end{leftcolumn}
+      \end{leftcolumn*}
       \begin{otherlanguage}{latin}
             \begin{rightcolumn}
                   \input{oraciones/versiculos/salve/latin_seguido.tex}
@@ -1012,18 +838,13 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
                   \input{oraciones/antifonas_bvm/01_septuagesima_cuaresma_postpentecostes/latin.tex}
             \end{rightcolumn}
       \end{otherlanguage}
+
       \definecolumnpreamble{0}{\vspace{0em}}
       \definecolumnpreamble{1}{\vspace{0em}}
-\end{paracol}
 
-\vspace{0.5em}
-
-\textcolor{red}{Desde el I Domingo de Adviento hasta Navidad:}
-\vspace{0.2em}
-\begin{paracol}{2}
-      \begin{leftcolumn}
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde el I Domingo de Adviento hasta Navidad:}\vspace{0.5em}]
             \input{oraciones/angelus/castellano_00.tex}
-      \end{leftcolumn}
+      \end{leftcolumn*}
       \begin{otherlanguage}{latin}
             \begin{rightcolumn}
                   \input{oraciones/angelus/latin_00.tex}
@@ -1041,18 +862,13 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
                   \input{oraciones/antifonas_bvm/02_adviento/latin.tex}
             \end{rightcolumn}
       \end{otherlanguage}
+
       \definecolumnpreamble{0}{\vspace{0em}}
       \definecolumnpreamble{1}{\vspace{0em}}
-\end{paracol}
 
-\vspace{0.5em}
-
-\textcolor{red}{Desde Navidad hasta la Purificación:}
-\vspace{0.2em}
-\begin{paracol}{2}
-      \begin{leftcolumn}
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde Navidad hasta la Purificación:}\vspace{0.5em}]
             \input{oraciones/antifonas_bvm/03_navidad/castellano_00.tex}
-      \end{leftcolumn}
+      \end{leftcolumn*}
       \begin{otherlanguage}{latin}
             \begin{rightcolumn}
                   \input{oraciones/antifonas_bvm/03_navidad/latin_00.tex}
@@ -1070,16 +886,11 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
                   \input{oraciones/antifonas_bvm/03_navidad/latin_01.tex}
             \end{rightcolumn}
       \end{otherlanguage}
+
       \definecolumnpreamble{0}{\vspace{0em}}
       \definecolumnpreamble{1}{\vspace{0em}}
-\end{paracol}
 
-\vspace{0.5em}
-
-\textcolor{red}{Desde Domingo de Resurrección hasta la Santísima Trinidad:}
-\vspace{0.2em}
-\begin{paracol}{2}
-      \begin{leftcolumn*}
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde Domingo de Resurrección hasta la Santísima Trinidad:}\vspace{0.5em}]
             \input{oraciones/regina_coelis/castellano_00.tex}
       \end{leftcolumn*}
       \begin{otherlanguage}{latin}
@@ -1099,18 +910,13 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
                   \input{oraciones/antifonas_bvm/04_pascua/latin.tex}
             \end{rightcolumn}
       \end{otherlanguage}
+
       \definecolumnpreamble{0}{\vspace{0em}}
       \definecolumnpreamble{1}{\vspace{0em}}
-\end{paracol}
 
-\vspace{0.5em}
-
-\textcolor{red}{Rezamos ahora por el Santo Padre, nuestro Obispo y los fieles difuntos:}
-\vspace{0.2em}
-\begin{paracol}{2}
-      \begin{leftcolumn}
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Rezamos ahora por el Santo Padre, nuestro Obispo y los fieles difuntos:}\vspace{0.5em}]
             \input{oraciones/versiculos/el_senor_este/castellano.tex}
-      \end{leftcolumn}
+      \end{leftcolumn*}
       \begin{otherlanguage}{latin}
             \begin{rightcolumn}
                   \input{oraciones/versiculos/el_senor_este/latin.tex}
@@ -1130,33 +936,6 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
       \end{otherlanguage}
 
       \begin{leftcolumn*}
-            \input{oraciones/padrenuestro/castellano_vr.tex}
-      \end{leftcolumn*}
-      \begin{otherlanguage}{latin}
-            \begin{rightcolumn}
-                  \input{oraciones/padrenuestro/latin_vr.tex}
-            \end{rightcolumn}
-      \end{otherlanguage}
-
-      \begin{leftcolumn*}
-            \input{oraciones/avemaria/castellano_vr.tex}
-      \end{leftcolumn*}
-      \begin{otherlanguage}{latin}
-            \begin{rightcolumn}
-                  \input{oraciones/avemaria/latin_vr.tex}
-            \end{rightcolumn}
-      \end{otherlanguage}
-
-      \begin{leftcolumn*}
-            \input{oraciones/gloria/castellano_seguido.tex}
-      \end{leftcolumn*}
-      \begin{otherlanguage}{latin}
-            \begin{rightcolumn}
-                  \input{oraciones/gloria/latin_seguido.tex}
-            \end{rightcolumn}
-      \end{otherlanguage}
-
-      \begin{leftcolumn*}
             \input{oraciones/por_el_obispo/castellano.tex}
       \end{leftcolumn*}
       \begin{otherlanguage}{latin}
@@ -1166,29 +945,11 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
       \end{otherlanguage}
 
       \begin{leftcolumn*}
-            Padre nuestro, Ave María y Gloria.
-      \end{leftcolumn*}
-      \begin{otherlanguage}{latin}
-            \begin{rightcolumn}
-                  Pater noster, Ave María et Glória.
-            \end{rightcolumn}
-      \end{otherlanguage}
-
-      \begin{leftcolumn*}
             \input{oraciones/por_los_fieles_difuntos/castellano_00.tex}
       \end{leftcolumn*}
       \begin{otherlanguage}{latin}
             \begin{rightcolumn}
                   \input{oraciones/por_los_fieles_difuntos/latin_00.tex}
-            \end{rightcolumn}
-      \end{otherlanguage}
-
-      \begin{leftcolumn*}
-            Padre nuestro y Ave María.
-      \end{leftcolumn*}      
-      \begin{otherlanguage}{latin}
-            \begin{rightcolumn}
-                  Pater noster et Ave María.
             \end{rightcolumn}
       \end{otherlanguage}
 
@@ -1209,22 +970,16 @@ obscurecióse el sol y el velo del templo se rasgó por medio. Jesús, dando una
                   \input{oraciones/versiculos/escucha_senor/latin.tex}
             \end{rightcolumn}
       \end{otherlanguage}
+
       \definecolumnpreamble{0}{\vspace{0em}}
       \definecolumnpreamble{1}{\vspace{0em}}
-\end{paracol}
 
-\vspace{0.5em}
-
-\textcolor{red}{Credo y salve a los Sagrados Corazones de Jesús y María.}
-\vspace{0.2em}
-\footnotelayout{c}
-\begin{paracol}{2}
-      \begin{leftcolumn}
-            \input{oraciones/credo/apostoles_castellano.tex}\footnote{Credo Niceno en castellano:\\ \indent\input{oraciones/credo/niceno_castellano_sencillo.tex}}
-      \end{leftcolumn}
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Un Credo y una Salve a los Sagrados Corazones de Jesús y María.}\vspace{0.5em}]
+            \input{oraciones/credo/apostoles_castellano.tex}\footnote{\input{oraciones/credo/niceno_castellano_sencillo.tex}}
+      \end{leftcolumn*}
       \begin{otherlanguage}{latin}
             \begin{rightcolumn}
-                  \input{oraciones/credo/apostoles_latin.tex}\footnote{Credo Niceno en latín:\\ \indent\input{oraciones/credo/niceno_latin_sencillo.tex}}
+                  \input{oraciones/credo/apostoles_latin.tex}\footnote{\input{oraciones/credo/niceno_latin_sencillo.tex}}
             \end{rightcolumn}
       \end{otherlanguage}
 
