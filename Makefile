@@ -79,7 +79,7 @@ delete_sp_week:
 # Genericos #
 #############
 move_aux:
-	mv *.log *.aux *.fdb_latexmk *.fls *.out aux/
+	mv *.log *.aux *.fdb_latexmk *.fls *.out *.aux *.bbl *.bcf *.blg *.xml aux
 
 
 

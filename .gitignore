@@ -7,6 +7,8 @@
 *.blg
 *.toc
 *.out
+*.bcf
+20200906_rosario_angelus.run.xml
 
 *.dvi
 *.ps

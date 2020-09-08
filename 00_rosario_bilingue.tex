@@ -6,9 +6,11 @@
 \usepackage{blindtext}
 \input{metadata.tex}
 \usepackage[spanish]{cleveref}
-\usepackage{geometry}
 \usepackage{setspace}
 \usepackage{multicol}
+\usepackage{biblatex}
+\addbibresource{biblio.bib}
+\usepackage{geometry}
 \geometry{
     a4paper,
     inner=20mm,
@@ -64,7 +66,8 @@
 \twosided{c}
 \footnotelayout{m}
 
-\chapter*{\centering\textcolor{red}{S}anto \textcolor{red}{R}osario \textcolor{red}{M}editado \\ y \\ \textcolor{red}{S}emana \textcolor{red}{S}antificada}
+\chapter*{\centering\textcolor{red}{S}anto \textcolor{red}{R}osario \textcolor{red}{M}editado \\ y \\ \textcolor{red}{S}emana \textcolor{red}{S}antificada\footnote{Todos los pasajes
+bíblicos han sido sacados de \cite{bover-cantera}}}
 
 \begin{paracol}{2}
 
@@ -79,17 +82,17 @@
             \end{rightcolumn}
       \end{otherlanguage}
 
-      \definecolumnpreamble{0}{\vspace{0.5em}}
-      \definecolumnpreamble{1}{\vspace{0.5em}}
-
-      \begin{leftcolumn*}
-            \input{oraciones/contricion/senor_mio_jesucristo.tex}\footnote{\label{contricion}En vez del \textit{Señor mio, Jesucristo} o del \textit{Confíteor}, podemos rezar:\\ \indent\input{oraciones/contricion/dios_mio/castellano_sencilloa.tex}\\ \indent En latín:\\ \indent\input{oraciones/contricion/dios_mio/latin_sencillo.tex}}
+      \begin{leftcolumn*}[\centering\textcolor{red}{Acto de contrición\footnote{En vez del \textit{Señor mio, Jesucristo} o del \textit{Confíteor}, podemos rezar\cite{compendio}: \input{oraciones/contricion/dios_mio/castellano_sencilloa.tex}|| Latín: \input{oraciones/contricion/dios_mio/latin_sencillo.tex}}}\vspace{0.5em}]
+            \input{oraciones/contricion/senor_mio_jesucristo.tex}\cite{reyero}
       \end{leftcolumn*}
       \begin{otherlanguage}{latin}
             \begin{rightcolumn}
-                \input{oraciones/contricion/confiteor/latin.tex}(\cref{contricion})
+                \input{oraciones/contricion/confiteor/latin.tex}\cite{breviarium}
             \end{rightcolumn}
       \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
 
       \begin{leftcolumn*}
             \input{oraciones/versiculos/abre_senor_mis_labios/castellano_seguido.tex}
@@ -135,6 +138,8 @@
 \begin{center}
       \textcolor{red}{Decimos aquí las intenciones de este Rosario}
 \end{center}
+
+\vspace{-1em}
 
 \begin{center}
       \section*{Dominica (Domingo)}
@@ -384,7 +389,7 @@
 
       \textcolor{red}{Los miércoles están dedicados al Patriarca San José, para pedir su intercesión podemos rezar:}
 \end{center}
-\vspace{-1em}
+\vspace{-1.5em}
 \begin{multicols}{2}
       \input{semana/miercoles.tex}
 \end{multicols}
@@ -549,7 +554,7 @@
 
       \vspace{0.75em}
 
-      \textcolor{red}{Los viernes están dedicados a la Pasión de NS Jesucristo, para redordarla podemos rezar el siguiente Via Crucis\footnote{Tomado del Misal del P. Valentín Sánchez Ruiz, SI. 4a edición, Madrid 1945}:}
+      \textcolor{red}{Los viernes están dedicados a la Pasión de NS Jesucristo, para redordarla podemos rezar el siguiente Via Crucis\cite{sanchez-ruiz}:}
 \end{center}
 
 \begin{multicols}{2}
@@ -591,7 +596,7 @@
                   \textbf{\textsl{Misterios Gloriosos}}
             \end{center}                  
                   
-            \input{misterios/01-gloriosos/11-resurreccion.tex}
+            \input{misterios/01-gloriosos/11b-resurreccion.tex}
       \end{rightcolumn}
 \end{paracol}
 
@@ -615,7 +620,7 @@
       \end{leftcolumn*}
 
       \begin{rightcolumn}
-            \input{misterios/01-gloriosos/12-ascension.tex}
+            \input{misterios/01-gloriosos/12b-ascension.tex}
 
             \input{oraciones/oraciones_misterio.tex}
       \end{rightcolumn}
@@ -630,18 +635,18 @@
       \end{leftcolumn*}
 
       \begin{rightcolumn}
-            \input{misterios/01-gloriosos/13-pentecostes.tex}
+            \input{misterios/01-gloriosos/13b-pentecostes.tex}
 
             \input{oraciones/oraciones_misterio.tex}
       \end{rightcolumn}
-
+      \newpage
       \begin{leftcolumn*}
             \input{misterios/02-gozosos/14-presentacion.tex}
 
             \input{oraciones/oraciones_misterio.tex}
       \end{leftcolumn*}
       \begin{rightcolumn}
-            \input{misterios/01-gloriosos/14-asuncion.tex}
+            \input{misterios/01-gloriosos/14b-asuncion.tex}
 
             \input{oraciones/oraciones_misterio.tex}
       \end{rightcolumn}
@@ -652,7 +657,7 @@
             \input{oraciones/oraciones_misterio.tex}
       \end{leftcolumn*}
       \begin{rightcolumn}
-            \input{misterios/01-gloriosos/15-coronacion-bvm.tex}
+            \input{misterios/01-gloriosos/15b-coronacion-bvm.tex}
 
             \input{oraciones/oraciones_misterio.tex}
       \end{rightcolumn}
@@ -687,9 +692,16 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % ORACIONES FINALES Y LETANIAS %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-1em}
 \label{final-prayer}
 \begin{center}
       \textcolor{red}{Terminados los misterios podemos rezar}
+      
+      \vspace{1em}
+      
+      \textsc{Salutación}\footnote{También podemos rezar esta forma más abreviada: Dios te salve, María, Hija de Dios Padre; Dios te salve, María, Madre de Dios Hijo;
+      Dios te salve, María, Esposa del Espíritu Santo; Dios de salve, María, templo y sagrario de la Santísima Trinidad; Dios te salve, María, concebida en gracia,
+      sin mancha de pecado original. Amén. \cite{reyero}}
 \end{center}
 
 \begin{paracol}{2}
@@ -735,6 +747,8 @@
 
       \definecolumnpreamble{0}{\vspace{0em}}
       \definecolumnpreamble{1}{\vspace{0em}}
+      
+      \flushpage
 
       \begin{leftcolumn*}[\vspace{0.5em}\subsection*{\centering Letanias de Nuestra Señora}]
             \input{oraciones/letanias/castellano.tex}
@@ -760,7 +774,7 @@
       \definecolumnpreamble{0}{\vspace{0em}}
       \definecolumnpreamble{1}{\vspace{0em}}
 
-      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde la Purificación hasta Sábado Santo y desde la Santísima Trinidad hasta el I Domingo de Adviento:}\vspace{0.5em}]
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde la Purificación hasta Sábado Santo y desde la Santísima Trinidad hasta el I Domingo de Adviento\cite{fraternidad}:}\vspace{0.5em}]
             \input{oraciones/versiculos/salve/castellano_seguido.tex}
       \end{leftcolumn*}
       \begin{otherlanguage}{latin}
@@ -784,7 +798,7 @@
       \definecolumnpreamble{0}{\vspace{0em}}
       \definecolumnpreamble{1}{\vspace{0em}}
 
-      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde el I Domingo de Adviento hasta Navidad:}\vspace{0.5em}]
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde el I Domingo de Adviento hasta Navidad\cite{fraternidad}:}\vspace{0.5em}]
             \input{oraciones/angelus/castellano_00.tex}
       \end{leftcolumn*}
       \begin{otherlanguage}{latin}
@@ -808,7 +822,7 @@
       \definecolumnpreamble{0}{\vspace{0em}}
       \definecolumnpreamble{1}{\vspace{0em}}
 
-      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde Navidad hasta la Purificación:}\vspace{0.5em}]
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde Navidad hasta la Purificación\cite{fraternidad}:}\vspace{0.5em}]
             \input{oraciones/antifonas_bvm/03_navidad/castellano_00.tex}
       \end{leftcolumn*}
       \begin{otherlanguage}{latin}
@@ -832,7 +846,7 @@
       \definecolumnpreamble{0}{\vspace{0em}}
       \definecolumnpreamble{1}{\vspace{0em}}
 
-      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde Domingo de Resurrección hasta la Santísima Trinidad:}\vspace{0.5em}]
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde Domingo de Resurrección hasta la Santísima Trinidad\cite{fraternidad}:}\vspace{0.5em}]
             \input{oraciones/regina_coelis/castellano_00.tex}
       \end{leftcolumn*}
       \begin{otherlanguage}{latin}
@@ -1014,7 +1028,7 @@
 
 \footnotelayout{m}
 \chapter*{\centering \textcolor{red}{Á}ngelus y \textcolor{red}{R}egina C{\oe}li\footnote{En todo tiempo del año se pueden rezar cinco Avemarías ene vez del Ángelus y del Regina C{\oe}li,
-y se ganan las mismas indulgencias}}
+y se ganan las mismas indulgencias\cite{ribera}}}
 
 \section*{Ángelus}
 \begin{paracol}{2}
@@ -1130,21 +1144,7 @@ y se ganan las mismas indulgencias}}
 % FUENTES Y BIBLIOGRAFÍA %
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\chapter*{Bibliografía}
-
-\setlength{\parindent}{0ex}
-\textsc{\textbf{Sagrada Biblia}}. Versión Crítica sobre los textos hebreo y griego. P. José María Bover, S.I. y Francisco Cantera Burgos. Biblioteca de Autores Cristianos, Madrid, 1947.
-
-\textsc{\textbf{Breviarium Romanum}}. Typis Societatis S. Joannis Evangelisti\ae. Desclée \& Soch, 1948
-
-\textsc{\textbf{Devocionario Completo, 19 edición}}. P. Remigio Vilariño, S.I. El Mensajero del Corazón de Jesús, Bilbao, 1956.
-
-\textsc{\textbf{Misal Diario}}. Fraternidad Sacerdotal San Pío X. Angelus Press, Kansas City (Missouri, EEUU), 2013.
-
-\textsc{\textbf{Manual del Seminarista, 3 edición}}. P. Daniel Sola. S.I. Apostolado de la Prensa, Madrid, 1921.
-
-\textsc{\textbf{Catecismo de la Iglesia Católica. Compendio}}. Librería Editrice Vaticana y Asociación de Editores del Catecismo. España, 2005.
-
-\textsc{\textbf{Misal Diario Latino-Español y Devocionario, 19 edición}}. P. Luis Ribera CMF. Editorial Regina. Barcelona, 1962.
+\nocite{*}
+\printbibliography
 
 \end{document}
