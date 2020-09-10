@@ -1,0 +1,1150 @@
+\documentclass[10pt,twoside]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[latin,spanish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{fontspec}
+\usepackage{blindtext}
+\input{metadata.tex}
+\usepackage[spanish]{cleveref}
+\usepackage{setspace}
+\usepackage{multicol}
+\usepackage{biblatex}
+\addbibresource{biblio.bib}
+\usepackage{geometry}
+\geometry{
+    a4paper,
+    inner=20mm,
+    outer=10mm,
+    top=15mm,
+    bottom=15mm
+}
+\usepackage{paracol}
+\usepackage{lettrine}
+\usepackage{xcolor}
+\usepackage{gregoriotex}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[LE,RO]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\setlength{\columnseprule}{0.4pt}
+\colseprulecolor{red}
+\setlength{\columnseprule}{0.4pt}
+\def\columnseprulecolor{\color{red}}
+
+\usepackage{datetime}
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH] \THEYEAR
+}
+\input{commands.tex}
+
+
+\begin{document}
+
+\begin{titlepage}
+      \begin{center}
+
+            \vspace*{10em}
+
+            {\Huge \uppercase{Santo Rosario, Semana Santificada y Ángelus}}
+
+            \vspace{1.5em}
+
+            {\includegraphics[scale=0.95]{foto-04.jpg}}
+
+            \vspace{0.5em}
+
+            Sergio
+
+            Valladolid (España), \monthyeardate\today
+      \end{center}
+\end{titlepage}
+\twosided{c}
+\footnotelayout{m}
+
+\chapter*{\centering\textcolor{red}{S}anto \textcolor{red}{R}osario \textcolor{red}{M}editado \\ y \\ \textcolor{red}{S}emana \textcolor{red}{S}antificada\footnote{Todos los pasajes
+bíblicos han sido sacados de \cite{bover-cantera}}}
+
+\begin{paracol}{2}
+
+      \ensurevspace{20mm}
+
+      \begin{leftcolumn}
+            \input{oraciones/senal_cruz/castellano.tex}
+      \end{leftcolumn}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/senal_cruz/latin.tex}    
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}[\centering\textcolor{red}{Acto de contrición\footnote{En vez del \textit{Señor mio, Jesucristo} o del \textit{Confíteor}, podemos rezar\cite{compendio}: \input{oraciones/contricion/dios_mio/castellano_sencilloa.tex}|| Latín: \input{oraciones/contricion/dios_mio/latin_sencillo.tex}}}\vspace{0.5em}]
+            \input{oraciones/contricion/senor_mio_jesucristo.tex}\cite{reyero}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                \input{oraciones/contricion/confiteor/latin.tex}\cite{breviarium}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/abre_senor_mis_labios/castellano_seguido.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                \input{oraciones/versiculos/abre_senor_mis_labios/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/apresurate_snor/castellano_seguido.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                \input{oraciones/versiculos/apresurate_snor/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/gloria/castellano_seguido.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                \input{oraciones/gloria/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/maria_madre/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                \input{oraciones/versiculos/maria_madre/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+\end{paracol}
+
+\vspace{0.5em}
+
+\begin{center}
+      \textcolor{red}{Decimos aquí las intenciones de este Rosario}
+\end{center}
+
+\vspace{-1em}
+
+\begin{center}
+      \section*{Dominica (Domingo)}
+
+      \textbf{\textsl{\large Misterios Gloriosos}}
+\end{center}
+
+\vspace{0.5em}
+
+\input{misterios/01-gloriosos/01-resurreccion.tex}
+
+\vspace{0.5em}
+
+\input{oraciones/oraciones_misterio_largo.tex}
+
+\vspace{0.75em}
+
+\input{misterios/01-gloriosos/02-ascension.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/01-gloriosos/03-pentecostes.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/01-gloriosos/04-asuncion.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/01-gloriosos/05-coronacion-bvm.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\iralfinal
+
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los domingos están dedicados a la Santísima Trinidad, para honrarla podemos rezar:}
+\end{center}
+
+\begin{multicols}{2}
+
+      \input{semana/domingo.tex}
+      
+\end{multicols}
+
+\begin{center}
+      \begin{spacing}{0.25}
+            {\rule{20em}{0.4pt}}\\
+            {\rule{20em}{0.4pt}}
+      \end{spacing}
+\end{center}
+
+%%%%%%%%%%%
+% DOMINGO %
+%---------%
+%  LUNES  %
+%%%%%%%%%%%
+
+\begin{center}
+      \section*{Feria Secunda (Lunes)}
+
+      \textbf{\textsl{\large Misterios Gozosos}}
+\end{center}
+
+\vspace{0.5em}
+
+\input{misterios/02-gozosos/01-anunciacion.tex}
+
+\vspace{0.5em}
+
+\input{oraciones/oraciones_misterio_largo.tex}
+
+\vspace{0.75em}
+
+\input{misterios/02-gozosos/02-visitacion.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/02-gozosos/03-natividad.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/02-gozosos/04-presentacion.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/02-gozosos/05-perdida.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\iralfinal
+
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los lunes están dedicados a la benditas almas de Purgatorio, para rogar por ellas podemos rezar:}
+\end{center}
+
+\begin{multicols}{2}
+
+      \input{semana/lunes.tex}
+
+\end{multicols}
+
+\begin{center}
+      \begin{spacing}{0.25}
+            {\rule{20em}{0.4pt}}\\
+            {\rule{20em}{0.4pt}}
+      \end{spacing}
+\end{center}
+
+%%%%%%%%%%%
+%  LUNES  %
+%---------%
+%  MARTES %
+%%%%%%%%%%%
+
+\begin{center}
+      \section*{Feria Tertia (Martes)}
+
+      \textbf{\textsl{\large Misterios Dolorosos}}
+\end{center}
+
+\vspace{0.5em}
+
+\input{misterios/03-dolorosos/01-huerto.tex}
+
+\vspace{0.5em}
+
+\input{oraciones/oraciones_misterio_largo.tex}
+
+\vspace{0.75em}
+
+\input{misterios/03-dolorosos/02-flagelacion.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/03-dolorosos/03-espinas.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/03-dolorosos/04-cruz.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/03-dolorosos/05-muerte.tex}
+
+{\input{oraciones/oraciones_misterio.tex}}
+
+\iralfinal
+
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los martes están dedicados a nuestro Ángel de la Guarda, para pedir su protección podemos rezar:}
+\end{center}
+
+\begin{multicols}{2}
+
+      \input{semana/martes.tex}
+
+\end{multicols}
+
+\begin{center}
+      \begin{spacing}{0.25}
+            {\rule{20em}{0.4pt}}\\
+            {\rule{20em}{0.4pt}}
+      \end{spacing}
+\end{center}
+
+%%%%%%%%%%%%%%
+%  MARTES    %
+%------------%
+%  MIERCOLES %
+%%%%%%%%%%%%%%
+
+\begin{center}
+      \section*{Feria Quarta (Miércoles)}
+
+      \textbf{\textsl{\large Misterios Gloriosos}}
+\end{center}
+
+\vspace{0.5em}
+
+\input{misterios/01-gloriosos/11-resurreccion.tex}
+
+\vspace{0.5em}
+
+\input{oraciones/oraciones_misterio_largo.tex}
+
+\vspace{0.75em}
+
+\input{misterios/01-gloriosos/12-ascension.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/01-gloriosos/13-pentecostes.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/01-gloriosos/14-asuncion.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/01-gloriosos/15-coronacion-bvm.tex}
+
+{\input{oraciones/oraciones_misterio.tex}}
+
+\iralfinal
+
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los miércoles están dedicados al Patriarca San José, para pedir su intercesión podemos rezar:}
+\end{center}
+\vspace{-1.5em}
+\begin{multicols}{2}
+      \input{semana/miercoles.tex}
+\end{multicols}
+
+\begin{center}
+      \begin{spacing}{0.25}
+            {\rule{20em}{0.4pt}}\\
+            {\rule{20em}{0.4pt}}
+      \end{spacing}
+\end{center}
+
+%%%%%%%%%%%%%%
+%  MIERCOLES %
+%------------%
+%   JUEVES   %
+%%%%%%%%%%%%%%
+
+\section*{\centering Feria Quinta (Jueves)}
+
+\begin{paracol}{2}
+      \begin{leftcolumn*}
+            \begin{center}
+                  \textcolor{red}{Forma Nueva}
+
+                  \textbf{\textsl{Misterios Luminosos}}
+            \end{center}
+
+            \input{misterios/04-luminosos/01-bautizo.tex}
+      \end{leftcolumn*}
+      \begin{rightcolumn}
+            \begin{center}
+                  \textcolor{red}{Forma Tradicional}
+
+                  \textbf{\textsl{Misterios Gozosos}}
+            \end{center}
+
+            \input{misterios/02-gozosos/11-anunciacion.tex}
+      \end{rightcolumn}
+\end{paracol}
+
+\input{oraciones/oraciones_misterio_largo.tex}
+
+\begin{paracol}{2}
+      \begin{leftcolumn*}
+            \input{misterios/04-luminosos/02-bodas.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
+      \begin{rightcolumn}
+            \input{misterios/02-gozosos/12-visitacion.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{rightcolumn}
+
+      \begin{leftcolumn*}
+            \input{misterios/04-luminosos/03-reino.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+
+      \end{leftcolumn*}
+      \begin{rightcolumn}
+            \input{misterios/02-gozosos/13-natividad.tex}
+            
+            \input{oraciones/oraciones_misterio.tex}
+
+      \end{rightcolumn}
+
+      \begin{leftcolumn*}
+            \input{misterios/04-luminosos/04-transfiguracion.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
+      \begin{rightcolumn}
+            \input{misterios/02-gozosos/14-presentacion.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{rightcolumn}
+
+      \begin{leftcolumn*}
+            \input{misterios/04-luminosos/05-eucaristia.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
+      \begin{rightcolumn}
+            \input{misterios/02-gozosos/15-perdida.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+        \end{rightcolumn}
+        \definecolumnpreamble{0}{\vspace{0em}}
+        \definecolumnpreamble{1}{\vspace{0em}}
+\end{paracol}
+
+\iralfinal
+
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los jueves están dedicados al Santísimo Sacramento del Altar, hagamos una visita al Santísimo y, para adorarle, podemos rezar:}
+\end{center}
+
+\begin{multicols}{2}
+      \input{semana/jueves.tex}
+\end{multicols}
+
+\begin{center}
+      \begin{spacing}{0.25}
+            {\rule{20em}{0.4pt}}\\
+            {\rule{20em}{0.4pt}}
+      \end{spacing}
+\end{center}
+
+%%%%%%%%%%%%%%
+%   JUEVES   %
+%------------%
+%   VIERNES  %
+%%%%%%%%%%%%%%
+
+\begin{center}
+      \section*{Feria Sexta (Viernes)}
+
+      \textbf{\textsl{\large Misterios Dolorosos}}
+\end{center}
+
+\vspace{0.5em}
+
+\input{misterios/03-dolorosos/11-huerto.tex}
+
+\vspace{0.5em}
+
+\input{oraciones/oraciones_misterio_largo.tex}
+
+\vspace{0.75em}
+
+\input{misterios/03-dolorosos/12-flagelacion.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/03-dolorosos/13-espinas.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/03-dolorosos/14-cruz.tex}
+
+\input{oraciones/oraciones_misterio.tex}
+
+\vspace{0.75em}
+
+\input{misterios/03-dolorosos/15-muerte.tex}
+
+{\input{oraciones/oraciones_misterio.tex}}
+
+\iralfinal
+
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los viernes están dedicados a la Pasión de NS Jesucristo, para redordarla podemos rezar el siguiente Via Crucis\cite{sanchez-ruiz}:}
+\end{center}
+
+\begin{multicols}{2}
+
+      \input{semana/viernes.tex}
+
+\end{multicols}
+
+\begin{center}
+      \begin{spacing}{0.25}
+            {\rule{20em}{0.4pt}}\\
+            {\rule{20em}{0.4pt}}
+      \end{spacing}
+\end{center}
+
+
+%%%%%%%%%%%%%%
+%   VIERNES  %
+%------------%
+%   SABADO   %
+%%%%%%%%%%%%%%
+
+\section*{\centering Sabatto (Sábado)}
+
+\begin{paracol}{2}
+      \begin{leftcolumn}
+            \begin{center}
+                  \textcolor{red}{Forma Nueva}
+
+                  \textbf{\textsl{Misterios Gozosos}}
+            \end{center}
+             
+            \input{misterios/02-gozosos/11-anunciacion.tex}
+      \end{leftcolumn}
+      \begin{rightcolumn}
+            \begin{center}
+                  \textcolor{red}{Forma Tradicional}
+
+                  \textbf{\textsl{Misterios Gloriosos}}
+            \end{center}                  
+                  
+            \input{misterios/01-gloriosos/11b-resurreccion.tex}
+      \end{rightcolumn}
+\end{paracol}
+
+\begin{center}
+      {\rule{20em}{0.4pt}}
+\end{center}
+
+\input{oraciones/oraciones_misterio_largo.tex}
+
+\begin{center}
+      {\rule{20em}{0.4pt}}
+\end{center}
+
+\begin{paracol}{2}
+      %\definecolumnpreamble{0}{\vspace{-1.5em}}
+      %\definecolumnpreamble{1}{\vspace{-1.2em}}
+      \begin{leftcolumn*}
+            \input{misterios/02-gozosos/12-visitacion.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
+
+      \begin{rightcolumn}
+            \input{misterios/01-gloriosos/12b-ascension.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{rightcolumn}
+
+      \definecolumnpreamble{0}{\vspace{-0.75em}}
+      \definecolumnpreamble{1}{\vspace{-0.75em}}
+
+      \begin{leftcolumn*}
+            \input{misterios/02-gozosos/13-natividad.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
+
+      \begin{rightcolumn}
+            \input{misterios/01-gloriosos/13b-pentecostes.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{rightcolumn}
+      \newpage
+      \begin{leftcolumn*}
+            \input{misterios/02-gozosos/14-presentacion.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
+      \begin{rightcolumn}
+            \input{misterios/01-gloriosos/14b-asuncion.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{rightcolumn}
+
+      \begin{leftcolumn*}
+            \input{misterios/02-gozosos/15-perdida.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{leftcolumn*}
+      \begin{rightcolumn}
+            \input{misterios/01-gloriosos/15b-coronacion-bvm.tex}
+
+            \input{oraciones/oraciones_misterio.tex}
+      \end{rightcolumn}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+\end{paracol}
+
+\iralfinal
+
+\begin{center}
+      {\rule{10em}{0.4pt}}
+
+      \vspace{0.75em}
+
+      \textcolor{red}{Los sábados están dedicados a la Bienaventurada Virgen María, Madre de Dios y Madre nuestra, 
+      además del Santo Rosario, podemos rezar:}
+\end{center}
+
+\begin{multicols}{2}
+
+      \input{semana/sabado.tex}
+      
+\end{multicols}
+
+\begin{center}
+      \begin{spacing}{0.25}
+            {\rule{20em}{0.4pt}}\\
+            {\rule{20em}{0.4pt}}
+      \end{spacing}
+\end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ORACIONES FINALES Y LETANIAS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-1em}
+\label{final-prayer}
+\begin{center}
+      \textcolor{red}{Terminados los misterios podemos rezar}
+      
+      \vspace{1em}
+      
+      \textsc{Salutación}\footnote{También podemos rezar esta forma más abreviada: Dios te salve, María, Hija de Dios Padre; Dios te salve, María, Madre de Dios Hijo;
+      Dios te salve, María, Esposa del Espíritu Santo; Dios de salve, María, templo y sagrario de la Santísima Trinidad; Dios te salve, María, concebida en gracia,
+      sin mancha de pecado original. Amén. \cite{reyero}}
+\end{center}
+
+\begin{paracol}{2}
+
+      \begin{leftcolumn}
+            \input{oraciones/avemaria/hija/castellano.tex}
+      \end{leftcolumn}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/avemaria/hija/latin.tex}  
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/avemaria/madre/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/avemaria/madre/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/avemaria/esposa/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/avemaria/esposa/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/avemaria/sagrario/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/avemaria/sagrario/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+      
+      \flushpage
+
+      \begin{leftcolumn*}[\vspace{0.5em}\subsection*{\centering Letanias de Nuestra Señora}]
+            \input{oraciones/letanias/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/letanias/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/bajo_tu_amparo/castellano_sencillo.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/bajo_tu_amparo/latin_sencillo.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde la Purificación hasta Sábado Santo y desde la Santísima Trinidad hasta el I Domingo de Adviento\cite{fraternidad}:}\vspace{0.5em}]
+            \input{oraciones/versiculos/salve/castellano_seguido.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/salve/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/antifonas_bvm/01_septuagesima_cuaresma_postpentecostes/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/antifonas_bvm/01_septuagesima_cuaresma_postpentecostes/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde el I Domingo de Adviento hasta Navidad\cite{fraternidad}:}\vspace{0.5em}]
+            \input{oraciones/angelus/castellano_00.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/angelus/latin_00.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/antifonas_bvm/02_adviento/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/antifonas_bvm/02_adviento/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde Navidad hasta la Purificación\cite{fraternidad}:}\vspace{0.5em}]
+            \input{oraciones/antifonas_bvm/03_navidad/castellano_00.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/antifonas_bvm/03_navidad/latin_00.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/antifonas_bvm/03_navidad/castellano_01.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/antifonas_bvm/03_navidad/latin_01.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Desde Domingo de Resurrección hasta la Santísima Trinidad\cite{fraternidad}:}\vspace{0.5em}]
+            \input{oraciones/regina_coelis/castellano_00.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/regina_coelis/latin_00.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/antifonas_bvm/04_pascua/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/antifonas_bvm/04_pascua/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Rezamos ahora por el Santo Padre, nuestro Obispo y los fieles difuntos:}\vspace{0.5em}]
+            \input{oraciones/versiculos/el_senor_este/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/el_senor_este/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/por_el_papa/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/por_el_papa/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/por_el_obispo/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/por_el_obispo/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/por_los_fieles_difuntos/castellano_00.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/por_los_fieles_difuntos/latin_00.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/por_los_fieles_difuntos/castellano_01.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/por_los_fieles_difuntos/latin_01.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+\end{paracol}
+\footnotelayout{c}
+\begin{paracol}{2}
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/escucha_senor/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/escucha_senor/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+
+      \begin{leftcolumn*}[\vspace{0.75em}\centering\textcolor{red}{Un Credo y una Salve a los Sagrados Corazones de Jesús y María.}\vspace{0.5em}]
+            \input{oraciones/credo/apostoles_castellano.tex}\footnote{\input{oraciones/credo/niceno_castellano_sencillo.tex}}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/credo/apostoles_latin.tex}\footnote{\input{oraciones/credo/niceno_latin_sencillo.tex}}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/salve/castellano_sin.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/salve/latin_sin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/salve/castellano_seguido.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/salve/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/san_jose/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/san_jose/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/san_miguel/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/san_miguel/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/corazon_jesus/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/corazon_jesus/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/san_jose/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/san_jose/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/avemaria_purisima/castellano_seguido.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/avemaria_purisima/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/senal_cruz/castellano.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/senal_cruz/latin.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}}
+\end{paracol}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ORACIONES FINALES Y LETANIAS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ANGELUS Y REGINA COELIS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\footnotelayout{m}
+\chapter*{\centering \textcolor{red}{Á}ngelus y \textcolor{red}{R}egina C{\oe}li\footnote{En todo tiempo del año se pueden rezar cinco Avemarías ene vez del Ángelus y del Regina C{\oe}li,
+y se ganan las mismas indulgencias\cite{ribera}}}
+
+\section*{Ángelus}
+\begin{paracol}{2}
+      \begin{leftcolumn}
+            \input{oraciones/angelus/castellano_00.tex}
+      \end{leftcolumn}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/angelus/latin_00.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/avemaria/castellano_vr.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/avemaria/latin_vr.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/angelus/castellano_01.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/angelus/latin_01.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/avemaria/castellano_inicio.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/avemaria/latin_inicio.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/angelus/castellano_02.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/angelus/latin_02.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/avemaria/castellano_inicio.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/avemaria/latin_inicio.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/versiculos/salve/castellano_seguido.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/versiculos/salve/latin_seguido.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \begin{leftcolumn*}
+            \input{oraciones/angelus/castellano_03.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/angelus/latin_03.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}} 
+\end{paracol}
+
+\section*{Regina C{\oe}lis (Tiempo Pascual)}
+\vspace{0.2em}
+\begin{paracol}{2}
+      \begin{leftcolumn}
+            \input{oraciones/regina_coelis/castellano_00.tex}
+      \end{leftcolumn}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/regina_coelis/latin_00.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+
+      \definecolumnpreamble{0}{\vspace{0.5em}}
+      \definecolumnpreamble{1}{\vspace{0.5em}}
+
+      \begin{leftcolumn*}
+            \input{oraciones/regina_coelis/castellano_01.tex}
+      \end{leftcolumn*}
+      \begin{otherlanguage}{latin}
+            \begin{rightcolumn}
+                  \input{oraciones/regina_coelis/latin_01.tex}
+            \end{rightcolumn}
+      \end{otherlanguage}
+      \definecolumnpreamble{0}{\vspace{0em}}
+      \definecolumnpreamble{1}{\vspace{0em}} 
+\end{paracol}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ANGELUS Y REGINA COELIS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FUENTES Y BIBLIOGRAFÍA %
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\nocite{*}
+\printbibliography
+
+\end{document}
